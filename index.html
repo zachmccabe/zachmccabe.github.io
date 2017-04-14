@@ -1,66 +1,150 @@
 <!doctype html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Zach McCabe</title>
-<link rel="canonical" href="/index.html">
-<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic|Libre+Baskerville" rel="stylesheet" type="text/css">
-<style>
-a {
-color: #fff;
+ <head>
+ <title>Hi, it’s Zach</title>
+ <link rel="canonical" href="/index.html">
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet">
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+ <style>
+ a {
+  color: #fff;
+ }
+
+ body {
+  background-color: #fff;
+  font: 1em 'Open Sans', sans-serif;
+ }
+
+ .cover {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  border: none;
+  left: 0;
+  top: 0;
+ }
+
+ .cover_copy {
+  bottom: 0;
+  right: 0;
+  padding: 0 0.8em 1em 0;
+  position: fixed;
+  width: 100%;
+ }
+
+ img {
+  max-width: 100%;
+  height: auto;
+ }
+
+ h1 {
+  color: #fff;
+  font: bold 6em 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0 0 -0.1em 0;
+  text-align: right;
+  text-shadow: 1px 1px 3px #333;
+ }
+
+ html, body
+  {
+  height: 100%;
+  width: 100%;
+ }
+
+ @media screen and (min-height: 1025px) { 
+  .cover {
+   background: url('./assets/zm_copyright_1440.jpg') no-repeat 10% 50%;
+   background-size: cover;
+  }
+
+  h1 {
+   font-size: 4.5em;
+  }
+
+  p {
+   font-size: 2em;
+  }
 }
-body {
-background-color: #333;
-font: 1em 'Libre Baskerville' serif;
+
+ @media screen and (max-height: 1024px) {
+  .cover {
+   background: url('./assets/zm_copyright_1024.jpg') no-repeat 10% 50%;
+   background-size: cover;
+  }
+
+  h1 {
+   font-size: 2.3em;
+  }
+
+  p {
+   font-size: 1.4em;
+  }
 }
-.cover {
-margin: 1em auto auto auto;
-padding: 0;
-width: 80%;
+
+ @media screen and (max-height: 800px) { 
+  .cover {
+   background: url('./assets/zm_copyright_800.jpg') no-repeat 10% 50%;
+   background-size: cover;
+  }
+
+  h1 {
+   font-size: 1.9em;
+  }
+
+  p {
+   font-size: 1.1em;
+  }
 }
-.cover_copy {
-line-height: 1.4;
-margin: 0;
-padding: 0;
-text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
+
+ @media screen and (max-height: 600px) {
+  .cover {
+   background: url('./assets/zm_copyright_600.jpg') no-repeat 10% 50%;
+   background-size: cover;
+  }
+
+  h1 {
+   font-size: 1.5em;
+  }
+
+  p {
+   font-size: 1em;
+  }
 }
-h1 {
-font: bold 4.5em 'Open Sans', sans-serif;
-color: #fff;
-margin: 0;
-padding: 0;
-}
-@media screen and (max-width: 1024px) { 
-h1 {
-font-size: 4.5em;
-}
-}
-@media screen and (max-width: 700px) { 
-h1 {
-font-size: 2.3em;
-}
-}
-@media screen and (max-width: 360px) { 
-h1 {
-font-size: 2em;
-}
-}
-.mini_card {
-margin: 1em auto 1em auto;
-width: 80%;
-color: #fff;
-}
+
+ .mini_card {
+  background: rgba(255, 255, 255, 0.2);
+  border-top: 3px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  bottom: 0px;
+  color: #fff;
+  margin: 0;
+  padding: 0.5em 1em 0.5em 2em;
+  right: 0;
+  text-align: right;
+  text-shadow: 1px 1px 3px #333;
+ }
+
+ p {
+  margin: 0 0 -0.1em 0;
+  padding: 0 0 -0.1em 0;
+ }
 </style>  
 </head>
 <body>
 <div class="cover">
-<h1 class="cover_copy">Zach McCabe</h1>
-</div>
-<div class="mini_card">
-<hr />
-<p><a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a><br />
-DFW, United States / UTC -6</p>
+
+ <div class="cover_copy">
+  <div class="mini_card">
+   <h1>Zach McCabe</h1>
+   <p><a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a><br />
+DFW, United States • UTC -6</p>
+  </div>
+ </div>
+
 </div>
 </body>
 </html>
