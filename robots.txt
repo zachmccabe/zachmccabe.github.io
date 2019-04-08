@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: https://www.zachmccabe.com/ask_dumb_questions.html
+Disallow: https://www.zachmccabe.com/postcard.html
+Disallow: https://www.zachmccabe.com/tools.html
