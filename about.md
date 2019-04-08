@@ -30,4 +30,4 @@ Because life is deliciously weird, I've had the privilege of contributing to pro
 
 I have experience collaborating with small teams across 10-12 timezones.
 
-When I moved away after 2nd grade, my friend Brad updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark. I'm always working to improve my [communications skills](https://www.zachmccabe.com/ask_dumb_questions.html) and toolkit.
+When I moved away after 2nd grade, my friend Brad updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark. I'm always working to improve my communications skills and toolkit.
