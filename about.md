@@ -11,7 +11,7 @@ You can take a peek at the [tools](https://www.zachmccabe.com/tools.html) I'm us
 
 ## Where I work
 
-Currently I'm based in Texas – just down the road from DFW Airport. My clients and friends are worldwide.
+Currently, I'm based in Texas – just down the road from DFW Airport. My clients and friends are worldwide.
 
 
 
