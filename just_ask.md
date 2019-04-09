@@ -1,7 +1,7 @@
 ---
 layout: rowley3
 title: Just ask
-pub-date: 2019-04-01
+date: 2019-04-01
 description: Maybe “dumb” questions aren’t so dumb after all?
 
 ---
@@ -45,7 +45,7 @@ A dumb question isn't the same as arguing. You might frustrate but ignorance res
 
 
 
-## Asking dumb questions someplace else
+## Ask dumb questions someplace else
 
 Using questions this way can be helpful in cross-cultural situations, I think.
 
@@ -53,11 +53,14 @@ Using questions this way can be helpful in cross-cultural situations, I think.
 
 The communication signal:noise ratio falls through the floor when you're in another place. You're overwhelmed. You're under pressure. Just when you need to think critically about your own assumptions – you can't. Heuristics keep tripping you up.
 
-(When you're working across cultures or languages it's just as critical to think about _how_ you ask questions. One of my favorite books on this is Erin Meyer's "The Culture Map.")
+(When you're working across cultures or languages it's just as important to think about _how_ you ask questions. One of my favorite books on this is Erin Meyer's "The Culture Map.")
 
-Although it took me a few years' worth of awkward conversations after moving back to the US, eventually I did learn that American's reputation for valuing blunt talk holds true. It feels well-represented among both men and women, but maybe skews in favor of business talk a bit. Questions delivered in a straight foward way generally work well, too. (I'm a white dude with an American accent. YMMV.)
+It took me a lot of awkward conversations after moving back to the US to adjust to my fellow Americans' way of talking. We are straight-laced and straightfoward, and we really do value blunt talk.
 
-Is this because people read your willingness to be direct as "confident," "honest"? You tell me.  
+_Is this because people read your willingness to be direct as "confident," "honest"? You tell me._
+
+To me, this directness feels well-represented among both men and women but maybe skews in favor of business talk a bit. Questions delivered in a direct way generally work well, too. (I'm a white dude with an American accent. YMMV.)
+ 
 
 
 You can ask me a dumb question any time! hello@zachmccabe.com
