@@ -164,6 +164,10 @@ p + h2, h3, h4 {
   margin-top: 5em;
 }
 
-ol, ul + h2, h3, h4 {
+ol + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+ul + h2, h3, h4 {
   margin-top: 5em;
 }
