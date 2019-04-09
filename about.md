@@ -2,7 +2,6 @@
 layout: rowley3
 title: Hi, it's Zach
 pub-date: 2019-04-01
-image:
 description: About Zach
 
 ---
@@ -14,7 +13,7 @@ I'm a ranch hand. Also, I'm the author and [producer](https://www.zachmccabe.com
 You can take a peek at the [tools](https://www.zachmccabe.com/tools.html) I use to make stuff.
 
 
-hello@zachmccabe.com
+<hello@zachmccabe.com>
 
 
 
