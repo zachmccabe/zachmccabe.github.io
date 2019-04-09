@@ -13,7 +13,7 @@ I'm a ranch hand. Also, I'm the author and [producer](https://www.zachmccabe.com
 You can take a peek at the [tools](https://www.zachmccabe.com/tools.html) I use to make stuff.
 
 
-<hello@zachmccabe.com>
+[hello@zachmccabe.com](mailto:hello@zachmccabe.com)
 
 
 
