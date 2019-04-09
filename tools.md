@@ -1,13 +1,13 @@
 ---
 layout: rowley3
 title: Tools list
-date: 2019-04-01
+pub-date: 2019-04-01
 description: Tools list
 
 ---
 
 
-Updated: {{ page.date | date: "%b %d %Y" }}
+Updated: {{ pub-date | date: "%b %d %Y" }}
 
 For my collaborators, friends and you. This list is meant to give you a look at some useful favorites that help me get stuff done.
 
@@ -88,7 +88,7 @@ For the last 17 years, I've been using .TXT on macOS to write anything longer th
 + Sharpie and Tyvek &sup3;
 
 
-&sup2; But in the summer: an old, black cotton tshirt breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
+&sup2; In the summer, an old, black cotton tshirt breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
 
 &sup3; When it's 100F and humid, and even your pockets are sweaty, an old Tyvek shipping envelope works better than paper.
 
