@@ -1,4 +1,13 @@
-# Hi, it's Zach
+---
+layout: rowley3
+title: Hi, it's Zach
+pub-date: 2019-04-01
+image:
+description: About Zach
+
+---
+
+
 
 I'm a ranch hand. Also, I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of The Photographers Field Guide to Beijing.
 
@@ -19,7 +28,7 @@ My clients and friends are worldwide. I'm based in Texas.
 
 North America and East Asia are where I have the most experience:
 
-  + Collaborated with small, remote teams across 12 timezones
+  + Worked with small, remote teams across 12 timezones
   + Began my career working as a [photographer](https://www.zachmccabe.com/postcard.html) in the PRC and HK
   + Grew up in the US, China and Japan
 
