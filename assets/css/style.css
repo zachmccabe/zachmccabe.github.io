@@ -160,6 +160,6 @@ mark {
   text-decoration: none;
 }
 
-p + h2, h3, h4 {
+p, ol, ul, table + h2, h3, h4 {
   margin-top: 5em;
 }
