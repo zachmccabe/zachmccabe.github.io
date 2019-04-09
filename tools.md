@@ -1,5 +1,13 @@
+---
+layout: rowley3
+title: Tools list
+pub-date: 2019-04-01
+description: Tools list
 
-This list is for my collaborators, friends and you. It's meant to give you a look at some useful favorites that help me get stuff done. Updated: {{ page.date }}
+---
+
+
+For my collaborators, friends and you. This list is meant to give you a look at some useful favorites that help me get stuff done. Updated: {{ page.date | date: "Y% b% d%" }}
 
 
 + [field](https://www.zachmccabe.com/tools#field)
@@ -70,22 +78,18 @@ ORGANIZATION
 + Bates boots, usually
 + Billhook
 + Bull nose pliers
-+ Coolmax UV Buff around my neck **
++ Coolmax UV Buff around my neck &ast;&ast;
 + Dish soap to wash off the poison ivy
 + Loksak
 + [mobile.weather.gov](https://mobile.weather.gov/)
-+ Sharpie and Tyvek ***
++ Sharpie and Tyvek &ast;&ast;&ast;
 
 
-** But in the summer: an old, black cotton tshirt breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
+&ast;&ast; But in the summer: an old, black cotton tshirt breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
 
-*** When it's 100F and humid, and even your pockets are sweaty, an old Tyvek shipping envelope works better than paper.
+&ast;&ast;&ast; When it's 100F and humid, and even your pockets are sweaty, an old Tyvek shipping envelope works better than paper.
 
-
-
-Whenever I travel, go to the museum or read about some random, new archeology find, it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
-
-_HT [Belle B Cooper](http://bellebcooper.com/) for inspiring the idea for a tools list. She is a formidable talent._
+_Whenever I travel, go to the museum or read about some random, new archeology find, it is always the stuff people use that makes me smile. Only fair to ante up, eh? HT [Belle B Cooper](http://bellebcooper.com/) for inspiring the idea for a tools list. She is a formidable talent._
 
 
-> What helps you get your work done? [hello@zachmccabe.com]
+What helps you get your work done? [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
