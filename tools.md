@@ -7,7 +7,7 @@ description: Tools list
 ---
 
 
-For my collaborators, friends and you. This list is meant to give you a look at some useful favorites that help me get stuff done. Updated: {{ page.date | date: "Y% b% d%" }}
+For my collaborators, friends and you. This list is meant to give you a look at some useful favorites that help me get stuff done. Updated: {{ pub.date | date: "Y% b% d%" }}
 
 
 + [field](https://www.zachmccabe.com/tools#field)
