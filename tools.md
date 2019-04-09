@@ -36,12 +36,12 @@ For the last 17 years, I've been using .TXT on macOS to write anything longer th
 
 
 
-ORGANIZATION
+## Organization
 
 + _todo.txt via [Standard Notes](https://www.standardnotes.org)
 + Android, de-Googled
 + Sticky note triage, prev Orgzly
-+ Pomodoro technique &ast;
++ Pomodoro technique \&ast;\
 
 &ast; For nearly all screen-based tasks, at least. Writing gets more time because it takes me that long to build momentum.
 
@@ -78,16 +78,16 @@ ORGANIZATION
 + Bates boots, usually
 + Billhook
 + Bull nose pliers
-+ Coolmax UV Buff around my neck &ast;&ast;
++ Coolmax UV Buff around my neck \&ast;&ast;\
 + Dish soap to wash off the poison ivy
 + Loksak
 + [mobile.weather.gov](https://mobile.weather.gov/)
-+ Sharpie and Tyvek &ast;&ast;&ast;
++ Sharpie and Tyvek \&ast;&ast;&ast;\
 
 
-&ast;&ast; But in the summer: an old, black cotton tshirt breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
+\&ast;&ast;\ But in the summer: an old, black cotton tshirt breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
 
-&ast;&ast;&ast; When it's 100F and humid, and even your pockets are sweaty, an old Tyvek shipping envelope works better than paper.
+\&ast;&ast;&ast;\ When it's 100F and humid, and even your pockets are sweaty, an old Tyvek shipping envelope works better than paper.
 
 _Whenever I travel, go to the museum or read about some random, new archeology find, it is always the stuff people use that makes me smile. Only fair to ante up, eh? HT [Belle B Cooper](http://bellebcooper.com/) for inspiring the idea for a tools list. She is a formidable talent._
 
