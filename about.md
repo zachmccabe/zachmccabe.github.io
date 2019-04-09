@@ -2,7 +2,7 @@
 
 I'm a ranch hand. Also, I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of The Photographers Field Guide to Beijing.
 
-You can take a peek at the [tools](https://www.zachmccabe.com/tools.html) I'm using to make stuff right now.
+You can take a peek at the [tools](https://www.zachmccabe.com/tools.html) I use to make stuff.
 
 
 hello@zachmccabe.com
@@ -11,7 +11,7 @@ hello@zachmccabe.com
 
 ## Where I work
 
-Currently, I'm based in Texas – just down the road from DFW Airport.
+My clients and friends are worldwide. I'm based in Texas.
 
 
 
