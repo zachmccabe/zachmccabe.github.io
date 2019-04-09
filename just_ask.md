@@ -45,7 +45,7 @@ A dumb question isn't the same as arguing. You might frustrate but ignorance res
 
 
 
-## Asking dumb questions somewhere else
+## Asking dumb questions someplace else
 
 Using questions this way can be helpful in cross-cultural situations, I think.
 
