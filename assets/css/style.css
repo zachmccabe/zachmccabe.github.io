@@ -1,0 +1,165 @@
+html, body {
+margin: 0 auto;
+}
+
+body {
+background-color: #fff;
+color: #545454;
+font: normal normal 1em/1.5 sans-serif;
+}
+
+@media (max-width: 25em) {h1,h2{font-size:1.5em}}
+@media (min-width: 64em){body{font-size:1.2em;line-height:1.6}}
+@media (min-width: 85.375em){body{font-size:1.4em}}
+@media (min-width: 120em){body{font-size:1.6em}}
+@media (min-width: 160em){body{font-size:1.8em}}
+
+
+header, footer {
+text-align: center;
+}
+
+header {
+margin: 0 auto;
+padding-top: 3em;
+}
+
+footer {
+font-size: small;
+margin: 0 auto;
+padding: 0;
+width: 100%;
+}
+
+article, main, section {
+/* margin: 0 auto 3em; */
+margin: 0 auto;
+padding: 0;
+}
+
+
+
+
+
+/* MULTI USE BOXES */
+
+.xwrap {
+display: flex;
+flex-flow: column nowrap;
+align-items: center;
+min-height: 20em;
+justify-content: center;
+padding: 0 1em;
+margin: 0 auto;
+}
+
+.xnest {
+margin: auto;
+}
+
+.xnest20 {
+margin: auto;
+max-width: 20em;
+}
+
+.shiny-box {
+background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(160, 160, 94, 0.2));
+margin-top:3em;
+padding:1em 0;
+text-align:center
+}
+
+.cover {
+position: relative;
+top: 50%;
+transform: perspective(1px) translateY(-50%);
+}
+
+img {
+height: auto;
+width: 100%;
+max-width: 500px;
+}
+
+
+
+
+
+
+
+/* FORMS, LISTS AND TABLES BELOW */
+
+ol, ul {
+  margin: 1em 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+table {
+  margin: 5em auto;
+}
+
+th {
+  margin: 1em;
+  text-transform: uppercase;
+}
+
+th, td {
+  border-bottom: 1px dotted currentColor;
+  color: currentColor;
+  text-align: left;
+  padding: 0.5em;
+}
+
+
+
+/* TYPOGRAPHY */
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+h2 + h3 {
+  margin-top: 1.5em;
+}
+
+h3 + h4 {
+  margin-top: 1.5em;
+}
+
+h3, h4, h5, h6 {
+  margin-bottom: 0;
+}
+
+a {
+  color: #268bd2;
+}
+
+aside, blockquote {
+  border-left: 1px solid currentColor;
+  color: currentColor;
+  font-size: small;
+  padding-left: 0.5rem;
+  margin-left: 0;
+  margin-top: 3em;
+}
+
+aside, blockquote + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+mark {
+  background-color: #fefcf5;
+  border-bottom: 1px dotted currentColor;
+  color: currentColor;
+  padding: 0.1em;
+  text-decoration: none;
+}
+
+p + h2, h3, h4 {
+  margin-top: 5em;
+}
