@@ -1,0 +1,190 @@
+html, body {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #fefcf5;
+  color: #47433a;
+  font: normal normal 1em/1.5 sans-serif;
+}
+
+@media (max-width: 25em) {h1,h2{font-size:1.5em}}
+@media (min-width: 64em){body{font-size:1.2em;line-height:1.6}}
+@media (min-width: 85.375em){body{font-size:1.4em}}
+@media (min-width: 120em){body{font-size:1.6em}}
+@media (min-width: 160em){body{font-size:1.8em}}
+
+
+header, footer {
+  text-align: center;
+}
+
+header {
+  margin: 0 auto;
+  padding-top: 3em;
+}
+
+footer {
+  font-size: small;
+  margin: 0 auto;
+  padding: 5em 0;
+  width: 100%;
+}
+
+article, main, section {
+  margin: 0 auto;
+  padding: 0;
+}
+
+
+
+
+
+/* MULTI USE BOXES */
+
+.xwrap {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  min-height: 20em;
+  justify-content: center;
+  padding: 0 1em;
+  margin: 0 auto;
+}
+
+.xnest {
+  margin: auto;
+}
+
+.xnest20 {
+  margin: auto;
+  max-width: 20em;
+}
+
+.shiny-box {
+  background-image: linear-gradient(to bottom right, rgb(254, 252, 245), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
+  margin-top:5em;
+  padding:1em 0.5em;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 100%;
+  max-width: 500px;
+}
+
+
+
+
+
+
+
+/* FORMS, LISTS AND TABLES BELOW */
+
+ol, ul {
+  margin: 1em 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+table {
+  margin: 5em auto;
+}
+
+th {
+  margin: 1em;
+  text-transform: uppercase;
+}
+
+th, td {
+  border-bottom: 1px dotted currentColor;
+  color: currentColor;
+  text-align: left;
+  padding: 0.5em;
+}
+
+
+
+/* TYPOGRAPHY */
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+h2 + h3 {
+  margin-top: 1.5em;
+}
+
+h3 + h4 {
+  margin-top: 1.5em;
+}
+
+h3, h4, h5, h6 {
+  margin-bottom: 0;
+}
+
+h1 {
+  color: #ff5c5c;
+}
+
+h2 {
+  background-image: linear-gradient(to bottom right, rgba(151, 255, 255, 0), rgba(151, 255, 255, 0.3));
+  border-left: 1rem solid #97ffff;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+h3 {
+  background-image: linear-gradient(to bottom right, rgba(90, 230, 230, 0), rgba(90, 230, 230, 0.2));
+  border-left: 0.5rem solid #5ae6e6;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+h4 {
+  background-image: linear-gradient(to bottom right, rgba(59, 163, 163, 0), rgba(59, 163, 163, 0.2));
+  border-left: 0.3rem solid #3ba3a3;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+a {
+  color: #268bd2;
+}
+
+aside, blockquote {
+  background-image: linear-gradient(to bottom right, rgba(34, 93, 37, 0), rgba(34, 93, 37, 0.1));
+  border-left: 0.05rem solid #225d25;
+  font-size: small;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+aside, blockquote + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+mark {
+  background-color: #fefcf5;
+  border-bottom: 1px dotted currentColor;
+  color: currentColor;
+  padding: 0.1em;
+  text-decoration: none;
+}
+
+p + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+ol + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+ul + h2, h3, h4 {
+  margin-top: 5em;
+}
