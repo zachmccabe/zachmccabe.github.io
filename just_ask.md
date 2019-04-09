@@ -9,7 +9,7 @@ description: Maybe “dumb” questions aren’t so dumb after all?
 
 I can admit that I'm embarrassed when I ask a dumb question. Aren't you?
 
-Between speed talkers, jargon lovers and the very vague, sometimes I have to ask a dumb question. I just have to! But, surprisingly, I've learned that I get great answers when I ask a dumb question. These questions are more than an awkward necessity. They are tools you can use to unstick confusing conversations.
+Between speed talkers, jargon lovers and the very vague, sometimes I have to ask a dumb question. I just have to! But – surprisingly – I've learned that I get great answers when I ask a dumb question. These questions are more than an awkward necessity. They are tools you can use to unstick confusing conversations.
 
 Maybe "dumb" questions aren't so dumb after all?
 
