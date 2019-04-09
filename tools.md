@@ -20,7 +20,7 @@ Updated: {{ date | date: "%b %d %Y" }}
 
 ## Longevity
 
-For the last 17 years, I've been using .TXT on macOS to write anything longer than a note. Nice and simple. I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a decade.
+I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a decade.
 
 
 
@@ -39,8 +39,8 @@ For the last 17 years, I've been using .TXT on macOS to write anything longer th
 
 ## Organization
 
-+ _todo.txt via [Standard Notes](https://www.standardnotes.org)
 + Android, de-Googled
++ [Standard Notes](https://www.standardnotes.org)
 + Sticky note triage, prev Orgzly
 + Pomodoro technique &sup1;
 
