@@ -7,7 +7,7 @@ description: Tools list
 ---
 
 
-Updated: {{ date | date: "%b %d %Y" }}
+Updated: {{ page.date | date: "%b %d %Y" }}
 
 
 
