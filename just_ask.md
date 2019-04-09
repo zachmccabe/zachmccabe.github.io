@@ -1,10 +1,4 @@
----
-layout: rowley3
-title: Just ask
-date: 2019-04-01
-description: Maybe “dumb” questions aren’t so dumb after all?
 
----
 
 
 I can admit that I'm embarrassed when I ask a dumb question. Aren't you?
