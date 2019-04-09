@@ -15,7 +15,7 @@ Maybe "dumb" questions aren't so dumb after all?
 
 
 
-## 3 intentional ways to ask a dumb question
+## 3 ways to ask
 
 Three ways I like to ask questions, even when it feels a little silly:
 
@@ -60,4 +60,4 @@ Although it took me a few years' worth of awkward conversations after moving bac
 Is this because people read your willingness to be direct as "confident," "honest"? You tell me.  
 
 
-> You can ask me a dumb question any time! hello@zachmccabe.com
+You can ask me a dumb question any time! hello@zachmccabe.com
