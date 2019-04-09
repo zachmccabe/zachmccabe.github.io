@@ -1,7 +1,7 @@
 ---
 layout: rowley3
 title: Hi, it's Zach
-pub-date: 2019-04-01
+date: 2019-04-01
 description: About Zach
 
 ---
