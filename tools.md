@@ -78,7 +78,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Bates boots, usually
 + Billhook
 + Bull nose pliers
-+ Coolmax UV Buff around my neck; or an old, black cotton tshirt – which breathes breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
++ Coolmax UV Buff around my neck; or an old, black cotton tshirt – which breathes breathes better and protects more of your neck
 + Dish soap to wash off the poison ivy
 + Loksak
 + [mobile.weather.gov](https://mobile.weather.gov/)
