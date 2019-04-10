@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: Postcard to an NGO Photographer
 date: 2019/04/01
 description: Notes to my younger self
-cta: Got some advice? [hello@zachmccabe.com]
+cta: Got some advice? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
