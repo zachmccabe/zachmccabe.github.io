@@ -1,8 +1,9 @@
 ---
-layout: rowley3
+layout: kaoliang3_article
 title: Tools list
 date: 2019-04-01
 description: Tools list
+cta: What helps you get your work done? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
@@ -42,9 +43,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Android, de-Googled
 + [Standard Notes](https://www.standardnotes.org)
 + Sticky note triage, prev Orgzly
-+ Pomodoro technique &sup1;
-
-<small>Note 1: Pomodoro for screen-based tasks, at least. Writing gets more time because it takes me that long to build momentum.</small>
++ Pomodoro technique for screen-based tasks, except writing
 
 
 
@@ -79,16 +78,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Bates boots, usually
 + Billhook
 + Bull nose pliers
-+ Coolmax UV Buff around my neck &sup2;
++ Coolmax UV Buff around my neck; or an old, black cotton tshirt – which breathes breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)
 + Dish soap to wash off the poison ivy
 + Loksak
 + [mobile.weather.gov](https://mobile.weather.gov/)
-+ Sharpie and Tyvek &sup3;
-
-
-<small>Note 2: In the summer, an old, black cotton tshirt breathes better and protects more of your neck. (Cut off just below the sleeves into a loop, and fold the fabric over onto itself at least twice to stop some sun.)</small>
-
-<small>Note 3: When it's 100F and humid, and even your pockets are sweaty, an old Tyvek shipping envelope works better than paper.</small>
-
-
-What helps you get your work done? [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
