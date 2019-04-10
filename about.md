@@ -20,7 +20,7 @@ You can take a peek at the [tools](https://www.zachmccabe.com/tools.html) I use 
 ## Work
 
 
-## Where I work
+### Where I work
 
 My clients and friends are worldwide. I'm based in Texas.
 
