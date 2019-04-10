@@ -5,7 +5,7 @@ html, body {
 body {
   background-color: #fefcf5;
   color: #47433a;
-  font: normal normal 1em/1.5 sans-serif;
+  font: normal normal 1.3em/1.5 sans-serif;
 }
 
 @media (max-width: 25em) {h1,h2{font-size:1.5em}}
@@ -61,7 +61,7 @@ article, main, section {
   max-width: 20em;
 }
 
-.shiny-box {
+.cta-box {
   background-image: linear-gradient(to bottom right, rgb(254, 252, 245), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
   margin-top:5em;
   padding:1em 0.5em;
