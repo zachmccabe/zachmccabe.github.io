@@ -18,9 +18,6 @@ Maybe "dumb" questions aren't so dumb after all?
 
 ## 3 ways to ask
 
-Three ways I like to ask questions, even when it feels silly:
-
-
 ### Ask, don't assume
 
 A dumb question isn't the same as being lazy. It is simple but has a clear purpose. Avoid assumptions and ask a question.
