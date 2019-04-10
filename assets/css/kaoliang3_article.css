@@ -160,7 +160,6 @@ a {
 }
 
 aside, blockquote {
-  background-image: linear-gradient(to bottom right, rgba(34, 93, 37, 0), rgba(34, 93, 37, 0.1));
   border-left: 0.05rem solid #225d25;
   font-size: small;
   margin-left: 0;
