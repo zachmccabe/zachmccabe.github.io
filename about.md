@@ -10,11 +10,13 @@ description: About Zach
 
 I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of The Photographers Field Guide to Beijing. The book is a mobile-first project you to read on your trip.
 
-Also, I'm a ranch hand.
+For the last several years, I've been working as a ranch hand. Sunshine is awesome.
 
-[hello@zachmccabe.com](mailto:hello@zachmccabe.com)
+<div class="cta-box" style="margin-bottom:5em">
+  <p><a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a></p>
+</div>
 
-You can take a peek at the [tools](https://www.zachmccabe.com/tools.html) I use to make stuff.
+For my friends and fellow makers of stuff, here is a list of my [tools](https://www.zachmccabe.com/tools.html).
 
 
 ## Work
@@ -37,6 +39,6 @@ Because life is deliciously weird, I've had the privilege of contributing to pro
 
 ### Remote work
 
-  + I have experience collaborating with small, project-based teams across 12 timezones.
+I have experience collaborating with small, project-based teams across 12 timezones.
 
 When I moved away after 2nd grade, my friend Brad updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark! I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
