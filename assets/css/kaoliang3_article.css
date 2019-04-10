@@ -84,6 +84,8 @@ img {
 
 ol, ul {
   margin: 1em 0;
+  margin-left: 1em;
+  padding-left: 0;
 }
 
 li {
