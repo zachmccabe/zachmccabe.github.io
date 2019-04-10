@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: Just ask
 date: 2019-04-01
 description: Maybe “dumb” questions aren’t so dumb after all?
-cta: You can ask me a “dumb” question any time! <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: You can ask me a question any time! <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
