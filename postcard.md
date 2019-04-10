@@ -51,7 +51,7 @@ Field managers are experts at juggling tasks but they can't read minds. Communic
 
 ## Debriefing isn't therapy
 
-There is an emotional cost to this work. Create, and maintain, rituals for yourself to process your experience.
+There is an emotional cost to this work. Create, and keep, rituals for yourself to process your experience.
 
 
 
