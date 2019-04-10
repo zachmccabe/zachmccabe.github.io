@@ -45,9 +45,9 @@ A dumb question isn't the same as arguing. You might frustrate but ignorance res
 
 ## Asking questions cross-culturally
 
-Using questions this way can be helpful in cross-cultural situations, I think.
+Using questions intentionally can be helpful in cross-cultural situations, I think.
 
-_"Everything you're sure is right can be wrong in another place,"_ observes a character in Barbara Kingsolver's novel "The Poisonwood Bible".
+> "Everything you're sure is right can be wrong in another place," observes a character in Barbara Kingsolver's novel "The Poisonwood Bible".
 
 The communication signal:noise ratio falls through the floor when you're in another place. You're overwhelmed. You're under pressure. Just when you need to think critically about your own assumptions – you can't. Heuristics keep tripping you up.
 
