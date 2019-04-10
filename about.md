@@ -10,7 +10,7 @@ description: About Zach
 
 I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of The Photographers Field Guide to Beijing. The book is a mobile-first project you to read on your trip.
 
-For the last several years, I've been working as a ranch hand. Sunshine is awesome.
+For the last several years I've been working as a ranch hand, too. Sunshine is awesome.
 
 <div class="cta-box" style="margin-bottom:5em">
   <p><a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a></p>
