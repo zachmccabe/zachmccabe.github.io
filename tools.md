@@ -32,7 +32,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 
 **Wire**… testing out the Berlin-based messaging app.
 
-**Orgzly**… lovely UX on Android but also trapped on Android because, I guess, I'm just not l33t enough to use terminal and emacs to check my todo list on my computer ;p After my phone died, it was time to find something cross-platform. Still looking. Send help!
+**Orgzly**… lovely UX on Android but also trapped on Android because, I guess, I'm just not l33t enough to use terminal and emacs ;p After my phone died, it was time to find something cross-platform. Still looking. Send help!
 
 **Photo Mechanic v6**… excited to test out the new version but it'll have to wait awhile.
 
