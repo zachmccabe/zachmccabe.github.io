@@ -112,7 +112,7 @@ th, td {
 
 /* TYPOGRAPHY */
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4 {
   line-height: 1.25;
   overflow-wrap: break-word;
 }
@@ -121,12 +121,12 @@ h1 {
   text-align: center;
 }
 
-h2, h3, h4, h5, h6 {
+h2, h3, h4 {
   margin: 0;
   text-align: left;
 }
 
-h3, h4, h5, h6 {
+h3, h4 {
   font-weight: 400;
 }
 
