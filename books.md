@@ -8,7 +8,7 @@ description: Books | I make stuff for people who read on their phones.
 
 
 
-I make stuff for people who read on their phones.
+For people who read on their phones.
 
 
 <div style="margin-top:5em">
