@@ -8,7 +8,7 @@ description: About Zach
 
 
 
-I'm a ranch hand.  🍃  Also, I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of The Photographers Field Guide to Beijing. The book is a mobile-first project you can read on your trip.
+I'm a ranch hand.  🍃  Also, I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of "The Photographers Field Guide to Beijing". The book is a mobile-first project you can read on your trip.
 
 
 <div class="cta-box" style="margin-bottom:5em">
