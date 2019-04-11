@@ -115,45 +115,17 @@ th, td {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   overflow-wrap: break-word;
-  text-align: center;
+  text-align: left;
 }
 
-h2 + h3 {
-  margin-top: 1.5em;
-}
-
-h3 + h4 {
-  margin-top: 1.5em;
-}
-
-h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
-h1 {
-  color: #ff5c5c;
-}
 
-h2 {
-  background-image: linear-gradient(to bottom right, rgba(151, 255, 255, 0), rgba(151, 255, 255, 0.3));
-  border-left: 1rem solid #97ffff;
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
-}
 
-h3 {
-  background-image: linear-gradient(to bottom right, rgba(90, 230, 230, 0), rgba(90, 230, 230, 0.2));
-  border-left: 0.5rem solid #5ae6e6;
-  padding-top: 0.4rem;
-  padding-bottom: 0.4rem;
-}
 
-h4 {
-  background-image: linear-gradient(to bottom right, rgba(59, 163, 163, 0), rgba(59, 163, 163, 0.2));
-  border-left: 0.3rem solid #3ba3a3;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
+
 
 a {
   color: #268bd2;
@@ -161,7 +133,6 @@ a {
 
 aside, blockquote {
   border-left: 0.05rem solid #225d25;
-  font-size: small;
   margin-left: 0;
   padding: 0.5rem;
   text-align: center;
