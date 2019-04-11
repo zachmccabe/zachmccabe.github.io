@@ -81,4 +81,3 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Coolmax UV Buff around my neck
 + Dish soap to wash off the poison ivy
 + Loksak
-+ [mobile.weather.gov](https://mobile.weather.gov/)
