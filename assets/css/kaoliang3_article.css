@@ -142,10 +142,6 @@ aside, blockquote {
   text-align: center;
 }
 
-aside, blockquote + h2, h3, h4 {
-  margin-top: 5em;
-}
-
 mark {
   background-color: #fefcf5;
   border-bottom: 1px dotted currentColor;
