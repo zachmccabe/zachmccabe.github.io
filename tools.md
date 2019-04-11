@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: Tools list
 date: 2019-04-01
 description: Tools list
-cta: What helps you get your work done? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
@@ -28,7 +28,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 
 ## Changes
 
-**inbox.google.com**… The Goog giveth and the Goog taketh away.
+**inbox.google.com**… Google giveth and Google taketh away.
 
 **Wire**… testing out the Berlin-based messaging app.
 
