@@ -27,6 +27,13 @@ For my friends and fellow makers of stuff, here is a list of my [tools](https://
 My clients and friends are worldwide. I'm based in Texas.
 
 
+### Remote work
+
+I have experience collaborating with small, project-based teams across 12 timezones.
+
+When I moved away after 2nd grade, a friend updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark! I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
+
+
 ### Where I have experience
 
 North America and East Asia are where I have the most experience:
@@ -35,10 +42,3 @@ North America and East Asia are where I have the most experience:
   + I grew up in the US, China and Japan.
 
 Because life is deliciously weird, I've had the privilege of contributing to projects in some of the world's biggest cities, in the backcountry, and a few places in between, too.
-
-
-### Remote work
-
-I have experience collaborating with small, project-based teams across 12 timezones.
-
-When I moved away after 2nd grade, a friend updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark! I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
