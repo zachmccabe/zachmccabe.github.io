@@ -16,4 +16,4 @@ I'm a ranch hand.  🍃  Also, I'm the author and producer of **The Photographer
 </div>
 
 
-For my friends and fellow makers of stuff, here is a list of my [tools](https://www.zachmccabe.com/tools.html).
+For my friends and fellow makers of stuff, here is a list of my [tools.](https://www.zachmccabe.com/tools.html)
