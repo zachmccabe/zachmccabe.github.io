@@ -15,3 +15,4 @@ Photographers headed to Beijing really need better info. That's why I made you s
 </div>
 
 Get your copy on [Amazon.](https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/)
+
