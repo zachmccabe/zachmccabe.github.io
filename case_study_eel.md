@@ -68,7 +68,7 @@ Adapted here from from Instagram. (I'm no longer active on that platform.) Photo
 </p>
 <figcaption>
 <p>
-caption 1
+This spring I was in Maine for elver fishing season. It was dumb luck and I kind of became obsessed. 🍱 Eel are weird and wonderful, but the reason your unagi is from Maine is just… wild. Stick with me because this is not your average fish story • Postcard 1/7: WTF is Ox Day
 </p>
 </figcaption>
 </figure>
@@ -81,7 +81,78 @@ caption 1
 </p>
 <figcaption>
 <p>
-caption 2
+Soggy, cold feet from another afternoon on sloppy trails. 1) Kick off shoes and socks. 2) Swill back the last dregs of coffee & turn up the heater. 3) Sunset and drive • The Androscoggin isn’t the “most polluted river in America” anymore, but there are no eels here. Press on • Postcard 2/7: Long road back
+</p>
+</figcaption>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/eels-3-500.jpg" />
+</p>
+<figcaption>
+<p>
+Slip slide over seaweed and watch the full moon come up. It’s red as a grapefruit. • On spring nights just like this one, baby eels, squirmy, translucent and smaller than your little finger, swim up rivers on the incoming tide. • Postcard 3/7: Rachel Carson NWR
+</p>
+</figcaption>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/eels-4-500.jpg" />
+</p>
+<figcaption>
+<p>
+At least it is rain – and not snow like the wx guy predicted. I’m standing at the edge of the Saccarappa Falls. Below me, water whooshes out from the dam. The short, powerful Presumpscot River has 8 dams. • If you want to know why baby eels are fished out of Atlantic rivers, then flown on cargo planes to grow up big and fat on the other side of the Pacific, a dam like this is a good place to ask the question • Postcard 4/7: Head over eels
+</p>
+</figcaption>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/eels-5-500.jpg" />
+</p>
+<figcaption>
+<p>
+Still no eel. 🕚🕚🕚 But come on. If all I leave with is this view? Worth it • I call a buddy, a one-time fishmonger who’s traveled Japan from Naha to Sapporo, and ask what he thinks about when he thinks about unagi: “Uhm… my wallet? Shit has gotten so expensive, boy.” • Postcard 5/7: Tide’s out
+</p>
+</figcaption>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/eels-6-500.jpg" />
+</p>
+<figcaption>
+<p>
+The dogs wake me up before sunrise and I head out to hike 1 last river trail. I’ve given up on eels... but then I see them. • “You guys fishin?” / “We got elver! Baby eels.” • Dude looks real happy considering he spent the night waist-deep in a river. I’m grinning like a tourist, obviously • Postcard 6/7: Last day
+</p>
+</figcaption>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/eels-7-500.jpg" />
+</p>
+<figcaption>
+<p>
+Postcard 7/7: Itadakimasu
+</p>
+<p>
+This is the last Unagi Day postcard from eel fishing season in Maine. You can get the prev 6 by tapping me on the face. Start at the snow mobile.
+</p>
+<p>
+🙏🙏🙏 Gochisousama deshita @thee_zebulon 
 </p>
 </figcaption>
 </figure>
