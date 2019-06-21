@@ -1,13 +1,12 @@
 ---
 layout: kaoliang3_article
-title: Zach McCabe | Case study: Laughing Lost in Briars
+title: Case study of Laughing Lost in Briars
 date: 2019-06-01
 description: Case study
 
 ---
 
 
-# Case study: Laughing lost in briars
 
 * [The question](https://www.zachmccabe.com/case_study_briars.html#the-question)
 * [My approach](https://www.zachmccabe.com/case_study_briars.html#my-approach)
