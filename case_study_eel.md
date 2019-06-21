@@ -59,9 +59,9 @@ Using my phone instead of a traditional camera was taking things a step too far.
 
 This project is archived.
 
-Adapted here from from Instagram. (I'm no longer active on that platform.) Photos, captions and sequence have been maintained from the original. Research screenshots from the original story are not included here.
+Adapted here from from Instagram. (I'm no longer active on that platform.) Photos, captions and sequence have been maintained from the original story. Research screenshots from the original story are not included here.
 
-<div style="margin-bottom:3em">
+<div style="margin-top:3em;margin-bottom:3em">
 <figure>
 <p>
 <img src="https://www.zachmccabe.com/assets/viz/eels-1-500.jpg" />
