@@ -1,3 +1,12 @@
+---
+layout: kaoliang3_article
+title: Zach McCabe | Case study: The Photographers Field Guide to Beijing
+date: 2019-06-01
+description: Case study
+
+---
+
+
 # Case study: The Photographers Field Guide to Beijing
 
 - [The question](https://www.zachmccabe.com/case_study_beijing.html#the-question)
