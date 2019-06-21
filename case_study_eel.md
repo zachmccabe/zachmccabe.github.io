@@ -6,8 +6,6 @@ description: Case study
 
 ---
 
-# Case study: Not your average fish story
-
 
 * [The question](https://www.zachmccabe.com/case_study_eel.html#the-question)
 * [My approach](https://www.zachmccabe.com/case_study_eel.html#my-approach)
