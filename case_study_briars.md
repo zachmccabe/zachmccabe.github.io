@@ -76,4 +76,44 @@ It shouldn't surprise me but I'd hoped – by now – I'd have an easier time de
 
 ## The story
 
-This project is live. You can see an excerpt [here.]()
+This project is live. Here's an excerpt.
+
+<div style="margin-top:3em;margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/briars-1-500.jpg" />
+</p>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/briars-2-500.jpg" />
+</p>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/briars-3-500.jpg" />
+</p>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/briars-4-500.jpg" />
+</p>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/assets/viz/briars-5-500.jpg" />
+</p>
+</figure>
+</div>
