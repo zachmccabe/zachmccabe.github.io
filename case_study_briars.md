@@ -1,3 +1,10 @@
+---
+layout: kaoliang3_article
+title: Zach McCabe | Case study: Laughing Lost in Briars
+date: 2019-06-01
+description: Case study
+
+---
 
 
 # Case study: Laughing lost in briars
@@ -18,7 +25,7 @@ Of all the jobs I've worked that have surprised (or confused) old friends in Chi
 
 ## My approach
 
-**Laughing Lost in Briars** is a personal experiment in social publishing.
+"Laughing Lost in Briars" is a personal experiment in social publishing.
 
 In 2013, I was returning from a break from photography. Not because I believed anyone needed my to see my pictures. Just because I was curious. Here are the high-level questions I was chewing on:
 
@@ -70,4 +77,4 @@ It shouldn't surprise me but I'd hoped – by now – I'd have an easier time de
 
 ## The story
 
-This project is live. You can see it [here.]()
+This project is live. You can see an excerpt [here.]()
