@@ -1,6 +1,6 @@
 ---
 layout: kaoliang3_article
-title: Not your average fish story
+title: Case study from Unagi Day Postcards
 date: 2019-06-01
 description: Case study
 
