@@ -32,9 +32,7 @@ These questions already feel a bit retro. When I started this project 6 years ag
 
 ## Project details
 
-Now in it's 6th year, Briars is the longest-running documentary project I've ever attempted.
-
-To sustain this I use what I've learned from previous big projects: 
+Now in it's 6th year, Briars is the longest-running documentary project I've ever attempted. To sustain this I use what I've learned from previous big projects: 
 
 - Keep your workflow simple.
 - Set up a routine.
@@ -42,7 +40,8 @@ To sustain this I use what I've learned from previous big projects:
 
 Photos are shot as JPG, cropped 1:1 in Photo Mechanic and uploaded to Dropbox before sharing via mobile phone. Any notes or captions are stored in TXT files alongside the images.
 
-The project is shared with friends via direct messages over multiple platforms. Before I stopped publishing to Instagram in 2018, 170 images from this project had been posted publicly on that platform.
+- Photographed from 2013 - present, on the ranch.
+- Shared via direct message over multiple platforms. Before I stopped publishing to Instagram in 2018, 170 images from this project had been posted publicly on that platform.
 
 
 ### Atomic unit
