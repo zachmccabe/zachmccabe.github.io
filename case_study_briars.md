@@ -54,7 +54,7 @@ New to this project was the 'atomic unit' model. (Here the atomic unit is a 'dai
 - Scale the project up over time?
 
 
-> A friend, a designer by trade, first suggested the atomic unit approach to me. Here's a good summation of the atomic unit, applied to design: [http://alistapart.com/article/language-of-modular-design]
+> A friend, a designer by trade, first suggested the atomic unit approach to me. Here's a good summation of the atomic unit, applied to design: <http://alistapart.com/article/language-of-modular-design>
 
 
 
