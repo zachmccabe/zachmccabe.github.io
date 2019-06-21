@@ -66,7 +66,7 @@ Adapted here from from Instagram. (I'm no longer active on that platform.) Photo
 <div style="margin-bottom:3em">
 <figure>
 <p>
-<img src="https://www.zachmccabe.com/viz/eel-1-500.jpg" />
+<img src="https://www.zachmccabe.com/assets/viz/eel-1-500.jpg" />
 </p>
 <figcaption>
 <p>
@@ -79,7 +79,7 @@ caption 1
 <div style="margin-bottom:3em">
 <figure>
 <p>
-<img src="https://www.zachmccabe.com/viz/eel-2-500.jpg" />
+<img src="https://www.zachmccabe.com/assets/viz/eel-2-500.jpg" />
 </p>
 <figcaption>
 <p>
