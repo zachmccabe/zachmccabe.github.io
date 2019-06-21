@@ -59,4 +59,32 @@ Using my phone instead of a traditional camera was taking things a step too far.
 
 ## The story
 
-This project is archived. Adapted here from from Instagram. (I'm no longer active on that platform.) Photos, captions and sequence have been maintained from the original. Click to enlarge.
+This project is archived.
+
+Adapted here from from Instagram. (I'm no longer active on that platform.) Photos, captions and sequence have been maintained from the original. Research screenshots from the original story are not included here.
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/viz/eel-1-500.jpg" />
+</p>
+<figcaption>
+<p>
+caption 1
+</p>
+</figcaption>
+</figure>
+</div>
+
+<div style="margin-bottom:3em">
+<figure>
+<p>
+<img src="https://www.zachmccabe.com/viz/eel-2-500.jpg" />
+</p>
+<figcaption>
+<p>
+caption 2
+</p>
+</figcaption>
+</figure>
+</div>
