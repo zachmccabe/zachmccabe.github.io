@@ -43,11 +43,11 @@ Because of China's formidable internet censorship, I quickly ruled out writing s
 
 A reference designed and written for the Reader to use on her mobile phone would be best, I hypothesized.
 
-Based on my research, I created a [user persona]() and a project [style guide.]() Not only did I use these as my "compass" and "map" but I also shared these documents openly with my beta testers, as well as the folks helping me edit the copy and select which photos to include in the book.
+Based on my research, I created a [user persona]() and a project [style guide.]() Not only did I use these as my "compass" and "map" but I also shared these documents openly with my beta testers, as well as the folks helping me edit the copy and select which photos to include in the book. If you're curious, I've written more about my process here:
+<https://www.zachmccabe.com/beijing/how_the_book_got_made.html>
 
-> If you're curious, I've written more about my process here:
-https://www.zachmccabe.com/beijing/how_the_book_got_made.html
-
+- Project begun in 2016. On going.
+- Published as an ebook via Amazon's Kindle platform in 2017, update expected in 2019.
 
 
 ## Lessons learned
@@ -66,4 +66,4 @@ https://www.zachmccabe.com/beijing/how_the_book_got_made.html
 
 ## The story
 
-This project is live. You can see it [here.]()
+This project is live. You can see it [here.](https://www.zachmccabe.com/beijing/)
