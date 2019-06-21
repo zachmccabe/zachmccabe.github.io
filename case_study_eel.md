@@ -1,6 +1,6 @@
 ---
 layout: kaoliang3_article
-title: Zach McCabe | Case study: Not your average fish story
+title: Case study: Not your average fish story
 date: 2019-06-01
 description: Case study
 
@@ -64,7 +64,7 @@ Adapted here from from Instagram. (I'm no longer active on that platform.) Photo
 <div style="margin-bottom:3em">
 <figure>
 <p>
-<img src="https://www.zachmccabe.com/assets/viz/eel-1-500.jpg" />
+<img src="https://www.zachmccabe.com/assets/viz/eels-1-500.jpg" />
 </p>
 <figcaption>
 <p>
@@ -77,7 +77,7 @@ caption 1
 <div style="margin-bottom:3em">
 <figure>
 <p>
-<img src="https://www.zachmccabe.com/assets/viz/eel-2-500.jpg" />
+<img src="https://www.zachmccabe.com/assets/viz/eels-2-500.jpg" />
 </p>
 <figcaption>
 <p>
