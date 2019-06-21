@@ -1,6 +1,6 @@
 ---
 layout: kaoliang3_article
-title: Case study: Not your average fish story
+title: Not your average fish story
 date: 2019-06-01
 description: Case study
 
