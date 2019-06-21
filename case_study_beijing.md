@@ -1,6 +1,6 @@
 ---
 layout: kaoliang3_article
-title: Zach McCabe | Case study: The Photographers Field Guide to Beijing
+title: Case study from The Photographers Field Guide to Beijing
 date: 2019-06-01
 description: Case study
 
@@ -23,7 +23,7 @@ How can I help photographers struggling to overcome cultural and logistical chal
 
 ## My approach
 
-It took me awhile before I decided to write my book, The Photographers Field Guide to Beijing.
+It took me awhile before I decided to write my book, "The Photographers Field Guide to Beijing."
 
 Friends and acquaintances occasionally ask me for advice on traveling to China, a country where I've spent a good part of both my childhood and my adult life. This eventually got to the point where I wanted to give people a more in-depth resource. I couldn't find anything suitable, however.
 
@@ -38,7 +38,7 @@ Maybe I shouldn't have been surprised. I was. It took me some time to wrap my he
 
 Trying to describe all of China in a single book seemed crazy. I decided to focus on Beijing. This is one of the most common destinations for folks traveling to China for the first time. It is also my second home, and I know the city pretty well.
 
-In the end, I wrote and then completely rewrote my book to try to address folks whose experiences and concerns were very different to my own.
+In the end, I wrote and then completely rewrote the book to try to address folks whose experiences and concerns were very different to my own.
 
 
 
