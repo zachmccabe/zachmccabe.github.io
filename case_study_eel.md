@@ -45,11 +45,9 @@ Published in August 2017 over 3 days leading up to Ox Day, a Japanese holiday wh
 
 ## Lessons learned
 
-- Maybe because I failed to include questions or CTAs, participation from Readers was very limited. How disappointing! This failure pushed me to dig deeper into the strategy and language used web and social media marketers.
+Maybe because I failed to include questions or CTAs, participation from Readers was very limited. How disappointing! This failure pushed me to dig deeper into the strategy and language used web and social media marketers. (One of my favorite reads on that topic is Jay Baer's book, 'Hug your Haters'.)
 
-> One of my favorite reads on that topic is Jay Baer's book, 'Hug your haters'. Amy Landino's Youtube videos from around that time are also helpful: <https://www.amy.tv>
-
-- Using my phone instead of a traditional camera was taking things a step too far. Not because the image quality was too low but because I kept running out of battery -- forcing me to choose between shooting and navigating backroads without a map. I chose to get lost, of course.
+Using my phone instead of a traditional camera was taking things a step too far. Not because the image quality was too low but because I kept running out of battery -- forcing me to choose between shooting and navigating backroads without a map. I chose to get lost, of course.
 
 
 ## The story
