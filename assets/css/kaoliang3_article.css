@@ -84,9 +84,12 @@ img {
 
 ol, ul {
   margin: 1em 0;
+/**
   margin-left: 1em;
   padding-left: 0;
+**/
 }
+
 
 li {
   margin-bottom: 0.5em;
@@ -123,7 +126,7 @@ h1 {
 
 h2, h3, h4 {
   margin: 0;
-  text-align: left;
+  text-align: center;
 }
 
 h2 + h3 {
