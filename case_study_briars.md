@@ -1,11 +1,18 @@
 ---
 layout: kaoliang3_article
-title: Case study of Laughing Lost in Briars
+title: test
 date: 2019-06-01
 description: Case study
 
 ---
 
+
+
+## This is some rando h2
+
+### Feeling very organized and chuckifed h3
+
+#### Starting to feel a bit excessive h4
 
 
 * [The question](https://www.zachmccabe.com/case_study_briars.html#the-question)
