@@ -78,6 +78,7 @@ It shouldn't surprise me but I'd hoped – by now – I'd have an easier time de
 
 This project is live. Here's an excerpt.
 
+<!--
 <div style="margin-top:3em;margin-bottom:3em">
 <figure>
 <p>
@@ -117,3 +118,4 @@ This project is live. Here's an excerpt.
 </p>
 </figure>
 </div>
+-->
