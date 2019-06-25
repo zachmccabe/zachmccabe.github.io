@@ -29,6 +29,13 @@ description: Case study
 Of all the jobs I've worked that have surprised (or confused) old friends in China, this one certainly gets the most questions. 
 
 
+## This is some rando h2
+
+### Feeling very organized and chuckifed h3
+
+#### Starting to feel a bit excessive h4
+
+
 ## My approach
 
 "Laughing Lost in Briars" is a personal experiment in social publishing.
