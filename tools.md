@@ -22,7 +22,7 @@ A partial list of tools for my friends and fellow makers of stuff. Some are favo
 
 ## Changes
 
-New phone because it has wider LTE radio support. Back on an official build of Android. Previously on a de-Googled build of LineageOS.
+New phone because it has wider LTE radio support. Back on an official build of Android. Previously running a de-Googled build of LineageOS.
 
 Using [Orgzly](http://www.orgzly.com/) again. It is too good to quit!
 
@@ -54,7 +54,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + TextEdit
 
 
-### eBook and web
+### Book and web
 
 + BBEdit
 + Calibre
@@ -67,10 +67,10 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 *If you're curious, here are more [details.]()*
 
 
-### WX tools:
+### WX
 
 + [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
-+ Radarscope
++ [RadarScope](https://www.radarscope.app/)
 + [texaswildfirerisk.com](https://texaswildfirerisk.com/Map/Public/)
 + [weather.gov](https://www.weather.gov/)
 
@@ -82,12 +82,12 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + [NetGuard](https://www.netguard.me/)
 + Orgzly
 + Pleco
-+ [Radarscope](https://www.radarscope.app/)
++ RadarScope
 + Standard Notes
 + [Syncthing](https://syncthing.net/)
 + [Wire](https://wire.com/en/)
 
-
+*Because I spend a lot of time outside, I want a phone that is lightweight and pocket-sized. It should be durable-ish. It should get routine security patches. Specs aren't a priority to me but the phone does need to have radio and mic hardware that is good enough to sustain call quality that doesn't annoy my clients. Over the last several years, finding a phone that ticks all these boxes has become more challenging. Motorola's low-end phones are closest thing I've found.*
 
 
 ## Photo
@@ -109,8 +109,8 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Bull nose pliers
 + Coolmax UV Buff around my neck
 + Dish soap to wash off the poison ivy
-+ Loksak keeps dust and rain away from my phone
-
++ Loksak bags keep dust and rain away from my phone
++ PPE: WalMart does a great job with RX safety glasses – they are affordable and make them fast
 
 
 *HT [Belle B Cooper](http://bellebcooper.com/) for inspiring the idea for a tools list.*
