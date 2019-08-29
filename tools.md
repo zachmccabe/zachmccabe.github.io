@@ -10,6 +10,7 @@ cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 Updated: {{ page.date | date: "%b %d %Y" }}
 
+A partial list of tools for my friends and fellow makers. Some are favorites, others are well-used and a few I don't even like but they still get the job done.
 
 + [Organization](https://www.zachmccabe.com/tools.html#organization) 
 + [Office](https://www.zachmccabe.com/tools.html#office)
@@ -46,15 +47,31 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 ## Office
 
 + AP Stylebook, circa 2009
-+ [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
-+ Github
-+ G Suite
++ G Suite… for now
 + macOS running on an old MBP; I did eventually install an SDD and a new battery
 + Speedy Stitcher sewing awl
 + Standing desk
-+ Storage drives are whatever The Wirecutter tells me to buy
-+ [texaswildfirerisk.com](https://texaswildfirerisk.com/Map/Public/)
 + TextEdit
+
+
+### eBook and web
+
++ BBEdit
++ Calibre
++ [GIF Brewery 3](https://gfycat.com/gifbrewery)
++ Github
++ imageMagick
++ imageOptim
++ Pandoc
+
+*If you're curious, here are more [details.]()*
+
+
+### WX tools:
+
++ [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
++ Radarscope
++ [texaswildfirerisk.com](https://texaswildfirerisk.com/Map/Public/)
 + [weather.gov](https://www.weather.gov/)
 
 
@@ -76,16 +93,12 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 ## Photo
 
 + Canon, Nikon, etc; I buy all my lenses and camera bodies secondhand
-+ [GIF Brewery 3](https://gfycat.com/gifbrewery)
-+ imageMagick
-+ imageOptim
 + Krogh's The DAM Book
-+ Pelican Case
 + Photo Mechanic
 + [RPP](http://www.raw-photo-processor.com) converter, particularly for BW images
 + Sandisk Extreme Pro cards, mostly
 + Silver Effex Pro
-
++ Storage drives are whatever The Wirecutter recommends
 
 
 ## Field
@@ -99,6 +112,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Loksak keeps dust and rain away from my phone
 
 
+
 *HT [Belle B Cooper](http://bellebcooper.com/) for inspiring the idea for a tools list.*
 
-Whenever I travel, go to a museum or read a bit of [archaeology,](https://archive.org/details/StoneAgeEconomics_201611/page/n31) it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
+Whenever I travel, visit a friend, or read a bit of [archaeology,](https://archive.org/details/StoneAgeEconomics_201611/page/n31) it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
