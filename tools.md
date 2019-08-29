@@ -10,7 +10,7 @@ cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 Updated: {{ page.date | date: "%b %d %Y" }}
 
-A partial list of tools for my friends and fellow makers. Some are favorites, others are well-used and a few I don't even like but they still get the job done.
+A partial list of tools for my friends and fellow makers of stuff. Some are favorites, others are well-used and a few I don't even like but they still get the job done.
 
 + [Organization](https://www.zachmccabe.com/tools.html#organization) 
 + [Office](https://www.zachmccabe.com/tools.html#office)
