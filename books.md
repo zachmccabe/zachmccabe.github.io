@@ -11,7 +11,7 @@ I make books for people who read on their phones.
 
 ## Read everywhere
 
-Your phone goes everywhere you do. Why are your books stuck on a shelf, or crammed into a pinch-and-zoom PDF?
+Your phone goes everywhere you do. Why are your books stuck on a shelf, or crammed into pinch-and-zoom PDFs?
 
 I don't want an ebook that's an after thought. Do you? 
 
