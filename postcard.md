@@ -1,15 +1,14 @@
 ---
 layout: kaoliang3_article
-title: Postcard to an NGO Photographer
-date: 2019/04/01
+title: Postcards to a young NGO Photographer
+date: 2019/08/28
 description: Notes to my younger self
-cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: What did I miss? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
 
-_Notes to my younger self._
-
+_Notes to my younger self. I was so arrogant it's doubtful I would've read this… but you are welcome to it!_
 
 
 ## Brass tacks, tactfully
@@ -30,7 +29,7 @@ You owe your subjects respect. You owe your clients and their audience an honest
 
 
 
-## It's *your* job to smile
+## Really, it is *your* job to smile
 
 Build rapport before you photograph.
 
@@ -38,7 +37,7 @@ Build rapport before you photograph.
 
 ## Always be improvising
 
-Keep your lens clean so you're ready to roll – for fuckssake, you're a professional now ;p
+Always be ready to roll.
 
 
 
@@ -57,4 +56,4 @@ There is an emotional cost to this work. Create, and keep, rituals for yourself 
 
 ## Godspeed
 
-Truthfully, these are things we all have to learn by doing I think. Just know that you're not the first photographer to face these challenges. Don't be afraid to ask for help.
+These are things we all have to learn by doing, I think. Just know that you're not the first photographer to face these challenges. Don't be afraid to ask for help.
