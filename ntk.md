@@ -26,11 +26,10 @@ I don't collect user data. I don't track your clicks. I don't use affiliate link
 
 ### Our correspondence
 
-+ If you sign up for email updates, I keep that email address so I can send you updates. And if you unsubscribe, I delete your email address.
-+ I will not share or sell your email address.
-+ Whenever possible I delete ephemeral correspondence immediately. However, you should *also* know that:
- 1. US regulations do require that I retain some business-related correspondence for several years.
- 2. Because I'm human I do take notes for myself. Because I'm human, I keep my digital notes encrypted. 🙊
+Whenever possible I delete ephemeral correspondence immediately. However, you should *also* know that:
+
+1. US regulations do require that I retain some business-related correspondence for several years.
+2. Because I'm human I do take notes for myself. Because I'm human, I keep my digital notes encrypted. 🙊
 
 
 
@@ -38,7 +37,6 @@ I don't collect user data. I don't track your clicks. I don't use affiliate link
 
 + Built on Github Pages
 + Served over Cloudflare's CDN
-+ Email signup via Formspree.io
 + Email correspondence by Google GSuite
 
 I want this site to work for you. Even if you're on an old phone. Even when you're standing outside an airport waiting for the bus. Even when the library wi-fi is slow as hell.
