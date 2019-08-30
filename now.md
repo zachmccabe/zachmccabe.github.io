@@ -26,13 +26,11 @@ Summer at the ranch is busy and exhausting in the best way.
 
 Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Version 2 is coming in Q4 2019.
 
-Looking to take on additional web production work. (A rather exciting project earlier this summer got put on hold. That fucking trade war, eh?) Let's build something awesome together: [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
-
 
 
 ## Tools I'm using now
 
-Below is a partial list of my current tools. Some are old favorites, others are well-used and a few I don't even like but they still get the job done. This is compiled for my friends, fellow tinkerers and, also, the curious people of the inets.
+Below is a partial list of my current tools. This is compiled for friends, fellow tinkerers and, yes, the curious people of the inets.
 
 
 
@@ -85,7 +83,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 
 + BBEdit
 + Calibre
-+ [GIF Brewery 3](https://gfycat.com/gifbrewery)
++ GIF Brewery
 + Github
 + imageMagick
 + imageOptim
@@ -94,7 +92,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 *If you're curious, here are more [details.](https://www.zachmccabe.com/beijing/how_the_book_got_made.html)*
 
 
-### Weather
+### Weather and climate
 
 + [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
 + [RadarScope](https://www.radarscope.app/)
@@ -127,7 +125,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Silver Effex Pro
 
 
-## Field
+## Field and ranch
 
 + Always looking for a better hat
 + Boots are my most important tools for outdoor work and, depending on the task, I wear:
