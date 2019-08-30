@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: https://www.zachmccabe.com/bullshit.html
 Disallow: https://www.zachmccabe.com/case_study_beijing.html
 Disallow: https://www.zachmccabe.com/case_study_briars.html
 Disallow: https://www.zachmccabe.com/case_study_eel.html
