@@ -110,7 +110,6 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + RadarScope
 + [Standard Notes](https://www.standardnotes.org)
 + [Syncthing](https://syncthing.net/)
-+ [Wire](https://wire.com/en/)
 
 *Because I spend a lot of time outside, I want a phone that is lightweight and pocket-sized. It should be durable-ish. It should get routine security patches. Motorola's low-end phones are the closest thing I've found.*
 
