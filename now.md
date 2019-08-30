@@ -36,13 +36,13 @@ Below is a partial list of my current tools. Some are old favorites, others are 
 
 
 
-+ [Changes](https://www.zachmccabe.com/tools.html#changes)
-+ [Longevity](https://www.zachmccabe.com/tools.html#longevity)
-+ [Organization](https://www.zachmccabe.com/tools.html#organization) 
-+ [Office stuff](https://www.zachmccabe.com/tools.html#office-stuff)
-+ [Phone](https://www.zachmccabe.com/tools.html#phone)
-+ [Photo](https://www.zachmccabe.com/tools.html#photo)
-+ [Field and ranch](https://www.zachmccabe.com/tools.html#field-and-ranch)
++ [Changes](https://www.zachmccabe.com/now.html#changes)
++ [Longevity](https://www.zachmccabe.com/now.html#longevity)
++ [Organization](https://www.zachmccabe.com/now.html#organization) 
++ [Office stuff](https://www.zachmccabe.com/now.html#office-stuff)
++ [Phone](https://www.zachmccabe.com/now.html#phone)
++ [Photo](https://www.zachmccabe.com/now.html#photo)
++ [Field and ranch](https://www.zachmccabe.com/now.html#field-and-ranch)
 
 
 
@@ -134,7 +134,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
   + Belleville Mini-Mil, after reading [this](https://chasingyourmind.blogspot.com/2014/11/minimal-boots-and-belleville-mini-mil.html)
   + USMC hot weather issue via EBay; I've been happy with the Bates and Altama iterations
   + Cheap muck boots
-+ Billhook, which gets my vote as the most versitle and underrated tool on this list
++ Billhook, which gets my vote as the most versatile and underrated tool on this list
 + Dish soap to wash off the poison ivy
 + Loksak bags
 + RX safety glasses; WalMart does a great job with these
