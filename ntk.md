@@ -35,7 +35,7 @@ Whenever possible I delete ephemeral correspondence immediately. However, you sh
 
 ## Technical ingredients
 
-+ Built on Github Pages
++ Built on [Github Pages](https://github.com/nowzach/nowzach.github.io)
 + Served over Cloudflare's CDN
 + Email correspondence by Google GSuite
 
