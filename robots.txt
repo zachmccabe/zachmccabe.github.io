@@ -6,4 +6,3 @@ Disallow: https://www.zachmccabe.com/just_ask.html
 Disallow: https://www.zachmccabe.com/now.html
 Disallow: https://www.zachmccabe.com/ntk.html
 Disallow: https://www.zachmccabe.com/postcard.html
-Disallow: https://www.zachmccabe.com/tools.html
