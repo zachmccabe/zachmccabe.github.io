@@ -2,8 +2,8 @@
 layout: kaoliang3_article
 title: About
 date: 2019-06-10
-description: Hi. It's Zach.
-cta: Say "hi," and let's get to know each other: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+description: "Hi. It's Zach."
+cta: "Say "hi," and let's get to know each other: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>"
 
 ---
 
