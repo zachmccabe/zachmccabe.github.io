@@ -21,6 +21,7 @@ You can use this website to see what I'm up to [now.](https://www.zachmccabe.com
 + [Where I have experience](https://www.zachmccabe.com/about.html#where-i-have-experience)
 
 
+<img src="https://www.zachmccabe.com/assets/viz/penx300.png" alt="Twirling a pen" style="max-width:300px" />
 
 
 ## Who I work with
@@ -49,7 +50,7 @@ Currently I'm just down the road from DFW Airport in Texas. My clients and frien
 
 ### Remote work
 
-I have experience collaborating with small teams across 12 timezones. 📮 P.S. When I moved away after 2nd grade, my friend Brad updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark. I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
+I have experience collaborating with small teams across 12 timezones. 📮 When I moved away after 2nd grade, my friend Brad updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark. I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
 
 
 
