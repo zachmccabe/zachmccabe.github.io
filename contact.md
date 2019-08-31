@@ -11,4 +11,4 @@ Email is the best way to reach me.
 
 {% include key_details.html %}
 
-You can expect a reply within 24 hours. 😊
+You can expect a reply within 24 hours.
