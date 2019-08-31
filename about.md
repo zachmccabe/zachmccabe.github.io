@@ -8,9 +8,7 @@ cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 ---
 
 
-Hi. It's Zach. I'm an optimist: I believe all ideas begin with bullshit, and then you [iterate.](https://www.zachmccabe.com/bullshit.html)
-
-You can use this website to see what I'm up to [now.](https://www.zachmccabe.com/now.html) Otherwise, keep reading to learn more about me.
+Hi. It's Zach. You can use this website to see what I'm up to [now.](https://www.zachmccabe.com/now.html) Otherwise, keep reading to learn more about me.
 
 
 
@@ -25,12 +23,14 @@ You can use this website to see what I'm up to [now.](https://www.zachmccabe.com
 
 ## Who I work with
 
-I welcome collaborations, commissions and new clients. What can I help you with? [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
+Let's make something! I welcome collaborations, commissions and new clients. [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
 
 
 
 
 ## What I do
+
+I'm an optimist: I believe all ideas begin with bullshit, and then you [iterate.](https://www.zachmccabe.com/bullshit.html)
 
 I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of The Photographers Field Guide to Beijing. I used to write about photography for [Empty Easel.](https://www.google.com/search?q=site%3A+emptyeasel.com+zach+mccabe) Before that, I worked as a photographer for NGO clients.
 
@@ -40,24 +40,16 @@ You can take a peek at ongoing and upcoming [projects,](https://www.zachmccabe.c
 
 
 
-
 ## Where I work
 
 Currently I'm just down the road from DFW Airport in Texas. My clients and friends are worldwide.
 
 
-
-### Remote work
-
-I have experience collaborating with small teams across 12 timezones. 📮 When I moved away after 2nd grade, my friend Brad updated me on the summer's adventures via cassette tape recordings he made and sent in the mail. That left a mark. I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
-
-
-
 ### Where I have experience
 
 North America and East Asia are where I have the most experience.
+  + Collaborated on remote projects across 12 timezones.
+  + Began my career working as a [photographer](https://www.zachmccabe.com/postcard.html) for clients in the PRC and HK.
+  + Grew up in the US, China and Japan.
 
-  + I began my career working as a [photographer](https://www.zachmccabe.com/postcard.html) for clients in the PRC and HK.
-  + I grew up in the US, China and Japan.
-
-Because life is deliciously weird, I've had the privilege of contributing to projects in some of the world's biggest cities, in the backcountry and a few places in between.
+Because life is deliciously weird, I've had the privilege of contributing to projects in some of the world's biggest cities, in the backcountry and a few places in between. I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
