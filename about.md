@@ -21,7 +21,7 @@ You can use this website to see what I'm up to [now.](https://www.zachmccabe.com
 + [Where I have experience](https://www.zachmccabe.com/about.html#where-i-have-experience)
 
 
-<img src="https://www.zachmccabe.com/assets/viz/penx300.png" alt="Twirling a pen" style="max-width:300px" />
+<img src="https://www.zachmccabe.com/assets/viz/pen-300.gif" alt="Twirling a pen" style="max-width:300px" />
 
 
 ## Who I work with
