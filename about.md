@@ -36,7 +36,7 @@ I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_go
 
 For many years I've also worked as a ranch hand. 🍃 This area is the location of my ongoing photo project, "Laughing Lost in Briars."
 
-You can take a peek at ongoing and upcoming [projects](https://www.zachmccabe.com/now.html#ongoing-and-upcoming), or check out the tools I'm using [now.](https://www.zachmccabe.com/now.html#tools-im-using-now)
+You can take a peek at ongoing and upcoming [projects,](https://www.zachmccabe.com/now.html#ongoing-and-upcoming) or check out the tools I'm using [now.](https://www.zachmccabe.com/now.html#tools-im-using-now)
 
 
 
