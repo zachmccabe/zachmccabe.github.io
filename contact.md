@@ -1,6 +1,6 @@
 ---
 layout: kaoliang3_article
-title: Contact Zach
+title: Contact
 date: 2019-04-01
 description: Contact Zach
 
