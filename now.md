@@ -10,14 +10,10 @@ cta: What are you up to? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.
 
 Updated: {{ page.date | date: "%b %d %Y" }}
 
-{{ page.description }}
-
 
 + [Ongoing and upcoming](https://www.zachmccabe.com/now.html#ongoing-and-upcoming)
 + [Tools I'm using now](https://www.zachmccabe.com/now.html#tools-im-using-now)
 
-
-`<img />`
 
 
 ## Ongoing and upcoming
