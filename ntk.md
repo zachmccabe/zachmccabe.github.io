@@ -35,7 +35,7 @@ Whenever possible I delete ephemeral correspondence immediately. However, you sh
 
 ## Technical ingredients
 
-+ Built on [Github Pages](https://github.com/nowzach/nowzach.github.io)
++ Built on Github Pages
 + Served over Cloudflare's CDN
 + Email correspondence by Google GSuite
 
@@ -47,4 +47,4 @@ I want this site to work for you. Even if you're on an old phone. Even when you'
 
 Always happy to talk about your licensing needs. 😊 [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
 
-The photos, articles and other content on this website are copyright. You must obtain written permission before republishing etc. Email me for more info.
+The photos, articles and other content on this website are copyright. You must obtain written permission before republishing, etc. Email me for more info.
