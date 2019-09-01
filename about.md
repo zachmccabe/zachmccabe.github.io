@@ -17,7 +17,7 @@ nav: |
 *Hi. It's Zach.* You can use this website to see what I'm up to [now.](https://www.zachmccabe.com/now.html) Otherwise, keep reading to learn more about me.
 
 
-{{ include page_nav.html }}
+{% include page_nav.html %}
 
 
 
