@@ -37,7 +37,7 @@ Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates
 Below is a partial list of my current tools. This is compiled for friends, fellow tinkerers and, yes, the curious people of the inets.
 
 
-{{ include: page_nav.html }}
+{% include page_nav.html %}
 
 
 
