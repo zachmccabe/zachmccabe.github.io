@@ -20,7 +20,7 @@ Updated: {{ page.date | date: "%b %d %Y" }}
 
 Summer at the ranch is busy and exhausting in the best way.
 
-Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Version 2 is coming in Q4 2019.
+Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Expect version 2 in Q4 2019.
 
 
 
