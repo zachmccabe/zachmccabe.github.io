@@ -37,7 +37,7 @@ Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates
 
 
 
-## Changes
+### Changes
 
 Using [Orgzly](http://www.orgzly.com/) again. It is too good to quit!
 
@@ -45,13 +45,13 @@ Back on an official build of Android because I needed a new phone with wider LTE
 
 
 
-## Longevity
+### Longevity
 
 I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a decade.
 
 
 
-## Organization
+### Organization
 
 + _todo.txt
 + Analog – and a bit borked – kanban using sticky notes and a white board; previously, Trello
@@ -61,7 +61,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 
 
 
-## Office stuff
+### Office stuff
 
 + AP Stylebook, circa 2009
 + G Suite
@@ -72,7 +72,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + TextEdit
 
 
-### Production for ebooks and web
+#### Production for ebooks and web
 
 + BBEdit
 + Calibre
@@ -85,7 +85,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 *If you're curious, here are more [details.](https://www.zachmccabe.com/beijing/how_the_book_got_made.html)*
 
 
-### Weather and climate
+#### Weather and climate
 
 + [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
 + [RadarScope](https://www.radarscope.app/)
@@ -94,7 +94,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 
 
 
-## Phone
+### Phone
 
 + Android
 + [NetGuard](https://www.netguard.me/)
@@ -107,7 +107,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 *Because I spend a lot of time outside, I want a phone that is lightweight and pocket-sized. It should be durable-ish. It should get routine security patches. Motorola's low-end phones are the closest thing I've found.*
 
 
-## Photo
+### Photo
 
 + Krogh's The DAM Book
 + Photo Mechanic
@@ -116,7 +116,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + Silver Effex Pro
 
 
-## Field and ranch
+### Field and ranch
 
 + Always looking for a better hat
 + Boots are my most important tools for outdoor work and, depending on the task, I wear:
