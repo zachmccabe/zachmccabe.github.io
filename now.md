@@ -4,7 +4,7 @@ title: Now
 date: 2019-08-29
 description: Right now, I'm… A list of current projects and tools 
 cta: What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
-nav: |
+nav: >
   + [Changes](https://www.zachmccabe.com/now.html#changes)
   + [Longevity](https://www.zachmccabe.com/now.html#longevity)
   + [Organization](https://www.zachmccabe.com/now.html#organization) 
@@ -12,7 +12,6 @@ nav: |
   + [Phone](https://www.zachmccabe.com/now.html#phone)
   + [Photo](https://www.zachmccabe.com/now.html#photo)
   + [Field and ranch](https://www.zachmccabe.com/now.html#field-and-ranch)
-  
 
 ---
 
