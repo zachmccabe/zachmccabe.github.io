@@ -4,6 +4,12 @@ title: About
 date: 2019-06-10
 description: Hi, it's Zach
 cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+nav: |
+  + [Who I work with](https://www.zachmccabe.com/about.html#who-i-work-with)
+  + [What I do](https://www.zachmccabe.com/about.html#what-i-do)
+  + [Where I work](https://www.zachmccabe.com/about.html#where-i-work)
+  + [Where I have experience](https://www.zachmccabe.com/about.html#where-i-have-experience) 
+
 
 ---
 
@@ -11,11 +17,7 @@ cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 *Hi. It's Zach.* You can use this website to see what I'm up to [now.](https://www.zachmccabe.com/now.html) Otherwise, keep reading to learn more about me.
 
 
-
-+ [Who I work with](https://www.zachmccabe.com/about.html#who-i-work-with)
-+ [What I do](https://www.zachmccabe.com/about.html#what-i-do)
-+ [Where I work](https://www.zachmccabe.com/about.html#where-i-work)
-+ [Where I have experience](https://www.zachmccabe.com/about.html#where-i-have-experience)
+{{ include page_nav.html }}
 
 
 
