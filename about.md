@@ -15,7 +15,6 @@ Hi. It's Zach. You can use this website to see what I'm up to [now.](https://www
 + [Who I work with](https://www.zachmccabe.com/about.html#who-i-work-with)
 + [What I do](https://www.zachmccabe.com/about.html#what-i-do)
 + [Where I work](https://www.zachmccabe.com/about.html#where-i-work)
-+ [Remote work](https://www.zachmccabe.com/about.html#remote-work)
 + [Where I have experience](https://www.zachmccabe.com/about.html#where-i-have-experience)
 
 
