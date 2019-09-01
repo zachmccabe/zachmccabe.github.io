@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: Now
 date: 2019-08-29
 description: Right now, I'm… A list of current projects and tools 
-cta: What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: Enough about me. What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 nav: |
   + [Changes](https://www.zachmccabe.com/now.html#changes)
   + [Longevity](https://www.zachmccabe.com/now.html#longevity)
@@ -18,12 +18,11 @@ nav: |
 
 Updated: {{ page.date | date: "%b %d %Y" }}
 
-
-+ [Ongoing and upcoming](https://www.zachmccabe.com/now.html#ongoing-and-upcoming)
-+ [Tools I'm using now](https://www.zachmccabe.com/now.html#tools-im-using-now)
+This is a snapshot of what I'm making now. I write it for my friends, collaborators and, yes, the curious people of the inets.
 
 
 ## Ongoing and upcoming
+
 
 Summer at the ranch is busy and exhausting in the best way.
 
@@ -32,8 +31,6 @@ Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates
 
 
 ## Tools I'm using now
-
-Below is a partial list of my current tools. This is compiled for friends, fellow tinkerers and, yes, the curious people of the inets.
 
 
 {% include page_nav.html %}
@@ -112,7 +109,6 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 
 ## Photo
 
-+ Canon, Nikon, etc; I prefer to buy my lenses and camera bodies secondhand
 + Krogh's The DAM Book
 + Photo Mechanic
 + [RPP](http://www.raw-photo-processor.com) converter, particularly for BW images
@@ -134,6 +130,6 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 
 
 
-*HT [Belle B Cooper](http://bellebcooper.com/) for inspiring the idea for a now page and tools list.*
+*HT [Belle Cooper](http://bellebcooper.com/) for inspiring the idea for a now page and tools list.*
 
 Whenever I travel, visit a friend, or read a bit of [anthropology,](https://archive.org/details/StoneAgeEconomics_201611/page/n31) it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
