@@ -8,7 +8,7 @@ cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 ---
 
 
-Hi. It's Zach. You can use this website to see what I'm up to [now.](https://www.zachmccabe.com/now.html) Otherwise, keep reading to learn more about me.
+*Hi. It's Zach.* You can use this website to see what I'm up to [now.](https://www.zachmccabe.com/now.html) Otherwise, keep reading to learn more about me.
 
 
 
@@ -46,7 +46,7 @@ Currently I'm just down the road from DFW Airport in Texas. My clients and frien
 
 ### Where I have experience
 
-North America and East Asia are where I have the most experience.
+North America and East Asia are where I have the most experience:
   + Collaborated on remote projects across 12 timezones.
   + Began my career working as a [photographer](https://www.zachmccabe.com/postcard.html) for clients in the PRC and HK.
   + Grew up in the US, China and Japan.
