@@ -10,7 +10,7 @@ cta: You can ask me a question any time <a href="mailto:hello@zachmccabe.com">he
 
 I can admit that I'm embarrassed when I ask a dumb question. Aren't you?
 
-Sometimes I have to ask a dumb question. I just have to! But – surprisingly – I've learned that I get great answers when I ask a dumb question. These questions are more than an awkward necessity. They are also helpful tools you can use to unstick confusing conversations.
+Sometimes I have to ask a dumb question. I just have to! Surprisingly, I've learned that I get great answers when I ask a dumb question. These questions are more than an awkward necessity. They are also helpful tools you can use to unstick confusing conversations.
 
 Maybe "dumb" questions aren't so dumb after all?
 
@@ -35,9 +35,9 @@ Maybe "dumb" questions aren't so dumb after all?
 
 ## Asking questions cross-culturally
 
-Using questions intentionally can be helpful in cross-cultural situations, I think.
+Using questions intentionally can also be helpful in cross-cultural situations, I think.
 
-The communication signal:noise ratio falls through the floor when you're in another place. You're overwhelmed. You're under pressure. Just when you need to think critically about your own assumptions – you can't. Heuristics keep tripping you up. Questions can help you navigate foreign terrain. Use them strategically and don't worry about looking silly. (You already stand out.)
+When you're in another place, the communication signal:noise ratio falls through the floor. You're overwhelmed. You're under pressure. Just when you need to think critically about your own assumptions – you can't. Heuristics keep tripping you up. Questions can help you navigate foreign terrain. Use them strategically, and don't worry about looking silly because you already stick out.
 
 "Everything you're sure is right can be wrong in another place," observes a character in Barbara Kingsolver's novel "The Poisonwood Bible".
 
