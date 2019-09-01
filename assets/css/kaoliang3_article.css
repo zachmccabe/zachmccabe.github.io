@@ -61,11 +61,24 @@ article, main, section {
   max-width: 20em;
 }
 
-.cta-box {
+.kaoCTA {
   background-image: linear-gradient(to bottom right, rgb(254, 252, 245), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
-  margin-top:5em;
-  padding:1em 0.5em;
+  margin-top: 5em;
+  padding: 1em 0.5em;
   text-align: center;
+}
+
+.kaoNAV {
+background-image: linear-gradient(to bottom right, rgb(254, 252, 245), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
+margin: 5em auto 5em;
+padding: 1em 0.5em;
+text-align: center;
+}
+
+.kaoNAV ul {
+list-style-type: none;
+marign: 0;
+padding: 0;
 }
 
 img {
