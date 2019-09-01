@@ -18,10 +18,12 @@ nav: |
 
 Updated: {{ page.date | date: "%b %d %Y" }}
 
+<div class="kaoNAV">
 
 + [Ongoing and upcoming](https://www.zachmccabe.com/now.html#ongoing-and-upcoming)
 + [Tools I'm using now](https://www.zachmccabe.com/now.html#tools-im-using-now)
 
+</div>
 
 
 ## Ongoing and upcoming
