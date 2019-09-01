@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: Now
 date: 2019-08-29
 description: Right now, I'm… A list of current projects and tools 
-cta: What are you up to? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
