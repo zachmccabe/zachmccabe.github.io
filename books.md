@@ -23,4 +23,4 @@ Designers call this the "mobile first" principle. I call it awesome.
 
 ## The Photographers Field Guide to Beijing
 
-The Field Guide is my first book. The idea is this: Photographers headed to Beijing really need better info – so I made you something to read on the flight over. The book is written around the questions I heard from visiting photographers most often. You can read a free preview on [Kindle,](https://read.amazon.com/kp/embed?asin=B072FVKP45) or check out <https://www.zachmccabe.com/beijing>.
+The Field Guide is my first book. The idea is this: Photographers headed to Beijing really need better info – so I made you something to read on the flight over. The book is written around the questions I hear from visiting photographers most often. You can read a free preview on [Kindle,](https://read.amazon.com/kp/embed?asin=B072FVKP45) or check out <https://www.zachmccabe.com/beijing>.
