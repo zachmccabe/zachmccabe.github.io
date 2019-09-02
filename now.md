@@ -16,9 +16,8 @@ nav: |
 ---
 
 
-Updated: {{ page.date | date: "%b %d %Y" }}
+Updated: {{ page.date | date: "%b %d %Y" }} • Snapshot of how I'm spending my time, where I'm going and what I'm using to make stuff. I write this down for myself, because it helps me take stock and stay oriented while navigating the day-to-day. I share it here for curious friends.
 
-This is a snapshot of what I'm making now. I write it for my friends, collaborators and, yes, the curious people of the inets.
 
 
 ## Ongoing and upcoming
@@ -68,7 +67,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + macOS
 + Speedy Stitcher sewing awl
 + Standing desk
-+ Storage drives are whatever The Wirecutter recommends
++ Storage drives are whatever The Wirecutter recommends atm
 + TextEdit
 
 
@@ -82,7 +81,7 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + imageOptim
 + Pandoc
 
-*If you're curious, here are more [details.](https://www.zachmccabe.com/beijing/how_the_book_got_made.html)*
+*More [details.](https://www.zachmccabe.com/beijing/how_the_book_got_made.html)*
 
 
 #### Weather and climate
@@ -119,17 +118,13 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 ### Field and ranch
 
 + Always looking for a better hat
-+ Boots are my most important tools for outdoor work and, depending on the task, I wear:
-  + Belleville Mini-Mil, after reading [this](https://chasingyourmind.blogspot.com/2014/11/minimal-boots-and-belleville-mini-mil.html)
-  + USMC hot weather issue via EBay; I've been happy with the Bates and Altama iterations
-  + Cheap muck boots
++ Boots are my most important tool for outdoor work; I often wear Belleville Mini-Mil boots, which I got after reading [this](https://chasingyourmind.blogspot.com/2014/11/minimal-boots-and-belleville-mini-mil.html)
 + Billhook, which gets my vote as the most versatile and underrated tool on this list
 + Dish soap to wash off the poison ivy
 + Loksak bags
 + RX safety glasses; WalMart does a great job with these
 
 
+Whenever I travel, visit a friend, or read a bit of [anthropology,](https://archive.org/details/StoneAgeEconomics_201611/page/n31) it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
 
 *HT [Belle Cooper](http://bellebcooper.com/) for inspiring the idea for a now page and tools list.*
-
-Whenever I travel, visit a friend, or read a bit of [anthropology,](https://archive.org/details/StoneAgeEconomics_201611/page/n31) it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
