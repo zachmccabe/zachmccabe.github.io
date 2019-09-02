@@ -86,7 +86,11 @@ img {
   max-width: 500px;
 }
 
-
+img[href$=".gif"] {
+  height: auto;
+  width: 100%;
+  max-width: 300px;
+}
 
 
 
