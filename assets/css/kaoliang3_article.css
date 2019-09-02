@@ -90,6 +90,10 @@ img[href$=".gif"] {
   height: auto;
   width: 100%;
   max-width: 300px;
+  
+  margin: 3em auto 3em;
+  padding: 2em 0;
+  background-color: #fff;
 }
 
 
