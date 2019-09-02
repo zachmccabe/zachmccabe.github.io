@@ -20,4 +20,6 @@ Recently I keep having conversations with folks who seem to be afraid of their o
 2. Just because you value your idea doesn't make it valuable (to your friends, clients, lovers).
 3. Always iterate, because your idea is bullshit.
 
+![Twirling a pen](https://www.zachmccabe.com/assets/viz/pen-flip-300.gif)
+
 Good things grow in cow manure.
