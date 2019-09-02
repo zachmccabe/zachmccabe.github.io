@@ -84,15 +84,14 @@ img {
   height: auto;
   width: 100%;
   max-width: 500px;
+  margin: 5em auto;
 }
 
 img[src$=".gif"] {
   height: auto;
   width: 100%;
   max-width: 300px;
-  margin: 3em auto 3em;
-  padding: 2em 0;
-  background-color: #fff;
+  margin: 5em auto;
 }
 
 
