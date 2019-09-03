@@ -1,7 +1,8 @@
 ---
 layout: kaoliang3_article
 title: Now
-date: 2019-08-29
+date: 2019-04-01
+updated: 2019-08-30
 description: Right now, I'm… A list of current projects and tools 
 cta: Enough about me. What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 nav: |
