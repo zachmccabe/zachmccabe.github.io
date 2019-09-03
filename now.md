@@ -16,8 +16,7 @@ nav: |
 ---
 
 
-Updated: {{ page.date | date: "%b %d %Y" }} • Snapshot of how I'm spending my time, where I'm going and what I'm using to make stuff. I write this down for myself, because it helps me take stock and stay oriented while navigating the day-to-day. I share it here for curious friends.
-
+Updated: {{ page.date | date: "%b %d %Y" }} • Snapshot of how I'm spending my time, where I'm going and what I'm using to make stuff. I write this down for myself, because it helps me take stock and stay oriented while navigating the day-to-day. Shared here because you're curious.
 
 
 ## Ongoing and upcoming
