@@ -3,14 +3,14 @@ layout: kaoliang3_article
 title: Bullshit
 date: 2019-04-01
 description: bullshit, create, iterate
-cta: 🐮 <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
 
 "Make a [bold hypothesis](https://en.wikipedia.org/wiki/Bold_hypothesis) and disprove it" – Karl Popper
 
-Good things grow in manure. So take a guess, roll up your sleeves and bullshit me. It seems to me that the process works like this:
+Good things grow in manure. 🐮 Take a guess, roll up your sleeves and bullshit me.
 
 **bullshit > create > iterate**
 
