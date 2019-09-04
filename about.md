@@ -12,7 +12,7 @@ nav: |
 ---
 
 
-**Hi. It's Zach.** You can use this website to see what I'm up to [now.](https://www.zachmccabe.com/now.html) Or, keep reading to learn more about me.
+**Hi. It's Zach.** You can check the [now page](https://www.zachmccabe.com/now.html) for the latest. Otherwise, keep reading to learn more about me in the usual about page fashion.
 
 
 {% include page_nav.html %}
@@ -33,9 +33,9 @@ I'm an optimist: I believe all ideas begin with bullshit, and then you [iterate.
 
 I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of "The Photographers Field Guide to Beijing." I used to write about photography for [Empty Easel.](https://www.google.com/search?q=site%3A+emptyeasel.com+zach+mccabe) Before that, I worked as a photographer for NGO clients.
 
-The focus of my photographic work is long-term projects and image libraries; most is documentary [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
+The focus of my photographic work is long-term projects and image libraries; mostly documentary [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
 
-For many years I've also worked as a ranch hand. I'm a big fan of sunshine. 🍃 The experience – and the confusion it causes my friends – is the force behind my ongoing photo project, "Laughing Lost in Briars."
+For many years I've also worked as a ranch hand. I'm a big fan of sunshine. 🍃 That experience – and the surprise befuddlement it seems to cause my friends – is the force behind my ongoing photo project, "Laughing Lost in Briars."
 
 
 
@@ -53,7 +53,7 @@ I have experience collaborating with small teams across 12 timezones. 📮 When 
 
 North America and East Asia are where I have the most experience:
   + I began my career working as a [photographer](https://www.zachmccabe.com/postcard.html) for clients in the PRC and HK.
-  + After acceptance into architecture school, I took a deep breath, declined and went to a liberal arts college to study Chinese instead.
+  + After acceptance into architecture school, I took a real deep breath, declined and instead went to a liberal arts college to study Chinese.
   + I grew up in the US, China and Japan.
 
 Because life is deliciously weird, I've had the privilege of contributing to projects in some of the world's biggest cities, in the backcountry and a few places in between.
