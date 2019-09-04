@@ -35,7 +35,7 @@ I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_go
 
 The focus of my photographic work is long-term projects and image libraries; mostly documentary [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
 
-For many years I've also worked as a ranch hand. I'm a big fan of sunshine. 🍃 That experience – and the surprise befuddlement it seems to cause my friends – is the force behind my ongoing photo project, "Laughing Lost in Briars."
+For many years I've also worked as a ranch hand. I'm a big fan of sunshine. 🍃 That experience is the force behind my ongoing photo project, "Laughing Lost in Briars."
 
 
 
