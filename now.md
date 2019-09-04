@@ -25,7 +25,7 @@ Updated: {% include print_update.html %} • Snapshot of how I'm spending my tim
 
 Summer at the ranch is busy and exhausting in the best way.
 
-Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Expect version 2 in Q4 2019.
+Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Expect version 2 before the end of the year.
 
 
 
