@@ -35,25 +35,10 @@ I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_go
 
 The focus of my photographic work is long-term projects and image libraries; mostly documentary [nonfiction.](https://www.zachmccabe.com/nonfiction.html)
 
-For many years I've also worked as a ranch hand. I'm a big fan of sunshine. 🍃 That experience is the force behind my ongoing photo project, "Laughing Lost in Briars."
+For many years I've also worked as a ranch hand. I'm a big fan of sunshine. 🍃 That experience inspired my ongoing photo project, "Laughing Lost in Briars."
 
 
 
 ## Where I work
 
-Currently I'm just down the road from DFW Airport in Texas. My clients and friends are worldwide.
-
-
-### Remote work
-
-I have experience collaborating with small teams across 12 timezones. 📮 When I moved away after 2nd grade, my friend Brad sent me summer dispatches via cassette tape recordings he made and sent in the mail. That left a mark. I'm always working to improve my [communications skills](https://www.zachmccabe.com/just_ask.html) and toolkit.
-
-
-### Where I have experience
-
-North America and East Asia are where I have the most experience:
-  + I began my career working as a [photographer](https://www.zachmccabe.com/postcard.html) for clients in the PRC and HK.
-  + After acceptance into architecture school, I took a real deep breath, declined and instead went to a liberal arts college to study Chinese.
-  + I grew up in the US, China and Japan.
-
-Because life is deliciously weird, I've had the privilege of contributing to projects in some of the world's biggest cities, in the backcountry and a few places in between.
+Currently I'm just down the road from DFW Airport in Texas. My friends are all over the map.
