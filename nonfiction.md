@@ -12,7 +12,9 @@ nav: |
 ---
 
 
-**Updated: {% include print_update.html %}** • Most of my work is nonfiction. What does that mean? This page will not completely answer the question but it will do for now. It is a working definition, and you can expect occasional updates.
+Updated: {% include print_update.html %} • I'm working on a working defintion. You can expect occasional updates to this page.
+
+Forget about Photoshop. Don't worry about deep fakes. The real question isn't about techno-phantoms. The real question is the same as always: *who trusts you?*
 
 
 
@@ -22,19 +24,13 @@ nav: |
 
 ## 5 questions to ask
 
-Forget about Photoshop. Don't worry about deep fakes. The real question isn't about techno-phantoms. The real question is the same as always: *who trusts you?*
+These are the questions I've been taught to ask. These are also the questions I trust my clients, editors and audience to ask my pictures.
 
 + Where is it published?
 + Why publish it now?
 + Who made it, and who is it for?
 + How can I verify it?
 + What did it cost, and what's the payoff?
-
-These are the questions I've been taught to ask. These are also the questions I trust my clients, editors and audience to ask about my work.
-
-Who trusts you to point that camera in the right direction?
-
-
 
 
 
@@ -72,17 +68,15 @@ Spitting the penlight out of my mouth and swearing at myself in the dark, I care
 
 The wind is tearing through the oak canopies with violence now. I stand there watching the stick insect climb up. Up, until the dark hides her. How many of these trees have their own creatures?
 
-Rain crashes down and wets my neck well before I make it to my car. I drive out with windshield wipers on high, imagining stick insects in the trees beyond my headlights.
+Rain crashes down and wets my neck well before I make it to my car.
 
-*Since that first encounter 2 years ago, I've spotted 3 more Giant Walking Sticks. Two were dead; I spent an hour photographing the living one in situ. None of those as large as that first creature.*
 
 
 ## WTF is nonfiction, tho
 
-
 As soon as you flip a stone trying to find an answer for a question like that, you start to realize that there is a whole rock field full of creepy-crawlies in front of you.
 
-My conclusion is that it comes down to context and trust. It is about the relationship between photographer, photographed and audience.
+It comes down to context and trust. It is about the relationship between photographer, photographed and audience. Who trusts you to point that camera in the right direction?
 
 Is the problem that Art Wolfe's "Migration" was [Photoshopped,](https://www.washington.edu/alumni/columns/dec98/wolfe4.html) the way he responded to criticism, or the way he captioned his images?
 
@@ -90,10 +84,7 @@ Is the problem that Art Wolfe's "Migration" was [Photoshopped,](https://www.wash
 
  – John Berger, "Appearances," *Another Way of Telling* by Berger and Mohr (New York: Vintage International, 1982), 128. 
 
-
-If, to photographers, Marcio Cabral's [anteater](https://www.nhm.ac.uk/press-office/Wildlife-Photographer-of-the-Year/wildlife-photographer-of-the-year-image-disqualified.html) is fraud, why is Robert Dosineau's [kiss](http://www.bbc.com/culture/story/20170213-the-iconic-photo-that-symbolises-love) so easy to forgive?
-
-Seems worth chewing on for a bit. It doesn't go down easy. I don't think it is meant to. Food for thought:
+If Marcio Cabral's [anteater](https://www.nhm.ac.uk/press-office/Wildlife-Photographer-of-the-Year/wildlife-photographer-of-the-year-image-disqualified.html) is fraud, why is Robert Dosineau's [kiss](http://www.bbc.com/culture/story/20170213-the-iconic-photo-that-symbolises-love) so easy to forgive? Seems worth chewing on for a bit. It doesn't go down easy. I don't think it is meant to. Food for thought:
 
 + [Reuters Handbook](http://handbook.reuters.com/index.php?title=A_Brief_Guide_to_Standards,_Photoshop_and_Captions)
 + An open letter from photographer [Bruce Percy](https://www.brucepercy.co.uk/blog/2017/5/22/photographers-code-of-conduct)
