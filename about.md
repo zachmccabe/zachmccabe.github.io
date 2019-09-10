@@ -12,7 +12,7 @@ nav: |
 ---
 
 
-**Hi. It's Zach.** You can check the [now page](https://www.zachmccabe.com/now.html) for the latest. Otherwise, keep reading to learn more about me in the usual about page fashion.
+**Hi. It's Zach.** I'm an optimist – I believe all ideas begin with bullshit, and then you [iterate.](https://www.zachmccabe.com/bullshit.html) You can check the [now page](https://www.zachmccabe.com/now.html) for the latest. Otherwise, keep reading to learn more about me in the usual about page fashion.
 
 
 {% include page_nav.html %}
@@ -28,8 +28,6 @@ Let's make something! I welcome collaborations, commissions and new clients. [he
 
 
 ## What I do
-
-I'm an optimist: I believe all ideas begin with bullshit, and then you [iterate.](https://www.zachmccabe.com/bullshit.html)
 
 I'm the author and [producer](https://www.zachmccabe.com/beijing/how_the_book_got_made.html) of "The Photographers Field Guide to Beijing." I used to write about photography for [Empty Easel.](https://www.google.com/search?q=site%3A+emptyeasel.com+zach+mccabe) Before that, I worked as a photographer for NGO clients.
 
