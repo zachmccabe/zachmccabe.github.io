@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: What is nonfiction
 date: 2019-04-01
 description: I'm working on a working definition
-cta: "[hello@zachmccabe.com](mailto:hello@zachmccabe.com)"
+cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 nav: |
   + [5 questions to ask nonfiction](https://www.zachmccabe.com/nonfiction#5-questions-to-ask-nonfiction)
   + [Working definition](https://www.zachmccabe.com/nonfiction#working-definition)
@@ -12,9 +12,7 @@ nav: |
 ---
 
 
-## I'm working on a working definition
-
-Updated: {% include print_update.html %} • Most of my work is nonfiction. (Most of my work is nonfiction; not all of my work is nonfiction.) What is nonfiction, though? This page will not completely answer the question but it will do for now. It is a working definition, and you can expect occasional updates.
+**Updated: {% include print_update.html %}** • Most of my work is nonfiction. What does that mean? This page will not completely answer the question but it will do for now. It is a working definition, and you can expect occasional updates.
 
 
 
@@ -22,7 +20,7 @@ Updated: {% include print_update.html %} • Most of my work is nonfiction. (Mos
 
 
 
-## 5 questions to ask nonfiction
+## 5 questions to ask
 
 Forget about Photoshop. Don't worry about deep fakes. The real question isn't about techno-phantoms. The real question is the same as always: *who trusts you?*
 
