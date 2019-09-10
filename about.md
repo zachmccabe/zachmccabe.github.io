@@ -12,7 +12,7 @@ nav: |
 ---
 
 
-**Hi. It's Zach.** I'm an optimist – I believe all ideas begin with bullshit, and then you [iterate.](https://www.zachmccabe.com/bullshit.html) You can check the [now page](https://www.zachmccabe.com/now.html) for the latest. Otherwise, keep reading to learn more about me in the usual about page fashion.
+**Hi. It's Zach.** You can check the [now page](https://www.zachmccabe.com/now.html) for the latest. Otherwise, keep reading to learn more about me in the usual about page fashion.
 
 
 {% include page_nav.html %}
