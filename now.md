@@ -20,16 +20,40 @@ nav: |
 Updated: {% include print_update.html %} • Snapshot of how I'm spending my time, where I'm going and what I'm using to make stuff. I write this down for myself, because it helps me take stock and stay oriented while navigating the day-to-day. Shared here because you're curious.
 
 
+
 ## Ongoing and upcoming
 
 
-Summer at the ranch is busy and exhausting in the best way.
+Neighbor's bull got out and went for a ramble. This was as good of a reminder as any that fall is a great time to check fences at the ranch.
 
 Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Expect version 2 before the end of the year.
 
 
 
+## Reading
+
+**To read:** Hidalgo's "Why Information Grows"
+
+**Reading:** binge-watching PBS "Eons," really
+
+**Done reading:** Klement's "When Coffee and Kale Compete"
+
+
+
+## Email newsletters that get opened every time
+
++ [Chinese Storytellers](https://chinesestorytellers.substack.com)
++ Craig Mod's [Ridgeline](https://craigmod.com/ridgeline/)
++ Julie Zhuo's [The Looking Glass](https://juliezhuo.com/design/mailinglist.html)
+
+
+
 ## Tools I'm using now
+
+Whenever I travel, visit a friend, or read a bit of [anthropology,](https://archive.org/details/StoneAgeEconomics_201611/page/n31) it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
+
+*HT [Belle Cooper](http://bellebcooper.com/) for inspiring the idea for a now page and tools list.*
+
 
 
 {% include page_nav.html %}
@@ -46,7 +70,7 @@ Back on an official build of Android because I needed a new phone with wider LTE
 
 ### Longevity
 
-I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a decade.
+I've been using [Pleco](https://www.pleco.com) Chinese dictionary and Photo Mechanic for over a decade.
 
 
 
@@ -66,12 +90,11 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + G Suite
 + macOS
 + Speedy Stitcher sewing awl
-+ Standing desk
-+ Storage drives are whatever The Wirecutter recommends atm
-+ TextEdit
++ Standing desk and headphone music
++ Storage drives are whatever The Wirecutter [recommends](https://thewirecutter.com/electronics/storage-devices/)
 
 
-#### Production for ebooks and web
+#### Production for web and ebook
 
 + BBEdit
 + Calibre
@@ -80,51 +103,43 @@ I've been using [Pleco](https://www.pleco.com) and Photo Mechanic for over a dec
 + imageMagick
 + imageOptim
 + Pandoc
++ TextEdit
 
 *More [details.](https://www.zachmccabe.com/beijing/how_the_book_got_made.html)*
 
 
-#### Weather and climate
 
-+ [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
-+ [RadarScope](https://www.radarscope.app/)
-+ [texaswildfirerisk.com](https://texaswildfirerisk.com/Map/Public/)
-+ [weather.gov](https://www.weather.gov/)
+### Phone essentials
 
-
-
-### Phone
-
-+ Android
 + [NetGuard](https://www.netguard.me/)
 + Orgzly
-+ Pleco
-+ RadarScope
++ Pleco Chinese dictionary
++ [RadarScope](https://www.radarscope.app/)
 + [Standard Notes](https://www.standardnotes.org)
 + [Syncthing](https://syncthing.net/)
 
-*Because I spend a lot of time outside, I want a phone that is lightweight and pocket-sized. It should be durable-ish. It should get routine security patches. Motorola's low-end phones are the closest thing I've found.*
+*Because I spend a lot of time outside, I want a phone that is lightweight and pocket-sized. It should be durable-ish. It should get routine security patches. Motorola's low-end Android phones are the closest thing I've found.*
+
 
 
 ### Photo
 
++ Camera hardware varies by project; small and simple is good 
++ JPG soc when the project allows for it
 + Krogh's The DAM Book
 + Photo Mechanic
-+ [RPP](http://www.raw-photo-processor.com) converter, particularly for BW images
-+ Sandisk Extreme Pro cards
-+ Silver Effex Pro
++ [RPP](http://www.raw-photo-processor.com) converter paired with Silver Efex Pro for digital BW images
+
 
 
 ### Field and ranch
 
-+ Always looking for a better hat
-+ Boots are my most important tool for outdoor work; I often wear Belleville Mini-Mil boots, which I got after reading [this](https://chasingyourmind.blogspot.com/2014/11/minimal-boots-and-belleville-mini-mil.html)
-+ Billhook, which gets my vote as the most versatile and underrated tool on this list
-+ Dish soap to wash off the poison ivy
-+ Loksak bags
-+ RX safety glasses; WalMart does a great job with these
+Boots are my most important tool outdoors. I often wear Belleville Mini-Mil boots, which I bought after reading [this.](https://chasingyourmind.blogspot.com/2014/11/minimal-boots-and-belleville-mini-mil.html)
 
 
-Whenever I travel, visit a friend, or read a bit of [anthropology,](https://archive.org/details/StoneAgeEconomics_201611/page/n31) it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
+#### WX and climate
 
-*HT [Belle Cooper](http://bellebcooper.com/) for inspiring the idea for a now page and tools list.*
++ [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
++ [texaswildfirerisk.com](https://texaswildfirerisk.com/Map/Public/)
++ RadarScope app
++ [weather.gov](https://www.weather.gov/)
