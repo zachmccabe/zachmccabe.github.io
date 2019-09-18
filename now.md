@@ -2,9 +2,9 @@
 layout: kaoliang3_article
 title: Now
 date: 2019-04-01
-update: 2019-08-30
+update: 2019-09-18
 description: Right now, I'm… A list of current projects and tools 
-cta: Enough about me. What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: What are you up to? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 nav: |
   + [Changes](https://www.zachmccabe.com/now.html#changes)
   + [Longevity](https://www.zachmccabe.com/now.html#longevity)
@@ -24,7 +24,7 @@ Updated: {% include print_update.html %} • Snapshot of how I'm spending my tim
 ## Ongoing and upcoming
 
 
-Neighbor's bull got out and went for a ramble. This was as good of a reminder as any that fall is a great time to check fences at the ranch.
+The neighbor's bull got out and went for a ramble – this is a good reminder that fall is a great time to check fences at the ranch.
 
 Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Expect version 2 before the end of the year.
 
