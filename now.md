@@ -40,12 +40,13 @@ Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates
 
 
 
-## Email newsletters that get opened every time
+## Fav email newsletters right now
 
 + [Chinese Storytellers](https://chinesestorytellers.substack.com)
 + Craig Mod's [Ridgeline](https://craigmod.com/ridgeline/)
 + Julie Zhuo's [The Looking Glass](https://juliezhuo.com/design/mailinglist.html)
-
++ Robin Sloan's [Year of the Meteor](https://desert.glass/)
++ Animalz on [content strategy](https://www.animalz.co/newsletter/)
 
 
 ## Tools I'm using now
