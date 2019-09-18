@@ -24,7 +24,7 @@ Updated: {% include print_update.html %} • Snapshot of how I'm spending my tim
 ## Ongoing and upcoming
 
 
-The neighbor's bull got out and went for a ramble – this is a good reminder that fall is a great time to check fences at the ranch.
+The neighbor's bull got out and went for a ramble – a good reminder that fall is a great time to check fences at the ranch.
 
 Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Expect version 2 before the end of the year.
 
