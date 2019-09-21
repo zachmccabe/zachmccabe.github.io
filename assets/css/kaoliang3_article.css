@@ -144,6 +144,10 @@ h2, h3, h4 {
   text-align: left;
 }
 
+h2 {
+color: #113388;
+}
+
 h2 + h3 {
   margin-top: 0;
 }
@@ -153,7 +157,7 @@ h3 + h4 {
 }
 
 h3 {
-  color: #111010;
+  color: #000022;
 }
 
 h4 {
