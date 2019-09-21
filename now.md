@@ -48,7 +48,7 @@ Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates
 + Robin Sloan's [Year of the Meteor](https://desert.glass/)
 + Animalz on [content strategy](https://www.animalz.co/newsletter/)
 
-*Really, limiting the list to these 5 feels kind of arbitrary. There are so many good newsletters in my inbox right now!
+*Really, limiting the list to these 5 feels kind of arbitrary. There are so many good newsletters in my inbox right now!*
 
 
 
