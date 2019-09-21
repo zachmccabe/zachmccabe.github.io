@@ -26,7 +26,7 @@ Updated: {% include print_update.html %} • Snapshot of how I'm spending my tim
 
 The neighbor's bull got out and went for a ramble – a good reminder that fall is a great time to check fences at the ranch.
 
-Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for The Photographers Field Guide to Beijing. Expect version 2 before the end of the year.
+Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates) for "The Photographers Field Guide to Beijing." Expect version 2 before the end of the year.
 
 
 
@@ -40,13 +40,16 @@ Researching [updates](https://www.zachmccabe.com/beijing/index.html#book-updates
 
 
 
-## Fav email newsletters right now
+## Email newsletters that I love right now
 
 + [Chinese Storytellers](https://chinesestorytellers.substack.com)
 + Craig Mod's [Ridgeline](https://craigmod.com/ridgeline/)
 + Julie Zhuo's [The Looking Glass](https://juliezhuo.com/design/mailinglist.html)
 + Robin Sloan's [Year of the Meteor](https://desert.glass/)
 + Animalz on [content strategy](https://www.animalz.co/newsletter/)
+
+*Really, limiting the list to these 5 feels kind of arbitrary. There are so many good newsletters in my inbox right now!
+
 
 
 ## Tools I'm using now
