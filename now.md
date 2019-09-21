@@ -17,7 +17,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • Snapshot of how I'm spending my time, where I'm going and what I'm using to make stuff. I write this down for myself, because it helps me take stock and stay oriented while navigating the day-to-day. Shared here because you're curious.
+Updated: {% include print_update.html %} • Snapshot of how I'm spending my time, where I'm going and what I'm using to make stuff. Shared here for the curious.
 
 
 
