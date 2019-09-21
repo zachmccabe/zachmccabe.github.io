@@ -98,7 +98,7 @@ I've been using [Pleco](https://www.pleco.com) Chinese dictionary and Photo Mech
 + Storage drives are whatever The Wirecutter [recommends](https://thewirecutter.com/electronics/storage-devices/)
 
 
-#### Production for web and ebook
+#### Office: production for web and ebook
 
 + BBEdit
 + Calibre
@@ -113,7 +113,7 @@ I've been using [Pleco](https://www.pleco.com) Chinese dictionary and Photo Mech
 
 
 
-### Phone essentials
+### Phone
 
 + [NetGuard](https://www.netguard.me/)
 + Orgzly
@@ -141,7 +141,7 @@ I've been using [Pleco](https://www.pleco.com) Chinese dictionary and Photo Mech
 Boots are my most important tool outdoors. I often wear Belleville Mini-Mil boots, which I bought after reading [this.](https://chasingyourmind.blogspot.com/2014/11/minimal-boots-and-belleville-mini-mil.html)
 
 
-#### WX and climate
+#### Field: wx and climate
 
 + [droughtmonitor.unl.edu](https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX)
 + [texaswildfirerisk.com](https://texaswildfirerisk.com/Map/Public/)
