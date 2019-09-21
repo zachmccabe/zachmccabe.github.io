@@ -45,7 +45,7 @@ Whenever possible I delete ephemeral correspondence immediately. However, you sh
 
 + Built on Github Pages
 + Served over Cloudflare's CDN
-+ Email correspondence by Google GSuite
++ Email correspondence by Google G Suite
 
 
 
