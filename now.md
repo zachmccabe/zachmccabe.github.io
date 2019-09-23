@@ -83,7 +83,7 @@ I've been using [Pleco](https://www.pleco.com) Chinese dictionary and Photo Mech
 + _todo.txt
 + Analog – and a bit borked – kanban using sticky notes and a white board; previously, Trello
 + Orgzly
-+ Peter Krogh's [The DAM Book](https://www.thedambook.com) helps me manage my picture archive.
++ Peter Krogh's [The DAM Book](https://www.thedambook.com) helps me manage my picture archive
 + Pomodoro technique for screen-based tasks, except writing
 
 
