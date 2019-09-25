@@ -1,6 +1,6 @@
 ---
 layout: kaoliang3_article
-title: Postcards to a young NGO Photographer
+title: Postcards from a photographer
 date: 2019/08/28
 description: Notes to my younger self
 cta: What did I miss? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
@@ -8,7 +8,8 @@ cta: What did I miss? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com
 ---
 
 
-_Notes to my younger self. I was so arrogant it's doubtful I would've read this… but you are welcome to it!_
+_Notes to my younger self, when I'd just started out with NGO clients. I was so arrogant. It's doubtful I would've read this but *you* seem smart, savvy. You seem like the sort that knows there is more to this work than a camera and good intentions. Either way, you are welcome to it!_
+
 
 
 ## Brass tacks, tactfully
