@@ -8,7 +8,7 @@ cta: What did I miss? Send me a postcard. <a href="mailto:hello@zachmccabe.com">
 ---
 
 
-_Notes to my younger self, when I'd just started out with NGO clients. I was so arrogant. It's doubtful I would've read this but *you* seem smart, savvy. You seem like the sort that knows there is more to this work than a camera and good intentions. Either way, you are welcome to it!_
+_Notes to my younger self, when I'd just started out with NGO clients. I was so arrogant. It's doubtful I would've read this but **you** seem smart, savvy. You seem like the sort that knows there is more to this work than a camera and good intentions. Either way, you are welcome to it!_
 
 
 
