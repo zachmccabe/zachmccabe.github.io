@@ -80,6 +80,30 @@ marign: 0;
 padding: 0;
 }
 
+
+
+
+
+
+
+/* FORMS, IMAGES, LISTS AND TABLES BELOW */
+
+figure {
+ margin: 5em auto; 
+}
+
+/*
+figure + h2, h3, h4 {
+  margin-top: 5em;
+}
+*/
+
+figcaption {
+  color: #3000a8;
+  font-weight: 800;
+  font-size: smaller; 
+}
+
 img {
   height: auto;
   width: 100%;
@@ -93,12 +117,6 @@ img[src$=".gif"] {
   max-width: 300px;
   margin: 5em auto;
 }
-
-
-
-
-
-/* FORMS, LISTS AND TABLES BELOW */
 
 ol, ul {
   margin: 1em 0;
@@ -162,6 +180,12 @@ h3 {
 
 h4 {
   color: #3000a8;
+}
+
+.chunky {
+color: #3000a8;
+font-weight: bold;
+font-size: large;
 }
 
 a {
