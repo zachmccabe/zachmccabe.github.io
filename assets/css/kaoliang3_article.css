@@ -92,16 +92,16 @@ figure {
  margin: 5em auto; 
 }
 
-/*
 figure + h2, h3, h4 {
   margin-top: 5em;
 }
-*/
 
 figcaption {
-  color: #3000a8;
-  font-weight: 800;
-  font-size: smaller; 
+  color: #000022;
+  font-size: smaller;
+  margin: 0 auto;
+  padding: 0 0.5em;
+  text-align: center;
 }
 
 img {
@@ -183,9 +183,8 @@ h4 {
 }
 
 .chunky {
-color: #3000a8;
-font-weight: bold;
-font-size: larger;
+  color: #3000a8;
+  font-size: 130%;
 }
 
 a {
