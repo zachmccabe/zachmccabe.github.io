@@ -194,9 +194,9 @@ a {
 
 aside, blockquote {
   border-left: 0.05rem solid #225d25;
+  font-size: 85%;
   margin-left: 0;
   padding: 0.5rem;
-  text-align: center;
 }
 
 aside + h2, h3, h4 {
