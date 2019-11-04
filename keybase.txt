@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hngshlng
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zachmccabe.com
+  * I am hngshlng (https://keybase.io/hngshlng) on keybase.
+  * I have a public key ASCYcW8DirlTkkBxxc9Q8A8BHYcav_DVIy8p2OtJ0g1lDgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012098716f038ab953924071c5cf50f00f011d871abff0d5232f29d8eb49d20d650e0a",
+      "host": "keybase.io",
+      "kid": "012098716f038ab953924071c5cf50f00f011d871abff0d5232f29d8eb49d20d650e0a",
+      "uid": "1de42e760995d7bb74f61c6920199f19",
+      "username": "hngshlng"
+    },
+    "merkle_root": {
+      "ctime": 1572843538,
+      "hash": "3d6d4bc3fe9427e1223f278c1f2af8accd1d564458c08125c27c67e8daf4e2364e97c32f1e2b29be12ccf9e3836799273db015dadd4674a74f24f4fec287ca6b",
+      "hash_meta": "c2b01a589817c97e60b9b6771a7b2c257ea70f50c9fb2aa6b2446a8c3e483203",
+      "seqno": 8685376
+    },
+    "service": {
+      "entropy": "nb+RM622WHXUcf1DohyAvUIz",
+      "hostname": "zachmccabe.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1572843552,
+  "expire_in": 504576000,
+  "prev": "52d854717388117148a279651bf91aaa6c141b1fb9b5d80fb5183ea966dc20d4",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmHFvA4q5U5JAccXPUPAPAR2HGr/w1SMvKdjrSdINZQ4Kp3BheWxvYWTESpcCCcQgUthUcXOIEXFIonllG/kaqmwUGx+5tdgPtRg+qWbcINTEIGn9HTIQtdF2x7IBtoV5kaF3fyabMtF8v+ae+gxj/GYWAgHCo3NpZ8RA4LazmhqidW/P6/uZw8ZvsscXVpNUTGttuzC6PWHO+HnqmcIb8ithpwIhsJIoeLuPK70OYPHZA4MYwIYM//nUDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILhKM8AiUB5qID0nAJE2VuTjPni/xEPyn5K7PBD+hbzzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hngshlng
+
+==================================================================
