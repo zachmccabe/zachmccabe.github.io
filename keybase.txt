@@ -4,64 +4,6 @@ https://keybase.io/hngshlng
 
 I hereby claim:
 
-  * I am an admin of http://zachmccabe.com
-  * I am hngshlng (https://keybase.io/hngshlng) on keybase.
-  * I have a public key ASCYcW8DirlTkkBxxc9Q8A8BHYcav_DVIy8p2OtJ0g1lDgo
-
-To do so, I am signing this object:
-
-{
-  "body": {
-    "key": {
-      "eldest_kid": "012098716f038ab953924071c5cf50f00f011d871abff0d5232f29d8eb49d20d650e0a",
-      "host": "keybase.io",
-      "kid": "012098716f038ab953924071c5cf50f00f011d871abff0d5232f29d8eb49d20d650e0a",
-      "uid": "1de42e760995d7bb74f61c6920199f19",
-      "username": "hngshlng"
-    },
-    "merkle_root": {
-      "ctime": 1572844083,
-      "hash": "d2f7c5ba2f2c0d4de4383278f05f9a9f110ea6b65a0f69aaca2ad4896f33c1ffd8c6a1f7ed9b2ee9bf9822b3e2b2ec3d5cd96dfa569c724e320132695f1c45c8",
-      "hash_meta": "a7ebe8d21b54c5c92cbc42b3ff552b5f836983e61454061bf3b887b3d4ae07f4",
-      "seqno": 8685454
-    },
-    "service": {
-      "entropy": "DXLAq6mq0u6jO/2h4fc2+4t8",
-      "hostname": "zachmccabe.com",
-      "protocol": "http:"
-    },
-    "type": "web_service_binding",
-    "version": 2
-  },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "4.7.2"
-  },
-  "ctime": 1572844137,
-  "expire_in": 504576000,
-  "prev": "9ef0622ed8a3fee2042f72dd3dc25c5ac6e9cec70c128d80b18d7eeaaa13003f",
-  "seqno": 11,
-  "tag": "signature"
-}
-
-which yields the signature:
-
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmHFvA4q5U5JAccXPUPAPAR2HGr/w1SMvKdjrSdINZQ4Kp3BheWxvYWTESpcCC8QgnvBiLtij/uIEL3LdPcJcWsbpzscMEo2AsY1+6qoTAD/EIOhNeNZ1uf0Qjve5LjxrRsM/y3V/6ZUAFvZqVJBcGWe1AgHCo3NpZ8RA3CN8OrIp+KN49S4CZKy8+lvRcgnJVbuX0ZbJQQHesbAKWb2IVVVSRp74J78jv1tdMFDnsC0y3iOLcVdnOMPcCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHMtuibESNZmfLBbririzldIz9Ji6PigkvihapSz5uxLo3RhZ80CAqd2ZXJzaW9uAQ==
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/hngshlng
-
-==================================================================
-
-
-==================================================================
-https://keybase.io/hngshlng
---------------------------------------------------------------------
-
-I hereby claim:
-
   * I am an admin of https://zachmccabe.com
   * I am hngshlng (https://keybase.io/hngshlng) on keybase.
   * I have a public key ASCYcW8DirlTkkBxxc9Q8A8BHYcav_DVIy8p2OtJ0g1lDgo
