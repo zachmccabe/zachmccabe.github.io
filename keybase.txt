@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/zachmccabe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zachmccabe.com
+  * I am zachmccabe (https://keybase.io/zachmccabe) on keybase.
+  * I have a public key ASCv3AhBQ9FLakLLqEWpRq9fme12_VZytliM0W2g7o4O9wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120afdc084143d14b6a42cba845a946af5f99ed76fd5672b6588cd16da0ee8e0ef70a",
+      "host": "keybase.io",
+      "kid": "0120afdc084143d14b6a42cba845a946af5f99ed76fd5672b6588cd16da0ee8e0ef70a",
+      "uid": "c905d1a298fee9600b1ad999dd371519",
+      "username": "zachmccabe"
+    },
+    "merkle_root": {
+      "ctime": 1573371511,
+      "hash": "2a731822d131fcb92a73ddc3c822e6f80c37ab24b683ef4b22f0e02ecb687cc61d3c4615220463f5b7ec5972414336a6bf4ab27b28420b41cb16693bff4256be",
+      "hash_meta": "f8b62a5ab36cf52275794f3ab7d5238fd58d6188a599aae22eae44ad82de8175",
+      "seqno": 9052312
+    },
+    "service": {
+      "entropy": "rXWRshJeK2AZA2ioQEdYEG+M",
+      "hostname": "zachmccabe.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573371527,
+  "expire_in": 504576000,
+  "prev": "5ec46c2c61535c6028dea45db731e7a2de5a542820104bd61ecfe03b737e20bc",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgr9wIQUPRS2pCy6hFqUavX5ntdv1WcrZYjNFtoO6ODvcKp3BheWxvYWTESpcCDsQgXsRsLGFTXGAo3qRdtzHnot5aVCggEEvWHs/gO3N+ILzEICg/koPBKm02T7EQVoO8apz8R/SSIcS2NiF8oq7y+cUGAgHCo3NpZ8RAf2LVifGGRIwCj1pac/iAK5bLz2MS8oPG5aIblpHCvLMHUeyhcnkK6gSBrtSwAxu097p2mqAqrOFvmXaINXwrCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDD6jed6wDDehbQh6om0Yy8DfdOzO/wIIr8QdJD1I3Lao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zachmccabe
+
+==================================================================
