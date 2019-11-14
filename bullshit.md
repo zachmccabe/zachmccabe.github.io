@@ -12,12 +12,14 @@ cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 **bullshit > create > iterate**
 
-Recently I keep having conversations with folks who seem to be afraid of their own imaginations. You know? So, I'm writing the following list to remind myself *why* I believe you and I both need bullshit. I won't claim it’s original.
+Recently it feels like I keep having conversations with folks who are afraid of their own imaginations. You know? I'm writing the following list to remind *myself* why I believe you and I both need bullshit. I won't claim it’s original.
 
 1. If you don't value your idea, neither will anyone else.
-2. Just because you value your idea doesn't make it valuable (to your friends, clients, lovers).
+2. Just because you value your idea doesn't make it valuable to others.
 3. Always iterate, because your idea is bullshit.
 
-Good things grow in manure. Take a guess, roll up your sleeves and bullshit me.
+BTW, value &ne; profit. But, in our paradigm, profit is often the only agreed-on standard used to measure value. "Hold a hammer, and all you'll see are nails." Heads up.
+
+Good things grow out of manure. Keep at it.
 
 ![Twirling a pen](https://www.zachmccabe.com/assets/viz/pen-flip-300.gif)
