@@ -8,9 +8,9 @@ cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 ---
 
 
-"Make a [bold hypothesis](https://en.wikipedia.org/wiki/Bold_hypothesis) and disprove it" – Karl Popper
+"Make a [bold hypothesis](https://en.wikipedia.org/wiki/Bold_hypothesis) and disprove it."<br />– Karl Popper
 
-**bullshit > create > iterate**
+{% include figure.html src="https://www.zachmccabe.com/assets/viz/pen-flip-300.gif" alt="Twirling a pen" caption="Good things grow out of manure. Keep at it." %}
 
 Recently it feels like I keep having conversations with folks who are afraid of their own imaginations. You know? I'm writing the following list to remind *myself* why I believe you and I both need bullshit. I won't claim it’s original.
 
@@ -18,6 +18,4 @@ Recently it feels like I keep having conversations with folks who are afraid of 
 2. Just because you value your idea doesn't make it valuable to others.
 3. Always iterate, because your idea is bullshit.
 
-Good things grow out of manure. Keep at it.
-
-![Twirling a pen](https://www.zachmccabe.com/assets/viz/pen-flip-300.gif)
+In my head, the cycle works like this: **bullshit > create > iterate**.
