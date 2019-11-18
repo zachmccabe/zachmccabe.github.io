@@ -3,7 +3,8 @@ html, body {
 }
 
 body {
-  background-color: #fefcf5;
+  background-color: #fefcfb;
+  /* background-color: #fefcf5; prev color */
   color: #47433a;
   font: normal normal 1.3em/1.5 sans-serif;
 }
@@ -89,19 +90,24 @@ padding: 0;
 /* FORMS, IMAGES, LISTS AND TABLES BELOW */
 
 figure {
- margin: 5em auto; 
+  margin: 5em auto; 
 }
 
 figure + h2, h3, h4 {
   margin-top: 5em;
 }
 
+figure img {
+  margin: 0;
+  padding: 0;
+}
+
 figcaption {
-  color: #000022;
+  color: #0f1320;
   font-size: smaller;
-  margin: 0 auto;
-  padding: 0 0.5em;
-  text-align: center;
+  margin: 0;
+  padding: 1em 0 1em;
+  text-align: left;
 }
 
 img {
@@ -115,7 +121,6 @@ img[src$=".gif"] {
   height: auto;
   width: 100%;
   max-width: 300px;
-/*  margin: 5em auto; */
 }
 
 ol, ul {
@@ -149,6 +154,7 @@ th, td {
 /* TYPOGRAPHY */
 
 h1, h2, h3, h4 {
+  color: #202a30;
   line-height: 1.25;
   overflow-wrap: break-word;
 }
@@ -162,10 +168,6 @@ h2, h3, h4 {
   text-align: left;
 }
 
-h2 {
-color: #113388;
-}
-
 h2 + h3 {
   margin-top: 0;
 }
@@ -174,13 +176,6 @@ h3 + h4 {
   margin-top: 0;
 }
 
-h3 {
-  color: #000022;
-}
-
-h4 {
-  color: #3000a8;
-}
 
 .chunky {
   color: #3000a8;
