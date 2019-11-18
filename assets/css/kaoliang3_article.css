@@ -115,7 +115,7 @@ img[src$=".gif"] {
   height: auto;
   width: 100%;
   max-width: 300px;
-  margin: 5em auto;
+/*  margin: 5em auto; */
 }
 
 ol, ul {
