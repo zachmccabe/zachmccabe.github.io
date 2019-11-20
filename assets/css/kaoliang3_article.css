@@ -4,7 +4,8 @@ html, body {
 
 body {
   background-color: #fefcfb;
-  /* background-color: #fefcf5; prev color */
+  /* btw that's rgb(254, 252, 251) */
+  /* btw #fefcf5; was prev background-color */
   color: #47433a;
   font: normal normal 1.3em/1.5 sans-serif;
 }
@@ -63,14 +64,14 @@ article, main, section {
 }
 
 .kaoCTA {
-  background-image: linear-gradient(to bottom right, rgb(254, 252, 245), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
+  background-image: linear-gradient(to bottom right, rgb(254, 252, 251), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
   margin-top: 5em;
   padding: 1em 0.5em;
   text-align: center;
 }
 
 .kaoNAV {
-background-image: linear-gradient(to bottom right, rgb(254, 252, 245), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
+background-image: linear-gradient(to bottom right, rgb(254, 252, 251), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
 margin: 5em auto 5em;
 padding: 1em 0.5em;
 }
@@ -105,6 +106,7 @@ figure img {
 figcaption {
   color: #0f1320;
   font-size: smaller;
+  font-weight: 700;
   margin: 0;
   padding: 1em 0 1em;
   text-align: left;
