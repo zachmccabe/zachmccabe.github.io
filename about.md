@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: About
 date: 2019-11-14
 description: Hi, it's Zach
-cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: What are you up to? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
@@ -22,6 +22,8 @@ The guide is my attempt to give something back to the creative community. It's a
 
 I grew up in the US, China and Japan. 
 
-My undergraduate degree is in East Asian Studies. I got my start making [photos](https://www.zachmccabe.com/postcard.html) for NGO clients in that region.
+After being accepted into architecture school, I took a deep breath and declined. Instead I went to study Chinese in Minnesota and at Shanghai's Huashida.
 
-For many years I’ve also worked as a ranch hand in Texas. 🍃 Sunshine is good.
+I got my start making [photos](https://www.zachmccabe.com/postcard.html) for NGO clients in East Asia.
+
+Now I'm in Texas. I work as a ranch hand when I'm not debugging the field guide. You can probably find me outside, either way. 🍃 Sunshine is good stuff.
