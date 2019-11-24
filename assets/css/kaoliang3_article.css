@@ -4,8 +4,6 @@ html, body {
 
 body {
   background-color: #fefcfb;
-  /* btw that's rgb(254, 252, 251) */
-  /* btw #fefcf5; was prev background-color */
   color: #47433a;
   font: normal normal 1.3em/1.5 sans-serif;
 }
