@@ -24,4 +24,4 @@ I grew up in the US, China and Japan.
 
 After studying Chinese in Minnesota and at Shanghai’s Huashida, I got my start making [photos](https://www.zachmccabe.com/postcard.html) for NGO clients in East Asia.
 
-Currently, I live in Texas. I work as a ranch hand when I'm not debugging the field guide. You can probably find me outside, either way. 🍃 Sunshine is good stuff.
+Currently I live in Texas where I work as a ranch hand when I'm not debugging the field guide. You can probably find me outside, either way. 🍃 Sunshine is good stuff.
