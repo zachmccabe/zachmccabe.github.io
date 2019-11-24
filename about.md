@@ -3,7 +3,7 @@ layout: kaoliang3_article
 title: About
 date: 2019-11-14
 description: Hi, it's Zach
-cta: What's new with you? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: What’s new with you? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
