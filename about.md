@@ -13,7 +13,7 @@ cta: What's new with you? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe
 I'm the author and producer of [The Photographers Field Guide to Beijing.
 ](https://www.zachmccabe.com/beijing.html)
 
-The guide is my attempt to give something back to the creative community. It's also an [experiment](https://www.zachmccabe.com/bullshit.html) in digital publishing.
+The field guide is my attempt to give something back to the creative community. It's also an [experiment](https://www.zachmccabe.com/bullshit.html) in digital publishing.
 
 
 
