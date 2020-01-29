@@ -8,15 +8,13 @@ cta: What did I miss? Send me a postcard. <a href="mailto:hello@zachmccabe.com">
 ---
 
 
-*Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients.*
-
-*I had a lot to learn.*
+*Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn. Here are a few notes to my younger self.*
 
 
 
 ## Brass tacks, tactfully
 
-You seem savvy enough to know that there is more to this work than good intentions. Hash out expectations with your client as early as possible.
+You seem savvy enough to know that there is more to this work than good intentions. Nevertheless, it is a messy business. Hash out expectations with your client as early as possible.
 
 
 
@@ -46,7 +44,7 @@ Don't worry if you'll have enough time, enough light or enough coverage – you 
 
 ## Be someone to lean on
 
-Field managers can juggle tasks like a superhero but even they can't read minds. Trust is a two-way street. Communicate often and navigate by asking [better questions.](https://www.zachmccabe.com/just-ask.html)
+Field managers can juggle tasks like a superhero but even they can't read minds. Trust is a two-way street. Communicate often and navigate by asking better questions.
 
 
 
