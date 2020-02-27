@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: Read me
 date: 2019-08-29
-updated: 2020-02-26
+update: 2020-02-26
 description: What you need to know about how this site works
 nav: |
   + [Privacy](https://www.zachmccabe.com/ntk.html#privacy)
