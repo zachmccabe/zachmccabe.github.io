@@ -2,16 +2,16 @@
 layout: kaoliang3_article
 title: Read me
 date: 2019-08-29
+updated: 2020-02-26
 description: What you need to know about how this site works
 nav: |
-  + [Privacy](https://www.zachmccabe.com/readme.html#privacy)
-  + [Technical ingredients](https://www.zachmccabe.com/readme.html#technical-ingredients)
-  + [Licensing and copyright](https://www.zachmccabe.com/readme.html#licensing-and-copyright)
+  + [Privacy](https://www.zachmccabe.com/ntk.html#privacy)
+  + [Technical ingredients](https://www.zachmccabe.com/ntk.html#technical-ingredients)
+  + [Licensing and copyright](https://www.zachmccabe.com/ntk.html#licensing-and-copyright)
 
 ---
 
-
-Hi, it's Zach. I *really* want this site to work for you. Even if you're on an old phone. Even when you're standing outside an airport waiting for the bus. Even when the library wi-fi is slow as hell.
+Updated: {% include print_update %} • Hi, it's Zach. I *really* want this site to work for you. Even if you're on an old phone. Even when you're standing outside an airport waiting for the bus. Even when the library wi-fi is slow as hell.
 
 Send your feedback, ideas or questions to me: [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
 
@@ -45,7 +45,7 @@ Whenever possible I delete ephemeral correspondence immediately. However, you sh
 
 + Built on Github Pages
 + Served over Cloudflare's CDN
-+ Email correspondence by Google G Suite
++ Email correspondence via Zoho Mail
 
 
 
