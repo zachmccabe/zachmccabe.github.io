@@ -11,7 +11,7 @@ nav: |
 
 ---
 
-Updated: {% include print_update %} • Hi, it's Zach. I *really* want this site to work for you. Even if you're on an old phone. Even when you're standing outside an airport waiting for the bus. Even when the library wi-fi is slow as hell.
+Updated: {% include print_update.html %} • Hi, it's Zach. I *really* want this site to work for you. Even if you're on an old phone. Even when you're standing outside an airport waiting for the bus. Even when the library wi-fi is slow as hell.
 
 Send your feedback, ideas or questions to me: [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
 
