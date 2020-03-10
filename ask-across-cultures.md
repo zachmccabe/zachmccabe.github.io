@@ -68,8 +68,7 @@ You'll just have to ask, and find out.
 
 #### Note 1
 
-Start with Meina Liu's "Verbal Communication styles and culture" in *Oxford Research Encyclopedias*. 
-<https://doi.org/10.1093/acrefore/9780190228613.013.162>
+Start with Meina Liu's "Verbal Communication styles and culture" in [Oxford Research Encyclopedias.](https://doi.org/10.1093/acrefore/9780190228613.013.162)
 
 <a href="#ref-1" alt="back">Back ↩</a>
 
