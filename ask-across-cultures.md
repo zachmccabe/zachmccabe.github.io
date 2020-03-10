@@ -12,9 +12,9 @@ description: Notes on some of the challenges of using questions while you’re o
 Updated: {% include print_update.html %} • Notes on some of the challenges of using questions while you're on the road.
 
 
-
-{% include page_nav.html content="Because I've added more material to this piece, I decided to split it off from [Just ask](https://www.zachmccabe.com/just-ask.html). – Zach" %}
-
+<div class="kaoNAV">
+<p>Because I've added more material to this piece, I decided to split it off from <a href="https://www.zachmccabe.com/just-ask.html">Just ask</a>. – Zach</p>
+</div>
 
 
 "Everything you're sure is right can be wrong in another place," observes a character in Barbara Kingsolver's novel, "The Poisonwood Bible."
