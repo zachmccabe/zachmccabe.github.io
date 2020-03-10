@@ -40,11 +40,11 @@ Here are the questions I've been taught to ask. (These are also the questions I 
 
 It is about the relationship between photographer, photographed and audience. Who trusts you to point that camera in the right direction?
 
-Is the problem that Art Wolfe's "Migration" was [Photoshopped,](https://www.washington.edu/alumni/columns/dec98/wolfe4.html) or the way he responded to criticism, or the way he captioned his images?
+Is the problem that Art Wolfe's "Migration" was [photoshopped,](https://www.washington.edu/alumni/columns/dec98/wolfe4.html) or the way he responded to criticism, or the way he captioned his images?
 
-"Photographs quote from appearances. The taking-out of the quotation produces a discontinuity, which is reflected in the ambiguity of a photograph's meaning. All photographed events are ambiguous, except to those whose personal relation to the event is such that their own lives supply the missing continuity. Usually, in public the ambiguity of photographs is hidden by the use of words which explain, less or more truthfully, the pictured events."
-
- – John Berger, "Appearances," *Another Way of Telling* by Berger and Mohr (New York: Vintage International, 1982), 128. 
+> "Photographs quote from appearances. The taking-out of the quotation produces a discontinuity, which is reflected in the ambiguity of a photograph's meaning. All photographed events are ambiguous, except to those whose personal relation to the event is such that their own lives supply the missing continuity. Usually, in public the ambiguity of photographs is hidden by the use of words which explain, less or more truthfully, the pictured events."
+>
+> – John Berger, "Appearances," *Another Way of Telling* by Berger and Mohr (New York: Vintage International, 1982), 128. 
 
 If Marcio Cabral's [anteater](https://www.nhm.ac.uk/press-office/Wildlife-Photographer-of-the-Year/wildlife-photographer-of-the-year-image-disqualified.html) is fraud, why is Robert Dosineau's [kiss](http://www.bbc.com/culture/story/20170213-the-iconic-photo-that-symbolises-love) so easy to forgive? Seems worth chewing on for a bit. It doesn't go down easy. I don't think it is meant to. Food for thought:
 
