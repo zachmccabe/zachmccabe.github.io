@@ -13,7 +13,11 @@ Updated: {% include print_update.html %} • Notes on some of the challenges of 
 
 
 
+
+<div class="kaoNAV">
 <p>Because I've added more material to this piece, I decided to split it off from <a href="https://www.zachmccabe.com/just-ask.html">Just ask</a>. – Zach</p>
+</div>
+
 
 
 "Everything you're sure is right can be wrong in another place," observes a character in Barbara Kingsolver's novel, "The Poisonwood Bible."
@@ -64,10 +68,9 @@ You'll just have to ask, and find out.
 
 #### Note 1
 
-Start with Liu's "Verbal Communication styles and culture" in *Oxford Research Encyclopedias*. 
-<!--
+Start with Meina Liu's "Verbal Communication styles and culture" in *Oxford Research Encyclopedias*. 
 <https://doi.org/10.1093/acrefore/9780190228613.013.162>
--->
+
 <a href="#ref-1" alt="back">Back ↩</a>
 
 
