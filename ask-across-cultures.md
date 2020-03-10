@@ -22,9 +22,9 @@ When you're in "another place," the signal:noise ratio falls through the floor. 
 
 Questions can help you navigate foreign terrain.
 
-"What is felt to be a message in one language does not necessarily survive the translation process. Information is more than words: it is words that fit into a cultural framework. Culturally adequate translation is an undervalued art."
-
-– Geert Hofstede et al, chapter 11 "Intercultural Encounters," _Cultures and Organizations: software of the mind_. (New York: McGraw Hill, 2010), 394.
+>"What is felt to be a message in one language does not necessarily survive the translation process. Information is more than words: it is words that fit into a cultural framework. Culturally adequate translation is an undervalued art."
+>
+> – Geert Hofstede et al, chapter 11 "Intercultural Encounters," _Cultures and Organizations: software of the mind_. (New York: McGraw Hill, 2010), 394.
 
 When you're working across cultures or languages it's important to think about *how* you ask questions. (One of my favorite books on this is Erin Meyer's "The Culture Map." It's well-written, practical and a great starting point for learning more about cross-cultural communication at work.)
 
@@ -64,8 +64,10 @@ You'll just have to ask, and find out.
 
 #### Note 1
 
-Start with Liu's "Verbal Communication styles and culture" in *Oxford Research Encyclopedias*. <https://doi.org/10.1093/acrefore/9780190228613.013.162>
-
+Start with Liu's "Verbal Communication styles and culture" in *Oxford Research Encyclopedias*. 
+<!--
+<https://doi.org/10.1093/acrefore/9780190228613.013.162>
+-->
 <a href="#ref-1" alt="back">Back ↩</a>
 
 
@@ -76,7 +78,7 @@ Read Andy Molinsky's "Cultural Differences Are More Complicated than What Countr
 
 Read Tarun Khanna's "Contextual Intelligence," also in [HBR.](https://hbr.org/2014/09/contextual-intelligence) It isn't a hard left turn, even though it'll feel like it when you click. Khanna's piece will help you start mulling over just how hard it can be to grok culture's influence over your workaday perception of the world - because, if you're anything like me, a clear application to an abstract problem is motivating.
 
-If you've got access to an academic library, check out Christine Béal's classic paper, "Did you have a good weekend: or, why there is no such thing as a simple question in cross-cultural encounters." The abstract is on [ResearchGate.](https://www.researchgate.net/publication/234558796_Did_You_Have_a_Good_Weekend_Or_Why_There_Is_No_Such_Thing_as_a_Simple_Question_in_Cross-Cultural_Encounters)
+If you've got access to an academic library, check out Christine Béal's classic paper, "Did you have a good weekend: or, why there is no such thing as a simple question in cross-cultural encounters." The abstract is available on [ResearchGate.](https://www.researchgate.net/publication/234558796_Did_You_Have_a_Good_Weekend_Or_Why_There_Is_No_Such_Thing_as_a_Simple_Question_in_Cross-Cultural_Encounters)
 
 <a href="#ref-2" alt="back">Back ↩</a>
 
@@ -84,10 +86,10 @@ If you've got access to an academic library, check out Christine Béal's classic
 
 #### Note 3
 
-"When two actors meet who have different models for recognizing and dealing with these sorts of problems, and when their respective models are backed up in their eyes by some special authority, authenticity, or feeling of rightness that may range all the way from ecclesiastical or sacred morality to self-evident common sense, *then* we may begin to speak of cultural difference."
-
-"Notice that culture appears as a sort of optical or perceptual illusion here: although always a presence, it can best be seen when thrown into relief by the quality of *difference*. For if two actors meet who share the same model or schema for dealing with, say, the power asymmetry evident between them, then culture is invisible, part of and buried in the deepest, and in this case, shared, context of their encounter."
-
-– Kevin Avruch, "Conceptualizing cultural difference," _Culture and Conflict Resolution_. (Washington DC: US Institute of Peace Press, 1998). 58-59.
+>"When two actors meet who have different models for recognizing and dealing with these sorts of problems, and when their respective models are backed up in their eyes by some special authority, authenticity, or feeling of rightness that may range all the way from ecclesiastical or sacred morality to self-evident common sense, *then* we may begin to speak of cultural difference."
+>
+>"Notice that culture appears as a sort of optical or perceptual illusion here: although always a presence, it can best be seen when thrown into relief by the quality of *difference*. For if two actors meet who share the same model or schema for dealing with, say, the power asymmetry evident between them, then culture is invisible, part of and buried in the deepest, and in this case, shared, context of their encounter."
+>
+> – Kevin Avruch, "Conceptualizing cultural difference," _Culture and Conflict Resolution_. (Washington DC: US Institute of Peace Press, 1998). 58-59.
 
 <a href="#ref-3" alt="back">Back ↩</a>
