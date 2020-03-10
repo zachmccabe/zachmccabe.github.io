@@ -15,7 +15,7 @@ Updated: {% include print_update.html %} • Notes on some of the challenges of 
 
 
 <div class="kaoNAV">
-<p>Because I've added more material to this piece, I decided to split it off from <a href="https://www.zachmccabe.com/just-ask.html">Just ask</a>. – Zach</p>
+<p>Because I've added more material to this piece, I decided to split it off from <a href="https://www.zachmccabe.com/just-ask.html">Just ask</a>.<br />– Zach</p>
 </div>
 
 
