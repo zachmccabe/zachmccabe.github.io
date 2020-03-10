@@ -20,7 +20,7 @@ Updated: {% include print_update.html %} • Notes on some of the challenges of 
 
 
 
-"Everything you're sure is right can be wrong in another place," observes a character in Barbara Kingsolver's novel, "The Poisonwood Bible."
+*"Everything you're sure is right can be wrong in another place,"* observes a character in Barbara Kingsolver's novel, "The Poisonwood Bible."
 
 When you're in "another place," the signal:noise ratio falls through the floor. You're overwhelmed. You're under pressure. Just when you need to think critically about your own assumptions – you can't. Heuristics keep tripping you up.
 
