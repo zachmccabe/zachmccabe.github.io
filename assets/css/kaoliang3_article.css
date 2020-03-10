@@ -193,14 +193,15 @@ h3 + h4 {
 
 a {
   color: #268bd2;
-  overflow-wrap: break-word;
+  /* overflow-wrap: break-word; */
+  word-wrap: break-word;
 }
 
 aside, blockquote {
-  border-left: 0.05rem solid #225d25;
+/*  border-left: 0.05rem solid #225d25; */
   font-size: 85%;
   margin-left: 0;
-  padding: 0.5rem;
+/*  padding: 0.5rem; */
 }
 
 aside + h2, h3, h4 {
