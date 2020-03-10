@@ -3,7 +3,13 @@ layout: kaoliang3_article
 title: Just ask
 date: 2019-04-01
 updated: 2020-03-07
-description: Maybe “dumb” questions aren’t so dumb after all?
+description: Notes on using questions to unstick confusing conversations
+nav: | 
+ + [3 strategies](https://www.zachmccabe.com/just-ask.html#3-strategies)
+ + [Prep in 3 steps](https://www.zachmccabe.com/just-ask.html#prep-in-3-steps)
+ + [Then, ask in 3 steps](https://www.zachmccabe.com/just-ask.html#then-ask-in-3-steps)
+ + [Ask with Empathy](https://www.zachmccabe.com/just-ask.html#ask-with-empathy)
+ + [Ante up to ask](https://www.zachmccabe.com/just-ask.html#ante-up-to-ask)
 
 ---
 
@@ -14,11 +20,8 @@ Updated: {% include print_update.html %} • Notes on using questions to unstick
 Also see: [Asking questions across cultures.](https://www.zachmccabe.com/ask-across-cultures.html)
 
 
-+ 3 strategies
-+ Prep in 3 steps
-+ Then, ask in 3 steps
-+ Ask with Empathy
-+ Ante up to ask
+
+{% include page_nav.html %}
 
 
 
