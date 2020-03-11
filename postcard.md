@@ -50,7 +50,7 @@ Field managers can juggle tasks like a superhero but even they can't read minds.
 
 ## WYSIATI 
 
-WYSIATI (what you see is all there is) is a concept from economist Daniel Kahneman's book, "Thinking, Fast and Slow" describing how people rely on heuristics – quick, automatic decisions based on patterns you already know.
+WYSIATI (what you see is all there is) is a concept from economist Daniel Kahneman's book, "Thinking, Fast and Slow," describing how people rely on heuristics – quick, automatic decisions based on patterns you already know.
 
 It's WYSIATI 10x when you're working in someone else's culture. Said another way:
 
