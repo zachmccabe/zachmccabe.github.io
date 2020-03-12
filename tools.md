@@ -14,7 +14,7 @@ nav: |
 ---
 
 
-Updated: {{ page.date | date: "%b %d %Y" }} • Partial list of some favorite and well-used tools. Simply noted here for curious friends.
+Updated: {% include print_update.html %} • Partial list of some favorite and well-used tools. Simply noted here for curious friends.
 
 
 
@@ -46,11 +46,9 @@ I've been using [Pleco] and Photo Mechanic for over a decade. Peter Krogh's [The
 
 + AP Stylebook, circa 2009
 + Speedy Stitcher sewing awl
-+ TXT via TextEdit on MacOS, with [Markor] and [Standard Notes] on Android
++ TXT; with TextEdit on MacOS, and with [Markor] on Android over Syncthing
 
 [Markor]: https://github.com/gsantner/markor
-
-[Standard Notes]: https://standardnotes.org/
 
 
 
