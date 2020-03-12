@@ -99,7 +99,7 @@ I've been using [Pleco] and Photo Mechanic for over a decade. Peter Krogh's [The
 
 
 
-!(iPod Linux tbt)[https://www.zachmccabe.com/assets/viz/ipod-linux-300.gif]
+![iPod Linux tbt](https://www.zachmccabe.com/assets/viz/ipod-linux-300.gif)
 
 
 Whenever I travel, go to the museum or read a bit of [archaeology,] it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
