@@ -4,7 +4,6 @@ title: Now
 date: 2019-08-28
 updated: 2020-02-20
 description: "Right now, I'm..."
-cta: What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
@@ -22,7 +21,7 @@ Since you were last here at `/now`, I've published v2 of my [field guide.] With 
 
 
 
-*HT to Belle Cooper and Kate Smalley, via Derek Sivers, for the `/now` page concept.*
+*HT to Belle Cooper and Kate Smalley, via Derek Sivers, for the* `/now` *page concept.*
 
 
 [tick.]: https://www.cdc.gov/ticks/geographic_distribution.html
