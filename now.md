@@ -2,14 +2,14 @@
 layout: kaoliang3_article
 title: Now
 date: 2019-08-28
-update: 2020-02-20
+updated: 2020-02-20
 description: "Right now, I'm..."
 cta: What are you up to now? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
 
-Updated: {{ page.date | date: "%b %d %Y" }} • Right now, I'm pulling at a Blacklegged [tick.] I've been down in the bottomlands, clearing brush and fixing fence before the poison ivy leafs out. Spring is already here, and I love that.
+Updated: {% include print_update.html %} • Right now, I'm pulling at a Blacklegged [tick.] I've been down in the bottomlands, clearing brush and fixing fence before the poison ivy leafs out. Spring is already here, and I love that.
 
 Since you were last here at `/now`, I've published v2 of my [field guide.] With that out of the way:
 
