@@ -8,13 +8,11 @@ body {
   font: normal normal 1.3em/1.5 sans-serif;
 }
 
-
 @media (max-width: 25em) {h1,h2{font-size:1.5em}}
 @media (min-width: 64em){body{font-size:1.2em;line-height:1.6}}
 @media (min-width: 85em){body{font-size:1.4em}}
 @media (min-width: 120em){body{font-size:2.2em}}
 @media (min-width: 160em){body{font-size:3em}}
-
 
 /*
 @media (max-width: 25em) {h1,h2{font-size:1.5em}}
@@ -26,18 +24,15 @@ body {
 
 header, footer {
   text-align: center;
+  margin: 0 auto;
 }
 
 header {
-  margin: 0 auto;
   padding-top: 3em;
 }
 
 footer {
-  font-size: small;
-  margin: 0 auto;
   padding: 5em 0;
-  width: 100%;
 }
 
 article, main, section {
