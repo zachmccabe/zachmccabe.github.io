@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: Just ask
 date: 2019-04-01
-updated: 2020-03-18
+update: 2020-03-18
 description: Notes on cross-cultural communication and using questions to unstick confusing conversations
 nav: | 
  + [Cross-cultural communication is hard](https://www.zachmccabe.com/just-ask.html#cross-cultural-communication-is-hard)
@@ -10,7 +10,7 @@ nav: |
  + [Be aware of context](https://www.zachmccabe.com/just-ask.html#be-aware-of-context)
  + [Prep in 3 steps](https://www.zachmccabe.com/just-ask.html#prep-in-3-steps)
  + [Then ask in 3 steps](https://www.zachmccabe.com/just-ask.html#then-ask-in-3-steps)
- + [Just ask](https://www.zachmccabe.com/just-ask.html#just-ask)
+ + [Ante up](https://www.zachmccabe.com/just-ask.html#ante-up)
  
 ---
 
@@ -96,7 +96,7 @@ Wherever you're from, you can think of some exceptions to patterns like these. N
 5. Make space, and wait for an answer.
 6. Keep track of your goal during the conversation.
 
-"The better you know yourself, the better you're able to hear other people," says Kate Murphy, the author of "You're Not Listening: what you're missing and why it matters."<sup><a>4</a></sup>
+"The better you know yourself, the better you're able to hear other people," says Kate Murphy, the author of "You're Not Listening: what you're missing and why it matters."<sup><a id="ref-4" href="#note-4" alt="footnote">4</a></sup>
 
 For example: After an taxing conversation, I know that I need to remind myself that I was able to obtain whatever it is I went in there asking about. (That's number 6 on the above list.) If I didn't do that, I'd feel like shit about the emotionally-draining conversations I need to have, no matter how productive they really might be.
 
@@ -149,7 +149,7 @@ For more on this, start with Meina Liu's "Verbal communication styles and cultur
 
 #### Note 4
 
-Kate Murphy interview with [Krys Boyd.](https://think.kera.org/2020/03/12/why-no-one-listens-to-you/) Quote is at 27:26 min into the interview.
+Kate Murphy interview with [Krys Boyd.](https://think.kera.org/2020/03/12/why-no-one-listens-to-you/) Quote pulled from 27:26 min into the interview.
 
 Getting into a conversation is like getting into your car: You know you've got blind spots – that's why you use the cars' mirrors. Know what frustrates you. Know what your tender spots are. Knowing yourself will give you a mirror for those conversational blindspots.  Know when when to slow down and you can avoid misreading the other person, says Murphy.
 
