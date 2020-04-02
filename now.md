@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: Now
 date: 2019-08-28
-updated: 2020-02-20
+update: 2020-02-20
 description: "Right now, I'm..."
 
 ---
