@@ -17,9 +17,6 @@ Since you were last here at `/now`, I've published v2 of my [field guide.] With 
 
 
 
-{% include page_box.html box="Need an extra pair of hands? Let's talk about your next big project: <hello@zachmccabe.com>" %}
-
-
 
 *HT to Belle Cooper and Kate Smalley, via Derek Sivers, for the* `/now` *page concept.*
 
