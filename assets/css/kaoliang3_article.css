@@ -191,6 +191,7 @@ a {
 aside, blockquote {
   color: #202a30;
   font-size: 80%;
+  line-height:2;
   margin-left: 0;
 }
 
