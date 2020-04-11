@@ -86,10 +86,6 @@ padding: 0;
 
 
 
-
-
-
-
 /* FORMS, IMAGES, LISTS AND TABLES BELOW */
 
 figure {
@@ -193,10 +189,9 @@ a {
 }
 
 aside, blockquote {
-/*  border-left: 0.05rem solid #225d25; */
-  font-size: 85%;
+  color: #202a30;
+  font-size: 80%;
   margin-left: 0;
-/*  padding: 0.5rem; */
 }
 
 aside + h2, h3, h4 {
