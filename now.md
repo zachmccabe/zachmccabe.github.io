@@ -12,6 +12,8 @@ Updated: {% include print_update.html %} • Right now, I'm doing well.
 
 Staying focused. Staying flexible. Drinking down fresh air and listening to happy, horny frogs call across the spring woods.
 
+Right now, how are you?
+
 ---
 
 *A Now page is a reminder of your priorities.*
