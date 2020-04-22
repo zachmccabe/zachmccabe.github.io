@@ -8,7 +8,7 @@ body {
   font: normal normal 1em/1.6 sans-serif;
 }
 
-@media (min-width: 64em){body{font-size:1.2em;line-height:1.6}}
+@media (min-width: 64em){body{font-size:1.2em}}
 @media (min-width: 85em){body{font-size:1.4em}}
 @media (min-width: 120em){body{font-size:2.2em}}
 @media (min-width: 160em){body{font-size:3em}}
@@ -93,7 +93,7 @@ figure img {
 }
 
 figcaption {
-  color: #0f1320;
+  color: #0f1320; /* same color as h4, blockquote */
   font-size: smaller;
   font-weight: 700;
   margin: 0;
@@ -175,7 +175,7 @@ font-size: 1.6em;
 }
 
 h4 {
-color: #0F1320; /* same color used for figcaption */
+color: #0F1320; /* same color used for figcaption, blockquote */
 font-size: 1.3em;
 }
 
@@ -186,7 +186,7 @@ a {
 }
 
 aside, blockquote {
-  color: #202a30;
+  color: #0f1320; /* same color as figcaption, h4 */
   margin-left: 0;
 }
 
