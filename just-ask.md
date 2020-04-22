@@ -72,9 +72,9 @@ Heuristics don't always travel well. What happens when you aren't in your day-to
 2. What are you assuming with your question?
 3. What's your goal with this question?
 
-Direct talk will have the opposite effect you want if you are an American in NE Asia. The careful posturing that works so well at home won't have the same appeal in "another place." You won't come off as a confident straight shooter. You'll come off as juvenile, incompetent or hard to work with.
+Direct talk will have the opposite effect you want if you are an American in East Asia. The careful posturing that works so well at home won't have the same appeal in "another place." You won't come off as a confident straight shooter. You'll come off as juvenile, incompetent or hard to work with.
 
-For example, in the US and parts of W Europe people expect direct talk: 
+For example, in the United States and parts of Western Europe people generally expect direct talk: 
 
 + You ask me a question, and I give you a blunt answer. Culturally, this signals "honesty." That's good!
 + You'll avoid asking about things that are too personal. That'd be rude because you'd embarrass me – or both of us.
@@ -149,6 +149,6 @@ For more on this, start with Meina Liu's "Verbal communication styles and cultur
 
 Kate Murphy interview with [Krys Boyd.](https://think.kera.org/2020/03/12/why-no-one-listens-to-you/) Quote pulled from 27:26 min into the interview.
 
-Getting into a conversation is like getting into your car: You know you've got blind spots – that's why you use the cars' mirrors. Know what frustrates you. Know what your tender spots are. Knowing yourself will give you a mirror for those conversational blindspots.  Know when when to slow down and you can avoid misreading the other person, says Murphy.
+Getting into a conversation is like getting into your car: You know you've got blind spots – that's why you use the car's mirrors. Know what frustrates you. Know what your tender spots are. Knowing yourself will give you a mirror for those conversational blindspots.  Know when when to slow down and you can avoid misreading the other person, says Murphy.
 
 <a href="#ref-4" alt="back">Back ↩</a>
