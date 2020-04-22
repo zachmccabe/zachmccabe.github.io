@@ -78,7 +78,7 @@ For the nitty gritty on the tools I use in my digital publishing workflow, you c
 
 [droughtmonitor.unl.edu]: https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX
 
-[Radarscope,]: https://www.radarscope.app/
+[Radarscope]: https://www.radarscope.app/
 
 [texaswildfirerisk.com]: https://texaswildfirerisk.com/Map/Public/
 
