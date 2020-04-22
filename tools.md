@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: Tools
 date: 2019-08-28
-update: 2020-03-12
+update: 2020-04-22
 description: "Partial list of some favorite and most-used tools"
 nav: |
   + [Organization and time mgmt](https://www.zachmccabe.com/tools.html#organization-and-time-mgmt) 
@@ -14,7 +14,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • Partial list of some favorite and well-used tools. Simply noted here for curious friends.
+Updated: {% include print_update.html %} • Partial list of the tools I use most. Simply noted here for curious friends.
 
 
 
@@ -24,9 +24,11 @@ Updated: {% include print_update.html %} • Partial list of some favorite and w
 
 ## Longevity
 
-I've been using [Pleco] and Photo Mechanic for over a decade. Peter Krogh's [The DAM Book] has been helping me manage my picture archive for at least that long.
+I've been using [Pleco] and [Photo Mechanic] for over a decade. Peter Krogh's [The DAM Book] has been helping me manage my picture archive for at least that long.
 
 [Pleco]: https://www.pleco.com/
+
+[Photo Mechanic]: https://home.camerabits.com/
 
 [The DAM Book]: https://www.thedambook.com/
 
@@ -34,7 +36,7 @@ I've been using [Pleco] and Photo Mechanic for over a decade. Peter Krogh's [The
 
 ## Organization and time mgmt
 
-+ Borked white board kanban; previously, Trello
++ Borked white board kanban
 + [Orgzly] on Android
 + Pomodoro technique for screen-based tasks, except writing
 
@@ -44,40 +46,49 @@ I've been using [Pleco] and Photo Mechanic for over a decade. Peter Krogh's [The
 
 ## Office
 
-+ AP Stylebook, circa 2009
++ AP Stylebook from 2009
 + Speedy Stitcher sewing awl
-+ TXT; with TextEdit on MacOS, and with [Markor] on Android over Syncthing
++ Plain TXT, please; currently I'm using [Markor] and [FX] on Android and, as always, TextEdit on MacOS
 
 [Markor]: https://github.com/gsantner/markor
+
+[FX]: http://www.nextapp.com/fx/
+
+For the nitty gritty on the tools I use in my digital publishing workflow, you can read this boring [colophon] from my field guide.
+
+[colophon]: https://www.zachmccabe.com/beijing/how_the_book_got_made.html
 
 
 
 ## Phone
 
-+ Android, cheap and cheerful Motorola
-+ iNaturalist
 + [NetGuard]
++ Pleco Chinese reference
 + [Syncthing]
-+ Weather:
-  - [Radarscope,] recommended by my NWS spotter trainer and worth every penny
++ Weather, because I work and play outside:
   - [droughtmonitor.unl.edu]
+  - [Radarscope]
   - [texaswildfirerisk.com]
-  - @wfaaweather on Twitter
+  - Joshua Tee's [wX]
+  - @wfaaweather
 
 [NetGuard]: https://www.netguard.me/
 
 [Syncthing]: https://syncthing.net/
 
-[Radarscope,]: https://www.radarscope.app/
-
 [droughtmonitor.unl.edu]: https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX
 
+[Radarscope,]: https://www.radarscope.app/
+
 [texaswildfirerisk.com]: https://texaswildfirerisk.com/Map/Public/
+
+[wX]: https://docs.google.com/document/d/1OQrviP10XBvQZ7QKh5R4bsd72ZKffK5f0ISRuCaSk5k/edit
 
 
 
 ## Photo mgmt
 
++ "The DAM Book" by Peter Krogh
 + [Rclone,] right now
 + Photo Mechanic
 + Spotlight on macOS indexes IPTC description, keywords and headline fields in JPG files, thus search is wicked fast; this is so underrated, you guys!
@@ -86,10 +97,9 @@ I've been using [Pleco] and Photo Mechanic for over a decade. Peter Krogh's [The
 
 
 
-
 ## Field
 
-+ Always looking for a better hat
++ Always looking for better work gloves
 + Billhook
 + Bull nose pliers
 + Dish soap to wash off the poison ivy
@@ -97,11 +107,14 @@ I've been using [Pleco] and Photo Mechanic for over a decade. Peter Krogh's [The
 
 
 
-![iPod Linux tbt](https://www.zachmccabe.com/assets/viz/ipod-linux-300.gif)
+{% include figure.html src="https://www.zachmccabe.com/assets/viz/ipod-linux-300.gif" alt="Text streams across an old iPod screen booting into iPod Linux" caption="Running iPod Linux in the early 2000s: when I was experimenting with using my 10GB iPod to record audio notes and backup JPGs (via a very funky Belkin CF card interface that required AAA batteries) in scenarios where a laptop won't work." %}
+
 
 
 Whenever I travel, go to the museum or read a bit of [archaeology,] it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
 
-*HT Belle Cooper for inspiring the idea for a tools list. She is a formidable talent.*
+*HT [Belle Cooper] for inspiring the idea for both this page and my now page.*
 
 [archaeology,]: https://archive.org/details/StoneAgeEconomics_201611/page/n31
+
+[Belle Cooper]: http://bellebcooper.com/
