@@ -10,7 +10,7 @@ cta: What’s new with you? <a href="mailto:hello@zachmccabe.com">hello@zachmcca
 
 ## Hi, it's Zach
 
-This website is for friends, clients and curious internet strangers. You can check my [now page](https://www.zachmccabe.com/now.html).
+This website is for friends, clients and curious internet strangers. You can check the [now page](https://www.zachmccabe.com/now.html) for the latest.
 
 
 
