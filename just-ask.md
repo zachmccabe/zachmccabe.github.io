@@ -26,7 +26,7 @@ Updated: {% include print_update.html %} • Notes on cross-cultural communicati
 
 ## Cross-cultural communication is hard
 
-"Everything you're sure is right can be wrong in another place," observes a character in Barbara Kingsolver's novel, "The Poisonwood Bible."
+"Everything you're sure is right can be wrong in another place," observes a young character in Barbara Kingsolver's novel, "The Poisonwood Bible."
 
 When you're in "another place," the signal:noise ratio falls through the floor. There are sudden, perplexing holes in all your conversations. You're under pressure to get the job done. Just when you need to think critically about your own assumptions – you can't. You're overwhelmed.
 
