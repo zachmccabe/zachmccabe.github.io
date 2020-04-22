@@ -18,6 +18,7 @@ Recently it feels like I keep having conversations with folks who are afraid of 
 2. Just because you value your idea doesn't make it valuable to others.
 3. Always iterate, because your idea is bullshit.
 
-In my head, the cycle works like this: **bullshit > create > iterate**.
+In my head, the cycle works like this:<br />
+**bullshit > create > iterate**.
 
 Good things grow out of manure. Keep at it.
