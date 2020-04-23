@@ -45,12 +45,15 @@ color: #268bd2;
 
 </style>
 </head>
-
 <body>
 <div class="big">
 <div class="lil">
-{% include header.html %}
-{% include key_details.html %}
+<p>{% include nav.html %}</p>
+<p>{% include key_details.html %}</p>
+
 {{ content }}
+
+</div>
+</div>
 </body>
 </html>
