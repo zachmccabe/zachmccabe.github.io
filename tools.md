@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: Tools
 date: 2019-08-28
-update: 2020-04-22
+update: 2020-05-23
 description: "Partial list of some favorite and most-used tools"
 nav: |
   + [Organization and time mgmt](https://www.zachmccabe.com/tools.html#organization-and-time-mgmt) 
@@ -54,7 +54,7 @@ I've been using [Pleco] and [Photo Mechanic] for over a decade. Peter Krogh's [T
 
 [FX]: http://www.nextapp.com/fx/
 
-For the nitty gritty on the tools I use in my digital publishing workflow, you can read this boring [colophon] from my field guide.
+For the nitty gritty on the tools I use in my digital publishing workflow, you can read this [colophon] from my field guide.
 
 [colophon]: https://www.zachmccabe.com/beijing/how_the_book_got_made.html
 
@@ -70,7 +70,6 @@ For the nitty gritty on the tools I use in my digital publishing workflow, you c
   - [Radarscope]
   - [texaswildfirerisk.com]
   - Joshua Tee's [wX]
-  - @wfaaweather
 
 [NetGuard]: https://www.netguard.me/
 
@@ -89,9 +88,12 @@ For the nitty gritty on the tools I use in my digital publishing workflow, you c
 ## Photo mgmt
 
 + "The DAM Book" by Peter Krogh
++ [ExifTool]
 + [Rclone,] right now
 + Photo Mechanic
 + Spotlight on macOS indexes IPTC description, keywords and headline fields in JPG files, thus search is wicked fast; this is so underrated, you guys!
+
+[ExifTool]: https://exiftool.org/
 
 [Rclone,]: https://rclone.org/
 
@@ -113,8 +115,10 @@ For the nitty gritty on the tools I use in my digital publishing workflow, you c
 
 Whenever I travel, go to the museum or read a bit of [archaeology,] it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
 
-*HT [Belle Cooper] for inspiring the idea for both this page and my now page.*
+*HT [Belle Cooper] for inspiring the idea for both this page, and my [now page.]*
 
 [archaeology,]: https://archive.org/details/StoneAgeEconomics_201611/page/n31
 
 [Belle Cooper]: http://bellebcooper.com/
+
+[now page]: https://www.zachmccabe.com/now
