@@ -6,7 +6,7 @@ description: I'm working on a working definition
 cta: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 nav: |
   + [5 questions to ask nonfiction](https://www.zachmccabe.com/nonfiction#5-questions-to-ask-nonfiction)
-  + [WTF is nonfiction tho](https://www.zachmccabe.com/nonfiction#wtf-is-nonfiction-tho)
+  + [WTF is nonfiction, tho](https://www.zachmccabe.com/nonfiction#wtf-is-nonfiction-tho)
   + [Working definition](https://www.zachmccabe.com/nonfiction#working-definition)
 
 ---
@@ -22,17 +22,17 @@ Updated: {% include print_update.html %} • I'm working on a working defintion.
 
 ## 5 questions to ask
 
-Forget about Photoshop. Don't worry about deep fakes. The real question isn't about techno-phantoms.
+Forget about Photoshop for now. Don't worry about deep fakes. The real question isn't about techno-phantoms. The real question is the same as always: *who trusts you?*
 
-The real question is the same as always: *who trusts you?*
-
-Here are the questions I've been taught to ask. (These are also the questions I trust my clients, editors and audience to ask my pictures.)
+Here are the questions I've been taught to ask a picture:
 
 + Where is it published?
 + Why publish it now?
 + Who made it, and who is it for?
 + How can I verify it?
 + What did it cost, and what's the payoff?
+
+(These are the questions I trust my clients, editors and audience to ask my pictures, too.)
 
 
 
@@ -46,12 +46,13 @@ Is the problem that Art Wolfe's "Migration" was [photoshopped,](https://www.wash
 >
 > – John Berger, "Appearances," *Another Way of Telling* by Berger and Mohr (New York: Vintage International, 1982), 128. 
 
-If Marcio Cabral's [anteater](https://www.nhm.ac.uk/press-office/Wildlife-Photographer-of-the-Year/wildlife-photographer-of-the-year-image-disqualified.html) is fraud, why is Robert Dosineau's [kiss](http://www.bbc.com/culture/story/20170213-the-iconic-photo-that-symbolises-love) so easy to forgive? Seems worth chewing on for a bit. It doesn't go down easy. I don't think it is meant to. Food for thought:
+If Marcio Cabral's [anteater](https://www.nhm.ac.uk/press-office/Wildlife-Photographer-of-the-Year/wildlife-photographer-of-the-year-image-disqualified.html) is fraud, why is Robert Dosineau's [kiss](http://www.bbc.com/culture/story/20170213-the-iconic-photo-that-symbolises-love) so easy to forgive? Seems worth chewing on for a bit. Food for thought:
 
 + [Reuters Handbook](http://handbook.reuters.com/index.php?title=A_Brief_Guide_to_Standards,_Photoshop_and_Captions)
 + An open letter from photographer [Bruce Percy](https://www.brucepercy.co.uk/blog/2017/5/22/photographers-code-of-conduct)
 + [The unbaited owl](https://www.danieldietrichphotography.com/blog/2014/10/theunbaitedowl)
 + Ami Vitale's talk, ["Half the truth"](https://m.youtube.com/watch?v=PjU8vtBpX0E)
+
 
 
 ## Working definition
