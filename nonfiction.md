@@ -24,7 +24,7 @@ Updated: {% include print_update.html %} • I'm working on a working defintion.
 
 Forget about Photoshop for now. Don't worry about deep fakes. The real question isn't about techno-phantoms. The real question is the same as always: *who trusts you?*
 
-Here are the questions I've been taught to ask a picture:
+Here are 5 questions I've been taught to ask a picture:
 
 + Where is it published?
 + Why publish it now?
