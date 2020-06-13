@@ -13,7 +13,7 @@ nav: |
 
 Updated: {% include print_update.html %} • Hi, friend. This page explains what what you need to know about how this website works.
 
-I *really* want this site to work for you: Even if you're on an old phone; Even when you're standing outside an airport waiting for the bus; Even when the library wi-fi is slow as hell. To that end, I've been choosey with my ingredients. You can read the recipe below.
+I *really* want this site to work for you: Even if you're on an old phone; Even if you're standing outside an airport waiting for the bus; Even if the library wi-fi is slow as hell. To that end, I've chosen my ingredients. Let me know how you like the recipe: <hello@zachmccabe.com>.
 
 
 
@@ -51,6 +51,6 @@ I delete ephemeral correspondence immediately. However, you should *also* know t
 
 ## Licensing and copyright
 
-I'm always happy to talk with you about your licensing needs: [hello@zachmccabe.com](mailto:hello@zachmccabe.com)
+I'm always happy to talk with you about your licensing needs: [hello@zachmccabe.com](mailto:hello@zachmccabe.com).
 
 The photos, articles and other content on this website are copyright. You must obtain written permission before republishing, etc. Email me for more info.
