@@ -1,0 +1,227 @@
+html, body {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #f0f7e6;
+  color: #47433a;
+  font: normal normal 1em/1.6 sans-serif;
+}
+
+@media (min-width: 64em){body{font-size:1.2em}}
+@media (min-width: 85em){body{font-size:1.4em}}
+@media (min-width: 120em){body{font-size:2.2em}}
+@media (min-width: 160em){body{font-size:3em}}
+
+header, footer {
+  text-align: center;
+  margin: 0 auto;
+}
+
+header {
+  padding-top: 3em;
+}
+
+footer {
+  padding: 5em 0;
+}
+
+article, main, section {
+  margin: 0 auto;
+  padding: 0;
+}
+
+
+
+
+
+/* MULTI USE BOXES */
+
+.xwrap {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  min-height: 20em;
+  justify-content: center;
+  padding: 0 1em;
+  margin: 0 auto;
+}
+
+.xnest {
+  margin: auto;
+}
+
+.xnest20 {
+  margin: auto;
+  max-width: 20em;
+}
+
+.kaoCTA {
+  background-image: linear-gradient(to bottom right, rgb(254, 252, 251), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
+  margin-top: 5em;
+  padding: 1em 0.5em;
+  text-align: center;
+}
+
+.kaoNAV {
+background-image: linear-gradient(to bottom right, rgb(254, 252, 251), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
+margin: 5em auto 5em;
+padding: 1em 0.5em;
+}
+
+.kaoNAV ul {
+list-style-type: none;
+marign: 0;
+padding: 0;
+}
+
+
+
+/* FORMS, IMAGES, LISTS AND TABLES BELOW */
+
+figure {
+  margin: 5em auto; 
+}
+
+figure + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+figure img {
+  margin: 0;
+  padding: 0;
+}
+
+figcaption {
+  color: #0f1320; /* same color as h4, blockquote */
+  font-size: smaller;
+  font-weight: 700;
+  margin: 0;
+  padding: 1em 0 1em;
+  text-align: left;
+}
+
+img {
+  height: auto;
+  width: 100%;
+  max-width: 500px;
+  margin: 5em auto;
+}
+
+img[src$=".gif"] {
+  height: auto;
+  width: 100%;
+  max-width: 300px;
+}
+
+ol, ul {
+  margin: 1em 0;
+  margin-left: 1em;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+table {
+  margin: 5em auto;
+}
+
+th {
+  margin: 1em;
+  text-transform: uppercase;
+}
+
+th, td {
+  border-bottom: 1px dotted currentColor;
+  color: currentColor;
+  text-align: left;
+  padding: 0.5em;
+}
+
+
+
+/* TYPOGRAPHY */
+
+h1, h2, h3, h4 {
+line-height: 1.2;
+overflow-wrap: break-word;
+font-family: sans-serif;
+}
+
+h1, h4 {
+font-weight: 700;
+}
+
+h1 {
+color: currentColor;
+font-size: 2.6em;
+text-align: center;
+}
+
+h2, h3 {
+font-weight: 400;
+}
+
+h2 + h3 {
+margin-top: 0;
+}
+
+h2 {
+color: #175798;  /* darker, from link color aka #268bd2 */
+font-size: 2em;
+}
+
+h3 {
+color: #041650;  /* much darker, from link color aka #268bd2 */
+font-size: 1.6em;
+}
+
+h3 + h4 {
+margin-top: 0;
+}
+
+h4 {
+color: #0F1320; /* same color used for figcaption, blockquote */
+font-size: 1.3em;
+}
+
+a {
+  color: #268bd2;
+  /* overflow-wrap: break-word; */
+  word-wrap: break-word;
+}
+
+aside, blockquote {
+  color: #0f1320; /* same color as figcaption, h4 */
+  margin-left: 0;
+}
+
+aside + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+blockquote + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+mark {
+  background-color: #fefcf5;
+  border-bottom: 1px dotted currentColor;
+  color: currentColor;
+  padding: 0.1em;
+  text-decoration: none;
+}
+
+p + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+ol + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+ul + h2, h3, h4 {
+  margin-top: 5em;
+}
