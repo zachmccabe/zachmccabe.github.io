@@ -1,7 +1,7 @@
 ---
 layout: kaoliang3_article
 title: About 
-date: 2020-06-14
+date: 2020-06-15
 description: Hi, it's Zach
 cta: What’s new with you? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
@@ -10,7 +10,7 @@ cta: What’s new with you? <a href="mailto:hello@zachmccabe.com">hello@zachmcca
 
 ## Hi, it's Zach
 
-How are you, curious internet friend? 🤗 You can use this website to see what I'm working on [now.] Want talk shop? -- I keep an up-to-date list of [tools,] too.
+How are you, curious internet friend? 🤗 You can use this website to see what I'm working on [now.] Want talk shop? – I keep an up-to-date list of [tools,] too.
 
 [now.]: https://www.zachmccabe.com/now.html
 
