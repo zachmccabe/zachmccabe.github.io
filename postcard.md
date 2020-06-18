@@ -14,7 +14,7 @@ cta: What did I miss? Send me a postcard. <a href="mailto:hello@zachmccabe.com">
 
 ## Brass tacks, tactfully
 
-You seem savvy enough to know that there is more to this work than good intentions. Nevertheless, it is a messy business. Hash out expectations with your client as early as possible.
+You seem savvy enough to know that there is more to this work than good intentions. Nevertheless, it is a messy business. Hash out expectations with your client as early as possible. The relationship between NGOs and the independent press is complicated. You need to be aware of your role -- and limitations -- within the larger, international media supply chain.
 
 
 
