@@ -75,6 +75,29 @@ marign: 0;
 padding: 0;
 }
 
+hr {
+border: none;
+color: currentColor;
+height: 1em;
+margin: 2em auto 2em;
+padding: 0;
+text-align: center;
+width: auto;
+}
+
+hr:after {
+border: none;
+color: currentColor;
+content: "•";
+height: 1em;
+margin: 2em auto 2em;
+padding: 0;
+text-align: center;
+width: auto;
+}
+
+/* but if you need more than one style on hr tag, you'll have call it with a workaround like this one: http://www.sovavsiti.cz/css/hr.html */
+
 
 
 /* FORMS, IMAGES, LISTS AND TABLES BELOW */
