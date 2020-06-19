@@ -7,7 +7,6 @@ description: What you need to know about how this site works
 nav: |
   + [Privacy](https://www.zachmccabe.com/ntk.html#privacy)
   + [Technical ingredients](https://www.zachmccabe.com/ntk.html#technical-ingredients)
-  + [Licensing and copyright](https://www.zachmccabe.com/ntk.html#licensing-and-copyright)
 
 ---
 
@@ -47,10 +46,3 @@ I delete ephemeral correspondence immediately. However, you should *also* know t
 + Served over Cloudflare's CDN.
 + Email correspondence via Zoho Mail.
 
-
-
-## Licensing and copyright
-
-I'm always happy to talk with you about your licensing needs: [hello@zachmccabe.com](mailto:hello@zachmccabe.com).
-
-The photos, articles and other content on this website are copyright. You must obtain written permission before republishing, etc. Email me for more info.
