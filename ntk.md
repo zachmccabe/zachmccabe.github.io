@@ -12,7 +12,9 @@ nav: |
 
 Updated: {% include print_update.html %} • Hi, friend. This page explains what what you need to know about how this website works.
 
-I *really* want this site to work for you: Even if you're on an old phone; Even if you're standing outside an airport waiting for the bus; Even if the library wi-fi is slow as hell. To that end, I've chosen my ingredients. Let me know how you like the recipe: <hello@zachmccabe.com>.
+I *really* want this site to work for you: Even if you're on an old phone; Even if you're standing outside an airport waiting for the bus; Even if the library wi-fi is slow as hell. To that end, I've chosen the following ingredients.
+
+PS Let me know how you like the recipe: <hello@zachmccabe.com>
 
 
 
