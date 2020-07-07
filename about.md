@@ -1,28 +1,28 @@
 ---
 layout: kaoliang3_article
 title: About 
-date: 2020-06-15
+date: 2020-07-08
 description: Hi, it's Zach
-cta: What’s new with you? <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
 ---
 
 
 ## Hi, it's Zach
 
-How are you, curious internet friend? 🤗 You can use this website to see what I'm working on [now.] Want talk shop? – I keep an up-to-date list of [tools,] too.
+I write for friends and fellow travelers on this website.
 
-[now.]: https://www.zachmccabe.com/now.html
+- Here for the latest? Check the [now page.]
+- Want to talk shop? Here's my up-to-date list of [tools.]
 
-[tools,]: https://www.zachmccabe.com/tools.html
+[now page.]: https://www.zachmccabe.com/now.html
+
+[tools.]: https://www.zachmccabe.com/tools.html
 
 
 
 ## Why I wrote a field guide
 
-I'm the author and producer of [The Photographers Field Guide to Beijing.]
-
-The book is my attempt to give something back to the creative community. You can read this [FAQ] for more.
+I'm the author and producer of [The Photographers Field Guide to Beijing.] The book is my attempt to give something back to the creative community. You can read this [FAQ] for more.
 
 [The Photographers Field Guide to Beijing.]: https://www.zachmccabe.com/beijing
 
