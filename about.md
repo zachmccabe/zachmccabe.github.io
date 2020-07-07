@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: About 
 date: 2020-07-08
-description: Hi, it's Zach
+description: Hi, it's Zach. I write for friends and fellow travelers on this website.
 
 ---
 
