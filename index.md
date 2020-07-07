@@ -1,7 +1,7 @@
 ---
 layout: kaoliang_index
 title: Zach McCabe
-date: 2019-09-02
-description: Hi, it's Zach
+date: 2020-07-08
+description: Author and producer of The Photographers Field Guide to Beijing
 
 ---
