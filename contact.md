@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: Contact
 date: 2019-04-01
-description: Contact Zach
+description: Email is the best way to reach me.
 
 ---
 
