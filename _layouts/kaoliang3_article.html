@@ -14,23 +14,16 @@
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 </head>
-  
-  <body>
-    <header>
-      <p>{% include nav.html %}</p>
-    </header>
-    <main>
-      <h1 id="{{ page.title }}">{{ page.title }}</h1>
-      <div class="xwrap">
-        <div class="xnest20">
-          {{ content }}
-        </div>
-      </div>
-    </main>
-
-    <footer>
-      {% include footer.html %}
-    </footer>
-    
-  </body>
+<body>
+<div class="xwrap">
+<nav>{% include nav.html %}</nav>
+<h1 id="{{ page.title }}">{{ page.title }}</h1>
+<div class="xnest20">
+{{ content }}
+</div>
+</div>
+<footer>
+{% include footer.html %}
+</footer>
+</body>
 </html>
