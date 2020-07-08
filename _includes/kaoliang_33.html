@@ -13,22 +13,17 @@ body {
 @media (min-width: 120em){body{font-size:2.2em}}
 @media (min-width: 160em){body{font-size:3em}}
 
-header, footer {
-  text-align: center;
+article, header, main, section {
   margin: 0 auto;
-}
-
-header {
-  padding-top: 3em;
+  padding: 0;
 }
 
 footer {
-  padding: 5em 0;
-}
-
-article, main, section {
+  font-size: small;
   margin: 0 auto;
-  padding: 0;
+  padding: 5em 0;
+  text-align: center;
+  width: 100%;
 }
 
 
@@ -76,27 +71,14 @@ padding: 0;
 }
 
 hr {
-border: none;
-color: currentColor;
-height: 1em;
-margin: 2em auto 2em;
-padding: 0;
-text-align: center;
-width: auto;
+  background-color: currentColor;
+  border: none;
+  color: currentColor;
+  height: 0.1em;
+  margin: 5em 0 5em;
+  padding: 0;
+  width: 5em;
 }
-
-hr:after {
-border: none;
-color: currentColor;
-content: "•";
-height: 1em;
-margin: 2em auto 2em;
-padding: 0;
-text-align: center;
-width: auto;
-}
-
-/* but if you need more than one style on hr tag, you'll have call it with a workaround like this one: http://www.sovavsiti.cz/css/hr.html */
 
 
 
