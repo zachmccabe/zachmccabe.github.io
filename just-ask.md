@@ -1,8 +1,7 @@
 ---
 layout: kaoliang3_article
 title: Just ask
-date: 2019-04-01
-update: 2020-03-18
+date: 2020-03-18
 description: Notes on cross-cultural communication and using questions to unstick confusing conversations
 nav: | 
  + [Cross-cultural communication is hard](https://www.zachmccabe.com/just-ask.html#cross-cultural-communication-is-hard)
