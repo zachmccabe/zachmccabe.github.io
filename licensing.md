@@ -1,9 +1,8 @@
 ---
 layout: kaoliang3_article
 title: License and copyright
-date: 2019-08-29
-update: 2020-06-18
-description: Info on licensing, copyright and using content from this website
+date: 2020-06-18
+description: Info on using content from this website
 
 ---
 
