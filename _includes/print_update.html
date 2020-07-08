@@ -1,1 +1,1 @@
-{% if page.update %}{{ page.update | date: "%F" }}{% elsif page.date %}{{ page.date | date: "%F" }}{% else %}{% endif %}
+<time datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%F" }}</time>
