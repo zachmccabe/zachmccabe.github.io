@@ -1,7 +1,7 @@
 ---
 layout: kaoliang3_article
 title: Postcards from a photographer
-date: 2019/08/28
+date: 2019-08-28
 description: Notes to my younger self
 cta: What did I miss? Send me a postcard. <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 
