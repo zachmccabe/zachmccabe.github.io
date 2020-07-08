@@ -1,9 +1,8 @@
 ---
 layout: kaoliang3_article
 title: Tools
-date: 2019-08-28
-update: 2020-05-23
-description: "Partial list of some favorite and most-used tools"
+date: 2020-05-23
+description: Partial list of some favorites and most-used tools
 nav: |
   + [Organization and time mgmt](https://www.zachmccabe.com/tools.html#organization-and-time-mgmt) 
   + [Office](https://www.zachmccabe.com/tools.html#office)
