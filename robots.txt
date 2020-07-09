@@ -1,10 +1,10 @@
 User-agent: *
+Disallow: https://www.zachmccabe.com/books.txt
 Disallow: https://www.zachmccabe.com/bullshit.html
-Disallow: https://www.zachmccabe.com/case_study_beijing.html
-Disallow: https://www.zachmccabe.com/case_study_briars.html
-Disallow: https://www.zachmccabe.com/case_study_eel.html
+Disallow: https://www.zachmccabe.com/case_study_beijing.txt
+Disallow: https://www.zachmccabe.com/case_study_briars.txt
+Disallow: https://www.zachmccabe.com/case_study_eel.txt
 Disallow: https://www.zachmccabe.com/just-ask.html
-Disallow: https://www.zachmccabe.com/keybase.txt
 Disallow: https://www.zachmccabe.com/nonfiction.html
 Disallow: https://www.zachmccabe.com/now.html
 Disallow: https://www.zachmccabe.com/ntk.html
