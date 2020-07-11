@@ -1,7 +1,9 @@
 User-agent: *
 Allow: /about.html
 Allow: /contact.html
+Allow: /beijing/
 Disallow: /books.txt
+Disallow: /briars/
 Disallow: /bullshit.html
 Disallow: /case_study_beijing.txt
 Disallow: /case_study_briars.txt
