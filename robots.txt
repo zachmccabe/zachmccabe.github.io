@@ -2,6 +2,7 @@ User-agent: *
 Allow: /about.html
 Allow: /contact.html
 Allow: /beijing/
+Disallow: /assets
 Disallow: /books.txt
 Disallow: /briars/
 Disallow: /bullshit.html
