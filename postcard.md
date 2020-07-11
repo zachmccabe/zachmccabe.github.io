@@ -7,19 +7,27 @@ description: What I wish I knew when I started out as a NGO photographer
 ---
 
 
-Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn. 😬 Postcards to my younger self in 140 characters or less.
+Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn.
+
+Postcards to my younger self in 140 characters or less.
 
 
 
 ## Brass tacks, tactfully
 
-Hash out expectations with your client ASAP. You're savvy. You know there is more to this work than good intentions.
+Hash out expectations with your client ASAP. Always act pro: cross-cultural negotiations confuse clients, too.
+
+
+
+## Good intentions?
+
+The work is the same, gratis or commissioned: 1. How will you solve client's problem? 2. Cost, logistics & deliverables?
 
 
 
 ## Always bring extra
 
-\1. Small bills 2. Snacks to share w rogue livestock 3. Camera batteries: right pocket = fresh batteries; left = spent.
+Small bills. Snacks to share with rogue livestock. Camera batteries (right pocket = fresh batteries; left = spent).
 
 
 
