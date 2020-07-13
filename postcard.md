@@ -33,7 +33,9 @@ Small bills. Snacks to share with rogue livestock. Camera batteries (right pocke
 
 ## WYSIATI & culture shock
 
-"What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so think slow.
+"What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so [think slow.]
+
+[think slow]: https://www.zachmccabe.com/just-ask.html
 
 
 
@@ -57,9 +59,7 @@ Don't worry if you'll have enough time, light or coverage – you won't. Instead
 
 ## Trust goes both ways
 
-Field managers can juggle tasks like a superhero but they can't read minds. Over-communicate and ask [better questions.]
-
-[better questions.]:https://www.zachmccabe.com/just-ask.html
+Field managers can juggle tasks like a superhero but they can't read minds. Over-communicate. Make time for the team.
 
 
 
@@ -77,7 +77,7 @@ This work has emotional costs. Create, and always keep, post-job rituals. Unpack
 
 ## Global power dynamics are fucked
 
-But don't underestimate the agency of everyday people -- or your own bias to power, cultural hubris.
+Yep. Zoom in: Never underestimate a person's agency, or the local community, or your own bias to power.
 
 
 
