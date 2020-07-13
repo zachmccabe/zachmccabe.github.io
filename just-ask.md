@@ -4,7 +4,7 @@ title: Just ask
 date: 2020-03-18
 description: Notes on cross-cultural communication and using questions to unstick confusing conversations
 nav: | 
- + [Cross-cultural communication is hard](https://www.zachmccabe.com/just-ask.html#cross-cultural-communication-is-hard)
+ + [Cross-cultural communication is hard](https://www.zachmccabe.com/just-ask.html#another-place)
  + [3 simple strategies](https://www.zachmccabe.com/just-ask.html#3-simple-strategies)
  + [Be aware of context](https://www.zachmccabe.com/just-ask.html#be-aware-of-context)
  + [Prep in 3 steps](https://www.zachmccabe.com/just-ask.html#prep-in-3-steps)
@@ -23,11 +23,11 @@ Updated: {% include print_update.html %} • Notes on cross-cultural communicati
 
 
 
-## Cross-cultural communication is hard
+## Another place
 
-"Everything you're sure is right can be wrong in another place," observes a young character in Barbara Kingsolver's novel, "The Poisonwood Bible."
+"Everything you're sure is right can be wrong in another place," observes a young character in Barbara Kingsolver's novel, The Poisonwood Bible.
 
-When you're in "another place," the signal:noise ratio falls through the floor. There are sudden, perplexing holes in all your conversations. You're under pressure to get the job done. Just when you need to think critically about your own assumptions – you can't. You're overwhelmed.
+When you're in another place, the signal:noise ratio falls through the floor. There are sudden, perplexing holes in all your conversations. You're under pressure to get the job done. Just when you need to think critically about your own assumptions – you can't. You're overwhelmed.
 
 It's okay to triage. Cross-cultural communication is hard.
 
@@ -43,7 +43,7 @@ Ask questions to navigate through these conversations.
 
 >"What is felt to be a message in one language does not necessarily survive the translation process. Information is more than words: it is words that fit into a cultural framework. Culturally adequate translation is an undervalued art."
 >
-> – Geert Hofstede et al., "Intercultural Encounters," in _Cultures and Organizations: software of the mind_. (New York: McGraw Hill, 2010), 394.
+> – Geert Hofstede et al., "Intercultural Encounters," in Cultures and Organizations: software of the mind. (New York: McGraw Hill, 2010), 394.
 
 Learning to frame your questions so that they are "culturally adequate" takes practice.
 
@@ -55,7 +55,7 @@ Maybe it's counter-intuitive but I find that cross-cultural communication can be
 
 Day-to-day, cultural context isn't complicated. It is so obvious you take it for granted, and so it is hard to see.
 
-When you're working across cultures or languages it's important to think about *how* you ask questions. (One of my favorite books on this is Erin Meyer's "The Culture Map." It's well-written, practical and a great starting point for learning more about cross-cultural communication at work.)
+When you're working across cultures or languages it's important to think about *how* you ask questions. (One of my favorites on this is Erin Meyer's book, The Culture Map. It's well-written, practical and a great starting point for learning more about cross-cultural communication at work.)
 
 Your cultural background underpins your personal communication style.<sup><a id="ref-1" href="#note-1" alt="footnote">1</a></sup> You get input and feedback for what works starting when you're a baby. By the time you're grown, you make inferences about a person's intentions, based in part on the way that person talks to you. You make day-to-day assumptions about how their communication habits "must" reflect a person's moral character, reliability, whatever.<sup><a id="ref-2" href="#note-2" alt="footnote">2</a></sup>
 
@@ -93,7 +93,7 @@ Wherever you're from, you can think of some exceptions to patterns like these. N
 5. Make space, and wait for an answer.
 6. Keep track of your goal during the conversation.
 
-"The better you know yourself, the better you're able to hear other people," says Kate Murphy, the author of "You're Not Listening: what you're missing and why it matters."<sup><a id="ref-4" href="#note-4" alt="footnote">4</a></sup>
+"The better you know yourself, the better you're able to hear other people," says Kate Murphy, the author of You're Not Listening: what you're missing and why it matters.<sup><a id="ref-4" href="#note-4" alt="footnote">4</a></sup>
 
 For example: After an taxing conversation, I know that I need to remind myself that I was able to obtain whatever it is I went in there asking about. (That's number 6 on the above list.) If I didn't do that, I'd feel like shit about the emotionally-draining conversations I need to have, no matter how productive they really might be.
 
@@ -117,7 +117,7 @@ First, you'll have to ante up and just ask.
 
 Read Andy Molinsky's "Cultural differences are more complicated than what country you’re from," in [HBR](https://hbr.org/2016/01/cultural-differences-are-more-complicated-than-what-country-youre-from) for some practical ideas.
 
-Read Tarun Khanna's "Contextual intelligence," also in [HBR.](https://hbr.org/2014/09/contextual-intelligence) It isn't a hard left turn, even though it'll feel like it when you click. Khanna's piece will help you start mulling over just how hard it can be to grok culture's influence over your workaday perception of the world. If you're anything like me, a clear application to an abstract problem is motivating.
+Read Tarun Khanna's "Contextual intelligence," also in [HBR.](https://hbr.org/2014/09/contextual-intelligence) The piece will help you start mulling over just how hard it can be to grok culture's influence over your workaday perception of the world. If you're anything like me, a clear application to an abstract problem is motivating.
 
 If you have access to an academic library, check out Christine Béal's paper, "Did you have a good weekend: or, why there is no such thing as a simple question in cross-cultural encounters." The abstract is available on [ResearchGate.](https://www.researchgate.net/publication/234558796_Did_You_Have_a_Good_Weekend_Or_Why_There_Is_No_Such_Thing_as_a_Simple_Question_in_Cross-Cultural_Encounters)
 
@@ -131,7 +131,7 @@ If you have access to an academic library, check out Christine Béal's paper, "D
 >
 >"Notice that culture appears as a sort of optical or perceptual illusion here: although always a presence, it can best be seen when thrown into relief by the quality of *difference*. For if two actors meet who share the same model or schema for dealing with, say, the power asymmetry evident between them, then culture is invisible, part of and buried in the deepest, and in this case, shared, context of their encounter."
 >
-> – Kevin Avruch, _Culture and Conflict Resolution_. (Washington DC: US Institute of Peace Press, 1998). 58-59.
+> – Kevin Avruch, Culture and Conflict Resolution. (Washington DC: US Institute of Peace Press, 1998). 58-59.
 
 <a href="#ref-2" alt="back">Back ↩</a>
 
@@ -139,7 +139,7 @@ If you have access to an academic library, check out Christine Béal's paper, "D
 
 #### Note 3
 
-For more on this, start with Meina Liu's "Verbal communication styles and culture" in [Oxford Research Encyclopedias.](https://doi.org/10.1093/acrefore/9780190228613.013.162)
+For more on this, start with Meina Liu's article, "Verbal communication styles and culture" in [Oxford Research Encyclopedias.](https://doi.org/10.1093/acrefore/9780190228613.013.162)
 
 <a href="#ref-3" alt="back">Back ↩</a>
 
