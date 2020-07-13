@@ -35,7 +35,7 @@ Small bills. Snacks to share with rogue livestock. Camera batteries (right pocke
 
 "What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so [think slow.]
 
-[think slow]: https://www.zachmccabe.com/just-ask.html
+[think slow.]: https://www.zachmccabe.com/just-ask.html
 
 
 
