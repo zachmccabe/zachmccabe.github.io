@@ -13,7 +13,7 @@ Take a peak at my ongoing project, [Laughing Lost in Briars.]
 
 Read [this FAQ] for why I wrote and produced a field guide. If you're en route to Beijing, you should download a [free copy.]
 
-Talk shop? Here is my up-to-date [list of tools,] and the current ingredient list for [this website.]
+Talk shop? Here is my up-to-date [list of tools.]
 
 ---
 
@@ -31,8 +31,6 @@ I grew up in the US, China and Japan.
 
 [free copy.]: https://www.zachmccabe.com/beijing
 
-[list of tools,]: https://www.zachmccabe.com/tools
-
-[this website.]: https://www.zachmccabe.com/ntk
+[list of tools.]: https://www.zachmccabe.com/tools
 
 [photos]: https://www.zachmccabe.com/postcard
