@@ -11,7 +11,7 @@ Hi, it's Zach. I make weird stuff for my friends and post it on the web.
 
 Take a peak at my ongoing project, [Laughing Lost in Briars.]
 
-Read [this FAQ] on why I wrote and produced a field guide. And, if you're en route to Beijing, download a [free copy] for yourself.
+Read [this FAQ] on why I wrote and produced a field guide. If you're en route to Beijing, download a [free copy] for yourself.
 
 Talk shop? Here is my up-to-date [list of tools.]
 
@@ -29,7 +29,7 @@ I grew up in the US, China and Japan.
 
 [this FAQ]: https://www.zachmccabe.com/beijing/faq#why-is-this-book-free
 
-[free copy.]: https://www.zachmccabe.com/beijing
+[free copy]: https://www.zachmccabe.com/beijing
 
 [list of tools.]: https://www.zachmccabe.com/tools
 
