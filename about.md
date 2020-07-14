@@ -2,16 +2,16 @@
 layout: kaoliang3_article
 title: About 
 date: 2020-07-13
-description: Hi, it's Zach. I write for friends and fellow travelers on this website.
+description: Hi, it's Zach. I make weird stuff for my friends and post it on the web.
 
 ---
 
 
-Hi, it's Zach. Sometimes I make weird stuff for my friends and post it on the web. On this website you can:
+Hi, it's Zach. I make weird stuff for my friends and post it on the web.
 
 Take a peak at my ongoing project, [Laughing Lost in Briars.]
 
-Read [this FAQ] for why I wrote and produced a field guide. If you're en route to Beijing, you should download a [free copy.]
+Read [this FAQ] on why I wrote and produced a field guide. And, if you're en route to Beijing, download a [free copy] for yourself.
 
 Talk shop? Here is my up-to-date [list of tools.]
 
