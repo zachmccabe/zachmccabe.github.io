@@ -5,31 +5,31 @@ date: 2019-06-01
 description: Case study
 robots: norobots
 leaf1: 
- - fbase: unagi-1
+ - fbase: unagiday/unagi-1
  - class: nada
  - alt: Snowy trail with a no snowmobiles sign nailed to a tree 
 leaf2: 
- - fbase: unagi-2
+ - fbase: unagiday/unagi-2
  - class: nada
  - alt: Looking out at the Androscoggin River through car window
 leaf3: 
- - fbase: unagi-3
+ - fbase: unagiday/unagi-3
  - class: nada
  - alt: Rocky coastline at at Rachel Carson NWR
 leaf4:
- - fbase: unagi-4
+ - fbase: unagiday/unagi-4
  - class: nada
  - alt: Churning river water below the dam on the Presumpscot River
 leaf5:
- - fbase: unagi-5
+ - fbase: unagiday/unagi-5
  - class: nada
  - alt: Foggy estuary at low tide
 leaf6:
- - fbase: unagi-6
+ - fbase: unagiday/unagi-6
  - class: nada
  - alt: Closeup of a fisherman holding elver he just caught in net
 leaf7:
- - fbase: unagi-7
+ - fbase: unagiday/unagi-7
  - class: nada
  - alt: Snow covered soccer field with goal net in the woods
 nav: |
