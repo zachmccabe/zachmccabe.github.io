@@ -6,31 +6,31 @@ description: Case study
 robots: norobots
 leaf1: 
  - fbase: unagiday/unagi-1
- - class: nada
+ - class: leafy1
  - alt: Snowy trail with a no snowmobiles sign nailed to a tree 
 leaf2: 
  - fbase: unagiday/unagi-2
- - class: nada
+ - class: leafy1
  - alt: Looking out at the Androscoggin River through car window
 leaf3: 
  - fbase: unagiday/unagi-3
- - class: nada
+ - class: leafy1
  - alt: Rocky coastline at at Rachel Carson NWR
 leaf4:
  - fbase: unagiday/unagi-4
- - class: nada
+ - class: leafy1
  - alt: Churning river water below the dam on the Presumpscot River
 leaf5:
  - fbase: unagiday/unagi-5
- - class: nada
+ - class: leafy1
  - alt: Foggy estuary at low tide
 leaf6:
  - fbase: unagiday/unagi-6
- - class: nada
+ - class: leafy1
  - alt: Closeup of a fisherman holding elver he just caught in net
 leaf7:
  - fbase: unagiday/unagi-7
- - class: nada
+ - class: leafy1
  - alt: Snow covered soccer field with goal net in the woods
 nav: |
  + [The story](https://www.zachmccabe.com/case_study_eel.html#the-story)
