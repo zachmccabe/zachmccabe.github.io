@@ -5,11 +5,11 @@ date: 2019-06-01
 description: Case study
 robots: norobots
 nav: |
-- [The story](https://www.zachmccabe.com/case_study_eel.html#the-story)
-- [The question](https://www.zachmccabe.com/case_study_eel.html#the-question)
-- [My approach](https://www.zachmccabe.com/case_study_eel.html#my-approach)
-- [Project details](https://www.zachmccabe.com/case_study_eel.html#project-details)
-- [Lessons learned](https://www.zachmccabe.com/case_study_eel.html#lessons-learned)
+ + [The story](https://www.zachmccabe.com/case_study_eel.html#the-story)
+ + [The question](https://www.zachmccabe.com/case_study_eel.html#the-question)
+ + [My approach](https://www.zachmccabe.com/case_study_eel.html#my-approach)
+ + [Project details](https://www.zachmccabe.com/case_study_eel.html#project-details)
+ + [Lessons learned](https://www.zachmccabe.com/case_study_eel.html#lessons-learned)
 picture1: unagiday/unagi-1
 picture2: unagiday/unagi-2
 picture3: unagiday/unagi-3
