@@ -17,7 +17,7 @@ robots: norobots
 
 ## The story
 
-This project is archived.
+Updated: {% include print_update.html %} • This project is archived.
 
 Adapted here from from Instagram. (I'm no longer active on that platform.) Photos, captions and sequence have been maintained from the original story. Research screenshots from the original story are not included here.
 
