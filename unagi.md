@@ -144,5 +144,5 @@ Each post lead with a photo and a caption. Each post also included 4 screenshots
 
 Maybe because I failed to include CTAs, participation from Readers was very limited. How disappointing! This failure pushed me to dig deeper into the strategy and language used by web and social media marketers. (One of my favorite reads on that topic is Jay Baer's book, "Hug your Haters.")
 
-Using my phone instead of a traditional camera was taking things a step too far. Not because the image quality was too low but because I kept running out of battery -- forcing me to choose between shooting and navigating backroads without a map. I chose to get lost, of course.
+Using my phone instead of a traditional camera was taking things a step too far. Not because the image quality was too low but because I kept running out of battery -- forcing me to choose between pictures and navigating backroads without a map. I chose to get lost, of course.
 
