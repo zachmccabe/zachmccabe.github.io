@@ -5,7 +5,7 @@ date: 2019-06-01
 description: Case study
 robots: norobots
 leaf1: 
- - fbase: unagiday/unagi-1
+ - fbase: unagi-1
  - class: leafy1
  - alt: Snowy trail with a no snowmobiles sign nailed to a tree 
 leaf2: 
