@@ -4,13 +4,34 @@ title: Unagi
 date: 2019-06-01
 description: Case study
 robots: norobots
-picture1: unagiday/unagi-1
-picture2: unagiday/unagi-2
-picture3: unagiday/unagi-3
-picture4: unagiday/unagi-4
-picture5: unagiday/unagi-5
-picture6: unagiday/unagi-6
-picture7: unagiday/unagi-7
+leaf1: 
+ - fbase: unagi-1
+ - class: nada
+ - alt: Snowy trail with a no snowmobiles sign nailed to a tree 
+leaf2: 
+ - fbase: unagi-2
+ - class: nada
+ - alt: Looking out at the Androscoggin River through car window
+leaf3: 
+ - fbase: unagi-3
+ - class: nada
+ - alt: Rocky coastline at at Rachel Carson NWR
+leaf4:
+ - fbase: unagi-4
+ - class: nada
+ - alt: Churning river water below the dam on the Presumpscot River
+leaf5:
+ - fbase: unagi-5
+ - class: nada
+ - alt: Foggy estuary at low tide
+leaf6:
+ - fbase: unagi-6
+ - class: nada
+ - alt: Closeup of a fisherman holding elver he just caught in net
+leaf7:
+ - fbase: unagi-7
+ - class: nada
+ - alt: Snow covered soccer field with goal net in the woods
 nav: |
  + [The story](https://www.zachmccabe.com/case_study_eel.html#the-story)
  + [The question](https://www.zachmccabe.com/case_study_eel.html#the-question)
@@ -35,7 +56,7 @@ Adapted here from from Instagram. (I'm no longer active on that platform.) Photo
 
 ### WTF is Ox Day
 
-{% include srcset.html fbase="page.picture1" class="nada" alt="Snowy trail with a no snowmobiles sign nailed to a tree." %}
+{% include leaf.html leaf=page.leaf1 %}
 
 This spring I was in Maine for elver fishing season. It was dumb luck and I kind of became obsessed. 🍱 Eel are weird and wonderful, but the reason your unagi is from Maine is just… wild. Stick with me because this is not your average fish story • Postcard 1/7: WTF is Ox Day
 
@@ -43,14 +64,14 @@ This spring I was in Maine for elver fishing season. It was dumb luck and I kind
 
 ### Long road back
 
-{% include srcset.html fbase="page.picture2" class="nada" alt="Looking out at the river through a car window." %}
+{% include leaf.html leaf=page.leaf2 %}
 
 Soggy, cold feet from another afternoon on sloppy trails. 1) Kick off shoes and socks. 2) Swill back the last dregs of coffee & turn up the heater. 3) Sunset and drive • The Androscoggin isn’t the “most polluted river in America” anymore, but there are no eels here. Press on • Postcard 2/7: Long road back
 
 
 ### Rachel Carson NWR
 
-{% include srcset.html fbase="page.picture3" class="nada" alt="Rocky coastline at twilight." %}
+{% include leaf.html leaf=page.leaf3 %}
 
 Slip slide over seaweed and watch the full moon come up. It’s red as a grapefruit. • On spring nights just like this one, baby eels, squirmy, translucent and smaller than your little finger, swim up rivers on the incoming tide. • Postcard 3/7: Rachel Carson NWR
 
@@ -58,21 +79,21 @@ Slip slide over seaweed and watch the full moon come up. It’s red as a grapefr
 
 ### Head over eels
 
-{% include srcset.html fbase="page.picture4" class="nada" alt="Churning river water below a dam." %}
+{% include leaf.html leaf=page.leaf4 %}
 
 At least it is rain – and not snow like the wx guy predicted. I’m standing at the edge of the Saccarappa Falls. Below me, water whooshes out from the dam. The short, powerful Presumpscot River has 8 dams. • If you want to know why baby eels are fished out of Atlantic rivers, then flown on cargo planes to grow up big and fat on the other side of the Pacific, a dam like this is a good place to ask the question • Postcard 4/7: Head over eels
 
 
 ### Tide's out
 
-{% include srcset.html fbase="page.picture5" class="nada" alt="Foggy estuary at low tide." %}
+{% include leaf.html leaf=page.leaf5 %}
 
 Still no eel. 🕚🕚🕚 But come on. If all I leave with is this view? Worth it • I call a buddy, a one-time fishmonger who’s traveled Japan from Naha to Sapporo, and ask what he thinks about when he thinks about unagi: “Uhm… my wallet? Shit has gotten so expensive, boy.” • Postcard 5/7: Tide’s out
 
 
 ### Last day
 
-{% include srcset.html fbase="page.picture6" class="nada" alt="Closeup of fisherman holding elvers." %}
+{% include leaf.html leaf=page.leaf6 %}
 
 The dogs wake me up before sunrise and I head out to hike 1 last river trail. I’ve given up on eels... but then I see them. • “You guys fishin?” / “We got elver! Baby eels.” • Dude looks real happy considering he spent the night waist-deep in a river. I’m grinning like a tourist, obviously • Postcard 6/7: Last day
 
@@ -80,7 +101,7 @@ The dogs wake me up before sunrise and I head out to hike 1 last river trail. I�
 
 ### Itadakimasu
 
-{% include srcset.html fbase="page.picture7" class="nada" alt="Snow covered soccer field in the woods." %}
+{% include leaf.html leaf=page.leaf7 %}
 
 Postcard 7/7: Itadakimasu
 
