@@ -4,12 +4,6 @@ title: Unagi
 date: 2019-06-01
 description: Case study
 robots: norobots
-nav: |
- + [The story](https://www.zachmccabe.com/case_study_eel.html#the-story)
- + [The question](https://www.zachmccabe.com/case_study_eel.html#the-question)
- + [My approach](https://www.zachmccabe.com/case_study_eel.html#my-approach)
- + [Project details](https://www.zachmccabe.com/case_study_eel.html#project-details)
- + [Lessons learned](https://www.zachmccabe.com/case_study_eel.html#lessons-learned)
 picture1: unagiday/unagi-1
 picture2: unagiday/unagi-2
 picture3: unagiday/unagi-3
@@ -17,9 +11,14 @@ picture4: unagiday/unagi-4
 picture5: unagiday/unagi-5
 picture6: unagiday/unagi-6
 picture7: unagiday/unagi-7
+nav: |
+ + [The story](https://www.zachmccabe.com/case_study_eel.html#the-story)
+ + [The question](https://www.zachmccabe.com/case_study_eel.html#the-question)
+ + [My approach](https://www.zachmccabe.com/case_study_eel.html#my-approach)
+ + [Project details](https://www.zachmccabe.com/case_study_eel.html#project-details)
+ + [Lessons learned](https://www.zachmccabe.com/case_study_eel.html#lessons-learned)
 
 ---
-
 
 
 Updated: {% include print_update.html %} • This project is archived. The 3-11 Disaster crippled Japan's eel farms. With both Japan and Europe's eel fisheries on the IUCN Red list, where do you go to resupply? Maine, apparently.
