@@ -13,7 +13,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • Partial list of the tools I use most. Simply noted here for curious friends.
+Updated: {% include print_update.html %} • Partial list of the tools I use most. Noted here for curious friends.
 
 
 
@@ -108,16 +108,15 @@ For the nitty gritty on the tools I use in my digital publishing workflow, you c
 
 
 
-{% include figure.html src="https://www.zachmccabe.com/assets/viz/ipod-linux-300.gif" alt="Text streams across an old iPod screen booting into iPod Linux" caption="Running iPod Linux in the early 2000s: when I was experimenting with using my 10GB iPod to record audio notes and backup JPGs (via a very funky Belkin CF card interface that required AAA batteries) in scenarios where a laptop won't work." %}
-
-
+---
 
 Whenever I travel, go to the museum or read a bit of [archaeology,] it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
 
-*HT [Belle Cooper] for inspiring the idea for both this page, and my [now page.]*
+![Text streams across an old iPod screen booting into iPod Linux](https://www.zachmccabe.com/assets/viz/ipod-linux-300.gif)
+
+*HT [Belle Cooper] for inspiring the idea for this page.*
 
 [archaeology,]: https://archive.org/details/StoneAgeEconomics_201611/page/n31
 
 [Belle Cooper]: http://bellebcooper.com/
 
-[now page]: https://www.zachmccabe.com/now
