@@ -46,7 +46,7 @@ Updated: {% include print_update.html %} • This project is archived. The 3-11 
 
 
 
-{% include page.nav %}
+{% include page_nav.html %}
 
 
 
@@ -107,7 +107,7 @@ Postcard 7/7: Itadakimasu
 
 This is the last Unagi Day postcard from eel fishing season in Maine. You can get the prev 6 by tapping me on the face. Start at the snow mobile.
 
-🙏🙏🙏 Gochisousama deshita @thee_zebulon
+🙏🙏🙏 Gochisousama deshita <span>@thee_zebulon</span>
 
 
 
