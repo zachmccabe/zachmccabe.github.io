@@ -55,7 +55,7 @@ I've been using [Pleco] and [Photo Mechanic] for over a decade. Peter Krogh's [T
 
 For the nitty gritty on the tools I use in my digital publishing workflow, you can read this [colophon] from my field guide.
 
-[colophon]: https://www.zachmccabe.com/beijing/how_the_book_got_made.html
+[colophon]: https://www.zachmccabe.com/beijing/colophon
 
 
 
