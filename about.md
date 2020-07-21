@@ -7,7 +7,7 @@ description: Hi, it's Zach. I make weird stuff for my friends and post it on the
 ---
 
 
-<span class="lede">Hi, it's Zach. I make weird stuff for my friends and post it on the web.</span>
+<span class="lede">Hi, it's Zach. I make stuff for my friends and post it on the web.</span>
 
 Take a peak at my ongoing project, [Laughing Lost in Briars.]
 
