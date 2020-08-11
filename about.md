@@ -1,19 +1,17 @@
 ---
 layout: kaoliang3_article
 title: About 
-date: 2020-07-13
+date: 2020-08-10
 description: Hi, it's Zach. I make weird stuff for my friends and post it on the web.
 
 ---
 
 
-<span class="lede">Hi, it's Zach. I make stuff for my friends and post it on the web.</span>
+<span class="lede">Hi, it's Zach. On this website I post for friends and curious web folk, too.</span>
 
-Take a peak at my ongoing project, [Laughing Lost in Briars.]
+You can read [this FAQ] on why I wrote and produced The Photographers Field Guide to Beijing.
 
-Read [this FAQ] on why I wrote and produced a field guide. If you're en route to Beijing, download a [free copy] for yourself.
-
-Talk shop? Here is my up-to-date [list of tools.]
+Rather talk shop? Here is my up-to-date [list of tools.]
 
 
 ---
@@ -30,8 +28,6 @@ I grew up in the US, China and Japan.
 [Laughing Lost in Briars.]: https://www.zachmccabe.com/briars
 
 [this FAQ]: https://www.zachmccabe.com/beijing/faq#why-is-this-book-free
-
-[free copy]: https://www.zachmccabe.com/beijing
 
 [list of tools.]: https://www.zachmccabe.com/tools
 
