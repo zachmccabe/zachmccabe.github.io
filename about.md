@@ -9,7 +9,7 @@ description: Hi, it's Zach. I make weird stuff for my friends and post it on the
 
 <span class="lede">Hi, it's Zach. On this website I post for friends and curious web folk, too.</span>
 
-You can read [this FAQ] on why I wrote and produced The Photographers Field Guide to Beijing.
+You can read [this FAQ] on why I wrote and produced The Photographers Field Guide to Beijing, and why it's free.
 
 Rather talk shop? Here is my up-to-date [list of tools.]
 
