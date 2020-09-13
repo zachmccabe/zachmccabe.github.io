@@ -59,7 +59,7 @@ Note: For the nitty gritty on the tools I use in my digital publishing workflow,
 
 [colophon]: https://www.zachmccabe.com/beijing/colophon
 
-[style guide.]: https://www.zachmccabe.com/beijing/bts_style_guide.html
+[style guide]: https://www.zachmccabe.com/beijing/bts_style_guide.html
 
 
 ## Phone
