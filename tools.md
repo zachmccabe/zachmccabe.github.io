@@ -1,8 +1,8 @@
 ---
 layout: kaoliang3_article
 title: Tools
-date: 2020-05-23
-description: Partial list of some favorites and most-used tools
+date: 2020-08-12
+description: Partial list of favorite and most-used tools
 nav: |
   + [Organization and time mgmt](https://www.zachmccabe.com/tools.html#organization-and-time-mgmt) 
   + [Office](https://www.zachmccabe.com/tools.html#office)
@@ -13,7 +13,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • Partial list of the tools I use most. Noted here for curious friends.
+Updated: {% include print_update.html %} • Partial list of favorite and most-used tools.
 
 
 
@@ -35,28 +35,31 @@ I've been using [Pleco] and [Photo Mechanic] for over a decade. Peter Krogh's [T
 
 ## Organization and time mgmt
 
-+ Borked white board kanban
 + [Orgzly] on Android
-+ Pomodoro technique for screen-based tasks, except writing
++ Pomodoro technique for screen-based stuff
++ [Simple Calendar] on Android
++ Walking is good the brains
 
 [Orgzly]: http://www.orgzly.com/
 
+[Simple Calendar]: https://simplemobiletools.com/calendar/
 
 
 ## Office
 
-+ AP Stylebook from 2009
++ [@apstylebook;] also a hard copy from 2009
 + Speedy Stitcher sewing awl
-+ Plain TXT, please; currently I'm using [Markor] and [FX] on Android and, as always, TextEdit on MacOS
++ Plaintext, please; using [Markor] on Android and TextEdit on macOS
+
+Note: For the nitty gritty on the tools I use in my digital publishing workflow, you can read this [colophon] from my field guide. And when AP isn't enough, I use my own [style guide] 🤓
+
+[@apstylebook;]: https://twitter.com/APStylebook
 
 [Markor]: https://github.com/gsantner/markor
 
-[FX]: http://www.nextapp.com/fx/
-
-For the nitty gritty on the tools I use in my digital publishing workflow, you can read this [colophon] from my field guide.
-
 [colophon]: https://www.zachmccabe.com/beijing/colophon
 
+[style guide.]: https://www.zachmccabe.com/beijing/bts_style_guide.html
 
 
 ## Phone
@@ -86,15 +89,15 @@ For the nitty gritty on the tools I use in my digital publishing workflow, you c
 
 ## Photo mgmt
 
-+ "The DAM Book" by Peter Krogh
 + [ExifTool]
-+ [Rclone,] right now
++ [Rclone] but I'm a plebe, really
 + Photo Mechanic
-+ Spotlight on macOS indexes IPTC description, keywords and headline fields in JPG files, thus search is wicked fast; this is so underrated, you guys!
+
+Note: Spotlight on macOS indexes IPTC description, keywords and headline fields in JPG files, so search is wicked fast. This is so underrated, you guys!
 
 [ExifTool]: https://exiftool.org/
 
-[Rclone,]: https://rclone.org/
+[Rclone]: https://rclone.org/
 
 
 
@@ -102,9 +105,9 @@ For the nitty gritty on the tools I use in my digital publishing workflow, you c
 
 + Always looking for better work gloves
 + Billhook
-+ Bull nose pliers
++ Bullnose pliers
 + Dish soap to wash off the poison ivy
-+ Loksak keeps dust, rain and sweat away from my phone and other electronics
++ Loksak bags keeps dust, rain and sweat away from my phone and other electronics
 
 
 
