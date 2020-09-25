@@ -38,18 +38,18 @@ I've been using [Pleco] and [Photo Mechanic] for over a decade. Peter Krogh's [T
 + [Orgzly] on Android
 + Pomodoro technique for screen-based stuff
 + [Simple Calendar] on Android
-+ Walking is good the brains
 
 [Orgzly]: http://www.orgzly.com/
 
 [Simple Calendar]: https://simplemobiletools.com/calendar/
 
 
+
 ## Office
 
 + [@apstylebook;] also a hard copy from 2009
 + Speedy Stitcher sewing awl
-+ Plaintext, please; using [Markor] on Android and TextEdit on macOS
++ Plaintext; using [Markor] on Android and TextEdit on macOS
 
 Note: For the nitty gritty on the tools I use in my digital publishing workflow, you can read this [colophon] from my field guide. And when AP isn't enough, I use my own [style guide] 🤓
 
@@ -60,6 +60,7 @@ Note: For the nitty gritty on the tools I use in my digital publishing workflow,
 [colophon]: https://www.zachmccabe.com/beijing/colophon
 
 [style guide]: https://www.zachmccabe.com/beijing/bts_style_guide.html
+
 
 
 ## Phone
