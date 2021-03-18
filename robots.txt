@@ -9,10 +9,10 @@ Disallow: /bullshit.html
 Disallow: /case_study_beijing.txt
 Disallow: /case_study_briars.txt
 Disallow: /case_study_eel.txt
+Disallow: /colophon.html
 Disallow: /just-ask.html
 Disallow: /nonfiction.html
 Disallow: /now.html
-Disallow: /ntk.html
 Disallow: /postcard.html
 Disallow: /tools.html
 Sitemap: https://www.zachmccabe.com/sitemap.xml
