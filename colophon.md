@@ -1,7 +1,7 @@
 ---
 layout: kaoliang3_article
 title: Colophon
-date: 2020-02-26
+date: 2020-03-18
 description: What you need to know about how this site works
 nav: |
   + [Technical ingredients](https://www.zachmccabe.com/colophon.html#technical-ingredients)
@@ -11,7 +11,7 @@ nav: |
 
 Updated: {% include print_update.html %} • Hi, friend. This page explains what what you need to know about how this website works.
 
-I *really* want this site to work for you: Even if you're on an old phone; Even if you're standing outside an airport waiting for the bus; Even if the library wi-fi is slow as hell. To that end, I've chosen the approach explained here.
+I really want this site to work for you: Even if you're on an old phone; Even if you're standing outside an airport waiting for the bus; Even if the library wi-fi is slow as hell. To that end, I've chosen the approach explained here.
 
 Tell me what you think. Your feedback makes this site better: <hello@zachmccabe.com>
 
