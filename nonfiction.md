@@ -2,7 +2,7 @@
 layout: kaoliang3_article
 title: What is nonfiction
 date: 2019-04-01
-description: WTF is nonfiction? I'm working on a working definition.
+description: I'm working on a working definition.
 nav: |
   + [5 questions to ask nonfiction](https://www.zachmccabe.com/nonfiction#5-questions-to-ask-nonfiction)
   + [WTF is nonfiction, tho](https://www.zachmccabe.com/nonfiction#wtf-is-nonfiction-tho)
