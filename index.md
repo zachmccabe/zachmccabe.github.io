@@ -1,15 +1,14 @@
 ---
-layout: kaoliang_index
-title: Zach McCabe
+layout: kaoliang3_article
+title: Hi, it's Zach
 date: 2021-03-21
 description: Author and producer of The Photographers Field Guide to Beijing
 
 ---
 
+{% include key_details.html %}
 
-<span class="lede">Hi, it's Zach.</span>
-
-You can use this website to take a peek at some of my on-going projects.
+You can use this website to explore some of my on-going projects.
 
 + Read [this FAQ] on why I'm giving away my Beijing book for free.
 + Right now, I'm [Laughing Lost in Briars.]
