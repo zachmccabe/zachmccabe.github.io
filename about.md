@@ -7,8 +7,6 @@ description: Hi, it's Zach.
 ---
 
 
-<span class="lede">Hi, it's Zach.</span>
-
 I'm the author and producer of The Photographers Field Guide to [Beijing,] which is a little book you can read on your phone.
 
 🌞
