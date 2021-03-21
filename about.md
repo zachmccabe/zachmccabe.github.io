@@ -7,7 +7,7 @@ description: Hi, it's Zach.
 ---
 
 
-I'm the author and producer of The Photographers Field Guide to [Beijing,] which is a little book you can read on your phone.
+I'm the author and producer of [The Photographers Field Guide to Beijing,] which is a little book you can read on your phone.
 
 🌞
 
@@ -17,7 +17,6 @@ Previously, I worked as a [photographer] for NGO clients in East Asia.
 
 I grew up in the US, China and Japan.
 
-
-[Beijing,]: https://www.zachmccabe.com/beijing
+[The Photographers Field Guide to Beijing,]: https://www.zachmccabe.com/beijing
 
 [photographer]: https://www.zachmccabe.com/postcard
