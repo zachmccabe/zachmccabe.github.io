@@ -1,19 +1,19 @@
 ---
 layout: kaoliang3_article
 title: Tools
-date: 2020-08-12
-description: Partial list of favorite and most-used tools
+date: 2021-03-25
+description: List of a few favorite tools I'm using right now
 nav: |
-  + [Organization and time mgmt](https://www.zachmccabe.com/tools.html#organization-and-time-mgmt) 
-  + [Office](https://www.zachmccabe.com/tools.html#office)
-  + [Phone](https://www.zachmccabe.com/tools.html#phone)
-  + [Photo mgmt](https://www.zachmccabe.com/tools.html#photo-mgmt)
-  + [Field](https://www.zachmccabe.com/tools.html#field)
+  + [Organization and mind mgmt](https://www.zachmccabe.com/tools.html#organization-and-mind-mgmt) 
+  + [Office things](https://www.zachmccabe.com/tools.html#office-things)
+  + [Digital asset mgmt](https://www.zachmccabe.com/tools.html#digital-asset-mgmt)
+  + [Field things](https://www.zachmccabe.com/tools.html#field-things)
+  + [Longevity](https://www.zachmccabe.com/tools.html#longevity)
 
 ---
 
 
-Updated: {% include print_update.html %} • Partial list of favorite and most-used tools.
+Updated: {% include print_update.html %} • List of some favorite tools I'm using right now for work (and life).
 
 
 
@@ -21,102 +21,76 @@ Updated: {% include print_update.html %} • Partial list of favorite and most-u
 
 
 
-## Longevity
+## Organization and mind mgmt
 
-I've been using [Pleco] and [Photo Mechanic] for over a decade. Peter Krogh's [The DAM Book] has been helping me manage my picture archive for at least that long.
-
-[Pleco]: https://www.pleco.com/
-
-[Photo Mechanic]: https://home.camerabits.com/
-
-[The DAM Book]: https://www.thedambook.com/
-
-
-
-## Organization and time mgmt
-
-+ [Orgzly] on Android
++ Orgzly on Android
 + Pomodoro technique for screen-based stuff
-+ [Simple Calendar] on Android
-
-[Orgzly]: http://www.orgzly.com/
-
-[Simple Calendar]: https://simplemobiletools.com/calendar/
++ 10 minutes of sitting meditation, and an hour of walking
 
 
 
-## Office
+## Office things
 
-+ [@apstylebook;] also a hard copy from 2009
++ AP Stylebook
++ Pandemic fern friend
 + Speedy Stitcher sewing awl
-+ Plaintext; using [Markor] on Android and TextEdit on macOS
 
-Note: For the nitty gritty on the tools I use in my digital publishing workflow, you can read this [colophon] from my field guide. And when AP isn't enough, I use my own [style guide] 🤓
-
-[@apstylebook;]: https://twitter.com/APStylebook
-
-[Markor]: https://github.com/gsantner/markor
+Note: I share the nitty gritty from my digital publishing workflow in this [colophon] from my field guide.
 
 [colophon]: https://www.zachmccabe.com/beijing/colophon
 
-[style guide]: https://www.zachmccabe.com/beijing/bts_style_guide.html
 
 
 
-## Phone
+## Digital asset mgmt
 
-+ [NetGuard]
-+ Pleco Chinese reference
-+ [Syncthing]
-+ Weather, because I work and play outside:
-  - [droughtmonitor.unl.edu]
-  - [Radarscope]
-  - [texaswildfirerisk.com]
-  - Joshua Tee's [wX]
-
-[NetGuard]: https://www.netguard.me/
-
-[Syncthing]: https://syncthing.net/
-
-[droughtmonitor.unl.edu]: https://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX
-
-[Radarscope]: https://www.radarscope.app/
-
-[texaswildfirerisk.com]: https://texaswildfirerisk.com/Map/Public/
-
-[wX]: https://docs.google.com/document/d/1OQrviP10XBvQZ7QKh5R4bsd72ZKffK5f0ISRuCaSk5k/edit
-
-
-
-## Photo mgmt
-
-+ [ExifTool]
-+ [Rclone] but I'm a plebe, really
 + Photo Mechanic
++ Plaintext forever
++ Syncthing on Android + Mac
++ When needed, metadata spelunking with ExifTool
 
-Note: Spotlight on macOS indexes IPTC description, keywords and headline fields in JPG files, so search is wicked fast. This is so underrated, you guys!
+Note: You can see an example of how this works in the [project notes] I wrote up for Laughing Lost in Briars.
 
-[ExifTool]: https://exiftool.org/
-
-[Rclone]: https://rclone.org/
+[project notes]: https://www.zachmccabe.com/briars/notes
 
 
 
-## Field
 
-+ Always looking for better work gloves
-+ Billhook
-+ Bullnose pliers
-+ Dish soap to wash off the poison ivy
-+ Loksak bags keeps dust, rain and sweat away from my phone and other electronics
+## Field things
+
++ Dish soap and cold water to wash off the poison ivy
++ Loksak bags keep my electronics clean and dry
++ Weather tools on my phone:
+  - droughtmonitor.unl.edu
+  - @nwsftworth
+  - Radarscope
+  - texaswildfirerisk.com
+  - Joshua Tee’s [wX app]
+  - Windy.com
+
+[wX app]: https://docs.google.com/document/d/1OQrviP10XBvQZ7QKh5R4bsd72ZKffK5f0ISRuCaSk5k/edit
+
+
+
+
+## Longevity
+
++ Pleco with lots of add-ons
+
+More than 10 years ago, I bought my first smartphone just so to get Pleco's suite of Chinese language tools and dictionaries. Many smartphones later, it's still my favorite app.
+
++ The DAM Book
++ Photo Mechanic v6
+
+Along with Photo Mechanic, Peter Krogh's "The DAM Book" has been helping me manage my picture archive for nearly a decade.
 
 
 
 ---
 
-Whenever I travel, go to the museum or read a bit of [archaeology,] it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
 
-![Text streams across an old iPod screen booting into iPod Linux](https://www.zachmccabe.com/assets/viz/ipod-linux-300.gif)
+
+Whenever I travel, go to the museum or read a bit of [archaeology,] it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
 
 *HT [Belle Cooper] for inspiring the idea for this page.*
 
