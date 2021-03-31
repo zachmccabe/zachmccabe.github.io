@@ -13,7 +13,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • List of some favorite tools I'm using right now for work (and life).
+Updated: {% include print_update.html %} • List of some favorite things I'm using right now for work (and life).
 
 
 
@@ -25,14 +25,14 @@ Updated: {% include print_update.html %} • List of some favorite tools I'm usi
 
 + Orgzly on Android
 + Pomodoro technique for screen-based stuff
-+ 10 minutes of sitting meditation, and an hour of walking
++ Quick 10 minutes of sitting meditation, and a good hour of walking
 
 
 
 ## Office things
 
 + AP Stylebook
-+ Pandemic fern friend
++ Pandemic fern
 + Speedy Stitcher sewing awl
 
 Note: I share the nitty gritty from my digital publishing workflow in this [colophon] from my field guide.
@@ -77,7 +77,7 @@ Note: You can see an example of how this works in the [project notes] I wrote up
 
 + Pleco with lots of add-ons
 
-More than 10 years ago, I bought my first smartphone just so to get Pleco's suite of Chinese language tools and dictionaries. Many smartphones later, it's still my favorite app.
+More than 10 years ago, I bought my first smartphone just to get Pleco's suite of Chinese language tools and dictionaries. Many smartphones later, it's still my favorite app.
 
 + The DAM Book
 + Photo Mechanic v6
@@ -92,9 +92,9 @@ Along with Photo Mechanic, Peter Krogh's "The DAM Book" has been helping me mana
 
 Whenever I travel, go to the museum or read a bit of [archaeology,] it is always the stuff people use that raises my eyebrow and makes me smile. Only fair to ante up, eh?
 
-*HT [Belle Cooper] for inspiring the idea for this page.*
+*HT [Belle Cooper,] whose own list inspired this one.*
 
 [archaeology,]: https://archive.org/details/StoneAgeEconomics_201611/page/n31
 
-[Belle Cooper]: http://bellebcooper.com/
+[Belle Cooper,]: http://bellebcooper.com/
 
