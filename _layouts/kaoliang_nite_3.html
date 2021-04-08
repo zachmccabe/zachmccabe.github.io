@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<title>{{ page.title }} | Zach McCabe</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="viewport" content="width=device-width">
+{% if page.robots == "norobots" %}{% include meta_robots.html %}{% endif %}
+<meta name="description" content="{{ page.description }}" />
+<meta name="date" content="{{ page.date }}" />
+<link rel="canonical" href="https://www.zachmccabe.com{{ page.url }}" />
+<style>
+{% include kaoliang_nite_33.html %}
+</style>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="xwrap">
+{% include site_nav.html %}
+<header>
+<h1 id="{{ page.title }}">{{ page.title }}</h1>
+</header>
+<main class="xnest20">
+{{ content }}
+</main>
+<footer>
+{% include footer.html %}
+</footer>
+</div>
+</body>
+</html>
