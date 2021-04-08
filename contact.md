@@ -1,5 +1,5 @@
 ---
-layout: kaoliang3_article
+layout: kaoliang_nite_3
 title: Contact
 date: 2021-03-21
 description: Email is the best way to reach me.
