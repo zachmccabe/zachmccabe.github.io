@@ -1,5 +1,5 @@
 ---
-layout: kaoliang3_article
+layout: kaoliang_nite_3
 title: Colophon
 date: 2020-03-18
 description: What you need to know about how this site works
