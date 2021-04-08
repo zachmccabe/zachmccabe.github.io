@@ -1,5 +1,5 @@
 ---
-layout: kaoliang3_article
+layout: kaoliang_nite_3
 title: About 
 date: 2021-03-21
 description: Hi, it's Zach.
@@ -9,7 +9,7 @@ description: Hi, it's Zach.
 
 I'm the author and producer of [The Photographers Field Guide to Beijing,] which is a little book you can read on your phone.
 
-🌞
+§
 
 These days I'm working as a ranch hand in Texas, in the good company of ancient oak trees.
 
