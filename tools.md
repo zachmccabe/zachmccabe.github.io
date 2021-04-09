@@ -35,7 +35,7 @@ Updated: {% include print_update.html %} • List of some favorite things I'm us
 + Pandemic fern
 + Speedy Stitcher sewing awl
 
-Note: I share the nitty gritty from my digital publishing workflow in this [colophon] from my field guide.
+The nitty gritty from my digital publishing workflow is in this [colophon] from my field guide.
 
 [colophon]: https://www.zachmccabe.com/beijing/colophon
 
@@ -49,7 +49,7 @@ Note: I share the nitty gritty from my digital publishing workflow in this [colo
 + Syncthing on Android + Mac
 + When needed, metadata spelunking with ExifTool
 
-Note: You can see an example of how this works in the [project notes] I wrote up for Laughing Lost in Briars.
+If you're curious, see how this works in the [project notes] I wrote up for Laughing Lost in Briars.
 
 [project notes]: https://www.zachmccabe.com/briars/notes
 
