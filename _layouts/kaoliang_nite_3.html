@@ -2,6 +2,7 @@
 <html lang="en-US">
 <head>
 <meta charset="utf-8">
+{% if page.robots == "norobots" %}{% include meta_robots.html %}{% endif %}
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <meta name="viewport" content="width=device-width">
 <title>{{ page.title }} | Zach McCabe</title>
