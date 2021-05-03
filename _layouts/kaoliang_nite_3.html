@@ -1,20 +1,16 @@
 <!doctype html>
 <html lang="en-US">
 <head>
-<title>{{ page.title }} | Zach McCabe</title>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta name="viewport" content="width=device-width">
 {% if page.robots == "norobots" %}{% include meta_robots.html %}{% endif %}
+<meta http-equiv="content-security-policy" content="default-src 'self'; img-src 'self' https://images.zachmccabe.com; object-src 'none'; upgrade-insecure-requests; block-all-mixed-content">
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+<meta name="viewport" content="width=device-width">
+<title>{{ page.title }} | Zach McCabe</title>
 <meta name="description" content="{{ page.description }}" />
 <meta name="date" content="{{ page.date }}" />
+<link rel="stylesheet" href="https://www.zachmccabe.com/assets/kao-nite-3.css">
 <link rel="canonical" href="https://www.zachmccabe.com{{ page.url }}" />
-<style>
-{% include kaoliang_nite_33.html %}
-</style>
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
 </head>
 <body>
 <div class="xwrap">
