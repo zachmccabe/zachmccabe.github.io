@@ -33,9 +33,7 @@ Small bills. Snacks to share with rogue livestock. Camera batteries (right pocke
 
 ## WYSIATI & culture shock
 
-"What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so [think slow.]
-
-[think slow.]: https://www.zachmccabe.com/just-ask.html
+"What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so think slow.
 
 
 
