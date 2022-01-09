@@ -1,22 +1,16 @@
 ---
 layout: kaoliang_nite_3
 title: About 
-date: 2021-03-21
-description: Hi, it's Zach.
+date: 2022-01-09
+description: About Zach
 
 ---
 
-
-I'm the author and producer of [The Photographers Field Guide to Beijing,] which is a little book you can read on your phone.
-
----
 
 These days I'm working as a ranch hand in Texas, in the good company of ancient oak trees.
 
-Previously, I worked as a [photographer] for NGO clients in East Asia.
+Previously, I worked as a photographer for NGO clients in East Asia.
+
+I received an undergraduate degree in Asian Studies at St. Olaf College, Minnesota, in 2006; and a certificate in Chinese as a Second Language from Shanghai Huashida in 2004.
 
 I grew up in the US, China and Japan.
-
-[The Photographers Field Guide to Beijing,]: https://www.zachmccabe.com/beijing
-
-[photographer]: https://www.zachmccabe.com/postcard
