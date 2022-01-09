@@ -1,10 +1,10 @@
 ---
 layout: kaoliang_nite_3
 title: Tools
-date: 2021-03-25
+date: 2022-01-09
 description: List of a few favorite tools I'm using right now
 nav: |
-  + [Organization and mind mgmt](https://www.zachmccabe.com/tools.html#organization-and-mind-mgmt) 
+  + [Time and mind mgmt](https://www.zachmccabe.com/tools.html#Time-and-mind-mgmt) 
   + [Office things](https://www.zachmccabe.com/tools.html#office-things)
   + [Digital asset mgmt](https://www.zachmccabe.com/tools.html#digital-asset-mgmt)
   + [Field things](https://www.zachmccabe.com/tools.html#field-things)
@@ -21,7 +21,7 @@ Updated: {% include print_update.html %} • List of some favorite things I'm us
 
 
 
-## Organization and mind mgmt
+## Time and mind mgmt
 
 + Orgzly on Android
 + Pomodoro technique for screen-based stuff
@@ -30,6 +30,8 @@ Updated: {% include print_update.html %} • List of some favorite things I'm us
 
 
 ## Office things
+
+Switched from a standing desk to a floor desk. Everything is built using Elfa modular shelving racks and raw pine so it was real easy. Not sure how long I'll keep it this way.
 
 + AP Stylebook
 + Pandemic fern
@@ -44,14 +46,14 @@ The nitty gritty from my digital publishing workflow is in this [colophon] from 
 
 ## Digital asset mgmt
 
-+ Photo Mechanic
-+ Plaintext forever
++ Plaintext is forever
++ Rclone
 + Syncthing on Android + Mac
 + When needed, metadata spelunking with ExifTool
 
 If you're curious, see how this works in the [project notes] I wrote up for Laughing Lost in Briars.
 
-[project notes]: https://www.zachmccabe.com/briars/notes
+[project notes]: https://www.zachmccabe.com/briars
 
 
 
@@ -60,13 +62,13 @@ If you're curious, see how this works in the [project notes] I wrote up for Laug
 
 + Dish soap and cold water to wash off the poison ivy
 + Loksak bags keep my electronics clean and dry
-+ Weather tools on my phone:
++ Weather tools I like on my phone:
   - droughtmonitor.unl.edu
   - @nwsftworth
   - Radarscope
   - texaswildfirerisk.com
   - Joshua Tee’s [wX app]
-  - Windy.com
+  - yr.no
 
 [wX app]: https://docs.google.com/document/d/1OQrviP10XBvQZ7QKh5R4bsd72ZKffK5f0ISRuCaSk5k/edit
 
@@ -82,7 +84,7 @@ More than 10 years ago, I bought my first smartphone just to get Pleco's suite o
 + The DAM Book
 + Photo Mechanic v6
 
-Along with Photo Mechanic, Peter Krogh's "The DAM Book" has been helping me manage my picture archive for nearly a decade.
+Along with Photo Mechanic, Peter Krogh's The DAM Book has been helping me manage my picture archive for nearly a decade.
 
 
 
