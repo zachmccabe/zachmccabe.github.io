@@ -62,7 +62,7 @@ If you're curious, see how this works in the [project notes] I wrote up for Laug
 
 + Dish soap and cold water to wash off the poison ivy
 + Loksak bags keep my electronics clean and dry
-+ Weather tools I like on my phone:
++ Because I work and play outside, I like to have these weather tools on my phone:
   - droughtmonitor.unl.edu
   - @nwsftworth
   - Radarscope
