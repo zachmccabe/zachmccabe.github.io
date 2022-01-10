@@ -1,4 +1,5 @@
 ---
+permalink: /travel
 layout: kaoliang_nite_3
 title: Travel notes
 date: 2020-07-10
