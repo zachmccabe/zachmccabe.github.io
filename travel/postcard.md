@@ -13,6 +13,12 @@ Postcards to my younger self in 140 characters or less.
 
 
 
+## Am I a propagandist?
+
+Choose your partners well. Photographers work for NGOs because they share a common vision. Nobody thinks you here for the money.
+
+
+
 ## Brass tacks, tactfully
 
 Hash out expectations with your client ASAP. Always act pro: cross-cultural negotiations confuse clients, too.
@@ -21,19 +27,25 @@ Hash out expectations with your client ASAP. Always act pro: cross-cultural nego
 
 ## Good intentions?
 
-The work is the same, gratis or commissioned: 1. How will you solve client's problem? 2. Cost, logistics & deliverables?
+Gratis or commissioned, the work is the same. 1. How will you solve the client's problem? 2. Costs, logistics & deliverables?
 
 
 
 ## Always bring extra
 
-Small bills. Snacks to share with rogue livestock. Camera batteries (right pocket = fresh batteries; left = spent).
+Small bills. Snacks to share with rogue livestock. Put fresh batteries in your right pocket and spent batteries in your left pocket.
 
 
 
 ## WYSIATI & culture shock
 
-"What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so think slow.
+"What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so move slow.
+
+
+
+## Who trusts who?
+
+Try to understand what you're asking for with your cameras. Trust can take minutes or months depending on a client's local relationships.
 
 
 
@@ -45,7 +57,13 @@ Give your subject respect. Give your clients and their audience honest work. You
 
 ## Really, it is \*your\* job to smile
 
-Build rapport before you photograph. If you rock up and take pictures, who will give you their story?
+Build rapport first. If you rock up and take pictures, who will give you their story -- or anything else?
+
+
+
+## Build rapport?
+
+Share your pictures. Participate in kids games, drinking games, planting crops. Play the fool. Listen. You will be given permission, or not.
 
 
 
