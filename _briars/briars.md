@@ -128,10 +128,10 @@ The first 3-years-worth of images were made with cell phones and a cheap action 
 
 To add some protection from sweat, dust and rain, I use either a 4x7" Loksak bag or a tiny, #1010 Pelican case.
 
-One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision.
+One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision. I've really come to prefer working this way. And I especially appreciate it when the weather is changing fast, or when I'm working near things that can bite, kick or sting. The trade off is that during bright midday sun I can't really see the interface on the screen. Keeps me in the scene, I guess.
 
 ### Light
 
-For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so I just upgraded what I already had. For the past few years I've been using Jaxman E3 lights, which I run on 1x NIMH AA batteries. I use both the 4000K and 5700K Nichia versions of this light. Each is rated at 90 CRI.
+For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so I just upgraded what I already had. For the past few years I've been using Jaxman E3 lights, which I run on a single, rechargable AA-size battery. I use both the 4000K and 5700K Nichia versions of this light. Each is rated at 90 CRI.
 
 I also keep a collapsible reflector in my car but I've only used it once. Cattle, in particular, really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
