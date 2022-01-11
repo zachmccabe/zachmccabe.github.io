@@ -1,4 +1,5 @@
 ---
+permalink: /beijing/
 layout: kaoliang_nite_3
 title: The Photographers Field Guide to Beijing
 date: 2021-04-09
