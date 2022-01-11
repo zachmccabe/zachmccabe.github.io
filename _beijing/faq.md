@@ -65,6 +65,10 @@ You can use any app that supports EPUB files. Off the top of my head: **iBooks,*
 
 The book is written for travelers who need quick answers, and is designed so it's easy to read on your phone.
 
+You can download the latest version of the book as an [EPUB file] directly from my Github repo.
+
+[EPUB file]: https://github.com/zachmccabe/beijing/releases/latest
+
 
 ## Can you still read it on Kindle?
 
