@@ -1,3 +1,5 @@
 collections:
+  tools:
+    output: true
   travel:
     output: true
