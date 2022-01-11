@@ -1,5 +1,5 @@
 ---
-layout: ratyear
+layout: kaoliang_nite_3
 title: FAQ
 date: 2021-03-17
 description: Got a question about The Photographers Field Guide to Beijing?
