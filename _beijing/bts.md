@@ -7,11 +7,11 @@ description: Behind the scenes with the Photographers Field Guide to Beijing
 ---
 
 
-If you're curious about how the book got made, I've stripped down my notes into this [colophon.](https://www.zachmccabe.com/beijing/colophon.html)
+If you're curious, here is [how the book got made.](https://www.zachmccabe.com/beijing/colophon.html)
 
-Here is the project [style guide.](https://www.zachmccabe.com/beijing/bts_style_guide.html)
+Here is the project [style guide.](https://www.zachmccabe.com/beijing/bts-style-guide.html)
 
-Any start requires making assumptions about the unknown. Here are [10 assumptions](https://www.zachmccabe.com/beijing/bts_10_assumptions) I'm making with this project.
+Any start requires making assumptions about the unknown. Here are [10 assumptions](https://www.zachmccabe.com/beijing/bts-10-assumptions) I'm making with this project.
 
 ---
 
