@@ -1,4 +1,5 @@
 ---
+permalink: /tools/
 layout: kaoliang_nite_3
 title: Tools
 date: 2022-01-09
