@@ -1,1 +1,1 @@
-<nav>{% if page.title == 'Tools' %}<p><a href="https://www.zachmccabe.com">Home</a> &sol; <b>Tools</b></p>{% else %}<p><a href="https://www.zachmccabe.com">Home</a> &sol; <a href="https://www.zachmccabe.com/briars">Tools</a> &sol; <b>{{ page.title }}</b></p>{% endif %}</nav>
+<nav>{% if page.title == 'Tools' %}<a href="https://www.zachmccabe.com">Home</a> &sol; <b>Tools</b>{% else %}<a href="https://www.zachmccabe.com">Home</a> &sol; <a href="https://www.zachmccabe.com/briars">Tools</a> &sol; <b>{{ page.title }}</b>{% endif %}</nav>
