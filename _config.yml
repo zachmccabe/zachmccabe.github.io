@@ -1,4 +1,6 @@
 collections:
+  briars:
+    output: true
   tools:
     output: true
   travel:
