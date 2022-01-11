@@ -7,7 +7,7 @@ description: "Postcards to my younger self in 140 characters or less."
 ---
 
 
-{% include print_update.html %} • {{ page.description }}
+{% include print_update.html %} • Postcards to my younger self in 140 characters or less.
 
 Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn.
 
