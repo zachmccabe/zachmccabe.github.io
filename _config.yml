@@ -1,4 +1,6 @@
 collections:
+  beijing:
+    output: true
   briars:
     output: true
   tools:
