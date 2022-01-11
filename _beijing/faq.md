@@ -9,7 +9,7 @@ description: Got a question about The Photographers Field Guide to Beijing?
 Updated: {% include print_update.html %} • Got a question about The Photographers Field Guide to Beijing?
 
 
-* [What is the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#what-is-the-latest-version-of-the-field-guide)
+* [What's the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#whats-the-latest-version-of-the-field-guide)
 * [Who is this book for?](https://www.zachmccabe.com/beijing/faq.html#who-is-this-book-for)
 * [Why is this book free?](https://www.zachmccabe.com/beijing/faq.html#why-is-this-book-free)
 * [How do you read the Field Guide?](https://www.zachmccabe.com/beijing/faq.html#how-do-you-read-the-field-guide)
@@ -46,7 +46,7 @@ Starting now, with the launch of version 2, I'm distributing this book free of c
 
 This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. 
 
-(FWIW you can buy a lot of [chuan'r] and [erguotou] for 25 USD.)
+FWIW you can buy a lot of [chuan'r] and [erguotou] for 25 USD.
 
 "The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish writer, Ryszard Kapuscinski.<sup>*</sup>
 
