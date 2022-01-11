@@ -2,14 +2,14 @@
 layout: kaoliang_nite_3
 title: Postcard
 date: 2020-07-10
-description: "What I wish I knew when I started out as a NGO photographer."
+description: "Postcards to my younger self in 140 characters or less."
 
 ---
 
 
-{{ page.date }} • {{ page.description }}
+{% include print_update.html %} • {{ page.description }}
 
-Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn. Postcards to my younger self in 140 characters or less.
+Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn.
 
 
 
