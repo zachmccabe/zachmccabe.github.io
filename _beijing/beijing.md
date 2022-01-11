@@ -13,11 +13,11 @@ Get answers to the questions only photographers ask. Learn how to deal with smog
 
 This field guide is written for photographers on the road. Use your favorite ebook app and read it anywhere.
 
-It's free. You should [download the EPUB.]
+It's free. [Download the EPUB.]
 
 For more info, check the [FAQ] or look [behind the scenes.]
 
-[download the EPUB.]: https://github.com/zachmccabe/beijing/releases/download/v2.0.1/beijing-v2.0.1.epub
+[download the EPUB.]: https://github.com/zachmccabe/beijing/releases
 
 [FAQ]: https://www.zachmccabe.com/beijing/faq
 
