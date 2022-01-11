@@ -14,9 +14,7 @@ nav: |
 ---
 
 
-
-{{ page.date }} • {{ page.description }} Updated: {{ page.update }}
-
+{% include print_update.html %} • {{ page.description }}
 
 
 {% include page_nav.html %}
