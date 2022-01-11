@@ -18,7 +18,7 @@ nav: |
 
 <span class="lede">Briars is 1 part diary, 1 part social publishing experiment.</span>
 
-Call it meditation, gratitude, delight. Call it what you want. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
+Call it meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
 Here are my project notes.
 
