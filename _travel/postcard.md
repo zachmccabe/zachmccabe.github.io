@@ -33,7 +33,7 @@ Gratis or commissioned, the work is the same. 1. How will you solve the client's
 
 ## Always bring extra
 
-Small bills. Snacks to share with rogue livestock. Put fresh batteries in your right pocket and spent batteries in your left pocket.
+Socks. Cash in small bills. Snacks to share. Batteries. Put fresh batteries in your right pocket and spent batteries in your left pocket.
 
 
 
@@ -63,7 +63,7 @@ Build rapport first. If you rock up and take pictures, who will give you their s
 
 ## Build rapport?
 
-Share your pictures. Participate in kids games, drinking games, planting crops. Play the fool. Listen. You will be given permission, or not.
+Listen. Share your pictures. Participate in kids games, drinking games, play the fool. Lend a hand. You will be given permission, or not.
 
 
 
