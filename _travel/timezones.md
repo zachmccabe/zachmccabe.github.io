@@ -2,13 +2,12 @@
 layout: kaoliang_nite_3
 title: Timezones
 date: 2021-09-06
-update: 2022-01-09
 description: "Staying in touch is, first of all, a frame of mind."
 
 ---
 
 
-{{ page.date }} • {{ page.description }}
+{% include print_update.html %} • {{ page.description }}
 
 It didn't matter whether we were in Osaka or in our tiny, midwest college town. My college friend always kept his Seiko set to west coast time. You can do the math in your head, sure, but are you going to remember to call your mom after a soju-drowned weekend?
 
