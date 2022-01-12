@@ -19,7 +19,7 @@
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <main class="xnest20">
-{% if page.lede == "print" %}<p>{% include print_update.html %} • {{ page.description | markdownify }}</p>{% endif %}
+{% if page.lede == "print" %}<p>{% include print_update.html %} • {{ page.description }}</p>{% endif %}
 {{ content }}
 </main>
 <footer>
