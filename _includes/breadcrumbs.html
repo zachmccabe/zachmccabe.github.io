@@ -1,4 +1,2 @@
-home &sol;
-{%- if page.collection -%}{{ page.collection }} &sol; {%- endif -%}
-{%- if page.subcollection -%}{{ page.subcollection }} &sol; {%- endif -%}
-{{ page.title }}
+
+<a href="https://www.zachmccabe.com">home</a> &sol; <a href="https://www.zachmccabe.com/{{-page.collection-}}">{{ page.collection }}</a> &sol; <a href="https://www.zachmccabe.com/{{-page.collection-}}/{{- page.subcollection- }}">{{ page.subcollection }}</a> &sol; <b>{{ page.title }}</b>
