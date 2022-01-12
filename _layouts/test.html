@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
 <meta charset="utf-8">
-{% if page.robots == "norobots" %}{% include meta_robots.html %}{% endif %}
+{%- if page.robots == "norobots" %}{% include meta_robots.html -%}{%- endif -%}
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <meta name="viewport" content="width=device-width">
 <title>{{ page.title }} | Zach McCabe</title>
@@ -14,16 +14,16 @@
 </head>
 <body>
 <div class="xwrap">
-{% include site_nav.html %}
+{%- include site_nav.html -%}
 <header>
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <main class="xnest20">
-{% if page.lede == "print" %}<p>{% include print_update.html %} • {{ page.description }}</p>{% endif %}
+{%- if page.lede == "print" -%}<p>{%- include print_update.html -%} • {{ page.description }}</p>{%- endif -%}
 {{ content }}
 </main>
 <footer>
-{% include footer.html %}
+{%- include footer.html -%}
 </footer>
 </div>
 </body>
