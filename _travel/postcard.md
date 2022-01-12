@@ -1,13 +1,12 @@
 ---
 layout: kaoliang_nite_3
-title: Postcard
+title: postcard
 date: 2020-07-10
 description: "Postcards to my younger self in 140 characters or less."
+lede: print
 
 ---
 
-
-{% include print_update.html %} • Postcards to my younger self in 140 characters or less.
 
 Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn.
 
