@@ -4,9 +4,9 @@ date: 2020-09-14
 title: Style guide
 description: Style guide for The Photographers Field Guide to Beijing
 nav: |
-  + [Mostly AP style?](https://www.zachmccabe.com/beijing/bts-style-guide.html#mostly-ap-style)
-  + [Styling content](https://www.zachmccabe.com/beijing/bts-style-guide.html#styling-content)
-  + [Styling code](https://www.zachmccabe.com/beijing/bts-style-guide.html#styling-code)
+  + [Mostly AP style?](https://www.zachmccabe.com/beijing/bts/style-guide.html#mostly-ap-style)
+  + [Styling content](https://www.zachmccabe.com/beijing/bts/style-guide.html#styling-content)
+  + [Styling code](https://www.zachmccabe.com/beijing/bts/style-guide.html#styling-code)
 
 ---
 
@@ -21,11 +21,11 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 ## Mostly AP style?
 
-**Chinese** names and places always use pinyin romanization. See: [Chinese,](https://www.zachmccabe.com/beijing/bts_style_guide.html#chinese) below.
+**Chinese** names and places always use pinyin romanization. See: [Chinese,](https://www.zachmccabe.com/beijing/bts/style_guide.html#chinese) below.
 
 **Dates** use ISO 8601 format: YYYY-MM-DD.
 
-**Dialogue** is formatted using italics and double quotes for clarity, e.g. _"Hello world,"_ she said. Also see: [quotes and citations] and [chunkify.](https://www.zachmccabe.com/beijing/bts_style_guide.html#chunkify)
+**Dialogue** is formatted using italics and double quotes for clarity, e.g. _"Hello world,"_ she said. Also see: [quotes and citations] and [chunkify.](https://www.zachmccabe.com/beijing/bts/style_guide.html#chunkify)
 
 **Ellipses** are used as a narrative device – not just to truncate quotes. Because this is not a newspaper…
 
@@ -33,11 +33,11 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 **Numbers** are never spelled out. Line length is short, and each character counts. (Names might be an exception, e.g. Three Shadows Gallery, and not 3 Shadows Gallery.) See: [line length.]
 
-[quotes and citations]: https://www.zachmccabe.com/beijing/bts_style_guide.html#quotes-and-citations
+[quotes and citations]: https://www.zachmccabe.com/beijing/bts/style_guide.html#quotes-and-citations
 
-[chunkify.]: https://www.zachmccabe.com/beijing/bts_style_guide.html#chunkify
+[chunkify.]: https://www.zachmccabe.com/beijing/bts/style_guide.html#chunkify
 
-[line length.]: https://www.zachmccabe.com/beijing/bts_style_guide.html#line-length
+[line length.]: https://www.zachmccabe.com/beijing/bts/style_guide.html#line-length
 
 
 
@@ -53,7 +53,7 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 **Chinese punctuation** should be used for titles, dialogue and quotation. Again, this isn't for the reader as much as it is for native speakers who the reader might consult, like a concierge or a fixer.
 
-Also see: [chunkify](https://www.zachmccabe.com/beijing/bts_style_guide.html#chunkify) and [lang,](https://www.zachmccabe.com/beijing/bts_style_guide.html#lang) both below.   
+Also see: [chunkify](https://www.zachmccabe.com/beijing/bts/style_guide.html#chunkify) and [lang,](https://www.zachmccabe.com/beijing/bts/style_guide.html#lang) both below.   
 
 
 
@@ -101,11 +101,11 @@ Thankfully, most apps give the reader some options within the settings to adjust
 + Dialogue: use italics and double quotes.
 + Foreign-language words and phrases: follow AP style, plus format per [Chinese.]
 
-[Chinese.]: https://www.zachmccabe.com/beijing/bts_style_guide.html#chinese
+[Chinese.]: https://www.zachmccabe.com/beijing/bts/style_guide.html#chinese
 
 **Citations** in the e-book, like the rest of this website, use a bastardized variant of Chicago. (It's a work in progress, I admit.)
 
-+ Citations that link to audio or video content should include a timestamp. See: [Link strategy.](https://www.zachmccabe.com/beijing/bts_style_guide.html#link-strategy)
++ Citations that link to audio or video content should include a timestamp. See: [Link strategy.](https://www.zachmccabe.com/beijing/bts/style_guide.html#link-strategy)
 + Citation info needs to be easy to scan for the reader; full Chicago citations can get very dense.
 + Citations should be easy for me to format using markdown.
 
@@ -115,7 +115,7 @@ Thankfully, most apps give the reader some options within the settings to adjust
 
 ### Chunkify
 
-Make the book easy to scan. See #2 and #3 under [10 Assumptions.](https://www.zachmccabe.com/beijing/bts_10_assumptions.html)
+Make the book easy to scan. See #2 and #3 under [10 Assumptions.](https://www.zachmccabe.com/beijing/bts/10_assumptions.html)
 
 Use headers, short paragraphs, blockquote and bold text to help chunkify information. This is important for human readers, and also so that screen readers and reading apps can parse your text.
 
@@ -129,7 +129,7 @@ Don't use blockquote for sidebars, info boxes or anything other than quotations.
 
 Be careful with `<blockquote>` because Kindle appears to overrides your CSS. See: [Kindle CSS,] below.
 
-[Kindle CSS,]: https://www.zachmccabe.com/beijing/bts_style_guide.html#kindle-css
+[Kindle CSS,]: https://www.zachmccabe.com/beijing/bts/style_guide.html#kindle-css
 
 
 
@@ -179,7 +179,7 @@ The result looks like this:
 
 Line length can be a problem, watch out! Use CSS so that and printed URLs can break to a new line at the edge of the box.
 
-Also see: [small screens.](https://https://www.zachmccabe.com/beijing/bts_style_guide.html#small-screens)
+Also see: [small screens.](https://https://www.zachmccabe.com/beijing/bts/style_guide.html#small-screens)
 
 
 
