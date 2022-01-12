@@ -4,14 +4,14 @@ date: 2020-01-30
 title: Making the field guide
 description: How and why I built the field guide the way I did. If you're curious about digital books, take a peek.
 nav: |
-  + [Map and compass](https://www.zachmccabe.com/beijing/colophon.html#map-and-compass)
-  + [Timeline](https://www.zachmccabe.com/beijing/colophon.html#timeline)
-  + [The long way](https://www.zachmccabe.com/beijing/colophon.html#the-long-way)
-  + [Photos](https://www.zachmccabe.com/beijing/colophon.html#photos)
-  + [Maps and illustrations](https://www.zachmccabe.com/beijing/colophon.html#maps-and-illustrations)
-  + [Copy](https://www.zachmccabe.com/beijing/colophon.html#copy)
-  + [Writing for mobile](https://www.zachmccabe.com/beijing/colophon.html#writing-for-mobile)
-  + [Lessons learned](https://www.zachmccabe.com/beijing/colophon.html#lessons-learned)
+  + [Map and compass](https://www.zachmccabe.com/beijing/bts/colophon.html#map-and-compass)
+  + [Timeline](https://www.zachmccabe.com/beijing/bts/colophon.html#timeline)
+  + [The long way](https://www.zachmccabe.com/beijing/bts/colophon.html#the-long-way)
+  + [Photos](https://www.zachmccabe.com/beijing/bts/colophon.html#photos)
+  + [Maps and illustrations](https://www.zachmccabe.com/beijing/bts/colophon.html#maps-and-illustrations)
+  + [Copy](https://www.zachmccabe.com/beijing/bts/colophon.html#copy)
+  + [Writing for mobile](https://www.zachmccabe.com/beijing/bts/colophon.html#writing-for-mobile)
+  + [Lessons learned](https://www.zachmccabe.com/beijing/bts/colophon.html#lessons-learned)
 
 ---
 
@@ -25,7 +25,7 @@ Updated: {% include print_update.html %} • These notes explain how and why I b
 
 ## Map and compass
 
-Every project needs a [map](https://www.zachmccabe.com/beijing/bts-style-guide.html), a [compass](https://www.zachmccabe.com/beijing/bts-10-assumptions.html) and a soundtrack.
+Every project needs a [map](https://www.zachmccabe.com/beijing/bts/style-guide.html), a [compass](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) and a soundtrack.
 
 All of my decisions are made using that map and compass. Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
 
@@ -109,7 +109,7 @@ But device storage space is truly at a premium during international trips. An eb
 So, I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: _"Due to its large file size, this book may take longer to download."_
 
 - I assume I'm not the only one who tries to download just-one-more before it's time to get on the plane?
-- I also [assume](https://www.zachmccabe.com/beijing/bts-10-assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
+- I also [assume](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
 
 According to the Amazon product page, the v1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
 
@@ -132,7 +132,7 @@ As research progressed I realized that I'd need to include custom maps for 3 rea
 
 1. Few travelers are willing to endure the extra hassles caused by the GFW to get to that favorite maps app.
 2. Although there are very good English-language maps designed for tourists, there were still large info gaps.
-3. Maps are an efficient, quick way to organize and explain complex ideas – making them an ideal way to deliver info to [my reader](https://www.zachmccabe.com/beijing/bts-10-assumptions#the-ebook). 
+3. Maps are an efficient, quick way to organize and explain complex ideas – making them an ideal way to deliver info to [my reader](https://www.zachmccabe.com/beijing/bts/10-assumptions#the-ebook). 
 
 In the v1 field guide, I included 14 high-level, thumbnail maps alongside the 17 illustrations I'd already made. (Some of these were removed from the v2 field guide.)
 
@@ -198,7 +198,7 @@ Presentation [width](https://baymard.com/blog/line-length-readability) is import
 
 Assuming that most Readers would be paging through the field guide on their phones and tablets, I wrote for _that_. And that took some practice. I reread the [usual sources](https://ux.stackexchange.com/questions/108801/what-is-the-best-number-of-paragraph-width-for-readability). I spent a lot of time working on the flow of information across sections, paragraphs and sentences. I refined my tone, syntax and word choice for the environment I assume my Reader will inhabit<sup><a id="ref4" href="#note4" alt="footnote">4</a></sup> while reading the field guide.
 
-The [AP Stylebook](https://www.zachmccabe.com/beijing/bts-style-guide.html) might be Religion, but that good book provides no advice on typefaces, [line length](http://maxdesign.com.au/articles/em/) or other UI issues.
+The [AP Stylebook](https://www.zachmccabe.com/beijing/bts/style-guide.html) might be Religion, but that good book provides no advice on typefaces, [line length](http://maxdesign.com.au/articles/em/) or other UI issues.
 
 [Butterick](https://practicaltypography.com/line-length.html) and the [BBC](http://www.bbc.co.uk/academy/journalism/skills/digital-journalism/article/art20141202144618106) did have some ideas.
 
@@ -214,7 +214,7 @@ The Photographers Field Guide to Beijing is the first book I've written. It's no
 
 There were a few false summits.
 
-Again, I'd like to emphasize the importance of having a compass – you need to create a reader persona and learn to consult that document as part of your process. Mine is [here.](https://www.zachmccabe.com/beijing/bts-10-assumptions.html)
+Again, I'd like to emphasize the importance of having a compass – you need to create a reader persona and learn to consult that document as part of your process. Mine is [here.](https://www.zachmccabe.com/beijing/bts/10-assumptions.html)
 
 1. Find your beta testers (beta readers?) as soon as you can. Treat their time with respect. This feedback is invaluable.
 2. Find a good editor. If you're including maps, illustrations and photos, pull in a photo editor or a designer, too. These eagle-eyed folks will catch mistakes and help you through the 11th-hour gales.
