@@ -1,9 +1,10 @@
 ---
-layout: kaoliang_nite_3
+layout: test
 title: Dumb questions
 date: 2019-04-04
 update: 2020-08-17
 description: "Far away and asking dumb questions. Just a rambling note on using questions in a foreign language or cross-cultural scenarios."
+lede: print
 nav: | 
  + [Another place](https://www.zachmccabe.com/travel/dumb-questions#another-place)
  + [Be aware of context](https://www.zachmccabe.com/travel/dumb-questions#be-aware-of-context)
@@ -14,11 +15,7 @@ nav: |
 ---
 
 
-{% include print_update.html %} • {{ page.description }}
-
-
 {% include page_nav.html %}
-
 
 
 ## Another place
