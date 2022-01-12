@@ -5,7 +5,7 @@
 {%- if page.robots == "norobots" %}{%- include meta_robots.html -%}{%- endif -%}
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <meta name="viewport" content="width=device-width">
-<title>{{ page.title }} {%- if page.collection -%}{%- include emoji_collection_switch.html -%} {{ page.collection }}{%- endif -%} Zach McCabe</title>
+<title>{{ page.title }}{% if page.collection %}{% include emoji_collection_switch.html %}{{ page.collection }}{% endif %}Zach McCabe</title>
 <meta name="description" content="{{ page.description }}" />
 <meta name="date" content="{{ page.date }}" />
 <link rel="stylesheet" href="https://www.zachmccabe.com/assets/kao-nite-3.css">
