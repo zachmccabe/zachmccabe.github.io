@@ -1,5 +1,5 @@
 ---
-layout: kaoliang_nite_3
+layout: test
 title: postcard
 date: 2020-07-10
 description: "Postcards to my younger self in 140 characters or less."
