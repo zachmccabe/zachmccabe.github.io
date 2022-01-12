@@ -1,4 +1,5 @@
 ---
+permalink: beijing/bts/10-assumptions
 layout: kaoliang_nite_3
 title: 10 Assumptions
 date: 2018-04-05
