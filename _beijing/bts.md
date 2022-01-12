@@ -1,5 +1,5 @@
 ---
-permalink: beijing/bts
+permalink: /beijing/bts/
 layout: kaoliang_nite_3
 title: BTS
 date: 2020-07-03
