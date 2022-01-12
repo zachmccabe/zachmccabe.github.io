@@ -21,17 +21,19 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 ## Mostly AP style?
 
-**Chinese** names and places always use pinyin romanization. See: [Chinese,](https://www.zachmccabe.com/beijing/bts/style_guide.html#chinese) below.
+**Chinese** names and places always use pinyin romanization. See: [Chinese,] below.
 
 **Dates** use ISO 8601 format: YYYY-MM-DD.
 
-**Dialogue** is formatted using italics and double quotes for clarity, e.g. _"Hello world,"_ she said. Also see: [quotes and citations] and [chunkify.](https://www.zachmccabe.com/beijing/bts/style_guide.html#chunkify)
+**Dialogue** is formatted using italics and double quotes for clarity, e.g. _"Hello world,"_ she said. Also see: [quotes and citations] and [chunkify.]
 
 **Ellipses** are used as a narrative device – not just to truncate quotes. Because this is not a newspaper…
 
 **Metric and imperial** units are included in the e-book. Beijingers themselves will expect you not only to use the metric system but also local standards like <span class="hilite">jin <span lang="zh">斤</span></span> and <span class="hilite">wan <span lang="zh">万</span></span>.
 
 **Numbers** are never spelled out. Line length is short, and each character counts. (Names might be an exception, e.g. Three Shadows Gallery, and not 3 Shadows Gallery.) See: [line length.]
+
+[Chinese,]: https://www.zachmccabe.com/beijing/bts/style_guide.html#chinese
 
 [quotes and citations]: https://www.zachmccabe.com/beijing/bts/style_guide.html#quotes-and-citations
 
@@ -51,9 +53,11 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 **Chinese characters** should follow the pinyin the first time a word or phrase is used. Chinese characters should be included in the location index, too. Use elsewhere as needed.
 
-**Chinese punctuation** should be used for titles, dialogue and quotation. Again, this isn't for the reader as much as it is for native speakers who the reader might consult, like a concierge or a fixer.
+**Chinese punctuation** should be used for titles, dialogue and quotation. Again, this isn't for the reader as much as it is for native speakers who the reader might consult, like a concierge or a fixer. Also see: [chunkify] and [lang,] both below.  
 
-Also see: [chunkify](https://www.zachmccabe.com/beijing/bts/style_guide.html#chunkify) and [lang,](https://www.zachmccabe.com/beijing/bts/style_guide.html#lang) both below.   
+[chunkify]: https://www.zachmccabe.com/beijing/bts/style_guide.html#chunkify
+
+[lang,]: https://www.zachmccabe.com/beijing/bts/style_guide.html#lang
 
 
 
@@ -79,8 +83,6 @@ Thankfully, most apps give the reader some options within the settings to adjust
 
 **This is a reference book.** The reader should be able to easily navigate info, and to hop back-and-forth without thinking about it.
 
-(It's like an offline internet. Perfect for travelers in China.)
-
 
 
 ### Tone
@@ -101,13 +103,16 @@ Thankfully, most apps give the reader some options within the settings to adjust
 + Dialogue: use italics and double quotes.
 + Foreign-language words and phrases: follow AP style, plus format per [Chinese.]
 
-[Chinese.]: https://www.zachmccabe.com/beijing/bts/style_guide.html#chinese
-
 **Citations** in the e-book, like the rest of this website, use a bastardized variant of Chicago. (It's a work in progress, I admit.)
 
-+ Citations that link to audio or video content should include a timestamp. See: [Link strategy.](https://www.zachmccabe.com/beijing/bts/style_guide.html#link-strategy)
++ Citations that link to audio or video content should include a timestamp. See: [Link strategy.]
 + Citation info needs to be easy to scan for the reader; full Chicago citations can get very dense.
 + Citations should be easy for me to format using markdown.
+
+[Chinese.]: https://www.zachmccabe.com/beijing/bts/style_guide.html#chinese
+
+[Link strategy.]: https://www.zachmccabe.com/beijing/bts/style_guide.html#link-strategy
+
 
 
 
@@ -115,11 +120,16 @@ Thankfully, most apps give the reader some options within the settings to adjust
 
 ### Chunkify
 
-Make the book easy to scan. See #2 and #3 under [10 Assumptions.](https://www.zachmccabe.com/beijing/bts/10_assumptions.html)
+Make the book easy to scan. See #2 and #3 under [10 Assumptions.]
 
 Use headers, short paragraphs, blockquote and bold text to help chunkify information. This is important for human readers, and also so that screen readers and reading apps can parse your text.
 
-Be careful with `<aside>` because iBooks is idiosyncratic about displaying contents wrapped in this tag. For more, see Apple's [Apple Books asset guide.](https://help.apple.com/itc/booksassetguide/)
+Be careful with `<aside>` because iBooks is idiosyncratic about displaying contents wrapped in this tag. For more, see Apple's [Apple Books asset guide.]
+
+[10 Assumptions.]: https://www.zachmccabe.com/beijing/bts/10_assumptions.html
+
+[Apple Books asset guide.]: https://help.apple.com/itc/booksassetguide/
+
 
 
 
@@ -133,6 +143,7 @@ Be careful with `<blockquote>` because Kindle appears to overrides your CSS. See
 
 
 
+
 ### Icons
 
 All the old, inline icons were removed for the v2 field guide.
@@ -143,9 +154,11 @@ Lesson learned? Keep it simple, folks.
 
 
 
+
 ### Images
 
 Within the ebook, images are 1:1 at 1000px. Photographs are JPG. Other visuals are PNG.
+
 
 
 
@@ -163,6 +176,7 @@ In my testing, it seems like Kindle overrides CSS styling for many `html5` tags.
 
 
 
+
 ### Lang
 
 Multilingual words and phrases are noted with `<span>` tags and CSS.
@@ -172,6 +186,7 @@ Chinese gets `<span lang="zh">` tags.
 The result looks like this:
 
 `<span class="hilite">English <span lang="zh">汉字</span></span>`
+
 
 
 
