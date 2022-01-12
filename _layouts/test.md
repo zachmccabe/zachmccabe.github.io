@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+{% if page.robots == "norobots" %}{% include meta_robots.html %}{% endif %}
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+<meta name="viewport" content="width=device-width">
+<title>{{ page.title }} | Zach McCabe</title>
+<meta name="description" content="{{ page.description }}" />
+<meta name="date" content="{{ page.date }}" />
+<link rel="stylesheet" href="https://www.zachmccabe.com/assets/kao-nite-3.css">
+<link rel="canonical" href="https://www.zachmccabe.com{{ page.url }}" />
+<link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.zachmccabe.com/sitemap.xml" />
+</head>
+<body>
+<div class="xwrap">
+{% include site_nav.html %}
+<header>
+<h1 id="{{ page.title }}">{{ page.title }}</h1>
+</header>
+<main class="xnest20">
+{% if page.lede == "print" %}<p>{% include print_update.html %} • {{ page.description | markdownify }}</p>{% endif %}
+{{ content }}
+</main>
+<footer>
+{% include footer.html %}
+</footer>
+</div>
+</body>
+</html>
