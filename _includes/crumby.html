@@ -1,6 +1,1 @@
-{% include emoji_collection_switch.html %}
-{%- if page.collection -%}
-home &gt;&nbsp;
-{{ page.collection }} &gt;&nbsp;
-{{ page.title }}
-{%- endif -%}
+{%- include emoji_collection_switch.html -%}&nbsp;{%- if page.collection -%}<a href="https://www.zachmccabe.com">home</a>&nbsp;&sol;&nbsp;<a href="https://www.zachmccabe.com/{{-page.collection-}}">{{ page.collection }}</a>&nbsp;&sol;&nbsp;{{ page.title }}{%- endif -%}
