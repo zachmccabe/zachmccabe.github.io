@@ -14,15 +14,15 @@
 </head>
 <body>
 <div class="xwrap">
+{%- include site_nav.html -%}
 <header>
-{% include site_nav.html %}
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <main class="xnest20">
 {{ content }}
 </main>
 <footer>
-{% include footer.html %}
+{%- include footer.html -%}
 </footer>
 </div>
 </body>
