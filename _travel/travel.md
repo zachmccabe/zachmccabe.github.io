@@ -7,23 +7,12 @@ description: "A short but growing list of stuff I've written for friends who are
 nav: |
   + [Pinned](https://www.zachmccabe.com/travel.html#pinned)
   + [Travel with me](https://www.zachmccabe.com/travel.html#travel-with-me)
+  + [Resources](https://www.zachmccabe.com/travel.html#resources)
 
 ---
 
 
-
 {%- include page_nav.html -%}
-
-
-> "And actually wherever you go you take your own mind, and you sit there in your own mind. And \[your mind\] it's exactly the same as -- well mine was -- as it was when I was at home: Full of discontentment, wishing reality was another way, wishing I wasn't in this horse race, or that my horse was different, or that I was in less pain, or that I had someone to talk to."
-
-- Lara Prior-Palmer discussing the Mongol Derby during an interview with Rick Steves. [2020-08-01, 47:03]
- 
-At 19, Lara Prior-Palmer became the first woman to win the 1000 km race through the Mongolian steppe, and the youngest person ever to finish.
-
-[2020-08-01, 47:03]: https://www.ricksteves.com/watch-read-listen/audio/radio/programs/program-609
-
-
 
 
 ## Pinned
@@ -51,14 +40,10 @@ Postcards from an NGO photographer. 140 characters on what I learned [the hard w
 
 
 
----
 
+## Resources
 
+Photographers on the way to [Beijing] for the first time -- I made you this [field guide.]
 
-> "A valiant academic journalist who visited China on one of those standard six-week tours tours wrote a book of a fairly impressive size, which he had the guts to subtitle *The Real China*. I may not know the 'real China' much better than he does; the main difference between him and me is that I know that I don't. And if I can help the reader to realize to what extent we do not know China, I shall have accomplished a tremendous feat."
+[field guide]: https://www.zachmccabe.com/beijing
 
-– Simon Leys, Chinese Shadows, 1978. xix.
-
-Simon Leys was the pen name of diplomat and academic, [Pierre Ryckmans.] He was blacklisted and banned from China in the early 1970s, after being doxxed by CCP supporters in the French Left, who were -- apparently -- outraged by his frank portrayal of post-war life in the early days of the PRC. Meanwhile, his academic peers were frustrated by what they saw as his being too distracted by contemporary events in the PRC, instead of focusing on the classics.
-
-[Pierre Ryckmans.]: https://en.wikipedia.org/wiki/Simon_Leys
