@@ -1,7 +1,6 @@
-{%- for collection in site.collection -%}
 {% include emoji_collection_switch.html %}
+{%- if page.collection -%}
 home &gt;&nbsp;
 {{ page.collection }} &gt;&nbsp;
-{% if page.subcollection %}{{ page.subcollection }} &gt;&nbsp;{% endif %}
 {{ page.title }}
-{%- endfor -%}
+{%- endif -%}
