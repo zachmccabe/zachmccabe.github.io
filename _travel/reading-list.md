@@ -4,13 +4,13 @@ title: Reading list
 date: 2021-12-05
 description: "Some of my favorite reads on cross-cultural communication. Biased towards the practical."
 nav: |
-  + [Choudhury](https://www.zachmccabe.com/travel/xculture-reads.html#deep-diversity-by-choudhury)
-  + [Meyers](https://www.zachmccabe.com/travel/xculture-reads.html#the-culture-map-by-meyer)
-  + [Khanna](https://www.zachmccabe.com/travel/xculture-reads.html#trust-by-khanna)
-  + [Molinsky](https://www.zachmccabe.com/travel/xculture-reads.html#global-dexterity-by-molinksy)
-  + [Kahane](https://www.zachmccabe.com/travel/xculture-reads.html#collaborating-with-the-enemy-by-kahane)
-  + [Chipchase](https://www.zachmccabe.com/travel/xculture-reads.html#the-field-study-handbook-by-chipchase)
-  + [NB](https://www.zachmccabe.com/travel/xculture-reads.html#nb)
+  + [Choudhury](https://www.zachmccabe.com/travel/reading-list.html#deep-diversity-by-choudhury)
+  + [Meyers](https://www.zachmccabe.com/travel/reading-list.html#the-culture-map-by-meyer)
+  + [Khanna](https://www.zachmccabe.com/travel/reading-list.html#trust-by-khanna)
+  + [Molinsky](https://www.zachmccabe.com/travel/reading-list.html#global-dexterity-by-molinksy)
+  + [Kahane](https://www.zachmccabe.com/travel/reading-list.html#collaborating-with-the-enemy-by-kahane)
+  + [Chipchase](https://www.zachmccabe.com/travel/reading-list.html#the-field-study-handbook-by-chipchase)
+  + [NB](https://www.zachmccabe.com/travel/reading-list.html#nb)
 
 ---
 
