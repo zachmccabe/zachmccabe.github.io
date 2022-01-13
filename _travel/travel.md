@@ -37,8 +37,14 @@ Postcards from an NGO photographer. 140 characters on what I learned [the hard w
 ---
 
 
-BTW photographers on the way to Beijing for the first time: I made a [field guide] for you.
-💌
+BTW photographers on the way to Beijing for the first time: I made a [field guide.]
 
-[field guide]: https://www.zachmccabe.com/beijing
+[field guide.]: https://www.zachmccabe.com/beijing
 
+
+
+Testing
+
+site: {{ site.collection }}
+
+page: {{ page.collection }}
