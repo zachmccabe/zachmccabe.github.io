@@ -4,27 +4,21 @@ layout: test
 title: Travel notes
 date: 2022-01-09
 description: "A short but growing list of stuff I've written for friends who are on the road."
-nav: |
-  + [Pinned](https://www.zachmccabe.com/travel.html#pinned)
-  + [Travel with me](https://www.zachmccabe.com/travel.html#travel-with-me)
-  + [Resources](https://www.zachmccabe.com/travel.html#resources)
 
 ---
 
-
-{%- include page_nav.html -%}
 
 
 ## Pinned
 
 Assembled 6 of my favorite books on cross-cultural communication into this [reading list.]
 
-[reading list.]: https://www.zachmccabe.com/travel/reading-list.html
+[reading list.]: https://www.zachmccabe.com/travel/reading-list
 
 
 
 
-## Travel with me
+## Notes
 
 No signal? Some tactics I like to use when communicating across [timezones.] To the tune of that David Bowie line about Mars.
 
@@ -32,11 +26,11 @@ No signal? Some tactics I like to use when communicating across [timezones.] To 
 
 Postcards from an NGO photographer. 140 characters on what I learned [the hard way.]
 
-[timezones.]: https://www.zachmccabe.com/travel/timezones.html
+[timezones.]: https://www.zachmccabe.com/travel/timezones
 
-[Far away and asking dumb questions.]: https://www.zachmccabe.com/travel/dumb-questions.html
+[Far away and asking dumb questions.]: https://www.zachmccabe.com/travel/dumb-questions
 
-[the hard way.]: https://www.zachmccabe.com/travel/postcard.html
+[the hard way.]: https://www.zachmccabe.com/travel/postcard
 
 
 
