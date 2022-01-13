@@ -1,6 +1,6 @@
 ---
 layout: kaoliang_nite_3
-title: dumb questions
+title: Dumb questions
 date: 2019-04-04
 update: 2020-08-17
 description: "Far away and asking dumb questions. Just a rambling note on using questions in a foreign language or cross-cultural scenarios."
