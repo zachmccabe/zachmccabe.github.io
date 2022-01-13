@@ -9,7 +9,8 @@ description: "A short but growing list of stuff I've written for friends who are
 
 
 
-📌 Assembled 6 of my favorite books on cross-cultural communication into this [reading list.]
+📌
+Assembled 6 of my favorite books on cross-cultural communication into this [reading list.]
 
 [reading list.]: https://www.zachmccabe.com/travel/reading-list
 
@@ -36,7 +37,8 @@ Postcards from an NGO photographer. 140 characters on what I learned [the hard w
 ---
 
 
-💌 BTW photographers on the way to Beijing for the first time: I made a [field guide] for you.
+BTW photographers on the way to Beijing for the first time: I made a [field guide] for you.
+💌
 
 [field guide]: https://www.zachmccabe.com/beijing
 
