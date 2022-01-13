@@ -14,13 +14,11 @@
 </head>
 <body>
 <div class="xwrap">
-<!-- moving site nav into header for now -->
-<header>
 {%- include site_nav.html -%}
+<header>
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <main class="xnest20">
-{%- if page.collection -%}<p><nav>{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
 {%- if page.lede == "print" -%}<p>{%- include print_update.html -%} • {{ page.description }}</p>{%- endif -%}
 {{ content }}
 </main>
