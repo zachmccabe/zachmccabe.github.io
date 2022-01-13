@@ -9,7 +9,7 @@ description: "A short but growing list of stuff I've written for friends who are
 
 
 
-📌 br;
+📌 </br>
 Assembled 6 of my favorite books on cross-cultural communication into a [reading list.]
 
 [reading list.]: https://www.zachmccabe.com/travel/reading-list
