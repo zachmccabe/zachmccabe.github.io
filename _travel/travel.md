@@ -26,7 +26,7 @@ Assembled 6 of my favorite books on cross-cultural communication into this [read
 
 ## Travel with me
 
-No signal? Some tactics for communicating across [timezones.] To the tune of that David Bowie line about Mars.
+No signal? Some tactics I like to use when communicating across [timezones.] To the tune of that David Bowie line about Mars.
 
 [Far away and asking dumb questions.] Toddlers, therapists and some of the smartest people I've met all use silly questions with devestating precision. I'm trying to learn from them.
 
@@ -43,7 +43,7 @@ Postcards from an NGO photographer. 140 characters on what I learned [the hard w
 
 ## Resources
 
-Photographers on the way to [Beijing] for the first time -- I made you this [field guide.]
+Photographers on the way to Beijing for the first time: I made a [field guide.]
 
-[field guide]: https://www.zachmccabe.com/beijing
+[field guide.]: https://www.zachmccabe.com/beijing
 
