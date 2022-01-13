@@ -1,7 +1,7 @@
 ---
 permalink: /tools/
 layout: kaoliang_nite_3
-title: tools
+title: Tools
 date: 2022-01-09
 description: List of a few favorite tools I'm using right now
 nav: |
