@@ -6,8 +6,8 @@ date: 2021-03-18
 description: "Project notes from Laughing Lost in Briars."
 robots: norobots
 nav: |
-  + [Project inspiration](https://www.zachmccabe.com/briars#project-inspiration)
-  + [Keeping it real](https://www.zachmccabe.com/briars#keeping-it-real)
+  + [Project inspiration](https://www.zachmccabe.com/briars/#project-inspiration)
+  + [Keeping it real](https://www.zachmccabe.com/briars/#keeping-it-real)
   + [Researching the story](https://www.zachmccabe.com/briars/notes.html#researching-the-story)
   + [Structuring the story](https://www.zachmccabe.com/briars/notes.html#structuring-the-story)
   + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
