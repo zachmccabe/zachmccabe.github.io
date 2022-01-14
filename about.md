@@ -2,7 +2,7 @@
 layout: kaoliang_nite_3
 title: About 
 date: 2022-01-09
-description: About Zach
+description: "Author and producer of The Photographers Field Guide to Beijing"
 
 ---
 
