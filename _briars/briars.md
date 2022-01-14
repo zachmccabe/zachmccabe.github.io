@@ -5,22 +5,21 @@ title: Laughing lost in briars
 date: 2021-03-18
 description: "Project notes from Laughing Lost in Briars."
 robots: norobots
+lede: print
 nav: |
   + [Project inspiration](https://www.zachmccabe.com/briars/#project-inspiration)
   + [Keeping it real](https://www.zachmccabe.com/briars/#keeping-it-real)
-  + [Researching the story](https://www.zachmccabe.com/briars/notes.html#researching-the-story)
-  + [Structuring the story](https://www.zachmccabe.com/briars/notes.html#structuring-the-story)
-  + [Publishing workflow](https://www.zachmccabe.com/briars/notes.html#publishing-workflow)
-  + [Tools and cameras](https://www.zachmccabe.com/briars/notes.html#tools-and-cameras)
+  + [Researching the story](https://www.zachmccabe.com/briars/#researching-the-story)
+  + [Structuring the story](https://www.zachmccabe.com/briars/#structuring-the-story)
+  + [Publishing workflow](https://www.zachmccabe.com/briars/#publishing-workflow)
+  + [Tools and cameras](https://www.zachmccabe.com/briars/#tools-and-cameras)
  
 ---
 
 
-<span class="lede">Briars is 1 part diary, 1 part social publishing experiment.</span>
-
 Call it meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
-These are my project notes.
+Briars is 1 part diary, 1 part social publishing experiment.
 
 
 {% include page_nav.html %}
@@ -47,7 +46,7 @@ For Briars, like with any story, nonfiction is defined by how you interact with 
 
 The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends' curiosity, and my own.
 
-Briars initially went out to friends via direct message on WeChat, later expanding to Instagram. (Although I no longer use those 2 platforms, I am always tinkering with new ways to share the project.)
+Briars initially went out to those friends via direct message on WeChat, later expanding to Instagram. (Although I no longer use those 2 platforms, I am always tinkering with new ways to share the project.)
 
 Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1.
 
