@@ -3,18 +3,16 @@ permalink: /tools/
 layout: kaoliang_nite_3
 title: Tools
 date: 2022-01-09
-description: List of a few favorite tools I'm using right now
+description: "List of some favorite things I'm using right now for work (and life)."
+print: lede
 nav: |
-  + [Time and mind mgmt](https://www.zachmccabe.com/tools/index.html#time-and-mind-mgmt) 
-  + [Office things](https://www.zachmccabe.com/tools/index.html#office-things)
-  + [Digital asset mgmt](https://www.zachmccabe.com/tools/index.html#digital-asset-mgmt)
-  + [Field things](https://www.zachmccabe.com/tools/index.html#field-things)
-  + [Longevity](https://www.zachmccabe.com/tools/index.html#longevity)
+  + [Time and mind mgmt](https://www.zachmccabe.com/tools/#time-and-mind-mgmt) 
+  + [Office things](https://www.zachmccabe.com/tools/#office-things)
+  + [Digital asset mgmt](https://www.zachmccabe.com/tools/#digital-asset-mgmt)
+  + [Field things](https://www.zachmccabe.com/tools/#field-things)
+  + [Longevity](https://www.zachmccabe.com/tools/#longevity)
 
 ---
-
-
-Updated: {% include print_update.html %} • List of some favorite things I'm using right now for work (and life).
 
 
 
