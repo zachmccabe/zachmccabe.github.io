@@ -20,22 +20,16 @@ body {
 }
 
 article, header, main, section {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
 }
 
 header, footer {
-  text-align: center;
   width: 100%;
 }
 
-header {
-  margin: 0 auto;
-  padding: 0;
-}
-
 footer {
-  font-size: small;
+  font-size: smaller;
   margin: 0 auto;
   padding: 5em 0 0;
 }
@@ -50,7 +44,7 @@ footer {
   flex-flow: column nowrap;
   align-items: center;
   min-height: 20em;
-  justify-content: center;
+  justify-content: left;
   padding: 3em 1em 0;
   margin: 0 auto;
 }
@@ -61,8 +55,15 @@ footer {
 
 .xnest20 {
   margin: auto;
+  width: 100%;
   max-width: 20em;
 }
+
+.xnest-top {
+  text-align: center;
+  padding-top: 3em;
+}
+
 
 .kaoCTA {
   background: linear-gradient(145deg, rgba(255,255,255,0) 0%, rgba(38,139,210,0.3) 100%);
