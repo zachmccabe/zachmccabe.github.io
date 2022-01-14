@@ -15,8 +15,7 @@ body {
 @media (prefers-color-scheme: dark) {body {
   background-color: #000;
   color: #fff;
-  font: normal normal 1.1em/1.6 sans-serif;
-  }
+    }
 }
 
 article, header, main, section {
@@ -45,7 +44,7 @@ footer {
   align-items: center;
   min-height: 20em;
   justify-content: left;
-  padding: 3em 1em 0;
+  padding: 0 1em 0;
   margin: 0 auto;
 }
 
@@ -62,6 +61,7 @@ footer {
 .xnest-top {
   text-align: center;
   padding-top: 3em;
+  width: 100%;
 }
 
 
