@@ -14,17 +14,21 @@
 </head>
 <body>
 <div class="xwrap">
+<div style="xnest-top">
 {%- include site_nav.html -%}
+</div>
 <header>
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
-<main class="xnest20">
+<div class="xnest20">
+<main>
 {%- if page.lede == "print" -%}<p>{%- include print_update.html -%} • {{ page.description }}</p>{%- endif -%}
 {{ content }}
 </main>
 <footer>
 {%- include footer.html -%}
 </footer>
+</div>
 </div>
 </body>
 </html>
