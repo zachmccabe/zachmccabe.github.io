@@ -5,11 +5,11 @@ title: Tools
 date: 2022-01-09
 description: List of a few favorite tools I'm using right now
 nav: |
-  + [Time and mind mgmt](https://www.zachmccabe.com/tools.html#Time-and-mind-mgmt) 
-  + [Office things](https://www.zachmccabe.com/tools.html#office-things)
-  + [Digital asset mgmt](https://www.zachmccabe.com/tools.html#digital-asset-mgmt)
-  + [Field things](https://www.zachmccabe.com/tools.html#field-things)
-  + [Longevity](https://www.zachmccabe.com/tools.html#longevity)
+  + [Time and mind mgmt](https://www.zachmccabe.com/tools/index.html#Time-and-mind-mgmt) 
+  + [Office things](https://www.zachmccabe.com/tools/index.html#office-things)
+  + [Digital asset mgmt](https://www.zachmccabe.com/tools/index.html#digital-asset-mgmt)
+  + [Field things](https://www.zachmccabe.com/tools/index.html#field-things)
+  + [Longevity](https://www.zachmccabe.com/tools/index.html#longevity)
 
 ---
 
