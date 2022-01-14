@@ -3,11 +3,9 @@ Allow: /about.html
 Allow: /contact.html
 Allow: /licensing.html
 Allow: /beijing/
-Disallow: /assets
+Disallow: /assets/
 Disallow: /briars/
 Disallow: /colophon.html
-Disallow: /licensing.html
-Disallow: /postcard.html
-Disallow: /tools.html
+Disallow: /tools/
+Disallow: /travel/
 Sitemap: https://www.zachmccabe.com/sitemap.xml
-Sitemap: https://www.zachmccabe.com/beijing/sitemap.xml
