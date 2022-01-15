@@ -1,7 +1,7 @@
 ---
 layout: kaoliang_nite_3
 title: FAQ
-date: 2021-03-17
+date: 2022-01-15
 description: "Got a question about The Photographers Field Guide to Beijing?"
 lede: print
 
@@ -9,19 +9,21 @@ lede: print
 
 
 
-* [What's the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#whats-the-latest-version-of-the-field-guide)
-* [Who is this book for?](https://www.zachmccabe.com/beijing/faq.html#who-is-this-book-for)
-* [Why is this book free?](https://www.zachmccabe.com/beijing/faq.html#why-is-this-book-free)
-* [How do you read the Field Guide?](https://www.zachmccabe.com/beijing/faq.html#how-do-you-read-the-field-guide)
-* [Can you still read it on Kindle?](https://www.zachmccabe.com/beijing/faq.html#can-you-still-read-it-on-kindle)
-* [Who won't like this book?](https://www.zachmccabe.com/beijing/faq.html#who-wont-like-this-book)
-* [Wait, do you need to be a pro to use this book?](https://www.zachmccabe.com/beijing/faq.html#wait-do-you-need-to-be-a-pro-to-use-this-book)
-* [What's so great about Beijing?](https://www.zachmccabe.com/beijing/faq.html#whats-so-great-about-beijing)
-* [Who sponsored this project, then?](https://www.zachmccabe.com/beijing/faq.html#who-sponsored-this-project-then)
-* [Why do you need this book?](https://www.zachmccabe.com/beijing/faq.html#why-do-you-need-this-book)
-* [Troubleshooting Chinese text on old Kindle e-ink hardware](https://www.zachmccabe.com/beijing/faq.html#troubleshooting-chinese-text-on-old-kindle-e-ink-hardware)
-* [Why write a field guide](https://www.zachmccabe.com/beijing/faq.html#why-write-a-field-guide)
-* [Do you have a different question?](https://www.zachmccabe.com/beijing/faq.html#do-you-have-a-different-question)
++ [What's the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#whats-the-latest-version-of-the-field-guide)
++ [Who is this book for?](https://www.zachmccabe.com/beijing/faq.html#who-is-this-book-for)
++ [Why is this book free?](https://www.zachmccabe.com/beijing/faq.html#why-is-this-book-free)
++ [How do you read the Field Guide?](https://www.zachmccabe.com/beijing/faq.html#how-do-you-read-the-field-guide)
++ [Can you still read it on Kindle?](https://www.zachmccabe.com/beijing/faq.html#can-you-still-read-it-on-kindle)
++ [Who won't like this book?](https://www.zachmccabe.com/beijing/faq.html#who-wont-like-this-book)
++ [Wait, do you need to be a pro to use this book?](https://www.zachmccabe.com/beijing/faq.html#wait-do-you-need-to-be-a-pro-to-use-this-book)
++ [What's so great about Beijing?](https://www.zachmccabe.com/beijing/faq.html#whats-so-great-about-beijing)
++ [Who sponsored this project, then?](https://www.zachmccabe.com/beijing/faq.html#who-sponsored-this-project-then)
++ [Why do you need this book?](https://www.zachmccabe.com/beijing/faq.html#why-do-you-need-this-book)
++ [Troubleshooting Chinese text on old Kindle e-ink hardware](https://www.zachmccabe.com/beijing/faq.html#troubleshooting-chinese-text-on-old-kindle-e-ink-hardware)
++ [Why write a field guide](https://www.zachmccabe.com/beijing/faq.html#why-write-a-field-guide)
++ [How do you contact the author?](https://www.zachmccabe.com/beijing/faq.html#how-do-you-contact-the-author)
+
+
 
 
 ## What’s the latest version of the field guide?
@@ -121,6 +123,12 @@ After hearing visiting photographers ask the same questions over and over, I dec
 Books are self-contained and offline. That can be helpful when you’re inside the great firewall.
 
 
-## Do you have a different question?
+## How do you contact the author?
 
-Please email me and let’s figure it out together: <hello@zachmccabe.com>
+You can reach me via email: {%- include key_details.html -%}
+
+I am happy to answer your questions about the book.
+
+I'd love to hear about your experience in China, too.
+
+Feedback from readers is incorporated into each update. The aim is to make this an even better little book for the next photographer who wants to get to know this amazing city and its people.
