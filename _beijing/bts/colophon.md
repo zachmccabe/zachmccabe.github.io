@@ -2,7 +2,8 @@
 layout: kaoliang_nite_3
 date: 2020-01-30
 title: Making the field guide
-description: How and why I built the field guide the way I did. If you're curious about digital books, take a peek.
+description: "How and why I built this digital book the way I did."
+lede: print
 nav: |
   + [Map and compass](https://www.zachmccabe.com/beijing/bts/colophon.html#map-and-compass)
   + [Timeline](https://www.zachmccabe.com/beijing/bts/colophon.html#timeline)
@@ -14,9 +15,6 @@ nav: |
   + [Lessons learned](https://www.zachmccabe.com/beijing/bts/colophon.html#lessons-learned)
 
 ---
-
-
-Updated: {% include print_update.html %} • These notes explain how and why I built the field guide the way I did. If you're curious about digital books, take a peek.
 
 
 {% include page_nav.html %}
