@@ -2,11 +2,11 @@
 layout: kaoliang_nite_3
 title: FAQ
 date: 2021-03-17
-description: Got a question about The Photographers Field Guide to Beijing?
+description: "Got a question about The Photographers Field Guide to Beijing?"
+lede: print
 
 ---
 
-Updated: {% include print_update.html %} • Got a question about The Photographers Field Guide to Beijing?
 
 
 * [What's the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#whats-the-latest-version-of-the-field-guide)
