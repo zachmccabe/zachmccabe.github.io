@@ -3,6 +3,7 @@ layout: kaoliang_nite_3
 date: 2020-09-14
 title: Style guide
 description: Style guide for The Photographers Field Guide to Beijing
+lede: print
 nav: |
   + [Mostly AP style?](https://www.zachmccabe.com/beijing/bts/style-guide.html#mostly-ap-style)
   + [Styling content](https://www.zachmccabe.com/beijing/bts/style-guide.html#styling-content)
@@ -11,7 +12,7 @@ nav: |
 ---
 
 
-Updated: {% include print_update.html %} • Like every project worth its salt, the field guide needed its own style guide. I took my sticky notes and organized them here. Maybe you'll find this useful, too.
+Like every project worth its salt, the field guide needed its own style guide. I took my sticky notes and organized them here. Maybe you'll find this useful, too.
 
 
 
