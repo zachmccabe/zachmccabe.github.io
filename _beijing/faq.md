@@ -40,13 +40,11 @@ Photographers who are new to China, or at least new to the Beijing area, will ge
 
 A lot has changed since I started this project in 2015.
 
-I did *not* write this book to change the world. But I did write it to help you connect with Beijingers and their city. Let's push that a little further, huh?
+I didn't write this book to change the world. I did write it to help you connect with Beijingers and their city. Let's push that a little further, huh?
 
 Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
-This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. 
-
-FWIW you can buy a lot of [chuan'r] and [erguotou] for 25 USD.
+This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends quite a bit of chuan'r and erguotou for the equivalent of 25 USD.)
 
 "The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish writer, Ryszard Kapuscinski.<sup>*</sup>
 
@@ -54,9 +52,6 @@ Cheers to the Other in your world.
 
 <span>*</span>Ryszard Kapuscinski, The Other, (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
 
-[chuan'r]: https://www.wikipedia.org/wiki/Chuan_(food)
-
-[erguotou]: https://www.wikipedia.org/wiki/Erguotou
 
 
 ## How do you read the Field Guide?
