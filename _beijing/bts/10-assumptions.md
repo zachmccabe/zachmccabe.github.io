@@ -3,10 +3,11 @@ layout: kaoliang_nite_3
 title: 10 Assumptions
 date: 2018-04-05
 description: I made some assumptions when I wrote my book. Here are a few them.
+lede: print
 
 ---
 
-Updated: {% include print_update.html %} • {{ page.description }}
+
 
 ## The ebook
 
