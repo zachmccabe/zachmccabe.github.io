@@ -12,7 +12,7 @@ nav: |
 ---
 
 
-Like every project worth its salt, the field guide needed its own style guide. I took my sticky notes and organized them here. Maybe you'll find this useful, too.
+Like every project worth its salt, the field guide needed its own style guide. I took my sticky notes and organized them here.
 
 
 
