@@ -1,4 +1,5 @@
 ---
+robots: norobots
 layout: kaoliang_nite_3
 title: Colophon
 date: 2020-03-18
