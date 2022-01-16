@@ -1,5 +1,6 @@
 ---
 permalink: /beijing/bts/
+robots: norobots
 layout: kaoliang_nite_3
 title: BTS
 date: 2020-07-03
