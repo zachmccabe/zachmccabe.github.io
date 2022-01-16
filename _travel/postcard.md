@@ -1,4 +1,5 @@
 ---
+robots: norobots
 layout: kaoliang_nite_3
 title: Postcard
 date: 2020-07-10
