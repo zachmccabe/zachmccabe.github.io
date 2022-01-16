@@ -3,31 +3,33 @@ robots: norobots
 layout: kaoliang_nite_3
 title: Timezones
 date: 2021-09-06
+update: 2022-01-16
 description: "Staying in touch is, first of all, a frame of mind."
 lede: print
 
 ---
 
 
-It didn't matter whether we were in Osaka or in our tiny, midwest college town. My college friend always kept his Seiko set to west coast time. You can do the math in your head, sure, but are you going to remember to call your mom after a soju-drowned weekend?
+
+It didn't matter whether we were in Osaka or in our tiny, midwest college town. My college friend always kept his Seiko watch set to west coast time. You can do the math in your head, sure, but are you going to remember to call your mom after a soju-drowned weekend?
 
 Travel can be disorienting, too. You put all of your attention on the overstimulating events in front of you. Zooming out and remembering the rest of your work and personal relationships can be a challenge.
 
 When I need to, I adopt my watch-wearing friend's strategy.
 
-When I need to keep up with a series of  calls spanning 10 timezones and 3 people, the first thing I reach for is my old Casio.
+When I need to keep up with a series of calls spanning 10 timezones and 3 people, the first thing I reach for is my old Casio.
 
-But, Zach, come on. Why so retro? It's 2021 -- the human population on this planet has been living through Zoom calls for a year. Why not just add a clock widget to your phone screen? You could! I like having the physical reminder on my arm. And, okay, I guess have been doing this for a while. I'm not bragging. I'm laughing at myself -- Christ! When I moved away after 2nd grade my best friend sent me a dispatch from his summer adventures via cassette tape. I flipped the tape over, narrated my reply and sent it back.
+But, Zach, come on. Why so retro? It's 2021 -- the human population on this planet has been living through Zoom calls for a year. Why not just add a clock widget to your phone screen? You could! I like having the physical reminder on my arm. And, okay, I guess have been doing this for a while. I'm not bragging. I'm laughing at myself -- God! -- Here's a story: When I moved away after 2nd grade my best friend sent me a dispatch from his summer adventures via cassette tape. I flipped the tape over, narrated my reply and sent it back. Summer wasn't the same but it felt good to hear a familiar voice, you know?
 
 When a friend is going through a rough time, I set my watch to UTC +11 and check in once a week.
 
 When I am going through a rough time, I set my watch to UTC +8 and check in with a friend once a week.
 
-Awhile back, I was talking with a client in the US who had no idea that, officially, Beijing time is used for all of China -- despite that country spanning 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees, and is split into 4 timezones.) If you schedule a call first thing in the morning Beijing time, it's going to feel like the middle of the night to a colleague out in the western-half of China.
+I'm talking with an American client in the US who had no idea that, officially, Beijing time is used for all of China -- despite that country spanning 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees, and is split into 4 timezones.) If you schedule a call first thing in the morning Beijing time, it's going to feel like the middle of the night to a colleague out in the western-half of China.
 
-It's a good idea to confirm the timezone when you're planning a call.
+It's a good idea to confirm the timezone, and more, when you're planning a call.
 
-Awhile back, I was chatting with a friend who'd lived on the west coast of the US for several years. She was stressed out and studying for her PhD. She hadn't realized that the US has multiple timezones, much less that it was hours later for me than it was for her. Groggy and preoccupied with thoughts of work in the morning, I was less focused on the conversation than I would have liked. She was embarrassed that after years of living in the country, she didn't know this simple fact about the place.
+I'm chatting with a friend who'd lived on the west coast of the US for several years. She's stressed out and studying for her PhD. She hadn't realized that the US has multiple timezones, much less that it was hours later for me than it was for her. Groggy and preoccupied with thoughts of work in the morning, I'm less focused on the conversation than I would like. She is embarrassed that after years of living in the country, she didn't know this simple fact about the place.
 
 People assume their frame of reference is also your frame of reference.
 
@@ -37,11 +39,15 @@ An Earth day is 40 minutes shorter than a Mars sol. As a mission progresses, the
 
 Do what you have to do to get yourself on Mars Time.
 
-I buy the cheapest knockoff Rolex I can find and it keeps me on schedule. (The watch is *so* cheap it stops working almost immediately after I buy it.) But I still remember to touch base with my client from the China-Myanmar border. I remember to text my girlfriend from the Mexico-US border. Having this silly bauble banging around on my wrist is a good way to remember the stuff that matters.
+I buy a cheap watch from a street market. Is it supposed to look like a Rolex? It's so cheap it stops working almost immediately after I buy it. Broken or not, I wear it on a few trips. Having this silly thing jangle around on my wrist is a good way to remember the stuff that matters.
 
-All this assumes there is a signal. Obviously, there is not always a signal. Plan for that.
+I remember to call my client and give her a project update: UTC +8.
 
-It's the social signaling that often takes the most effort. Especially when you're tired and everything *feels* far away, it can be hard to know what to say.
+I remember to text my girlfriend, after work and before bed: UTC -4.
+
+(All this assumes there is a signal. Obviously, there is not always a signal. Make a plan -- or a backup plan -- and share it with your contact in advance. It can save you both some unnecessary stress later on.)
+
+It's the social signaling that often takes the most effort. Especially when you're tired and everything feels far away, it can be hard to know what to say.
 
 Lately, I've been trying to use cues, tiny scripts, to keep the conversation on track. The "vibe check" is one I've been using a lot. If something wild is happening, like a natural disaster or human-inspired fuckery, I will just address it right away:
 
