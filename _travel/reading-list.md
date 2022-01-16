@@ -1,4 +1,5 @@
 ---
+robots: norobots
 layout: kaoliang_nite_3
 title: Reading list
 date: 2021-12-05
