@@ -1,4 +1,5 @@
 ---
+robots: norobots
 layout: kaoliang_nite_3
 date: 2020-09-14
 title: Style guide
