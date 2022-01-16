@@ -1,4 +1,5 @@
 ---
+robots: norobots
 permalink: /travel/
 layout: kaoliang_nite_3
 title: Travel notes
