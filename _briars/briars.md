@@ -1,10 +1,10 @@
 ---
 permalink: /briars/
+robots: norobots
 layout: kaoliang_nite_3
 title: Laughing lost in briars
 date: 2021-03-18
 description: "Project notes from Laughing Lost in Briars."
-robots: norobots
 lede: print
 nav: |
   + [Project inspiration](https://www.zachmccabe.com/briars/#project-inspiration)
