@@ -25,8 +25,8 @@
 <main>
 {%- if page.lede == "print" -%}<p>{%- include print_update.html -%}&nbsp;•&nbsp;{{ page.description }}</p>{%- endif -%}
 {{ content }}
-{%- if page.collection -%}<p><nav>{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
 {%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
+{%- if page.collection -%}<div style="margin-top:3em;"><p><nav>{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p></div>{%- endif -%}
 </main>
 <footer>
 {%- include footer.html -%}
