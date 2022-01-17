@@ -31,6 +31,7 @@ footer {
   font-size: smaller;
   margin: 0 auto;
   padding: 5em 0 0;
+  text-align: center;
 }
 
 
@@ -43,7 +44,7 @@ footer {
   flex-flow: column nowrap;
   align-items: center;
   min-height: 20em;
-  justify-content: left;
+  justify-content: center;
   padding: 0 1em 0;
   margin: 0 auto;
 }
