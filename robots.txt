@@ -1,7 +1,3 @@
 User-agent: *
-Allow: /about.html
-Allow: /contact.html
-Allow: /licensing.html
-Allow: /beijing/
 Disallow: /assets/
 Sitemap: https://www.zachmccabe.com/sitemap.xml
