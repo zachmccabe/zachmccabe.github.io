@@ -23,8 +23,10 @@
 </header>
 <div class="xnest20">
 <main>
-{%- if page.lede == "print" -%}<p>{%- include print_update.html -%} • {{ page.description }}</p>{%- endif -%}
+{%- if page.lede == "print" -%}<p>{%- include print_update.html -%}&nbsp;•&nbsp;{{ page.description }}</p>{%- endif -%}
 {{ content }}
+{%- if page.collection -%}<p><nav>{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
+{%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
 </main>
 <footer>
 {%- include footer.html -%}
