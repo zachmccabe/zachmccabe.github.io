@@ -4,8 +4,4 @@ Allow: /contact.html
 Allow: /licensing.html
 Allow: /beijing/
 Disallow: /assets/
-Disallow: /briars/
-Disallow: /colophon.html
-Disallow: /tools/
-Disallow: /travel/
 Sitemap: https://www.zachmccabe.com/sitemap.xml
