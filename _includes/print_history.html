@@ -1,1 +1,2 @@
-<p>Page updated: {{ page.update }}. Created: {{ page.date }}</p>
+<p>Updated: {{ page.update | date: "%F" }}</p>
+<p>Created: {{ page.date | date: "%F" }}</p>
