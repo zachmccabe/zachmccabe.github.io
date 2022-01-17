@@ -9,12 +9,12 @@ description: "Email is the best way to reach me. Postcards from hotel quarantine
 
 {% include key_details.html %}
 
-Email is the best way to reach me. Postcards from hotel quarantine always receive a quick reply.
+Postcards from hotel quarantine always receive a reply.
 
 Collaborations and new clients are welcome. You can expect a reply to business emails within 2 days.
 
 Everything else will get a more leisurely response.
 
-If you have feedback or a question about the Photographers Field Guide to Beijing, please email me.  I'd love to hear about your experience. Also, you can check the field guide [FAQ.]
+If you have feedback or a question about the Photographers Field Guide to Beijing, please email me. I'd love to hear about your experience. For quick answers, you can try the field guide [FAQ.]
 
 [FAQ.]: https://www.zachmccabe.com/beijing/faq
