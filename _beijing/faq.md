@@ -131,4 +131,4 @@ I am happy to answer your questions about the book.
 
 I'd love to hear about your experience in China, too.
 
-Feedback from readers is incorporated into each update. The aim is to make this an even better little book for the next photographer who wants to get to know this amazing city and its people.
+Feedback from readers is incorporated into each update -- because the goal here is to make this an even better book for the next photographer who wants to get to know Beijing.
