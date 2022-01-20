@@ -1,4 +1,5 @@
 ---
+snippet: nosnippet
 layout: kaoliang_nite_3
 title: Contact
 date: 2022-01-09
