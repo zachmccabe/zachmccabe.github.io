@@ -3,7 +3,7 @@ permalink: /beijing/
 layout: kaoliang_nite_3
 title: Photographers Field Guide to Beijing
 date: 2021-04-09
-description: "Read the Photographers Field Guide to Beijing and get answers to the questions only photographers ask."
+description: "Get answers to the questions only photographers ask. Learn how to deal with smog, when to shoot fall colors, and where to spend blue hour. Go capture the remarkable story of China's capital."
 
 ---
 
