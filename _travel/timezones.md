@@ -4,7 +4,7 @@ layout: kaoliang_nite_3
 title: Timezones
 date: 2021-09-06
 update: 2022-01-16
-description: "Staying in touch is, first of all, a frame of mind."
+description: "Staying in touch is, first of all, a state of mind."
 lede: print
 
 ---
@@ -17,9 +17,11 @@ Travel can be disorienting, too. You put all of your attention on the overstimul
 
 When I need to, I adopt my watch-wearing friend's strategy.
 
-When I need to keep up with a series of calls spanning 10 timezones and 3 people, the first thing I reach for is my old Casio.
+When I need to keep up with a series of group calls scattered across 10 timezones, the first thing I reach for is my old Casio. It's time to shift my state of mind.
 
-But, Zach, come on. Why so retro? It's 2021 -- the human population on this planet has been living through Zoom calls for a year. Why not just add a clock widget to your phone screen? You could! I like having the physical reminder on my arm. And, okay, I guess have been doing this for a while. I'm not bragging. I'm laughing at myself -- God! -- Here's a story: When I moved away after 2nd grade my best friend sent me a dispatch from his summer adventures via cassette tape. I flipped the tape over, narrated my reply and sent it back. Summer wasn't the same but it felt good to hear a familiar voice, you know?
+But, Zach, come on. Why so retro? It's 2021, and even people who'd never needed to use video chat or VOIP before the pandemic have figured out how to adapt their communication rituals to Zoom.
+
+Why not just add a clock widget to your phone screen? You could! I like having the physical reminder on my arm. And, okay, I guess have been doing this for a while. I'm not bragging. I'm laughing at myself -- God! -- Here's a story: When I moved away after 3rd grade my best friend sent me a dispatch from his summer adventures via cassette tape. I flipped the tape over, narrated my reply and sent it back. Summer wasn't the same but it felt good to hear a familiar voice, you know?
 
 When a friend is going through a rough time, I set my watch to UTC +11 and check in once a week.
 
@@ -43,7 +45,7 @@ I buy a cheap watch from a street market. Is it supposed to look like a Rolex? I
 
 I remember to call my client and give her a project update: UTC +8.
 
-I remember to text my girlfriend, after work and before bed: UTC -4.
+I remember to text my girlfriend, after she leaves work work and before bed: UTC -4.
 
 (All this assumes there is a signal. Obviously, there is not always a signal. Make a plan -- or a backup plan -- and share it with your contact in advance. It can save you both some unnecessary stress later on.)
 
