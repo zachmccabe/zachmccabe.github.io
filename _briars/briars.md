@@ -127,7 +127,7 @@ The first 3-years-worth of images were made with cell phones and a cheap action 
 
 To add some protection from sweat, dust and rain, I use either a 4x7" Loksak bag or a tiny, #1010 Pelican case.
 
-One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision. I've really come to prefer working this way. And I especially appreciate it when the weather is changing fast, or when I'm working near things that can bite, kick or sting. The trade off is that during bright midday sun I can't really see the interface on the screen. Keeps me in the scene, I guess.
+One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision. I've come to prefer working this way, actually. And I especially appreciate it when the weather is changing fast, or when I'm working around animals. The trade off is that during bright midday sun I can't really see the interface on the screen.
 
 ### Light
 
