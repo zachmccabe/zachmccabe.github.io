@@ -42,7 +42,7 @@ Photographers who are new to China, or at least new to the Beijing area, will ge
 
 A lot has changed since I started this project in 2015.
 
-I didn't write this book to change the world. I did write it to help you connect with Beijingers and their city. Let's push that a little further, huh?
+I still stand by the original goal of this project, which is is to help you connect with Beijingers and their city. Let's push that a little further, huh?
 
 Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
@@ -84,9 +84,7 @@ Nope. The only thing I assume is that you're new to China. The Field Guide helps
 
 ## What's so great about Beijing?
 
-The art. The architecture. The attitude.
-
-Expect photo ops of a vibrant city that is not shy about owning its cultural wealth – or showing it off. You'll also have opportunties to photograph floating fields of summer lotus blossoms, autumn streets lined with ginko trees and the Great Wall.
+The art. The architecture. The attitude. Expect photo ops of a vibrant city that is not shy about owning its cultural wealth -- or showing it off. If you timing is good, you'll have opportunties to photograph floating fields of summer lotus blossoms and autumn streets lined with ginko trees. And, if the photos gods smile on you, maybe you'll get snow while you're out in the mountains at the Great Wall.
 
 
 ## Who sponsored this project, then?
@@ -104,7 +102,7 @@ The field guide gives you 3 things:
 2. Bite-sized cultural tips. Get your shots. Avoid faux pas.
 3. A brief, and carefully curated, location list to help you hit the ground running.
 
-The field guide was intentionally written to give you essential info and then get out of your way, so that you can get on with making photos.
+The field guide is written to give you essential info and then get out of your way, so that you can get on with making photos.
 
 
 
@@ -125,10 +123,8 @@ Books are self-contained and offline. That can be helpful when you’re inside t
 
 ## How do you contact the author?
 
-You can reach me via email: {%- include key_details.html -%}
+You can reach me via email: {% include key_details.html %}
 
 I am happy to answer your questions about the book.
 
-I'd love to hear about your experience in China, too.
-
-Feedback from readers is incorporated into each update -- because the goal here is to make this an even better book for the next photographer who wants to get to know Beijing.
+I'd love to hear about your experience in China, too. Feedback from readers is incorporated into each update.
