@@ -76,15 +76,30 @@ This update includes 3x more photos compared to the v1 field guide. The choice s
 
 While v1 only included monochrome images (which were chosen to reinforce the vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
 
-
-Kindle v1 | Kindle v2 | EPUB v2
---- | --- | ---  
-11 photos | 37 photos | 37 photos
-7978 KB* | 13537 KB* | 9360 KB†
-
-<p style="font-size:small;">*According to the Amazon product pages.<br/>
-  †According to my Github repo.</p>
-
+<figure>
+<table style="border:none;">
+  <thead>
+    <tr>
+     <th scope="row">Kindle v1</th>
+     <th scope="row">Kindle v2</th>
+     <th scope="row">EPUB v2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-top:1px solid currentColor;">11 photos</td>
+      <td style="border-top:1px solid currentColor;">37 photos</td>
+      <td style="border-top:1px solid currentColor;">37 photos</td>
+    </tr>
+    <tr>
+      <td style="border-top:1px solid currentColor;">7978 KB*</td>
+      <td style="border-top:1px solid currentColor;">13537 KB*</td>
+      <td style="border-top:1px solid currentColor";>9360 KB†</td>
+    </tr>
+  </tbody>
+</table>
+<figcaption><p>*According to the Amazon product pages.<br/>†According to my Github repo.</p></figcaption>
+</figure>
 
 As you can see in the table above, the EPUB weighs less than the Amazon version, which is interesting because Amazon *starts* with that same EPUB file. 
 
@@ -112,12 +127,28 @@ So, I was much less concerned about showing off high-quality images in the book 
 
 According to the Amazon product page, the v1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
 
-Book | Published file size
---- | ---
-Photographers Field Guide v1 | 7978 KB
-Lonely Planet Beijing | 86787 KB
-Last Days of Old Beijing | 7559 KB
-
+<table style="border:none;">
+  <thead>
+    <tr>
+      <th scope="col">Book</th>
+      <th scope="col">Published file size</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border-top:1px solid currentColor;">Photographers Field Guide v1</td>
+      <td style="border-top:1px solid currentColor;">7978 KB</td>
+    </tr>
+    <tr>
+      <td style="border-top:1px solid currentColor;">Lonely Planet Beijing</td>
+      <td style="border-top:1px solid currentColor;">86787 KB</td>
+    </tr>
+    <tr>
+      <td style="border-top:1px solid currentColor;">Last Days of Old Beijing</td>
+      <td style="border-top:1px solid currentColor;">7559 KB</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -252,4 +283,26 @@ I needed all the visuals to look consistent, and styled the text with a generic 
 
 <h4 id="note4">Note 4</h4>
 
-Some apps/platforms do help Readers understand they can tweak UI options (e.g. line height, columns, font choice). It isn't always so obvious, though: Some of my Readers had trouble with this, which startled me – I'd assumed their meme fluency and Reddit expeditions meant it'd be obvious. <a href="#ref4" alt="back">↩</a>
+With early drafts of the book, some Readers had trouble finding their way around.
+
+I learned that information design, the flow and organization of ideas, is critical. Visual design is a distant second. Ebooks are far more austere than PDFs or webpages.
+
+Internal, one-way links (e.g. A links to B but B does not link to A) were polarizing. One reader wanted more links, "make it like Wikipedia; link to everything". However, most feedback on these links were complaints from Readers who were very frustrated, "I clicked the link and now I want to go back to what I was reading before -- where is the back button?"
+
+This surprised me because these Readers were used to hopping between Mac and Windows at work, used their phones constantly and, generally, spent lots of time living online. One of my blindspots was not recognizing just how clunky these older versions of the Kindle app could be. Test Readers to the rescue!
+
+Ebooks are flexible like a webpage. You can stretch the page to fit a small screen or a one that is big. You can swap fonts. And like a webpage, an ebook must be interpreted by a browser.
+
+Different apps make different choices about the app interface and how book content is displayed within the app.
+
+A few Readers who were new to ebooks strongly preferred the iBooks app to the Kindle app. They found Kindle's UI unintuitive and troublesome.
+
+(To be fair, I think the Kindle app UI has improved *a lot* since we were testing early drafts.)
+
+These Readers were frustrated because they couldn't find the table of contents -- much less the option to return to "last read", or bookmarks, or formatting options that let them choose the font size, background color and the rest.
+
+The experience of getting lost in the Kindle app was no different than getting lost in the book for these Readers.
+
+Later on, I cut out all the one-way, internal links. Readers seemed happy to rely on the table of contents to navigate. Some apps present the table of contents at the beginning of the book, most apps display it as a dropdown menu.
+
+And, with footnotes, I made sure to use 2-way links -- just like on this webpage. <a href="#ref4" alt="back">↩</a>
