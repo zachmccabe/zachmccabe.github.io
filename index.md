@@ -1,6 +1,6 @@
 ---
 layout: kaoliang_nite_3
-title: Hi, it&#39;s Zach
+title: "Hi, it’s Zach"
 date: 2022-04-19
 description: "You can use this website to explore some of my on-going projects."
 
