@@ -21,12 +21,13 @@
 <header>
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
-<div class="xnest20">
+<div class="{%- if page.nest == "20" -%}xnest20{%- else -%}xnest29{%- endif -%}">
+{%- if page.collection -%}<p style="margin-top:2em;"><nav class="breadcrumbs">{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
 <main>
 {%- if page.lede == "print" -%}<p>{%- include print_update.html -%}&nbsp;•&nbsp;{{ page.description }}</p>{%- endif -%}
 {{ content }}
 {%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
-{%- if page.collection -%}<div style="margin-top:3em;"><p><nav>{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p></div>{%- endif -%}
+{%- if page.collection -%}<p style="margin-top:2em;"><nav class="breadcrumbs">{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
 </main>
 <footer>
 {%- include footer.html -%}
