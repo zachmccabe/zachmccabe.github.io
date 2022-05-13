@@ -211,14 +211,9 @@ font-size: 85%;
 }
 
 h1, h2, h3, h4 {
-  font-family: sans-serif;
   color: currentColor;
   line-height: 1.2;
   overflow-wrap: break-word;
-}
-
-h1, h2 {
-  font-weight: 300;
 }
 
 h1 {
@@ -229,7 +224,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.86em;
+  font-size: 145%;
 }
 
 h2 + h3 {
@@ -237,8 +232,7 @@ h2 + h3 {
 }
 
 h3 {
-  font-size: 1.53em;
-   font-weight: 500;
+  font-size: 120%;
 }
 
 h3 + h4 {
@@ -246,8 +240,7 @@ h3 + h4 {
 }
 
 h4 {
-  font-size: 1.3em;
-   font-weight: 500;
+  font-size: 108%;
 }
 
 .lede {
