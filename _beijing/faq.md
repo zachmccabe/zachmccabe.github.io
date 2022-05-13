@@ -30,27 +30,35 @@ The field guide is on v2.0.1.
 
 (BTW you can check to see if you have the latest version by comparing the version number listed on the book’s copyright page with the [latest release](https://github.com/zachmccabe/beijing/releases/latest) on Github.)
 
+<a href="#" title="Top of page" >Top of page</a>
+
+
 
 ## Who is this book for?
 
 Photographers who are new to China, or at least new to the Beijing area, will get the most out of The Field Guide. Nearly everyone arrives in Beijing with the same questions. The Field Guide gives you quick answers to those questions, and tackles a few issues you probably haven't anticipated yet.
 
+<a href="#" title="Top of page" >Top of page</a>
+
+
 
 ## Why is this book free?
 
-A lot has changed since I started this project in 2015.
+It feels like a lot has changed in our world since I started this project in 2015.
 
-I still stand by the original goal of this project, which is is to help you connect with Beijingers and their city. Let's push that a little further, huh?
+I still stand by the original goal of this project, which is is to help you connect with Beijingers and their city. And I think now we can push that a little further, huh?
 
 Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
 This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends quite a bit of chuan'r and erguotou for the equivalent of 25 USD.)
 
-"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish writer, Ryszard Kapuscinski.<sup>*</sup>
+"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and Cold War-era traveler, Ryszard Kapuscinski, in his book, "The Other."
+
+I'm thinking about a line by Polish journalist, Ryszard Kapuscinski, that indomitable traveler of Cold War-era borderlands. In his book, The Other, he says: "The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him." I'm not sure if he's right but I am sure that it's an idea worth trying.
 
 Cheers to the Other in your world.
 
-<span>*</span>Ryszard Kapuscinski, The Other, (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
+<a href="#" title="Top of page" >Top of page</a>
 
 
 
@@ -64,25 +72,40 @@ You can download the latest version of the book as an [EPUB file] directly from 
 
 [EPUB file]: https://github.com/zachmccabe/beijing/releases/latest
 
+<a href="#" title="Top of page" >Top of page</a>
+
+
 
 ## Can you still read it on Kindle?
 
 Yes. You can read it [here.](https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/)
+
+<a href="#" title="Top of page" >Top of page</a>
+
 
 
 ## Who won't like this book?
 
 This book isn't for everyone. There are no reviews of tourist attractions. There are no lessons about f-stops or composition, either.
 
+<a href="#" title="Top of page" >Top of page</a>
+
+
 
 ## Wait, do you need to be a pro to use this book?
 
 Nope. The only thing I assume is that you're new to China. The Field Guide helps you get to know Beijing from a photographer's perspective.
 
+<a href="#" title="Top of page" >Top of page</a>
+
+
 
 ## What's so great about Beijing?
 
 The art. The architecture. The attitude. Expect photo ops of a vibrant city that is not shy about owning its cultural wealth -- or showing it off. If you timing is good, you'll have opportunties to photograph floating fields of summer lotus blossoms and autumn streets lined with ginko trees. And, if the photos gods smile on you, maybe you'll get snow while you're out in the mountains at the Great Wall.
+
+<a href="#" title="Top of page" >Top of page</a>
+
 
 
 ## Who sponsored this project, then?
@@ -90,6 +113,9 @@ The art. The architecture. The attitude. Expect photo ops of a vibrant city that
 There are no sponsors. There are no affiliate links. I don't accept free fish or any other payment for the places and services mentioned in this field guide.
 
 Fellow photographers asked for my opinions and expertise, and I value that trust.
+
+<a href="#" title="Top of page" >Top of page</a>
+
 
 
 ## Why do you need this book?
@@ -102,6 +128,8 @@ The field guide gives you 3 things:
 
 The field guide is written to give you essential info and then get out of your way, so that you can get on with making photos.
 
+<a href="#" title="Top of page" >Top of page</a>
+
 
 
 ## Troubleshooting Chinese text on old Kindle e-ink hardware
@@ -111,12 +139,18 @@ Apparently, only some of Kindle’s fonts will display Chinese properly on older
  1. Hit the little **Aa icon** at the top of your screen to toggle the font settings options. This preference pane will let you choose a different font.
  2. Tap through your font options until the weird, little tofu boxes disappear and you can see Chinese characters alongside the English language text.
 
+<a href="#" title="Top of page" >Top of page</a>
+
+
 
 ## Why write a field guide?
 
 After hearing visiting photographers ask the same questions over and over, I decided it was time to do something about it. 
 
 Books are self-contained and offline. That can be helpful when you’re inside the great firewall.
+
+<a href="#" title="Top of page" >Top of page</a>
+
 
 
 ## How do you contact the author?
@@ -126,3 +160,5 @@ You can reach me via email: {% include key_details.html %}
 I am happy to answer your questions about the book.
 
 I'd love to hear about your experience in China, too. Feedback from readers is incorporated into each update.
+
+<a href="#" title="Top of page" >Top of page</a>
