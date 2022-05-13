@@ -77,7 +77,6 @@ footer {
 
 .kaoNAV {
   background: linear-gradient(145deg, rgba(38,139,210,0.3) 0%,  rgba(255,255,255,0) 100%);
-  text-align: center;
   margin: 5em auto 5em;
   padding: 1em 0.5em;
 }
@@ -101,7 +100,24 @@ hr {
 
 
 
-/* FORMS, IMAGES, LISTS AND TABLES BELOW */
+/* BLOCKQUOTE, FIGURE, FORMS, IMAGES, LISTS AND TABLES BELOW */
+
+aside, blockquote {
+  border: 1px solid currentColor;
+  color: currentColor;
+  font-size: 85%;
+  margin: 5em 0 5em 0;
+  padding: 0 1em 0;
+  width: 100%;
+}
+
+aside + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+blockquote + h2, h3, h4 {
+  margin-top: 5em;
+}
 
 figure {
   text-align: left;
@@ -159,6 +175,7 @@ table {
   border: 1px solid currentColor;
   margin: 5em 0;
   padding: 0;
+  width: 100%;
 }
 
 th, tr, td {
@@ -187,19 +204,6 @@ a {
 
 a[href*="//"]:not([href*="zachmccabe.com"]):after {
   content: " ↗";
-}
-
-aside, blockquote {
-  color: currentColor;
-  margin-left: 0;
-}
-
-aside + h2, h3, h4 {
-  margin-top: 5em;
-}
-
-blockquote + h2, h3, h4 {
-  margin-top: 5em;
 }
 
 .breadcrumbs {
