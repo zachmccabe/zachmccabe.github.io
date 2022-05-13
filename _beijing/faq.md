@@ -2,7 +2,7 @@
 layout: kaoliang_nite_3
 title: FAQ
 date: 2022-01-15
-description: "Got a question about The Photographers Field Guide to Beijing?"
+description: "Have a question about The Photographers Field Guide to Beijing? I'll do my best to answer you here. Read on."
 lede: print
 
 ---
