@@ -212,12 +212,13 @@ font-size: 85%;
 
 h1, h2, h3, h4 {
   color: currentColor;
+  font-weight: 300;
   line-height: 1.2;
   overflow-wrap: break-word;
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
   margin: 0 auto;
   padding: 0;
