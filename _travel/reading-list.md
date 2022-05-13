@@ -103,9 +103,9 @@ Kahane want to teach you how to better manage your perspective. He wants to prep
 
 He frames it like this: "...we separate and shield ourselves by asserting that we are right and the others are wrong. We fear that if we collaborate with those others, we will become contaminated or compromised -- that we will betray what we stand for and who we are." Instead, he goes on, be intentional and reframe your approach:
 
->"I can phone home to say that I will be late 'because I am in traffic' or 'because I am traffic'. The latter explanation explicitly opens up my options to work with others to change the situation."
+> "I can phone home to say that I will be late 'because I am in traffic' or 'because I am traffic'. The latter explanation explicitly opens up my options to work with others to change the situation."
 >
-> - Chapter 7, "The third stretch is to step into the game"
+> Kahane, chapter 7, "The third stretch is to step into the game"
 
 The ideas here pair well with Choudhury's book, which is at the top of this list. 
 
@@ -136,7 +136,7 @@ Back in the introduction Chipchase explains why it's worth protecting your proce
 
 > "Intent is the most important aspect of data collection, and the first to suffer once the organization looks to scale collection. Compromise on intent, and the data set will become tainted, contaminating everything it touches."
 >
-> - Introduction, "The cost of a lack of context" 
+> Chipchase, introduction, "The cost of a lack of context" 
 
 Speaking of cost, this book is priced for its professional audience. It's worth it, even if you have to save up for it like I did.
 
