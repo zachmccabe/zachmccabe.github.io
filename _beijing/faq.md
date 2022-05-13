@@ -52,9 +52,7 @@ Starting now, with the launch of version 2, I'm distributing this book free of c
 
 This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends quite a bit of chuan'r and erguotou for the equivalent of 25 USD.)
 
-"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and Cold War-era traveler, Ryszard Kapuscinski, in his book, "The Other."
-
-I'm thinking about a line by Polish journalist, Ryszard Kapuscinski, that indomitable traveler of Cold War-era borderlands. In his book, The Other, he says: "The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him." I'm not sure if he's right but I am sure that it's an idea worth trying.
+I'm thinking about a line by Polish journalist, Ryszard Kapuscinski, that indomitable traveler of Cold War-era borderlands. In his book, The Other, he says: "The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him."
 
 Cheers to the Other in your world.
 
