@@ -3,8 +3,8 @@ permalink: /tools/
 layout: kaoliang_nite_3
 title: Tools
 date: 2022-01-09
-description: List of some favorite things I'm using right now for work and life.
-print: lede
+description: "List of some favorite things I'm using right now for work and life."
+lede: print
 nav: |
   + [Time and mind mgmt](https://www.zachmccabe.com/tools/#time-and-mind-mgmt) 
   + [Office things](https://www.zachmccabe.com/tools/#office-things)
