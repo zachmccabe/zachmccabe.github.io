@@ -87,6 +87,14 @@ footer {
   padding: 0;
 }
 
+.kaoQUOTE {
+  border: 1px solid currentColor;
+  font-size: 85%;
+  margin: 5em 0 5em 0;
+  padding: 0 1em 0;
+  width: 100%;
+}
+
 hr {
   background-color: currentColor;
   border: none;
@@ -103,11 +111,8 @@ hr {
 /* BLOCKQUOTE, FIGURE, FORMS, IMAGES, LISTS AND TABLES BELOW */
 
 aside, blockquote {
-  border: 1px solid currentColor;
   color: currentColor;
-  font-size: 85%;
-  margin: 5em 0 5em 0;
-  padding: 0 1em 0;
+  margin-left: 0;
   width: 100%;
 }
 
