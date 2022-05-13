@@ -1,0 +1,292 @@
+html, body {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro","Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+article, main, section {
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  width: 100%;
+}
+
+header {
+  margin: 0 0 2em;
+}
+
+footer {
+  font-size: 90%;
+  margin: 0 auto;
+  padding: 5em 0 0;
+  text-align: center;
+}
+
+
+
+
+/* MULTI USE BOXES */
+
+.xwrap {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  min-height: 20em;
+  justify-content: center;
+  padding: 0 1em 0;
+  margin: 0 auto;
+}
+
+.xnest {
+  margin: auto;
+}
+
+.xnest20 {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 20em;
+}
+
+.xnest29 {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 29em;
+}
+
+.xnest-top {
+  font-size: 110%;
+  text-align: center;
+  margin-bottom: 1.5em;
+  padding-top: 3em;
+  width: 100%;
+}
+
+.kaoCTA {
+  background: linear-gradient(145deg, rgba(38,139,210,0.3) 0%,  rgba(255,255,255,0) 100%);
+  margin: 5em auto 5em;
+  padding: 1em 0.5em;
+}
+
+.kaoNAV {
+  background: linear-gradient(145deg, rgba(38,139,210,0.3) 0%,  rgba(255,255,255,0) 100%);
+  margin: 5em auto 5em;
+  padding: 1em 0.5em;
+}
+
+.kaoNAV ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  background-color: currentColor;
+  border: none;
+  color: currentColor;
+  height: 0.1em;
+  margin: 5em 0 5em;
+  padding: 0;
+  width: 5em;
+}
+
+
+
+
+/* BLOCKQUOTE, FIGURE, FORMS, IMAGES, LISTS AND TABLES BELOW */
+
+aside, blockquote {
+  border: 1px solid currentColor;
+  color: currentColor;
+  font-size: 85%;
+  margin: 5em 0 5em 0;
+  padding: 0 1em 0;
+  width: 100%;
+}
+
+aside + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+blockquote + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+figure {
+  text-align: left;
+  margin: 5em 0;
+}
+
+figure + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+figure img {
+  margin: 0;
+  padding: 0;
+}
+
+figure table {
+  margin: 0;
+  padding: 0;
+}
+
+figcaption {
+  color: currentColor;
+  font-size: 85%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+img[src$=".jpg"]{
+  background: currentColor;
+}
+
+ol {
+  margin: 1.5em 0 1.5em 1.2em;
+  padding-left: 0;
+}
+
+ul {
+  margin: 1.5em 0 1.5em 0.5em;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 1px;
+  border: 1px solid currentColor;
+  margin: 5em 0;
+  padding: 0;
+  width: 100%;
+}
+
+th, tr, td {
+  color: currentColor;
+  font-size: 85%;
+  font-weight: normal;
+  text-align: center;
+  margin: 0;
+  padding: 1em;
+}
+
+
+table + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+
+
+
+/* TYPE */
+
+a {
+  color: #268bd2;
+  overflow-wrap: break-word;
+}
+
+a[href*="//"]:not([href*="zachmccabe.com"]):after {
+  content: " ↗";
+}
+
+.breadcrumbs {
+font-size: 85%;
+}
+
+h1, h2, h3, h4 {
+  color: currentColor;
+  line-height: 1.2;
+  overflow-wrap: break-word;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h2 {
+  font-size: 145%;
+}
+
+h2 + h3 {
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 120%;
+}
+
+h3 + h4 {
+  margin-top: 0;
+}
+
+h4 {
+  font-size: 108%;
+}
+
+.lede {
+  font-size: 108%;
+}
+
+main > p:first-of-type {
+  font-size: 108%;
+  font-weight: 500;
+  margin-bottom: 1.5em;
+}
+
+mark {
+  background-color: rgba(255,255,255,0);
+  border-bottom: 0.1rem dotted currentColor;
+  color: currentColor;
+  font-size: calc(100% - 0.1rem);
+  padding: 0.1rem;
+  text-decoration: none;
+}
+
+p + h2 {
+  margin-top: 5em;
+}
+
+p + h3, h4 {
+  margin-top: 3em;
+}
+
+ol + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+ul + h2, h3, h4 {
+  margin-top: 5em;
+}
+
+@media (prefers-color-scheme: dark) {body {
+  background-color: #000;
+  color: #ccc;
+    }
+}
+
+/*
+@media screen and (min-width: 64rem){body{font-size:1.2rem}}
+@media screen and (min-width: 85rem){body{font-size:1.4rem}}
+@media screen and (min-width: 120rem){body{font-size:2.2rem}}
+@media screen and (min-width: 160rem){body{font-size:3rem}}
+*/
