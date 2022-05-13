@@ -10,10 +10,6 @@ description: "Email is the best way to reach me."
 
 {% include key_details.html %}
 
-You can expect a reply to business emails within 2 days. Collaborations and new clients are welcome.
+My email is open. I welcome new collaborations and notes from old friends far away. Say hello.
 
-Everything else will get a more leisurely response.
-
-If you have feedback or a question about the Photographers Field Guide to Beijing, please do email me. I'd love to hear about your experience. For quick answers, you can try the field guide [FAQ.]
-
-[FAQ.]: https://www.zachmccabe.com/beijing/faq
+You can expect a reply to business emails within a few days.
