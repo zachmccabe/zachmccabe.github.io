@@ -6,13 +6,12 @@ date: 2021-12-05
 description: "Some of my favorite reads on cross-cultural communication. Biased towards the practical."
 lede: print
 nav: |
-  + [Choudhury](https://www.zachmccabe.com/travel/reading-list.html#deep-diversity-by-choudhury)
-  + [Meyers](https://www.zachmccabe.com/travel/reading-list.html#the-culture-map-by-meyer)
-  + [Khanna](https://www.zachmccabe.com/travel/reading-list.html#trust-by-khanna)
-  + [Molinsky](https://www.zachmccabe.com/travel/reading-list.html#global-dexterity-by-molinksy)
-  + [Kahane](https://www.zachmccabe.com/travel/reading-list.html#collaborating-with-the-enemy-by-kahane)
-  + [Chipchase](https://www.zachmccabe.com/travel/reading-list.html#the-field-study-handbook-by-chipchase)
-  + [NB](https://www.zachmccabe.com/travel/reading-list.html#nb)
+  + [Deep Diversity by Choudhury](https://www.zachmccabe.com/travel/reading-list.html#deep-diversity-by-choudhury)
+  + [The Culture Map by Meyers](https://www.zachmccabe.com/travel/reading-list.html#the-culture-map-by-meyer)
+  + [Trust by Khanna](https://www.zachmccabe.com/travel/reading-list.html#trust-by-khanna)
+  + [Globabl Dexterity by Molinsky](https://www.zachmccabe.com/travel/reading-list.html#global-dexterity-by-molinksy)
+  + [Collaborating with the Enemy by Kahane](https://www.zachmccabe.com/travel/reading-list.html#collaborating-with-the-enemy-by-kahane)
+  + [The Field Study Handbook by Chipchase](https://www.zachmccabe.com/travel/reading-list.html#the-field-study-handbook-by-chipchase)
 
 ---
 
@@ -101,11 +100,7 @@ If you are a volunteer, self-employed, or a student; if you are in a foreign cul
 
 Kahane want to teach you how to better manage your perspective. He wants to prepare you for situations that you can't walk away from, to step into and out of different perspectives, to adapt and to collaborate.
 
-He frames it like this: "...we separate and shield ourselves by asserting that we are right and the others are wrong. We fear that if we collaborate with those others, we will become contaminated or compromised -- that we will betray what we stand for and who we are." Instead, he goes on, be intentional and reframe your approach:
-
-> "I can phone home to say that I will be late 'because I am in traffic' or 'because I am traffic'. The latter explanation explicitly opens up my options to work with others to change the situation."
->
-> Kahane, chapter 7, "The third stretch is to step into the game"
+"...we separate and shield ourselves by asserting that we are right and the others are wrong. We fear that if we collaborate with those others, we will become contaminated or compromised -- that we will betray what we stand for and who we are." Instead, he goes on, be intentional and reframe your approach: "I can phone home to say that I will be late 'because I am in traffic' or 'because I am traffic'. The latter explanation explicitly opens up my options to work with others to change the situation." From Kahane, chapter 7.
 
 The ideas here pair well with Choudhury's book, which is at the top of this list. 
 
@@ -124,27 +119,12 @@ I listened to the audiobook first. I got more out of it the second time, when I 
 
 - The Field Study Handbook, Jan Chipchase, 2018.
 
-Chipchase is a design researcher, and a masterful observer. You should read this book hoping to get into that headspace. That's why I read it, anyway.
+Chipchase is a design researcher whose work takes him to communities all over the world. He is a masterful observer. You should read this book hoping to get into that headspace. That's why I read it, anyway. I'm not a design researcher.
 
 I especially like Chapter 11: Rapid Calibration Techniques. You can learn a lot about culture by taking in the "the obvious and unquestioned activities" of everyday life, he says.
 
-Reading Chipchase makes me feel like I'm traveling with Sherlock Holmes.
+Reading Chipchase makes me feel like I'm traveling with Sherlock Holmes. And he is a generous writer. The book is beautifully put together, too, filled with charts, photos and illustrations.
 
-He says this is less of a how-to book and more of a why-to book. When I read Chapter 13: Data Collection, I was struck by the terse, 7-item list titled "Data Collection Field Principles" on page 326. When I worked as a photographer for NGO clients, I had a similar list of rules I that learned to apply to myself and my images. (But it took some time for me to get there!)
+He says this is less of a how-to book and more of a why-to book. When I read Chapter 13: Data Collection, I was struck by the terse, 7-item list titled "Data Collection Field Principles" on page 326. When I worked as a photographer for NGO clients, I learned to apply a similar list of rules to myself and my images. Back in the introduction, in a section titled "The cost of a lack of context," Chipchase explains why it's worth protecting your process: "Intent is the most important aspect of data collection, and the first to suffer once the organization looks to scale collection. Compromise on intent, and the data set will become tainted, contaminating everything it touches."
 
-Back in the introduction Chipchase explains why it's worth protecting your process:
-
-> "Intent is the most important aspect of data collection, and the first to suffer once the organization looks to scale collection. Compromise on intent, and the data set will become tainted, contaminating everything it touches."
->
-> Chipchase, introduction, "The cost of a lack of context" 
-
-Speaking of cost, this book is priced for its professional audience. It's worth it, even if you have to save up for it like I did.
-
-Chipchase is a generous writer. The book is beautifully put together, and filled with charts, photos and illustrations that support the text. There is so much to learn here.
-
-
-
-
-## NB
-
-You will need to do more than read books, of course. These unfamiliar motions require practice. Repetition will teach you "When" and "How."
+This book is priced for its professional audience. It's worth it, even if you have to save up for it like I did. There is so much to learn here.
