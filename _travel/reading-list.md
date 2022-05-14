@@ -25,7 +25,7 @@ nav: |
 
 Choudhury is a corporate trainer and anti-racist activist based in Toronto. His thesis is that you can't think your way out of "us/them" problems, because they're not cognitive problems. 
 
-The first time I read this book it was with a sense of relief -- something I've said elsewhere is that you need to develop new heuristics to successfully work or live in a new culture. I've said that because I've experienced it acutely. But how do you do that? The process isn't necessarily intuitive.
+The first time I read this book it was with a sense of relief -- something I've said elsewhere is that you need to develop new heuristics to successfully work or live in a new culture. I say this because I've experienced it acutely. But how do you do that? The process is not always intuitive.
 
 Choudhury gives you all the tools you need to start improving your cross-cultural communication, and then some. Start here.
 
@@ -33,7 +33,7 @@ Talking about bias and racism is hard; I appreciate Choudhury's willingness to a
 
 This book is focused on Canada and the US. So, if your social reference points are elsewhere in the world, some of the stories might resonate more than others. That's my only caveat.
 
-If you want to do more reading later, the footnotes are practically a syllabus. Use them.  Most importantly to me, though, is that this book is written for you to use. It's all about action.
+If you want to do more reading later, the footnotes are practically a syllabus. Use them. Most important to me, though, is that this book is written for you to use. It's all about action.
 
 
 
@@ -46,9 +46,9 @@ Right now, Meyer's book is my go-to gift for friends and clients who are prepari
 
 Getting work done in a new culture can be significantly more difficult, time consuming and expensive simply because you and your team are not culturally proficient.
 
-Meyer quickly explains how your personal choices and communication style are influenced by culture. From there, she provide examples of how you can adapt your approach to communicate successfully in other cultures.
+Meyer quickly explains how your personal choices and communication style are influenced by culture. From there, she provide examples of how you can adapt your approach so that you can communicate successfully in other cultures.
 
-Whether you're traveling is irrelevant, really; this is a great book. I think I've gifted half a dozen copies.
+Whether you're traveling is irrelevant, really. This is a great book. I think I've gifted half a dozen copies.
 
 
 
@@ -70,7 +70,7 @@ In this same vein, another resource I like is a free, 2-part podcast by Freakono
 - Freakonomics Radio Ep. 469
 - Freakonomics Radio Ep. 470
 
-These episodes are especially interesting if you are, in fact, American. Here, we're taught to think of our country as special, not different: "Different" the same way e-commerce runs differently in Suzhou than in Sydney; "Different" the same way that hiring healthcare workers is different in Mumbai and Madrid.
+These episodes are especially interesting if you are, in fact, American. Here, we're taught to think of our country as special, not different: "Different" the same way e-commerce runs differently in Suzhou than in Sydney; "Different" the same way that the hiring process for healthcare workers is different in Mumbai and Madrid.
 
 Intellectually, this doesn't feel like it should be difficult to solve, but the day-to-day hustle will teach you just how different you really are. Tourists will be forgiven for their naivety. The rest of us need to put in the work.
 
@@ -81,15 +81,11 @@ Intellectually, this doesn't feel like it should be difficult to solve, but the 
 
 - Global Dexterity, Andy Molinsky, 2013. Ebook and print.
 
-Working outside your own culture can feel overwhelming. (What behaviors do you need to change? How do you maintain a sense of self while adapting to this new cultural paradigm?)
-
-Molinksy has some ideas. His tactics are based on a decade of research, working with international students and colleagues and some 70 interviews.
+Working outside your own culture can feel overwhelming. What behaviors do you need to change? How do you maintain a sense of self while adapting to this new cultural paradigm? Molinksy has some ideas. His tactics are based on a decade of research, 70-some interviews and working with international students and colleagues.
 
 I particularly like section 3 where he discusses finding a cultural mentor, and ways your own 'foreign-ness' can impact other's perceptions of your mistakes.
 
-While the book is framed for corporate workers, I think the ideas and strategies here can be applied elsewhere.
-
-If you are a volunteer, self-employed, or a student; if you are in a foreign culture and need to collaborate with people to get stuff done, this book can help. It certainly helped me.
+While the book is framed for corporate workers, I think the ideas and strategies here can be applied elsewhere, too. If you are a volunteer, self-employed, or a student; if you are in a foreign culture and need to collaborate with people to get stuff done, this book can help. It certainly helped me.
 
 
 
@@ -98,7 +94,7 @@ If you are a volunteer, self-employed, or a student; if you are in a foreign cul
 
 - Collaborating with the Enemy: how to work with people you don't agree with or like or trust, Adam Kahane, 2017. Ebook and print.
 
-Kahane want to teach you how to better manage your perspective. He wants to prepare you for situations that you can't walk away from, to step into and out of different perspectives, to adapt and to collaborate.
+Kahane wants to teach you how to better manage your perspective. He wants to prepare you for situations that you can't walk away from, to step into and out of different perspectives, to adapt and to collaborate.
 
 "...we separate and shield ourselves by asserting that we are right and the others are wrong. We fear that if we collaborate with those others, we will become contaminated or compromised -- that we will betray what we stand for and who we are." Instead, he goes on, be intentional and reframe your approach: "I can phone home to say that I will be late 'because I am in traffic' or 'because I am traffic'. The latter explanation explicitly opens up my options to work with others to change the situation." From Kahane, chapter 7.
 
