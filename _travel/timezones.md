@@ -26,29 +26,7 @@ It's easy to give your attention to the people and places around you. That physi
 
 I like to visualize this with the Eisenhower urgent-important matrix, with an extra row: urgent-important-nearby.
 
-<table style="border-collapse:separate;">
-  <tr>
-    <td></td>
-    <th scope="row">Urgent<br/>+</td>
-    <th scope="row">Urgent<br/>-</td>
-    <th scope="row">Nearby<br/>+</td>
-    <th scope="row">Nearby<br/>-</td>
-  </tr>
-  <tr>
-    <th scope="col">Important<br/>+</td>
-    <td>1</td>
-    <td style="border:1px solid gold; font-weight:bold;">2</td>
-    <td>3</td>
-    <td style="border:1px solid gold; font-weight:bold;">4</td>
-  </tr>
-  <tr>
-    <th scope="col">Important<br/>-</td>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
-    <td>8</td>
-  </tr>
-</table>
+
 
 With the 2x2 Eisenhower matrix, it's critical to give extra attention to things that are important but not urgent (element 2). Important things are easy to put off forever. It's the same for things that are important but not nearby (element 4). I also find that things in this antipodean element need more time than I expect. This multiplyies the risk of under-prioritizing element 4 stuff if I'm not paying attention.
 
@@ -98,7 +76,7 @@ So far, I've been assuming there is a signal. There is not always a signal. Make
 
 You might end up needing to coordinate a call with someone who isn't good at this part. Talking through your plan in advance is even more important with these folks. It's best to visualize a few likely scenarios by yourself, and then share your plan. I try to do this in a way that doesn't require much effort on their end but still gives them a clear picture of any likely challenges. Maybe something like:
 
-- In addition to our usual WhatsApp chat, you can reach me at \[travel@email\]. The timezone in \[location\] is \[n hours behind\]. Can I call you on \[date\] at \[time\] your time?
+- In addition to our usual WhatsApp chat, you can reach me at \[travel @ email\]. The timezone in \[location\] is \[N hours behind\]. Can I call you on \[date\] at \[time\] your time?
 
 - In my experience, the signal between \[location A\] and \[location B\] isn't reliable. I will text you from \[local number\] at \[time\] to check in beforehand. Just in case the bandwidth for a call doesn't hold up, let's try when I get to \[location C\] on \[date\]. Will that work for you?
 
