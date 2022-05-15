@@ -8,8 +8,8 @@ description: "Notes on keeping in touch with friends and clients from far away. 
 lede: print
 nav: | 
  + [North Star](https://www.zachmccabe.com/travel/timezones#north-star)
- + [Mars Time]((https://www.zachmccabe.com/travel/timezones#mars-time)
- + [Signal and scripts]((https://www.zachmccabe.com/travel/timezones#signals-and-scripts)
+ + [Mars Time](https://www.zachmccabe.com/travel/timezones#mars-time)
+ + [Signal and scripts](https://www.zachmccabe.com/travel/timezones#signals-and-scripts)
 
 ---
 
