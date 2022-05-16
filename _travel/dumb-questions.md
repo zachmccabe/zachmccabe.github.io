@@ -4,7 +4,7 @@ layout: kaoliang_nite_3
 title: Far away and asking dumb questions
 date: 2019-04-04
 update: 2022-05-15
-description: "Notes on how I'm trying to use questions to have better conversations in cross-cultural, foreign language scenarios."
+description: "Notes on how I'm using questions to have better cross-cultural conversations"
 lede: print
 nav: | 
  + [Another place](https://www.zachmccabe.com/travel/dumb-questions#another-place)
@@ -42,11 +42,7 @@ Day-to-day, cultural context is so obvious you and I take it for granted. It is 
 
 The solution I use to try to deal with these situations is the same. I ask a lot more questions about myself, about what I know.
 
-Because the usual social heuristics are unreliable navigation tools in this new environment, everything takes more time. I find even little things can feel tiring for the same reason. It's like being at altitude. It's like being out in the extreme heat, or the extreme cold. And my instincts scream, "stop this, it's too much," but I shush them and push on. Keep a steady pace. It can be done.
-
->"What is felt to be a message in one language does not necessarily survive the translation process. Information is more than words: it is words that fit into a cultural framework. Culturally adequate translation is an undervalued art."
->
-> Geert Hofstede et al., "Intercultural Encounters," in Cultures and Organizations: software of the mind. (New York: McGraw Hill, 2010), 394.
+Because many of the heuristics I rely on are not reliable navigation tools in this new cultural environment, everything takes more time. For the same reason, I find even little things can feel tiring. It's like being at altitude. It's like being out in the extreme heat, or the extreme cold. And my instincts scream, "stop this, it's too much," but I shush them and push on. Keep a steady pace. It can be done.
 
 
 
@@ -54,18 +50,22 @@ Because the usual social heuristics are unreliable navigation tools in this new 
 
 When you're working across cultures or languages it's important to think about how you ask questions.
 
+>"What is felt to be a message in one language does not necessarily survive the translation process. Information is more than words: it is words that fit into a cultural framework. Culturally adequate translation is an undervalued art."
+>
+> Geert Hofstede et al., "Intercultural Encounters," in Cultures and Organizations: software of the mind. (New York: McGraw Hill, 2010), 394.
+
 Although it took me a few years' worth of awkward conversations after moving back to the US, eventually I did learn that American's reputation for valuing blunt talk holds true. Questions delivered this way generally work well, too. (Maybe skewing a bit to business talk. Well-represented between both men and women. But then, I look like a straight, white dude and speak with an American accent. N=1.)
 
-Direct talk will have the opposite effect you want if you are an American in East Asia. What works so well in the US won't have the same appeal in "another place." You won't come off as a confident straight shooter. You'll come off as juvenile, incompetent or hard to work with.
+For example, in North America and parts of Western Europe people have expectations about direct talk: 
 
-For example, in the United States and parts of Western Europe people generally expect direct talk: 
-
-+ You ask me a question, and I give you a blunt answer. Culturally, this signals "honesty." That's good!
++ You ask me a question, and I give you a specific answer. Culturally, this signals "honesty." That's good!
 + You'll avoid asking about things that are too personal. That'd be rude because you'd embarrass me, or both of us.
 
-Meanwhile, in NE Asia people don't read it that way:
+Meanwhile, in NE Asia people don't read these situations that way:
 
-+ You ask me a question, and I avoid responding with a straightforward "no." That'd be rude because I'd embarrass you.
++ You ask me a question, and I avoid responding with a simple "no." That'd be rude because I'd embarrass you.
 + You ask about things that are personal but expect me to give you a vague answer. Culturally, this signals my "modesty." That's good!
+
+What works so well in the US won't have the same appeal in "another place." You won't come off as a confident straight shooter. You might come off as childish, incompetent or hard to work with.
 
 Wherever you're from, you can think of some exceptions to patterns like these. Nevertheless, there are patterns. The questions we ask each other are built on top of our cultural expectations about how somebody "should" communicate.
