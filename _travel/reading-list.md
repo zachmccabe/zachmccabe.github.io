@@ -9,7 +9,7 @@ nav: |
   + [Deep Diversity by Choudhury](https://www.zachmccabe.com/travel/reading-list.html#deep-diversity-by-choudhury)
   + [The Culture Map by Meyers](https://www.zachmccabe.com/travel/reading-list.html#the-culture-map-by-meyer)
   + [Trust by Khanna](https://www.zachmccabe.com/travel/reading-list.html#trust-by-khanna)
-  + [Globabl Dexterity by Molinsky](https://www.zachmccabe.com/travel/reading-list.html#global-dexterity-by-molinksy)
+  + [Global Dexterity by Molinsky](https://www.zachmccabe.com/travel/reading-list.html#global-dexterity-by-molinksy)
   + [Collaborating with the Enemy by Kahane](https://www.zachmccabe.com/travel/reading-list.html#collaborating-with-the-enemy-by-kahane)
   + [The Field Study Handbook by Chipchase](https://www.zachmccabe.com/travel/reading-list.html#the-field-study-handbook-by-chipchase)
 
