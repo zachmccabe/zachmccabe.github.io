@@ -83,7 +83,7 @@ Intellectually, this doesn't feel like it should be difficult to solve, but the 
 
 Working outside your own culture can feel overwhelming. What behaviors do you need to change? How do you maintain a sense of self while adapting to this new cultural paradigm? Molinksy has some ideas. His tactics are based on a decade of research, 70-some interviews and working with international students and colleagues.
 
-I particularly like section 3 where he discusses finding a cultural mentor, and ways your own 'foreign-ness' can impact other's perceptions of your mistakes.
+I particularly like section 3 where he discusses finding a cultural mentor, and ways your own foreignness can impact other's perceptions of your mistakes.
 
 While the book is framed for corporate workers, I think the ideas and strategies here can be applied elsewhere, too. If you are a volunteer, self-employed, or a student; if you are in a foreign culture and need to collaborate with people to get stuff done, this book can help. It certainly helped me.
 
