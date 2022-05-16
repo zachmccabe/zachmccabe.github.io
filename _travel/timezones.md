@@ -24,11 +24,33 @@ I've got a friend who always keeps his Seiko wristwatch set to UTC -8. It doesn'
 
 It's easy to give your attention to the people and places around you. That physical proximity makes them impossible to ignore. When important relationships do not have the luxury of proximity, it helps to have that reminder.
 
-I like to visualize this with the Eisenhower urgent-important matrix, with an extra row: urgent-important-nearby.
+I like to visualize this with the Eisenhower urgent-important matrix. Sometimes I like to add an extra row: urgent-important-nearby.
 
+<table style="border-collapse:separate;">
+  <tr>
+    <td></td>
+    <th scope="row">Urgent<br/>+</th>
+    <th scope="row">Urgent<br/>-</th>
+    <th scope="row">Nearby<br/>+</th>
+    <th scope="row">Nearby<br/>-</th>
+  </tr>
+  <tr>
+    <th scope="col">Important<br/>+</th>
+    <td>1</td>
+    <td style="border:1px solid gold; font-weight:bold;">2</td>
+    <td>3</td>
+    <td style="border:1px solid gold; font-weight:bold;">4</td>
+  </tr>
+  <tr>
+    <th scope="col">Important<br/>-</th>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+  </tr>
+</table>
 
-
-With the 2x2 Eisenhower matrix, it's critical to give extra attention to things that are important but not urgent (element 2). Important things are easy to put off forever. It's the same for things that are important but not nearby (element 4). I also find that things in this antipodean element need more time than I expect. This multiplyies the risk of under-prioritizing element 4 stuff if I'm not paying attention.
+With the 2x2 Eisenhower matrix, it's critical to give extra attention to things that are important but not urgent (element 2). Important things are easy to put off when there is something urgent to do. And there is always something urgent to do. It's the same for things that are important but not nearby (element 4). I also find that things in this antipodean element need more time than I expect, which multiplies the risk of under-prioritizing if I'm not paying attention.
 
 
 
