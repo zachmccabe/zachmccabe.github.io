@@ -26,13 +26,17 @@ When you're in another place, the signal:noise ratio falls through the floor. Th
 
 It's okay to triage. Cross-cultural communication is hard.
 
+I've been trying to use dumb questions to improve my conversations. First, I want to question my own assumptions. I want to channel the unstoppable, obnoxious energy of a 3-year-old who always has time for 1 last, ego-shredding, "Why?" Ask yourself often enough and it begins to feel like a Zen koan. Yes but why!
+
+Second, I want to ask questions even when it feels like the answer is obvious to others. Something I've learned from therapists and journalists is that questions can be used to learn more about the person you're talking with and their assumptions. And, if I'm having a really good day, asking these "obvious" questions provides me with deeply-layered answers to questions I haven't even realized I'd need to ask.
+
 
 
 ## Some heuristics don't travel well
 
 Day-to-day, cultural context is so obvious you and I take it for granted. It is hard to see. What happens when you aren't in your day-to-day? Here are 3 situations that can still get me into trouble, despite decades of practice:
 
-1. **Stress.** When I'm hyper-vigilant, I label people's actions based on patterns that only matter in my own culture -- or in my own head. Beware the false positive.
+1. **Stress.** When I'm anxious, I label people's actions based on patterns that only matter in my own culture -- or in my own head. Beware the false positive.
 2. **On the job.** When I'm laser-focused, I ignore those pesky assumptions out on the periphery but I know better. Beware the red mist before the deadline.
 3. **Jet lag.** When I'm logy, my mind desperately wants the comfort of routine but I can't afford to "go with what you know." Beware the cozy cocoon.
 
