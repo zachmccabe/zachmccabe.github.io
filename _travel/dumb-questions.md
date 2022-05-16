@@ -38,7 +38,7 @@ Day-to-day, cultural context is so obvious you and I take it for granted. It is 
 
 1. **Stress.** When I'm anxious, I label people's actions based on patterns that only matter in my own culture -- or in my own head. Beware the false positive.
 2. **On the job.** When I'm laser-focused, I ignore those pesky assumptions out on the periphery but I know better. Beware the red mist before the deadline.
-3. **Jet lag.** When I'm logy, my mind desperately wants the comfort of routine but I can't afford to "go with what you know." Beware the cozy cocoon.
+3. **Tired.** When I'm sick or jet lagged or just logy, my mind desperately wants the comfort of routine. Beware the cozy cocoon.
 
 The solution I use to try to deal with these situations is the same. I ask a lot more questions about myself, about what I know.
 
