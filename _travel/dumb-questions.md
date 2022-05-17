@@ -54,7 +54,7 @@ When you're working across cultures or languages it's important to think about h
 >
 > Geert Hofstede et al., "Intercultural Encounters," in Cultures and Organizations: software of the mind. (New York: McGraw Hill, 2010), 394.
 
-Although it took me a few years' worth of awkward conversations after moving back to the US, eventually I did learn that American's reputation for valuing blunt talk holds true. Questions delivered this way generally work well, too. (Maybe skewing a bit to business talk. Well-represented between both men and women. But then, I look like a straight, white dude and speak with an American accent. N=1.)
+Although it took me a few years' worth of awkward conversations after moving back to the US, eventually I did learn that American's reputation for valuing blunt talk holds true. Questions delivered this way generally work well, too. (Maybe skewing a bit to business talk? Well-represented between both men and women. But then, I am a white dude and speak with an American accent. N=1.)
 
 For example, in North America and parts of Western Europe people have expectations about direct talk: 
 
