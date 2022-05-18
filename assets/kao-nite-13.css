@@ -8,6 +8,8 @@ body {
   font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro","Fira Mono", "Droid Sans Mono", "Courier New", monospace;
   font-size: 1rem;
   line-height: 1.6;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 article, main, section {
@@ -92,7 +94,6 @@ footer {
   font-size: 85%;
   margin: 5em 0 5em 0;
   padding: 0 1em 0;
-  width: 100%;
 }
 
 hr {
@@ -215,6 +216,17 @@ a[href*="//"]:not([href*="zachmccabe.com"]):after {
 font-size: 85%;
 }
 
+code {
+  border-bottom: 0.1rem dotted currentColor;
+  color: currentColor;
+  font-size: calc(100% - 0.1rem);
+  padding: 0.1rem;
+}
+
+code, pre {
+  white-space: pre-wrap;
+}
+
 h1, h2, h3, h4 {
   color: currentColor;
   font-weight: 300;
@@ -255,7 +267,6 @@ h4 {
 
 main > p:first-of-type {
   font-size: 108%;
-  font-weight: 500;
   margin-bottom: 1.5em;
 }
 
@@ -276,6 +287,15 @@ p + h3, h4 {
   margin-top: 3em;
 }
 
+pre {
+  font-size: calc(100%);
+  width: 100%;
+}
+
+pre code {
+  border-bottom: none;
+}
+
 ol + h2, h3, h4 {
   margin-top: 5em;
 }
@@ -289,10 +309,3 @@ ul + h2, h3, h4 {
   color: #ccc;
     }
 }
-
-/*
-@media screen and (min-width: 64rem){body{font-size:1.2rem}}
-@media screen and (min-width: 85rem){body{font-size:1.4rem}}
-@media screen and (min-width: 120rem){body{font-size:2.2rem}}
-@media screen and (min-width: 160rem){body{font-size:3rem}}
-*/
