@@ -1,4 +1,5 @@
 ---
+permalink: /beijing/bts/colophon
 robots: norobots
 layout: kaoliang_nite_3
 date: 2020-01-30
