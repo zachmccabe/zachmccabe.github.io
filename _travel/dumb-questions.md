@@ -4,7 +4,7 @@ layout: kaoliang_nite_3
 title: Far away and asking dumb questions
 date: 2019-04-04
 update: 2022-05-15
-description: "Notes on how I'm using questions to have better cross-cultural conversations"
+description: "Notes on how I'm using questions to have better cross-cultural conversations."
 lede: print
 nav: | 
  + [Another place](https://www.zachmccabe.com/travel/dumb-questions#another-place)
