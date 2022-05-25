@@ -7,6 +7,10 @@ description: "You can use this website to explore some of my on-going projects."
 ---
 
 
+{%- comment -%}
+Before changing page title "Hi, it’s Zach", change the if statement in kaoliang_nite_3 template. 
+{%- endcomment -%}
+
 You can use this website to explore some of my on-going projects.
 
 + Right now, I'm [Laughing Lost in Briars.]
