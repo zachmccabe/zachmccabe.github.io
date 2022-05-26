@@ -267,9 +267,9 @@ If you are going to write geolocation info directly into video files, it can hel
 
 For an MP4 file, try writing GPS coords into UserData:
 
-<pre><code>
-exiftool -userdata:gpscoordinates="16.7665,-3.0025,261" foo.mp4
-</code></pre>
+<pre>
+<code>exiftool -userdata:gpscoordinates="16.7665,-3.0025,261" foo.mp4</code>
+</pre>
 
 For an MOV file, try writing GPS coords into Keys:
 
@@ -279,7 +279,7 @@ For an MOV file, try writing GPS coords into Keys:
 
 UserData and Keys are subgroups of the Quicktime group. Writing to these tags will work with some video files (specifically MP4 and MOV). These tags won't work at all for JPGs or other stills files that don't support the Quicktime metadata block.
 
-The gpscoordinates tag is a composite tag related to the related to the Quicktime group and, again, won't work on JPGs or other types of files. It's very handy for MP4 and MOV files because it allows you to enter your GPS as an x,y,z string all in the same flag.
+The GPSCoordinates tag is a composite tag related to the Quicktime group and, again, won't work on JPGs or other types of files. It's very handy for MP4 and MOV files because it allows you to enter your GPS as an x,y,z string all in the same flag.
 
 X,Y,Z = latitude, longitude, altitude.
 
