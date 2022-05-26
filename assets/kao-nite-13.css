@@ -177,22 +177,29 @@ li {
 
 table {
   border-collapse: collapse;
-  border-spacing: 1px;
-  border: 1px solid currentColor;
   margin: 5em 0;
   padding: 0;
   width: 100%;
 }
 
+/* table style */ .kaoBoxy {
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid currentColor;
+}
+
 th, tr, td {
+  text-align: left;
   color: currentColor;
   font-size: 85%;
   font-weight: normal;
-  text-align: center;
   margin: 0;
   padding: 1em;
 }
 
+/* table style */ .kaoStripey td {
+  border-top:1px solid currentColor;
+}
 
 table + h2, h3, h4 {
   margin-top: 5em;
