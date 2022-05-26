@@ -212,11 +212,11 @@ table + h2, h3, h4 {
 
 a {
   color: #268bd2;
-  overflow-wrap: break-word;
+  overflow-wrap: break-all;
 }
 
 a[href*="//"]:not([href*="zachmccabe.com"]):after {
-  content: "&nbsp;↗";
+  content: " ↗";
 }
 
 .breadcrumbs {
