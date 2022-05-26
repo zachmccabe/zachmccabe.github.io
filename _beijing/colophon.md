@@ -78,7 +78,7 @@ This update includes 3x more photos compared to the v1 field guide. The choice s
 While v1 only included monochrome images (which were chosen to reinforce the vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
 
 <figure>
-<table style="border:none;">
+<table class="kaoStripey">
   <thead>
     <tr>
      <th scope="row">Kindle v1</th>
@@ -88,14 +88,14 @@ While v1 only included monochrome images (which were chosen to reinforce the vib
   </thead>
   <tbody>
     <tr>
-      <td style="border-top:1px solid currentColor;">11 photos</td>
-      <td style="border-top:1px solid currentColor;">37 photos</td>
-      <td style="border-top:1px solid currentColor;">37 photos</td>
+      <td>11 photos</td>
+      <td>37 photos</td>
+      <td>37 photos</td>
     </tr>
     <tr>
-      <td style="border-top:1px solid currentColor;">7978 KB*</td>
-      <td style="border-top:1px solid currentColor;">13537 KB*</td>
-      <td style="border-top:1px solid currentColor";>9360 KB†</td>
+      <td>7978 KB*</td>
+      <td>13537 KB*</td>
+      <td>9360 KB†</td>
     </tr>
   </tbody>
 </table>
@@ -128,7 +128,7 @@ So, I was much less concerned about showing off high-quality images in the book 
 
 According to the Amazon product page, the v1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
 
-<table style="border:none;">
+<table class="kaoStripey">
   <thead>
     <tr>
       <th scope="col">Book</th>
@@ -137,16 +137,16 @@ According to the Amazon product page, the v1 field guide weighed 7978 KB. This i
   </thead>
   <tbody>
     <tr>
-      <td style="border-top:1px solid currentColor;">Photographers Field Guide v1</td>
-      <td style="border-top:1px solid currentColor;">7978 KB</td>
+      <td>Photographers Field Guide v1</td>
+      <td>7978 KB</td>
     </tr>
     <tr>
-      <td style="border-top:1px solid currentColor;">Lonely Planet Beijing</td>
-      <td style="border-top:1px solid currentColor;">86787 KB</td>
+      <td>Lonely Planet Beijing</td>
+      <td>86787 KB</td>
     </tr>
     <tr>
-      <td style="border-top:1px solid currentColor;">Last Days of Old Beijing</td>
-      <td style="border-top:1px solid currentColor;">7559 KB</td>
+      <td>Last Days of Old Beijing</td>
+      <td>7559 KB</td>
     </tr>
   </tbody>
 </table>
