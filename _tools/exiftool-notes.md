@@ -287,11 +287,9 @@ Z = altitude in meters above sea level. Negative altitude works, too, if you're 
 
 For coordinates in the southern or western hemisphere, you can either use <code>-</code> minus symbol before your coordinate, or use <code>S</code> or <code>W</code> after your coordinate. E.g.:
 
-<pre>
-GALAPAGOS ISLANDS
-0.5S,90.5W
+GALAPAGOS ISLANDS<br/>
+0.5S,90.5W<br/>
 -0.5,-90.5
-</pre>
 
 Heads up! This syntax does depend on what commands you're using to write coords to file as well as if you're storing the coords in UserData or XMP; it also depends on file format. If you're writing to JPGs you will need to use a different command.
 
