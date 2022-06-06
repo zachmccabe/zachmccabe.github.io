@@ -54,7 +54,13 @@ When you're working across cultures or languages it's important to think about h
 >
 > Geert Hofstede et al., "Intercultural Encounters," in Cultures and Organizations: software of the mind. (New York: McGraw Hill, 2010), 394.
 
-Although it took me a few years' worth of awkward conversations after moving back to the US, eventually I did learn that American's reputation for valuing blunt talk holds true. Questions delivered this way generally work well, too. (Maybe skewing a bit to business talk? Well-represented between both men and women. But then, I am a white dude and speak with an American accent. N=1.)
+After I moved back to the US, I learned that Americans' reputation for blunt talk is true. (Usually.) Acclimatization took a few years, and some awkward conversations.
+
+In my experience, this pattern is well-represented between both men and women. It feels most obvious in business talk. Questions delivered this way usually work well, too.
+
+"In my experience..." But who are you?
+
+Communication is a group activity. Your assumptions of yourself are overlayed with assumptions made about you by others, by the community around you. You are stretched and shifted like a reflection on the back of a steel spoon.
 
 For example, in North America and parts of Western Europe people have expectations about direct talk: 
 
@@ -66,6 +72,8 @@ Meanwhile, in NE Asia people don't read these situations that way:
 + You ask me a question, and I avoid responding with a simple "no." That'd be rude because I'd embarrass you.
 + You ask about things that are personal but expect me to give you a vague answer. Culturally, this signals my "modesty." That's good!
 
-What works so well in the US won't have the same appeal in "another place." You won't come off as a confident straight shooter. You might come off as childish, incompetent or hard to work with.
-
 Wherever you're from, you can think of some exceptions to patterns like these. Nevertheless, there are patterns. The questions we ask each other are built on top of our cultural expectations about how somebody "should" communicate.
+
+What works so well in one community won't have the same appeal in "another place." The social signals for confident and trustworthy might be different here. You might come off as childish, incompetent or hard to work with.
+
+In the context of cross-cultural communication, I've learned that I will confuse myself by asking, "what signals am I sending?" It's more productive to ask, "what signals is this community scanning for?" Framing the question this way gives you options to choose the route forward. That is still a lot, I know. It doesn't need to be perfect. Navigate by dead-reckoning. Adjust your course when needed. You will get there.
