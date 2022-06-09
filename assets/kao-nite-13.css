@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   color: #333;
   font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro","Fira Mono", "Droid Sans Mono", "Courier New", monospace;
-  font-size: 1rem;
+  font-size: 1em;
   line-height: 1.6;
   word-wrap: break-word;
   overflow-wrap: break-word;
