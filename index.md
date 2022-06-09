@@ -2,7 +2,7 @@
 layout: kaoliang_nite_3
 title: "Hi, it’s Zach"
 date: 2022-04-19
-description: "You can use this website to explore some of my on-going projects."
+description: "I'm interested in cross-cultural communication. You can use this website to explore some of my on-going projects."
 
 ---
 
@@ -11,7 +11,7 @@ description: "You can use this website to explore some of my on-going projects."
 Before changing page title "Hi, it’s Zach", change the if statement in kaoliang_nite_3 template. 
 {%- endcomment -%}
 
-You can use this website to explore some of my on-going projects.
+I'm interested in cross-cultural communication. You can use this website to explore some of my on-going projects.
 
 + Right now, I'm [Laughing Lost in Briars.]
 + Read [this FAQ] on why I'm giving away my [Beijing book] for free.
