@@ -137,7 +137,7 @@ Copies text from foo.txt to XMP description tag in all JPGs in current directory
 Displays any files in current directory that have XMP label tag:
 
 <pre>
-<code>exiftool -if '$XMP-xmp:Label' -XMP-xmp:label .</code>
+<code>exiftool -if '$xmp-xmp:Label' -xmp-xmp:label .</code>
 </pre>
 
 This will display both the file name and the color of the label tag. For MacOS, remember to add the single quotes because <code>$</code> sigil is used.
@@ -150,7 +150,7 @@ Finds any JPG files in current directory that have Red XMP label, then, for file
 <code>exiftool -ext jpg -if '$xmp-xmp:label =~ /Red/i' -csv -xmp-xmp:label -xmp-dc:description . >foo.csv</code>
 </pre>
 
-Note: The <code>i</code> in <code>/Red/i</code> makes if statement case insensitive. However, Photo Mechanic is picky and only recognizes XMP label if it is capitalized. Use Red, Yellow, Green, Blue, Purple, Cyan, Brown, Trash, None if you're writing to file. I'm not sure about other apps like Bridge, C1.
+Note: The <code>i</code> in <code>/Red/i</code> makes if statement case insensitive. However, Photo Mechanic is picky and only recognizes XMP label if it is capitalized. Use Red, Yellow, Green, Blue, Purple, Cyan, Brown, Trash, None if you're writing to file. I'm not sure about how these values are mapped by other apps like Adobe Bridge, Capture One.
 
 ---
 
@@ -298,7 +298,7 @@ Heads up! This syntax does depend on what commands you're using to write coords 
 Copies GPS to XMP group directly in foo.mp4:
 
 <pre>
-<code>exiftool "-xmp:gpslongitude<GPSLongitude" "-xmp:gpslatitude<gpslatitude" "-xmp:gpsaltitude<gpsaltitude" foo.mp4</code>
+<code>exiftool "-xmp:gpslongitude<gpslongitude" "-xmp:gpslatitude<gpslatitude" "-xmp:gpsaltitude<gpsaltitude" foo.mp4</code>
 </pre>
 
 ---
@@ -325,7 +325,7 @@ Also, if there are no existing XMP tags embedded in foo.mp4, no problem. You'll 
 
 Last, this particular command only copies XMP tags. It does not copy other metadata groups, like UserData. (Check your original files for other metadata and set a flag to copy that over to the sidecar file if you need it.)
 
-For example, this beastly snippet does all of the above, and also copies UserData:description and appends it to the xmp-dc:description tag. (I.e. "XMP tag content...UserData tag content". I'm using an ellipses here but format it however you like.):
+For example, this beastly snippet does all of the above, and also copies UserData:description and appends it to the XMP-dc:Description tag. (I.e. "XMP tag content...UserData tag content". I'm using an ellipses here but format it however you like.):
 
 <pre>
 <code>exiftool '-all:all<xmp:all' '-xmp-dc:description<${xmp-dc:description}...${userdata:description}' -gpslatitude=16.7665 -gpslongitude=-3.0025 -gpsaltitude=261 -srcfile %d%f.xmp foo.mp4</code>
@@ -340,12 +340,12 @@ For MacOS, remember to add the single quotes because <code>$</code> sigil is use
 
 You can inject an arbitrary altitude into GPS metadata. (Some of the apps I use have trouble with video files that don't include full coords as an x,y,z string. This is useful, for example, for videos shot on Android mobile phones, where altitude isn't captured in MP4 files.)
 
-I hesitate to add arbitrary altitude into coords string but, in some situations, it is more helpful than not.
+I hesitate to add arbitrary altitude into the coords string but, in some situations, it is more helpful than not.
 
 Injects altitude of 0 meters above sea level into UserData:GPSCoordinates string in foo.mp4, while maintaining the file's existing x,y coordinates:
 
 <pre>
-<code>exiftool -ext mp4 '-UserData:GPSCoordinates<$GPSLatitude,$GPSLongitude,0' foo.mp4</code>
+<code>exiftool -ext mp4 '-userdata:gpscoordinates<$gpslatitude,$gpslongitude,0' foo.mp4</code>
 </pre>
 
 You can write this snippet, and then write one of the snippets above to copy full x,y,z coords to an XMP sidecar file.
@@ -355,7 +355,7 @@ You can write this snippet, and then write one of the snippets above to copy ful
 Injects altitude of 9999 meters above sea level into UserData:GPSCoordinates string for all MP4 files in current directory. Then, copies GPS x,y,z coords to XMP sidecar files for all MP4s in current directory. (I'm using a <code>|</code> pipe to string 2 commands together, one after another. There is probably a more efficient way to do this, though.):
 
 <pre>
-<code>exiftool -ext mp4 '-UserData:GPSCoordinates<$GPSLatitude,$GPSLongitude,9999' . | exiftool ext -mp4 '-xmp:GPSLongitude<GPSLongitude' '-xmp:GPSLatitude<GPSLatitude' '-xmp:GPSAltitude<GPSAltitude' -srcfile %d%f.xmp .</code>
+<code>exiftool -ext mp4 '-userdata:gpscoordinates<$gpslatitude,$gpslongitude,9999' . | exiftool ext -mp4 '-xmp:gpslongitude<gpslongitude' '-xmp:gpslatitude<gpslatitude' '-xmp:gpsaltitude<gpsaltitude' -srcfile %d%f.xmp .</code>
 </pre>
 
 If you have other tags embedded in your files, you will need to add flags to copy them over to the XMP sidecar files, too.
