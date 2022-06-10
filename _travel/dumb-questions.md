@@ -22,7 +22,7 @@ nav: |
 
 "Everything you're sure is right can be wrong in another place," observes the youngest character in Barbara Kingsolver's novel, The Poisonwood Bible.
 
-When you're in another place, the signal:noise ratio falls through the floor. There are sudden, perplexing holes in all your conversations. The simplest transactions start to feel diabolically complex. It is exhausting. Meanwhile, you're under pressure to get the job done.
+When you're in another place, the signal:noise ratio falls through the floor. There are sudden, perplexing holes in all your conversations. The simplest transactions start to feel absurdly complex. It is exhausting. Meanwhile, you're under pressure to get the job done.
 
 It's okay to triage. Cross-cultural communication is hard.
 
@@ -52,11 +52,11 @@ When you're working across cultures or languages it's important to think about h
 
 >"What is felt to be a message in one language does not necessarily survive the translation process. Information is more than words: it is words that fit into a cultural framework. Culturally adequate translation is an undervalued art."
 >
-> Geert Hofstede et al., "Intercultural Encounters," in Cultures and Organizations: software of the mind. (New York: McGraw Hill, 2010), 394.
+> Geert Hofstede et al., "Intercultural Encounters," Cultures and Organizations: software of the mind. (New York: McGraw Hill, 2010), 394.
 
-After I moved back to the US, I learned that Americans' reputation for blunt talk is true. (Usually.) Acclimatization took a few years, and some awkward conversations.
+After I moved back to the US, I learned that Americans' reputation for blunt talk is true. Usually. Acclimatization took a few years, and some awkward conversations.
 
-In my experience, this pattern is well-represented between both men and women. It feels most obvious in business talk. Questions delivered this way usually work well, too.
+In my experience, this pattern is well-represented between both men and women. It feels most obvious in business talk. Questions delivered this way work well, too. Usually.
 
 "In my experience..." But who are you?
 
@@ -76,4 +76,4 @@ Wherever you're from, you can think of some exceptions to patterns like these. N
 
 What works so well in one community won't have the same appeal in "another place." The social signals for confident and trustworthy might be different here. You might come off as childish, incompetent or hard to work with.
 
-In the context of cross-cultural communication, I've learned that I will confuse myself by asking, "what signals am I sending?" It's more productive to ask, "what signals is this community scanning for?" Framing the question this way gives you options to choose the route forward. That is still a lot, I know. It doesn't need to be perfect. Navigate by dead-reckoning. Adjust your course when needed. You will get there.
+In this triage context, I've learned that I will confuse myself by asking, "what signals am I sending?" It's more productive to ask, "what signals is this community scanning for?" Framing the question this way gives you options to choose the route forward. It's still a lot, I know. It doesn't need to be perfect. Navigate by dead-reckoning. Adjust your course when needed. You will get there.
