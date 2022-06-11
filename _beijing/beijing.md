@@ -12,6 +12,28 @@ Get answers to the questions only photographers ask. Learn how to deal with smog
 
 This book is written for photographers on the road. Use your favorite ebook app and read it anywhere.
 
+<figure>
+
+<img style="width:37.3%;max-width:293px;"
+    srcset="https://www.zachmccabe.com/assets/viz/book-1-0586-0938.jpg 2x,
+            https://www.zachmccabe.com/assets/viz/book-1-0293-0469.jpg"
+       src="https://www.zachmccabe.com/assets/viz/book-1-0293-0469.jpg"
+       alt="Book cover from The Photographers Field Guide to Beijing showing a silhouette of the city's old Drum Tower" loading="lazy" />
+
+<img style="width:28%;max-width:220px;"
+    srcset="https://www.zachmccabe.com/assets/viz/book-2-0440-0938.jpg 2x,
+            https://www.zachmccabe.com/assets/viz/book-2-0220-0469.jpg"
+       src="https://www.zachmccabe.com/assets/viz/book-2-0220-0469.jpg"
+       alt="Screenshot from The Photographers Field Guide to Beijing, and the section called Chinese New Year" loading="lazy" />
+
+<img style="width:28%;max-width:220px;"
+    srcset="https://www.zachmccabe.com/assets/viz/book-3-0440-0938.jpg 2x,
+            https://www.zachmccabe.com/assets/viz/book-3-0220-0469.jpg"
+       src="https://www.zachmccabe.com/assets/viz/book-3-0220-0469.jpg"
+       alt="Screenshot from The Photographers Field Guide to Beijing, and the section called What's So Great About Beijing?" loading="lazy" />
+
+</figure>
+
 It's free. [Download the EPUB.]
 
 For more info, check the [FAQ] or look [behind the scenes.]
