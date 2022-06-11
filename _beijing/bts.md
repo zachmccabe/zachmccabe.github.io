@@ -8,6 +8,7 @@ description: Behind the scenes with the Photographers Field Guide to Beijing
 
 ---
 
+I hated V1. Publishing V2 felt gross. The next one? Less shit :)
 
 If you're curious, here is [how the book got made.](https://www.zachmccabe.com/beijing/bts/colophon.html)
 
