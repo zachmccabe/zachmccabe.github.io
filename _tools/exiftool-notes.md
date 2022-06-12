@@ -164,88 +164,7 @@ For MacOS, remember to add the single quotes because <code>$</code> sigil is use
 
 There are multiple ways to store the same location info in XMP. (Within the XMP group alone, location tags can be written to xmp-photoshop, xmp-iptccore, xmp-iptcext.)
 
-For JPGs, location tags might also be in EXIF or IPTC groups. Photo Mechanic and some other apps can read and write these tags, and will try to sync all of them. Redundancy is important in metadata because most apps only read a few specific tags. Fiendishly arcane. If you want to use ExifTool to write location tags, you'll need to be specific. Here is a table of example location tags from just the XMP group:
-
-<table class="kaoStripey">
- <tr>
- <th scope="row" colspan="2">XMP-photoshop
- </th>
- </tr>
- <tr>
-  <td>City
-  </td>
-  <td>Timbuktu
-  </td>
- </tr>
- <tr>
-  <td>State
-  </td>
-  <td>Timbuktu
-  </td>
- </tr>
- <tr>
-  <td>Country
-  </td>
-  <td>Mali
-  </td>
- </tr>
-</table>
-
-<table class="kaoStripey">
- <tr>
-  <th scope="row" colspan="2">XMP-iptcCore
-  </th>
- </tr>
- <tr>
-  <td>Country Code
-  </td>
-  <td>MLI
-  </td>
- </tr>
- <tr>
-  <td>Location
-  </td>
-  <td>Rue de Chemnitz
-  </td>
- </tr>
-</table>
-
-<table class="kaoStripey">
- <tr>
-  <th scope="row" colspan="2">XMP-iptcExt
-  </th>
- </tr>
- <tr>
-  <td>Location Created Sublocation
-  </td>
-  <td>Rue de Chemnitz
-  </td>
- </tr>
- <tr>
-  <td>Location Created City
-  </td>
-  <td>Timbuktu
-  </td>
- </tr>
- <tr>
-  <td>Location Created Province State
-  </td>
-  <td>Timbuktu
-  </td>
- </tr>
- <tr>
-  <td>Location Created Country Name
-  </td>
-  <td>Mali
-  </td>
- </tr>
- <tr>
-  <td>Location Created Country Code
-  </td>
-  <td>MLI
-  </td>
- </tr>
-</table>
+For JPGs, location tags might also be in EXIF or IPTC groups. Photo Mechanic and some other apps can read and write these tags, and will try to sync all of them. Redundancy is important in metadata because most apps only read a few specific tags. Fiendishly arcane. If you want to use ExifTool to write location tags, you'll want to be specific.
 
 
 
@@ -268,13 +187,13 @@ If you are going to write geolocation info directly into video files, it can hel
 For an MP4 file, try writing GPS coords into UserData:
 
 <pre>
-<code>exiftool -userdata:gpscoordinates="16.7665,-3.0025,261" foo.mp4</code>
+<code>exiftool -userdata:gpscoordinates="45.0536,1.17,187" foo.mp4</code>
 </pre>
 
 For an MOV file, try writing GPS coords into Keys:
 
 <pre>
-<code>exiftool -keys:gpscoordinates="16.7665,-3.0025,261" bar.mp4</code>
+<code>exiftool -keys:gpscoordinates="36.0831,-107.9999,1856" bar.mp4</code>
 </pre>
 
 UserData and Keys are subgroups of the Quicktime group. Writing to these tags will work with some video files (specifically MP4 and MOV). These tags won't work at all for JPGs or other stills files that don't support the Quicktime metadata block.
@@ -283,15 +202,13 @@ The GPSCoordinates tag is a composite tag related to the Quicktime group and, ag
 
 X,Y,Z = latitude, longitude, altitude.
 
-Z = altitude in meters above sea level. Negative altitude works, too, if you're in Death Valley or somewhere real exciting.
+Z = altitude in meters above sea level.
 
-For coordinates in the southern or western hemisphere, you can either use <code>-</code> minus symbol before your coordinate, or use <code>S</code> or <code>W</code> after your coordinate. E.g.:
+Coordinates in the southern or western hemispheres use a minus symbol, e.g, 9.5566 South, 78.2358 West:
 
-GALAPAGOS ISLANDS<br/>
-0.5S,90.5W<br/>
--0.5,-90.5
+-9.5566, -78.2358
 
-Heads up! This syntax does depend on what commands you're using to write coords to file as well as if you're storing the coords in UserData or XMP; it also depends on file format. If you're writing to JPGs you will need to use a different command.
+Negative values for elevation work, too, if your location is below sea level.
 
 ---
 
@@ -316,7 +233,7 @@ If you have other tags in your file, make sure you copy those over, too. There i
 Creates an XMP sidecar file for foo.mp4, copying any existing XMP tags, and then writes arbitrary GPS coords to that sidecar file (see notes below):
 
 <pre>
-<code>exiftool "-all:all<xmp:all" -gpslatitude=16.7665 -gpslongitude=-3.0025 -gpsaltitude=261 -srcfile %d%f.xmp foo.mp4</code>
+<code>exiftool "-all:all<xmp:all" -gpslatitude=22.7679 -gpslongitude=-30.9117 -gpsaltitude=224 -srcfile %d%f.xmp foo.mp4</code>
 </pre>
 
 Notes: First, make sure foo.mp4 doesn't have GPS data written somewhere in the original file. If it does, use a different command. Otherwise you'll have conflicts between the host MP4 and the XMP sidecar files. Not good.
@@ -328,7 +245,7 @@ Last, this particular command only copies XMP tags. It does not copy other metad
 For example, this beastly snippet does all of the above, and also copies UserData:description and appends it to the XMP-dc:Description tag. (I.e. "XMP tag content...UserData tag content". I'm using an ellipses here but format it however you like.):
 
 <pre>
-<code>exiftool '-all:all<xmp:all' '-xmp-dc:description<${xmp-dc:description}...${userdata:description}' -gpslatitude=16.7665 -gpslongitude=-3.0025 -gpsaltitude=261 -srcfile %d%f.xmp foo.mp4</code>
+<code>exiftool '-all:all<xmp:all' '-xmp-dc:description<${xmp-dc:description}...${userdata:description}' -gpslatitude=54.6761 -gpslongitude=-89.6963 -gpsaltitude=410 -srcfile %d%f.xmp foo.mp4</code>
 </pre>
 
 For MacOS, remember to add the single quotes because <code>$</code> sigil is used.
@@ -352,10 +269,10 @@ You can write this snippet, and then write one of the snippets above to copy ful
 
 ---
 
-Injects altitude of 9999 meters above sea level into UserData:GPSCoordinates string for all MP4 files in current directory. Then, copies GPS x,y,z coords to XMP sidecar files for all MP4s in current directory. (I'm using a <code>|</code> pipe to string 2 commands together, one after another. There is probably a more efficient way to do this, though.):
+Injects altitude of 4207 meters above sea level into UserData:GPSCoordinates string for all MP4 files in current directory. Then, copies GPS x,y,z coords to XMP sidecar files for all MP4s in current directory. (I'm using a <code>|</code> pipe to string 2 commands together, one after another. There is probably a more efficient way to do this, though.):
 
 <pre>
-<code>exiftool -ext mp4 '-userdata:gpscoordinates<$gpslatitude,$gpslongitude,9999' . | exiftool ext -mp4 '-xmp:gpslongitude<gpslongitude' '-xmp:gpslatitude<gpslatitude' '-xmp:gpsaltitude<gpsaltitude' -srcfile %d%f.xmp .</code>
+<code>exiftool -ext mp4 '-userdata:gpscoordinates<$gpslatitude,$gpslongitude,4207' . | exiftool ext -mp4 '-xmp:gpslongitude<gpslongitude' '-xmp:gpslatitude<gpslatitude' '-xmp:gpsaltitude<gpsaltitude' -srcfile %d%f.xmp .</code>
 </pre>
 
 If you have other tags embedded in your files, you will need to add flags to copy them over to the XMP sidecar files, too.
