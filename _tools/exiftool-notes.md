@@ -6,11 +6,11 @@ date: 2022-05-20
 description: "Snippets I use and notes on what I'm learning about image metadata."
 lede: print
 nav: |
-  + [Useful basics](https://www.zachmccabe.com/tools/exiftool#)
-  + [Writing directly into video files](https://www.zachmccabe.com/tools/exiftool#writing-directly-into-video-files)
-  + [Working with captions, labels and location tags](https://www.zachmccabe.com/tools/exiftool#working-with-captions-labels-and-location-tags)
-  + [Writing and copying GPS in video files](https://www.zachmccabe.com/tools/exiftool#writing-and-copying-GPS-in-video-files)
-  + [Inject altitude into GPS coords string in an MP4](https://www.zachmccabe.com/tools/exiftool#inject-altitude-into-gps-coords-string-in-an-mp4)
+  + [Useful basics](https://www.zachmccabe.com/tools/exiftool-notes#useful-basics)
+  + [Writing directly into video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-directly-into-video-files)
+  + [Working with captions, labels and location tags](https://www.zachmccabe.com/tools/exiftool-notes#working-with-captions-labels-and-location-tags)
+  + [Writing and copying GPS in video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-and-copying-GPS-in-video-files)
+  + [Inject altitude into GPS coords string in an MP4](https://www.zachmccabe.com/tools/exiftool-notes#inject-altitude-into-gps-coords-string-in-an-mp4)
 
 ---
 
