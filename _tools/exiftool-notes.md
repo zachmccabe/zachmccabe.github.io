@@ -269,10 +269,10 @@ You can write this snippet, and then write one of the snippets above to copy ful
 
 ---
 
-Injects altitude of 4207 meters above sea level into UserData:GPSCoordinates string for all MP4 files in current directory. Then, copies GPS x,y,z coords to XMP sidecar files for all MP4s in current directory. (I'm using a <code>|</code> pipe to string 2 commands together, one after another. There is probably a more efficient way to do this, though.):
+Injects altitude of 9999 meters above sea level into UserData:GPSCoordinates string for all MP4 files in current directory. Then, copies GPS x,y,z coords to XMP sidecar files for all MP4s in current directory. (I'm using a <code>|</code> pipe to string 2 commands together, one after another. There is probably a more efficient way to do this, though.):
 
 <pre>
-<code>exiftool -ext mp4 '-userdata:gpscoordinates<$gpslatitude,$gpslongitude,4207' . | exiftool ext -mp4 '-xmp:gpslongitude<gpslongitude' '-xmp:gpslatitude<gpslatitude' '-xmp:gpsaltitude<gpsaltitude' -srcfile %d%f.xmp .</code>
+<code>exiftool -ext mp4 '-userdata:gpscoordinates<$gpslatitude,$gpslongitude,9999' . | exiftool ext -mp4 '-xmp:gpslongitude<gpslongitude' '-xmp:gpslatitude<gpslatitude' '-xmp:gpsaltitude<gpsaltitude' -srcfile %d%f.xmp .</code>
 </pre>
 
 If you have other tags embedded in your files, you will need to add flags to copy them over to the XMP sidecar files, too.
