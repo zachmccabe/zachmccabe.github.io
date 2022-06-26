@@ -63,7 +63,7 @@ Through a series of vignettes, he shows you how money, time, infrastructure don'
 
 Test your assumptions within the cultural paradigm of the community where you're doing business, Khanna says. Your product, your playbook, your perspective will all need to be focused on the local community. Only then can you build local trust. And only then will your organization have what it needs to succeed.
 
-(I'm not sure how well terms like "developing economy" or "emerging market" will hold up in the new post-Trump, Covid-19 era of global trade. I just re-read Khanna's book, though, and it feels as relevant as ever.)
+(I'm not sure how well terms like "developing economy" or "emerging market" are holding up. I just re-read Khanna's book, though, and it feels as relevant as ever.)
 
 In this same vein, another resource I like is a free, 2-part podcast by Freakonomics Radio on American culture:
 
@@ -106,21 +106,21 @@ The intention of this book reminds me a little of de Bono's decision-making book
 
 If you're in a hurry, start midway through: Chapter 5 is probably a good spot. Then flip back through earlier chapters when you need to fill in.
 
-I listened to the audiobook first. I got more out of it the second time, when I re-read the ebook version. Kahane writes well but the ideas are complex, and I often wanted to re-read sections or check the footnotes. At this point, I've read the book several times. It's been very useful.
+I listened to the audiobook first. I got more out of it the second time, when I re-read the ebook version. Kahane writes well but these ideas are complex, and I often wanted to re-read sections or check the footnotes. At this point, I've read the book several times. It's been very useful.
 
 
 
 
 ## The Field Study Handbook by Chipchase
 
-- The Field Study Handbook, Jan Chipchase, 2018.
+- The Field Study Handbook, Jan Chipchase, 2018. Print.
 
-Chipchase is a design researcher whose work takes him to communities all over the world. He is a masterful observer. You should read this book hoping to get into that headspace. That's why I read it, anyway. I'm not a design researcher.
+Chipchase is a researcher whose work takes him to communities all over the world. He is a masterful observer. You should read this book hoping to get into that headspace. That's why I read it, anyway. I'm not a design researcher.
 
-I especially like Chapter 11: Rapid Calibration Techniques. You can learn a lot about culture by taking in the "the obvious and unquestioned activities" of everyday life, he says.
+Try Chapter 11: Rapid Calibration Techniques. You can learn a lot about culture by taking in the "the obvious and unquestioned activities" of everyday life, Chipchase says.
 
-Reading Chipchase makes me feel like I'm traveling with Sherlock Holmes. And he is a generous writer. The book is beautifully put together, too, filled with charts, photos and illustrations.
+This is less of a how-to book and more of a why-to book, he says. I like this framing. If you're ready to level up, this book is worth your time.
 
-He says this is less of a how-to book and more of a why-to book. When I read Chapter 13: Data Collection, I was struck by the terse, 7-item list titled "Data Collection Field Principles" on page 326. When I worked as a photographer for NGO clients, I learned to apply a similar list of rules to myself and my images. Back in the introduction, in a section titled "The cost of a lack of context," Chipchase explains why it's worth protecting your process: "Intent is the most important aspect of data collection, and the first to suffer once the organization looks to scale collection. Compromise on intent, and the data set will become tainted, contaminating everything it touches."
+When I read Chapter 13: Data Collection, I was struck by the terse, 7-item list titled "Data Collection Field Principles" on page 326. (It's good advice. When I worked as a photographer for NGO clients, I learned to apply a similar list of rules to myself and my images.) Back in the introduction, in a section titled "The cost of a lack of context," Chipchase explains why it's worth protecting your process: "Intent is the most important aspect of data collection, and the first to suffer once the organization looks to scale collection. Compromise on intent, and the data set will become tainted, contaminating everything it touches."
 
-This book is priced for its professional audience. It's worth it, even if you have to save up for it like I did. There is so much to learn here.
+Chipchase is a generous writer. The book is beautifully put together, too: well-organized, and filled with charts, photos and illustrations. It is also expensive, compared to the other books on this list, and I had to save up for it. It was worth it. There is so much to learn here.
