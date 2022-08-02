@@ -72,7 +72,7 @@ I'm talking with an American client in the US who has no idea that, officially, 
 
 It's a good idea to confirm the timezone, and more, when you're planning a call.
 
-I'm chatting with a friend who has lived on the west coast of the US for several years. She's stressed out and studying for her PhD. She doesn't realize that the US has multiple timezones, much less that it is hours later for me than it is for her. Groggy and preoccupied with thoughts of work in the morning, I'm less focused on the conversation than I would like. She is embarrassed that even after years of living in the country, she didn't know this simple fact about the place.
+I'm chatting with a friend who has lived on the west coast of the US for several years. She's stressed out and studying for her PhD. She doesn't realize that the US has multiple timezones, much less that it is hours later for me than it is for her. Groggy and preoccupied with thoughts of work in the morning, I'm less focused on the conversation than I would like. She is embarrassed that, even after years of living in the country, she didn't know this simple fact about the place.
 
 People assume their frame of reference is also your frame of reference.
 
@@ -82,7 +82,7 @@ An Earth day is 39 minutes shorter than a Mars sol, so the team wear customized,
 
 Do what you have to do to get yourself on Mars Time.
 
-I buy a cheap watch from a street market. Is it supposed to look like a Rolex? It's so cheap it stops working almost immediately after I buy it. I wear it on a few trips. Having the thing on my wrist is a good way to remember the stuff that matters.
+I buy a cheap watch from a street market. Is it supposed to look like a Rolex? It's so cheap it stops working almost immediately after I buy it. I wear it on a few work trips. Having the thing on my wrist is a good way to remember the stuff that matters.
 
 I remember to call my client and give her a project update: UTC +8.
 
