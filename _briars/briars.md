@@ -28,7 +28,7 @@ Briars is 1 part diary, 1 part social publishing experiment.
 
 ## Project inspiration
 
-Briars is inspired by the ranch where I work as a hired hand, old gyotaku prints and by some of my favorite nature journals, too. Mostly, though, it was a visit with an old friend that got this project started, and keeps it moving -- During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
+Briars is inspired by the ranch where I work as a hired hand, and by some of my favorite nature journals, too. Mostly, though, it was a visit with an old friend that got this project started, and keeps it moving. During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
 Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 10 years ago.
 
