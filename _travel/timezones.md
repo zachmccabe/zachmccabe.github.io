@@ -9,7 +9,7 @@ lede: print
 nav: | 
  + [North Star](https://www.zachmccabe.com/travel/timezones#north-star)
  + [Mars Time](https://www.zachmccabe.com/travel/timezones#mars-time)
- + [Signal and scripts](https://www.zachmccabe.com/travel/timezones#signals-and-scripts)
+ + [Signals and scripts](https://www.zachmccabe.com/travel/timezones#signals-and-scripts)
 
 ---
 
@@ -90,7 +90,7 @@ I remember to text my girlfriend, after she leaves work work and before bed: UTC
 
 
 
-## Signal and Scripts
+## Signals and Scripts
 
 So far, I've been assuming there is a signal. There is not always a signal. Make a backup plan. Lucky you if your contact is the sort of person who is helpful troubleshooting these situations. Definitely involve that person in the planning process:
 
