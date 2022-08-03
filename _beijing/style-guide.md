@@ -32,7 +32,7 @@ Dialogue is formatted using italics and double quotes for clarity, e.g. _"Hello 
 
 Ellipses are used as a narrative device – not just to truncate quotes. Because this is not a newspaper…
 
-Metric and imperial units are included in the e-book. Beijingers themselves will expect you not only to use the metric system but also local standards like <mark>jin <span lang="zh">斤</span></mark> and <mark>wan <span lang="zh">万</span></mark>.
+Metric and imperial units are included in the ebook. Beijingers themselves will expect you not only to use the metric system but also local standards like <mark>jin <span lang="zh">斤</span></mark> and <mark>wan <span lang="zh">万</span></mark>.
 
 Numbers are never spelled out. Line length is short, and each character counts. (Names might be an exception, e.g. Three Shadows Gallery, and not 3 Shadows Gallery.) See: [line length.]
 
