@@ -29,7 +29,7 @@ Every project needs a [map](https://www.zachmccabe.com/beijing/bts/style-guide.h
 
 All of my decisions are made using that map and compass. Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
 
-Soundtrack? I'm one of those people who puts a song on loop during a project, and I listened to Halsey's cover of ["The Sound"] on BBC Radio1. While updating v2, I played Rosalia's ["Pienso en tu mira"] like a ritual.
+Soundtrack? I'm one of those people who puts a song on loop during a project, and I listened to Halsey's cover of ["The Sound"] on BBC Radio1. While updating V2, I played Rosalia's ["Pienso en tu mira"] like a ritual.
 
 ["The Sound"]: https://youtu.be/YIznx_ek98M
 
@@ -39,9 +39,9 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 
 ## Timeline
 
-- **v2.0.0:** Jan 2020. Published via free EPUB, and on Kindle.
-- **v1.0.0:** May 2017. Published on Kindle.
-- **v0.0.1:** Oct 2016.
+- V2.0.0: Jan 2020. Published via free EPUB, and on Kindle.
+- V1.0.0: May 2017. Published on Kindle.
+- V0.0.1: Oct 2016.
 - Research begins in early 2015
 
 
@@ -54,7 +54,7 @@ From research, to draft and design, to marketing and shipping the final product,
 
 ## Photos
 
-**Edit tight and compromise.**
+Edit tight and compromise.
 
 Each photo included in the Field Guide must:
 
@@ -63,9 +63,9 @@ Each photo included in the Field Guide must:
 3. Avoid redundancy with the usual stuff (Instagram, tourist guidebooks).
 4. Reinforce the tone and message of the Field Guide.
 
-When I started the book, I asked myself a question: _Does my reader even need to see the author's photos? After all, she's headed to Beijing to make her own._
+When I started the book, I asked myself a question: Does my reader even need to see the author's photos? After all, she's headed to Beijing to make her own.
 
-Test it! In the beta that went out to a hardy group of testers (readers?), the only photo included in the Field Guide was on the cover. Reader response was unanimous: _"Where the hell are the photos, man?"_
+Test it! In the beta that went out to a hardy group of testers (readers?), the only photo included in the Field Guide was on the cover. Reader response was unanimous: "Where the hell are the photos, man?"
 
 
 
@@ -73,17 +73,17 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 All photos are 1000px with a 1:1 ratio.
 
-This update includes 3x more photos compared to the v1 field guide. The choice seemed straight forward: nearly everyone complained about the lack of pictures in the previous version.
+This update includes 3x more photos compared to the V1 field guide. The choice seemed straight forward: nearly everyone complained about the lack of pictures in the previous version.
 
-While v1 only included monochrome images (which were chosen to reinforce the vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
+While V1 only included monochrome images (which were chosen to reinforce the vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
 
 <figure>
 <table class="kaoStripey">
   <thead>
     <tr>
-     <th scope="row">Kindle v1</th>
-     <th scope="row">Kindle v2</th>
-     <th scope="row">EPUB v2</th>
+     <th scope="row">Kindle V1</th>
+     <th scope="row">Kindle V2</th>
+     <th scope="row">EPUB V2</th>
     </tr>
   </thead>
   <tbody>
@@ -102,9 +102,9 @@ While v1 only included monochrome images (which were chosen to reinforce the vib
 <figcaption><p>*According to the Amazon product pages.<br/>†According to my Github repo.</p></figcaption>
 </figure>
 
-As you can see in the table above, the EPUB weighs less than the Amazon version, which is interesting because Amazon *starts* with that same EPUB file. 
+As you can see in the table above, the EPUB weighs less than the Amazon version, which is interesting because Amazon starts with that same EPUB file. 
 
-Amazon, iBooks and other platforms request authors upload "original, high resolution" files. (There are some good reasons to request this. There are also some sloppy reasons to request this.) Because I'm now distributing the field guide on Amazon and also directly as an ePub, I optimized image files myself before before packing them. I need to keep my workflow streamlined:
+Amazon, iBooks and other platforms request authors upload "original, high resolution" files. (There are some good reasons to request this. There are also some sloppy reasons to request this.) Because I'm now distributing the field guide on Amazon and also directly as an EPUB, I optimized image files myself before before packing them. I need to keep my workflow streamlined:
 
 1. Keep photo dimensions "small," at 1000px 1:1. Again, navigating with my map and compass.
 2. Compress image files using [ImageOptim.](https://imageoptim.com/mac)
@@ -121,12 +121,12 @@ Research told me many photographers are very choosy about their displays – my 
 
 But device storage space is truly at a premium during international trips. An ebook like mine would be competing for space alongside movies for the flight, other ebooks and travel apps, and, most importantly for photographers, copies of their own images. It is easy to imagine a Reader backing up her photos to an iPad. She might also proof those images with an app like Lightroom, too.
 
-So, I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: _"Due to its large file size, this book may take longer to download."_
+So, I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: "Due to its large file size, this book may take longer to download."
 
 - I assume I'm not the only one who tries to download just-one-more before it's time to get on the plane?
 - I also [assume](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
 
-According to the Amazon product page, the v1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
+According to the Amazon product page, the V1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
 
 <table class="kaoStripey">
   <thead>
@@ -137,7 +137,7 @@ According to the Amazon product page, the v1 field guide weighed 7978 KB. This i
   </thead>
   <tbody>
     <tr>
-      <td>Photographers Field Guide v1</td>
+      <td>Photographers Field Guide V1</td>
       <td>7978 KB</td>
     </tr>
     <tr>
@@ -155,9 +155,9 @@ According to the Amazon product page, the v1 field guide weighed 7978 KB. This i
 
 ## Maps and illustrations
 
-**If you can't get there, you probably can't photograph it.**
+If you can't get there, you probably can't photograph it.
 
-Offline maps weren't part of the plan, at first. _If most readers will be reading the field guide on their phone, won't they just reach for their favorite maps app?_
+Offline maps weren't part of the plan, at first. If most readers will be reading the field guide on their phone, won't they just reach for their favorite maps app?
 
 As research progressed I realized that I'd need to include custom maps for 3 reasons. Feedback from early readers convinced me that:
 
@@ -165,7 +165,7 @@ As research progressed I realized that I'd need to include custom maps for 3 rea
 2. Although there are very good English-language maps designed for tourists, there were still large info gaps.
 3. Maps are an efficient, quick way to organize and explain complex ideas – making them an ideal way to deliver info to [my reader](https://www.zachmccabe.com/beijing/bts/10-assumptions#the-ebook). 
 
-In the v1 field guide, I included 14 high-level, thumbnail maps alongside the 17 illustrations I'd already made. (Some of these were removed from the v2 field guide.)
+In the V1 field guide, I included 14 high-level, thumbnail maps alongside the 17 illustrations I'd already made. (Some of these were removed from the V2 field guide.)
 
 Both the maps and other illustrations were created in SVG.
 
@@ -181,18 +181,18 @@ Other illustrations were just coded by hand in [BBEdit](https://www.barebones.co
 
 ### SVG GIF JPG wtf
 
-**Reality is not spec. Face palm.**
+Reality is not spec. Face palm.
 
-- **Photographers Field Guide v2:** Assuming enough time has past that it's safe to go with PNG.
-- **Photographers Field Guide v1:** All non-photo assets were translated to GIF for max backwards compatibility.
+- V2: Assuming enough time has past that it's safe to go with PNG.
+- V1: All non-photo assets were translated to GIF for max backwards compatibility.
 
-Originally, all the maps and illustrations in the v1 field guide were to be published in SVG. According to both the ePub spec and Amazon's spec for their own formats, SVG should've worked. Reality is not spec. Early tests (2016) revealed that, in fact, Kindle's SVG support was too limited. 
+Originally, all the maps and illustrations in the V1 field guide were to be published in SVG. According to both the EPUB spec and Amazon's spec for their own formats, SVG should've worked. Reality is not spec. Early tests (2016) revealed that, in fact, Kindle's SVG support was too limited. 
 
-At that point I also learned that, apparently, some of Amazon's e-ink hardware couldn't render PNG. In the v1 field guide, it looked like my only options were JPG for photos, and GIF<sup><a id="ref3" href="#note3" alt="footnote">3</a></sup> for everything else.
+At that point I also learned that, apparently, some of Amazon's e-ink hardware couldn't render PNG. In the V1 field guide, it looked like my only options were JPG for photos, and GIF<sup><a id="ref3" href="#note3" alt="footnote">3</a></sup> for everything else.
 
-Again, **ImageOptim** was used to shrink down file size.
+Again, ImageOptim was used to shrink down file size.
 
-Creating these illustrations was the most challenging part of the v1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly _more_ time to complete than actually writing and editing the copy. 
+Creating these illustrations was the most challenging part of the V1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly _more_ time to complete than actually writing and editing the copy. 
 
 Worth it? <strike>Absolutely. So far nobody has said a thing – which means the visuals are doing their job.</strike> You tell me: <hello@zachmccabe.com>.
 
@@ -202,21 +202,21 @@ Worth it? <strike>Absolutely. So far nobody has said a thing – which means the
 
 ### Version 2
 
-Everything was written in Markdown, using **TextEdit.** Then, using [Pandoc,](https://pandoc.org/) I built a rough EPUB. This was hand polished with [Calibre](https://calibre-ebook.com/) and [BBEdit.](https://www.barebones.com/products/bbedit/)
+Everything was written in Markdown, using TextEdit on MacOS. Then, using [Pandoc,](https://pandoc.org/) I built a rough EPUB. This was hand-polished with [Calibre](https://calibre-ebook.com/) and [BBEdit.](https://www.barebones.com/products/bbedit/)
 
 Calibre is very useful for editing and debugging EPUB files. Pandoc can be used for all sorts of things. Both have active communities. If you're trying to build a book, try them out.
 
-**Gitbook** changed their product offering, and wasn't used in this version.
+Gitbook changed their product offering, and wasn't used in this version.
 
 
 
 ### Version 1
 
-My earliest drafts were puked out in MacOS' **TextEdit**. Inevitably my best ideas were noted on-the-go with whatever was handy on my phone, including **Evernote** and  video selfies. This mess was then assembled into a working draft.
+My earliest drafts were puked out in MacOS' TextEdit. Inevitably my best ideas were noted on-the-go with whatever was handy on my phone, including Evernote and video selfies. This mess was then assembled into a working draft.
 
 As the project developed, I needed more structure. [Gitbook](https://www.gitbook.com/) allowed me to pull my disparate TXT files together. Writing in Markdown is great, so that's what I did. Being able to easily add my visuals, and edit captions and other bits alongside the rest of the copy in Gitbook was very helpful.
 
-From Gitbook, it was easy to export the whole thing as an EPUB. The output was chatty but good. Anyway, I still needed to get some things worked out in the XHTML files specifically for Kindle. For that, Paul Salvette's [books](http://bbebooksthailand.com/) were an awesome resource for understanding what needed to be done. **BBEdit** and **Calibre** got me the rest of the way there.
+From Gitbook, it was easy to export the whole thing as an EPUB. The output was chatty but good. Anyway, I still needed to get some things worked out in the XHTML files specifically for Kindle. For that, Paul Salvette's [books](http://bbebooksthailand.com/) were an awesome resource for understanding what needed to be done. BBEdit and Calibre got me the rest of the way there.
 
 
 
@@ -233,13 +233,13 @@ The [AP Stylebook](https://www.zachmccabe.com/beijing/bts/style-guide.html) migh
 
 [Butterick](https://practicaltypography.com/line-length.html) and the [BBC](http://www.bbc.co.uk/academy/journalism/skills/digital-journalism/article/art20141202144618106) did have some ideas.
 
-For the v2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
+For the V2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
 
 
 
 ## Lessons learned
 
-**If you're making a product you will have to experiment, test and revise. Recruit your team early on.**
+If you're making a product you will have to experiment, test and revise. Recruit your team early on.
 
 The Photographers Field Guide to Beijing is the first book I've written. It's not the first book I've helped produce, though. It's also not my first big, hairy project. 
 
@@ -263,11 +263,11 @@ Go make a book<br />You'll be happy you did<br />–Z
 
 There are several challenges with photos and visual content – and Amazon itself isn't always the limiting factor:
 
-**Compression.** Kindle automatically compresses images and the rest of the content you upload. This is probably in everyone's best interest. The scant documentation on images doesn't serve readers or authors well.
+- File compression: Kindle automatically compresses images and the rest of the content you upload. This is probably in everyone's best interest. The scant documentation on images doesn't serve readers or authors well.
 
-**Resolution and colorspace.** Mobile devices can be among the most demanding ways to view an image. That said, a 500 ppi mobile display and an e-ink reader with limited processing power want very different things from a photograph. Both Kindle gurus and the platform's own documentation advise authors to consider their readers' needs. Good advice!  
+- Resolution and colorspace: Mobile devices can be among the most demanding ways to view an image. That said, a 500 ppi mobile display and an e-ink reader with limited processing power want very different things from a photograph. Both Kindle gurus and the platform's own documentation advise authors to consider their readers' needs. Good advice!  
 
-**Grayscale, btw.** Kindle documention doesn't mention which grayscale conversion standard they utilize (or if it's proprietary, which some authors have asserted). I can only say that it's worth testing your color illustrations on Amazon's own e-ink hardware. <a href="#ref1" alt="back">↩</a>
+- Grayscale, btw: Kindle documention doesn't mention which grayscale conversion standard they utilize (or if it's proprietary, which some authors have asserted). I can only say that it's worth testing your color illustrations on Amazon's own e-ink hardware. <a href="#ref1" alt="back">↩</a>
 
 
 <h4 id="note2">Note 2</h4>
