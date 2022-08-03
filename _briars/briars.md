@@ -114,14 +114,15 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 ## Publishing workflow
 
-1. Briars is shot with an emphasis on quick turn around. Pictures are shot as JPG files whenever possible, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in plaintext files alongside the images.
+1. Briars is created with an emphasis on quick turnaround. Pictures are shot as JPG files whenever possible, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in plaintext files alongside the images.
 
     (Using the Sony RX100 cameras has slowed down my workflow. The on-camera JPG engine is so terrible I was ready to sell the camera until I begrudgingly switched to raw files, and, crucially, started using DXO Photo Lab to create JPGs from those raw files. So much better.)
 
-2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox.
+2. For images published via this website (as well as images shared directly using email or messaging apps), I first prepare JPG files on my Mac. It's a quick, drag-and-drop process that relies on an Automator script and ImageOptim to create, and then optimize, down-scaled copies of my pictures. Occasionally, I try out cutting-edge image file types like WEBP and AV1. I'm sticking with JPG right now because it has good support for metadata and works everywhere -- including in the software I use to run this project!
 
-3. For this website I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files. Previously, Briars was shared over WeChat and Instagram. Because social platforms optimize image dimensions and file size on their servers, I uploaded a big, 1:1 crop of the image so there was plenty of data to use. Nice and simple.
+3. Finally, everything gets moved to my phone so it can be published via mobile apps. I use Syncthing to sync files between Mac and Android.
 
+    (Previously, Briars was shared over WeChat and Instagram. Because social platforms optimize image dimensions and file size on their servers, I uploaded a big, 1:1 crop of the image so there was plenty of data to use. That was nice and simple.)
 
 
 
@@ -135,7 +136,7 @@ The first 3-years-worth of images were made with cell phones and a cheap action 
 
 To add some protection from sweat, dust and rain, I use either a 4x7-inch Loksak bag or a tiny, #1010 Pelican case.
 
-One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision. I've come to prefer working this way, actually. And I especially appreciate it when the weather is changing fast, or when I'm working around animals. The trade off is that during bright midday sun I can't really see the interface on the screen.
+One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision. I've come to prefer working this way, actually. And I especially appreciate it when the weather is changing fast, or when I'm working around animals. The trade off is that under bright, midday sun I can't really see the interface on the screen.
 
 ### Light
 
