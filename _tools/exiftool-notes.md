@@ -9,7 +9,7 @@ nav: |
   + [Useful basics](https://www.zachmccabe.com/tools/exiftool-notes#useful-basics)
   + [Writing directly into video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-directly-into-video-files)
   + [Working with captions, labels and location tags](https://www.zachmccabe.com/tools/exiftool-notes#working-with-captions-labels-and-location-tags)
-  + [Writing and copying GPS in video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-and-copying-GPS-in-video-files)
+  + [Writing and copying GPS in video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-and-copying-gps-in-video-files)
   + [Inject altitude into GPS coords string in an MP4](https://www.zachmccabe.com/tools/exiftool-notes#inject-altitude-into-gps-coords-string-in-an-mp4)
 
 ---
@@ -58,11 +58,13 @@ Checks which version you're running, and shows other helpful details:
 <code>exiftool -ver -v2</code>
 </pre>
 
-Note: Security researchers [found] a serious security vulnerability in older versions of ExifTool. (It's over my head but I believe the greatest risk is to servers?) This was patched in v 12.24. ExifTool is well-maintained, and has been for a long time. Bugs are fixed and new improvements are added at a steady pace. You'll want to stay up-to-date with the latest version.
+Note: Security researchers [found] a serious vulnerability in older versions of ExifTool. (It's over my head but I believe the greatest risk is to servers?) This was patched in v 12.24. For more on safely coding with ExifTool, and Perl more generally, read this [security note] from the developer. ExifTool is well-maintained, and has been for a long time. Bugs are fixed and new improvements are added at a steady pace. You'll want to stay up-to-date with the latest version.
 
 To update the app, see the official [install instructions.]
 
 [found]: https://twitter.com/wcbowling/status/1393311625709441024?cxt=HHwWgMCq_dPihNYmAAAA
+
+[security note]: https://exiftool.org/index.html#security
 
 [install instructions.]: https://exiftool.org/install.html
 
