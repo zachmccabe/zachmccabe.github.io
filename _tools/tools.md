@@ -38,11 +38,11 @@ nav: |
 + Rclone does local sync, too
 + Syncthing on Android + Mac
 
-More detail on one of my workflows is in the [project notes] I wrote up for Laughing Lost in Briars.
+More detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars.
 
 [ExifTool]: https://www.zachmccabe.com/tools/exiftool-notes
 
-[project notes]: https://www.zachmccabe.com/briars
+[photo workflows]: https://www.zachmccabe.com/briars/#publishing-workflow
 
 
 
