@@ -4,6 +4,7 @@ robots: norobots
 layout: kaoliang_nite_3
 title: Laughing lost in briars
 date: 2021-03-18
+update: 2022-08-02
 description: "Project notes from Laughing Lost in Briars."
 lede: print
 nav: |
@@ -27,11 +28,9 @@ Briars is 1 part diary, 1 part social publishing experiment.
 
 ## Project inspiration
 
-Briars is inspired by the ranch where I work as a hand, and by some of my favorite nature journals, too. Mostly, though, it was a chance visit with an old friend that got this project started, and keeps it moving.
- 
-During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
+Briars is inspired by the ranch where I work as a hired hand, old gyotaku prints and by some of my favorite nature journals, too. Mostly, though, it was a visit with an old friend that got this project started, and keeps it moving -- During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
-Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 8 years ago.
+Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 10 years ago.
 
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
@@ -57,32 +56,39 @@ I do my best to remember all this when I frame the scene, choose one picture ove
 
 ## Researching the story
 
-To learn more about the ecosystem processes happening in front of me I use field guides, [iNaturalist,] and [NRCS pubs.] Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too. For example:
+To learn more about the ecosystem processes happening in front of me I use field guides, [iNaturalist,] and [NRCS resources.] Studying natural history helps me make meaningful pictures. It improves my chances of being in the right place at the right time, too. For example:
 
 - Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
 - Move softly and deliberately. This is critical when working around things that bite, kick, or shove back.
-- To the best of my judgement, I always prioritize the creature's welfare. Sometimes this means walking away without a photo. This post from ILCP is a [good way into that topic.]
+- To the best of my judgement, I prioritize welfare of the places, plants and animals I'm photographing. [This PDF] from ILCP is a good way into the topic.
 
 [iNaturalist,]: https://www.inaturalist.org/
 
-[NRCS pubs.]: https://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications/
+[NRCS resources.]: https://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications/
 
-[good way into that topic.]: https://conservationphotographers.org/from-wild-to-captive-a-call-for-ethics-in-modern-nature-photography/
+[This PDF]: https://conservationphotographers.org/from-wild-to-captive-a-call-for-ethics-in-modern-nature-photography/
 
 
 
 
 ## Structuring the story
 
-New for this project is the atomic unit method. 
+Early on, I realized that I would need to experiment with my storytelling format. How do you tell a cohesive story bit-by-bit, on multiple platforms, and in 2 languages? I was getting overwhelmed.
 
-This modularization strategy is used in design as a way to scale up efficiently. A friend, who is a designer, suggested I look up Brad Frost and experiment with [his method.]
+- I needed new workflows, both for better time-management and because of technical constraints.
+- I wanted to rethink my old models of how to tell stories using photos.
 
-The idea is to divide information and interfaces down into their most basic pieces, and build out from those elements. See this article at [A List Apart] for more.
+A friend, who is a designer, suggested I look up Brad Frost and experiment with [his "atomic unit" strategy.]
 
-For Briars, the atomic unit is defined as a diary entry -- a picture and any notes I'll need for caption writing. It's not so different from the classic image-plus-caption structure familiar to photojournalists.
+Even if you've never heard the term before, you've seen the concept in action on websites and social media platforms. The aim is to divide information and interfaces down into their most basic pieces. Figure out how small you can make things before you can't take them apart any more -- atomize your patterns, your information. Then, combine and re-combine those small elements to form bigger chunks as needed. As a project becomes more complex, it can scale efficiently, cohesively. 
 
-What's new (to me) is how these units flow and scale. Structuring the story this way lets me:
+See this article at [A List Apart] for more on atomic units.
+
+To structure this project, I decided to borrow as much as a could from the information architects and their atomized patterns.
+
+For Briars, the atom is a diary entry -- a single picture, its metadata, occasionally some notes. It’s not too different from the classic image-plus-caption structure familiar to photojournalists. What is new (to me) is how these little pieces flow and scale.
+
+Structuring the story this way lets me:
 
 - Jump between social media platforms.
 - Switch between languages, i.e. Chinese and English.
@@ -91,13 +97,13 @@ What's new (to me) is how these units flow and scale. Structuring the story this
 All the other stuff I use is grouped into separate structures, e.g.: 
 
 - Finished captions are a discrete atomic unit of their own; the content, tone and language vary.
-- Reference pictures and video, which I use for looking up plant species in a botanical key.
+- Reference pictures and video, e.g.: for looking up plant species in a botanical key.
 
-The atomic unit is a powerful conceptual tool that's helped me to organize this multi-platform story. Briars wouldn't have grown without it.
+The atomic unit is a powerful conceptual tool that's helped me to organize this story. Briars wouldn't have grown without it.
 
-Of course, this story form is everywhere now, thanks to the remarkable success of social media platforms. It feels like the default. But I still remember trying to wrap my head around this [2009 blog post] explaining NPR's "create once, publish everywhere" strategy the first time I read it.
+Of course, this story form is everywhere, thanks to the remarkable success of social media platforms. It feels like the default texture for the web. But I still remember trying to wrap my head around this [2009 blog post] explaining NPR's "create once, publish everywhere" strategy the first time I read it.
 
-[his method.]: https://atomicdesign.bradfrost.com/chapter-2/
+[his "atomic unit" strategy.]: https://atomicdesign.bradfrost.com/chapter-2/
 
 [A List Apart]: https://alistapart.com/article/language-of-modular-design
 
@@ -108,11 +114,13 @@ Of course, this story form is everywhere now, thanks to the remarkable success o
 
 ## Publishing workflow
 
-1. Briars is shot with an emphasis on quick turn around. Pictures are nearly always shot as JPG, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in plaintext files alongside the images.
+1. Briars is shot with an emphasis on quick turn around. Pictures are shot as JPG files whenever possible, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in plaintext files alongside the images.
+
+    (Using the Sony RX100 cameras has slowed down my workflow. The on-camera JPG engine is so terrible I was ready to sell the camera until I begrudgingly switched to raw files, and, crucially, started using DXO Photo Lab to create JPGs from those raw files. So much better.)
 
 2. Everything gets moved to my phone so it can be published via mobile apps. I use Syncthing between Mac and Android. Previously, I used Dropbox.
 
-3. Because social platforms optimize image dimensions and file size on their servers, I simply upload a big 1:1 crop of the image so there is plenty of data to use. I don't scale the image down or compress it. For this website I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files.
+3. For this website I use Nik Output Sharpener on my Mac to prep the scaled-down JPG files. Previously, Briars was shared over WeChat and Instagram. Because social platforms optimize image dimensions and file size on their servers, I uploaded a big, 1:1 crop of the image so there was plenty of data to use. Nice and simple.
 
 
 
@@ -125,12 +133,12 @@ Portability matters with this project. The technical aspects of image quality ar
 
 The first 3-years-worth of images were made with cell phones and a cheap action camera. Then, I switched to a hand-me-down Nikon compact. Right now, I'm using a secondhand Sony RX100 m4.
 
-To add some protection from sweat, dust and rain, I use either a 4x7" Loksak bag or a tiny, #1010 Pelican case.
+To add some protection from sweat, dust and rain, I use either a 4x7-inch Loksak bag or a tiny, #1010 Pelican case.
 
 One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision. I've come to prefer working this way, actually. And I especially appreciate it when the weather is changing fast, or when I'm working around animals. The trade off is that during bright midday sun I can't really see the interface on the screen.
 
 ### Light
 
-For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so I just upgraded what I already had. For the past few years I've been using Jaxman E3 lights, which I run on a single, rechargable AA-size battery. I use both the 4000K and 5700K Nichia versions of this light. Each is rated at 90 CRI.
+For quick closeups I use a small flashlight. It's the kind of thing you need routinely when you work outside, so I just upgraded what I already had. For the past few years I've been using Jaxman E3 lights, which I run on a single, rechargeable AA-size battery. I use both the 4000K and 5700K Nichia versions of this light. Each is rated at 90 CRI.
 
-I also keep a collapsible reflector in my car but I've only used it once. Cattle, in particular, really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
+I also keep a collapsible reflector in my car but I've only used it once. Animals really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
