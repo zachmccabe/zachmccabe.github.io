@@ -161,6 +161,27 @@ img[src$=".jpg"]{
   background: currentColor;
 }
 
+.kao-1x1-full {
+width: 100%;
+max-width: 1728px;
+aspect-ratio: 1 / 1;
+background: currentColor;
+}
+
+.kao-1x1-half {
+width: 48%;
+max-width: 1728px;
+aspect-ratio: 1 / 1;
+background: currentColor;
+}
+
+.kao-1x1-third {
+width: 31%;
+max-width: 1728px;
+aspect-ratio: 1 / 1;
+background: currentColor;
+}
+
 ol {
   margin: 1.5em 0 1.5em 1.2em;
   padding-left: 0;
