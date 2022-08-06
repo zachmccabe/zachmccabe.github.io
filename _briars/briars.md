@@ -34,7 +34,7 @@ Briars is 1 part diary, 1 part social publishing experiment.
 <figure>
 <img class="kao-1x1-half" 
 srcset="https://f002.backblazeb2.com/file/briars/briars-20181014-8128-1792.jpg 2x, https://f002.backblazeb2.com/file/briars/briars-20181014-8128-0896.jpg" 
-src="briars-20181014-8128-0896.jpg" alt="Monarch caterpillar on milkweed plant" loading="lazy" />
+src="https://f002.backblazeb2.com/file/briars/briars-20181014-8128-0896.jpg" alt="Monarch caterpillar on milkweed plant" loading="lazy" />
 <img class="kao-1x1-half" 
 srcset="https://f002.backblazeb2.com/file/briars/briars-20180611-4711-1792.jpg 2x, https://f002.backblazeb2.com/file/briars/briars-20180611-4711-0896.jpg" 
 src="https://f002.backblazeb2.com/file/briars/briars-20180611-4711-0896.jpg" alt="Milkweed plants in a field" loading="lazy" />
