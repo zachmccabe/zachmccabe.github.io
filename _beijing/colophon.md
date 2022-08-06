@@ -92,14 +92,15 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 
 <figure>
-<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-2-b.jpg" alt="Workers replastering red wall" loading="lazy"/>
+<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-2-b.jpg" alt="Workers replastering red wall" loading="lazy" />
+</figure>
 
 <figure>
 <img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-0.jpg" alt="Nighthawks nod in the financial district" loading="lazy" />
 </figure>
 
 <figure>
-<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-1-4-b.jpg" alt="Architectural detail through tree branches" loading="lazy"/>
+<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-1-4-b.jpg" alt="Architectural detail through tree branches" loading="lazy" />
 </figure>
 
 
