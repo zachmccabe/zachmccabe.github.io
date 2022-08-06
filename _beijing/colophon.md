@@ -19,6 +19,15 @@ nav: |
 ---
 
 
+
+<figure>
+<img class="kao-1x1-third" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-2-a.jpg" alt="Couple in red hats" loading="lazy" />
+<img class="kao-1x1-third" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-3-a.jpg" alt="Rainy autumn day at Shichahai" loading="lazy" />
+<img class="kao-1x1-third" src="https://f002.backblazeb2.com/file/field-guide/field-guide-1-3-a.jpg" alt="summer lotus plants  in lake" loading="lazy" />
+</figure>
+
+
+
 {% include page_nav.html %}
 
 
@@ -37,6 +46,12 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 
 
 
+<figure>
+<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-6.jpg" alt="Blue hour traffic" loading="lazy" />
+</figure>
+
+
+
 ## Timeline
 
 - V2.0.0: Jan 2020. Published via free EPUB, and on Kindle.
@@ -49,6 +64,13 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 ## The long way
 
 From research, to draft and design, to marketing and shipping the final product, I wanted to be hands-on for the whole process. Trading efficiency for a fully DIY approach would give me important insight for the next book… Wouldn't it?
+
+
+
+<figure>
+<img class="kao-1x1-half" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-4-a.jpg" alt="Detail of bicycle seat covered with fabric" loading="lazy"/>
+<img class="kao-1x1-half" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-4-b.jpg" alt="Detail of bixi statue nose" loading="lazy"/>
+</figure>
 
 
 
@@ -66,6 +88,19 @@ Each photo included in the Field Guide must:
 When I started the book, I asked myself a question: Does my reader even need to see the author's photos? After all, she's headed to Beijing to make her own.
 
 Test it! In the beta that went out to a hardy group of testers (readers?), the only photo included in the Field Guide was on the cover. Reader response was unanimous: "Where the hell are the photos, man?"
+
+
+
+<figure>
+<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-2-b.jpg" alt="Workers replastering red wall" loading="lazy"/>
+
+<figure>
+<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-0.jpg" alt="Nighthawks nod in the financial district" loading="lazy" />
+</figure>
+
+<figure>
+<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-1-4-b.jpg" alt="Architectural detail through tree branches" loading="lazy"/>
+</figure>
 
 
 
@@ -235,6 +270,10 @@ The [AP Stylebook](https://www.zachmccabe.com/beijing/bts/style-guide.html) migh
 
 For the V2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
 
+
+<figure>
+<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-1-a.jpg" alt="Tower seen through willow branches" loading="lazy" />
+</figure>
 
 
 ## Lessons learned
