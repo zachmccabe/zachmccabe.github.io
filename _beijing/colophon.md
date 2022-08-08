@@ -21,9 +21,9 @@ nav: |
 
 
 <figure>
-<img class="kao-1x1-third" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-2-a.jpg" alt="Couple in red hats" loading="lazy" />
-<img class="kao-1x1-third" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-3-a.jpg" alt="Rainy autumn day at Shichahai" loading="lazy" />
-<img class="kao-1x1-third" src="https://f002.backblazeb2.com/file/field-guide/field-guide-1-3-a.jpg" alt="summer lotus plants  in lake" loading="lazy" />
+<img class="kao-1x1-third" src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a.jpg" alt="Two tourists on a bench wearing red hats" loading="lazy" />
+<img class="kao-1x1-third" src="https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a.jpg" alt="Rainy autumn day at Shichahai" loading="lazy" />
+<img class="kao-1x1-third" src="https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a.jpg" alt="Summer lotus plants in lake" loading="lazy" />
 </figure>
 
 
@@ -47,7 +47,7 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 
 
 <figure>
-<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-6.jpg" alt="Blue hour traffic" loading="lazy" />
+<img class="kao-1x1-full" src="https://images.zachmccabe.com/file/field-guide/field-guide-2-6.jpg" alt="Blue hour traffic" loading="lazy" />
 </figure>
 
 
@@ -68,8 +68,8 @@ From research, to draft and design, to marketing and shipping the final product,
 
 
 <figure>
-<img class="kao-1x1-half" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-4-a.jpg" alt="Detail of bicycle seat covered with fabric" loading="lazy"/>
-<img class="kao-1x1-half" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-4-b.jpg" alt="Detail of bixi statue nose" loading="lazy"/>
+<img class="kao-1x1-half" src="https://images.zachmccabe.com/file/field-guide/field-guide-0-4-a.jpg" alt="Detail of bicycle seat covered with fabric" loading="lazy"/>
+<img class="kao-1x1-half" src="https://images.zachmccabe.com/file/field-guide/field-guide-0-4-b.jpg" alt="Detail of bixi statue nose" loading="lazy"/>
 </figure>
 
 
@@ -92,15 +92,15 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 
 <figure>
-<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-0-2-b.jpg" alt="Workers replastering red wall" loading="lazy" />
+<img class="kao-1x1-full" src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b.jpg" alt="Workers replastering red wall" loading="lazy" />
 </figure>
 
 <figure>
-<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-0.jpg" alt="Nighthawks nod in the financial district" loading="lazy" />
+<img class="kao-1x1-full" src="https://images.zachmccabe.com/file/field-guide/field-guide-2-0.jpg" alt="Nighthawks nod in the financial district" loading="lazy" />
 </figure>
 
 <figure>
-<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-1-4-b.jpg" alt="Architectural detail through tree branches" loading="lazy" />
+<img class="kao-1x1-full" src="https://images.zachmccabe.com/file/field-guide/field-guide-1-4-b.jpg" alt="Architectural detail through tree branches" loading="lazy" />
 </figure>
 
 
@@ -273,7 +273,7 @@ For the V2 field guide, I needed to step back and reorganize the book's structur
 
 
 <figure>
-<img class="kao-1x1-full" src="https://f002.backblazeb2.com/file/field-guide/field-guide-2-1-a.jpg" alt="Tower seen through willow branches" loading="lazy" />
+<img class="kao-1x1-full" src="https://images.zachmccabe.com/file/field-guide/field-guide-2-1-a.jpg" alt="Tower seen through willow branches" loading="lazy" />
 </figure>
 
 
@@ -330,7 +330,7 @@ I learned that information design, the flow and organization of ideas, is critic
 
 Internal, one-way links (e.g. A links to B but B does not link to A) were polarizing. One reader wanted more links, "make it like Wikipedia; link to everything". However, most feedback on these links were complaints from Readers who were very frustrated, "I clicked the link and now I want to go back to what I was reading before -- where is the back button?"
 
-This surprised me because these Readers were used to hopping between Mac and Windows at work, used their phones constantly and, generally, spent lots of time living online. One of my blindspots was not recognizing just how clunky these older versions of the Kindle app could be. Test Readers to the rescue!
+This surprised me because these Readers were used to hopping between Mac and Windows at work, used their phones constantly and, generally, spent lots of time living online. One of my blindspots was not recognizing just how clunky these older versions of the Kindle app could be. Readers to the rescue!
 
 Ebooks are flexible like a webpage. You can stretch the page to fit a small screen or a one that is big. You can swap fonts. And like a webpage, an ebook must be interpreted by a browser.
 
