@@ -17,10 +17,17 @@ nav: |
  
 ---
 
+
+
 <figure>
 <img class="kao-1x1-full" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20210515-0151-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg" alt="Milkweed and grasses in a field at dusk" loading="lazy" />
+srcset="https://images.zachmccabe.com/file/briars/briars-20210515-0151-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20210515-0151-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg" 
+alt="Milkweed and grasses in a field at dusk" 
+sizes="99vw" loading="lazy" />
 </figure>
 
 
@@ -33,11 +40,24 @@ Briars is 1 part diary, 1 part social publishing experiment.
 
 <figure>
 <img class="kao-1x1-half" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20181014-8128-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0896.jpg" alt="Monarch caterpillar on milkweed plant" loading="lazy" />
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg" 
+alt="Monarch caterpillar on milkweed plant" 
+sizes="48vw" loading="lazy" />
+
 <img class="kao-1x1-half" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20180611-4711-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg" alt="Milkweed plants in a field" loading="lazy" />
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
+alt="Milkweed plants in a field" 
+sizes="48vw" loading="lazy" />
 </figure>
 
 
@@ -57,8 +77,13 @@ Qi's crickets and cicadas were my favorite when I was a kid. His work was so dif
 
 <figure>
 <img class="kao-1x1-full" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20180814-6182-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20180814-6182-0896.jpg"
-src="https://images.zachmccabe.com/file/briars/briars-20180814-6182-0896.jpg" alt="Cicada climbing deeply fissured bark on a big Post Oak tree" loading="lazy" />
+srcset="https://images.zachmccabe.com/file/briars/briars-20180814-6182-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20180814-6182-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20180814-6182-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20180814-6182-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20180814-6182-0448.jpg" 
+alt="Cicada climbing deeply fissured bark on a big Post Oak tree" 
+sizes="99vw" loading="lazy" />
 </figure>
 
 
@@ -98,12 +123,25 @@ To learn more about the ecosystem processes happening in front of me I use field
 
 <figure>
 <img class="kao-1x1-half" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20200713-2169-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20200713-2169-0896.jpg"
-src="https://images.zachmccabe.com/file/briars/briars-20200713-2169-0896.jpg" alt="Samples of grass seed heads on a table waiting to be identified" loading="lazy" />
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20200713-2169-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2169-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2169-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2169-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20200713-2169-0448.jpg" 
+alt="Samples of grass seed heads on a table waiting to be identified" 
+sizes="48vw" loading="lazy" />
+
 <img class="kao-1x1-half" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20190502-0077-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-0896.jpg" 
-alt="Perennial rye grass in a field at dusk" loading="lazy" />
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-0448.jpg" 
+alt="Perennial rye grass in a field at dusk" 
+sizes="48vw" loading="lazy" />
+
 <figcaption>
 Left: Samples of grass seed heads on a table waiting to be identified. Right: Perennial rye grass in a field at dusk.
 </figcaption>
@@ -127,11 +165,17 @@ See this article at [A List Apart] for more on atomic units.
 
 
 <figure>
-<img class="kao-1x1-full"
-srcset="https://images.zachmccabe.com/file/briars/briars-obsidian-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-obsidian-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-obsidian-0896.jpg" alt="IPTC metadata tags graphed as a network" loading="lazy" />
+<img class="kao-1x1-full" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-obsidian-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-obsidian-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-obsidian-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-obsidian-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-obsidian-0448.jpg" 
+alt="IPTC metadata tags graphed as a network" 
+sizes="99vw" loading="lazy" />
 <figcaption>
-IPTC metadata tags graphed as a network. Since this project is already organized around plaintext files, I briefly  experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to print the metadata and captions from my photos. Call it a work in progress.
+IPTC metadata tags graphed as a network. Since this project is already organized using plaintext files, I briefly experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to capture and then print photo metadata and captions as markdown files.
 </figcaption>
 </figure>
 
@@ -180,9 +224,15 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 
 <figure>
-<img class="kao-1x1-full"
-srcset="https://images.zachmccabe.com/file/briars/briars-20201114-2610-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20201114-2610-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20201114-2610-0896.jpg" alt="Baby copperhead on oak leaf litter" loading="lazy" />
+<img class="kao-1x1-full" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20201114-2610-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20201114-2610-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20201114-2610-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20201114-2610-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20201114-2610-0448.jpg" 
+alt="Baby copperhead on oak leaf litter" 
+sizes="99vw" loading="lazy" />
 <figcaption>
 Baby copperhead. This viper is small enough to fit in the palm of my hand.
 </figcaption>
@@ -206,11 +256,25 @@ One useful thing about working with phones and compact cameras is that you don't
 
 <figure>
 <img class="kao-1x1-half" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20191024-2997-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20191024-2997-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20191024-2997-0896.jpg" alt="Oak leaf on rain-soaked car windshield" loading="lazy" />
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-1792.jpg 1796w, 
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20191024-2997-0448.jpg" 
+alt="Oak leaf on rain-soaked car windshield" 
+sizes="48vw" loading="lazy" />
+
 <img class="kao-1x1-half" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20200713-2159-1792.jpg 2x, https://images.zachmccabe.com/file/briars/briars-20200713-2159-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20200713-2159-0896.jpg" alt="Cameras I use for this project" loading="lazy" />
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20200713-2159-0448.jpg" 
+alt="Cameras I use for this project" 
+sizes="48vw" loading="lazy" />
+
 <figcaption>
 Left: Waiting out a storm in my car. Right: Cameras used for this project.
 </figcaption>
@@ -227,7 +291,11 @@ I also keep a collapsible reflector in my car but I've only used it once. Animal
 
 <figure>
 <img class="kao-1x1-full" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20180413-2547-1792.jpg 2x,
-https://images.zachmccabe.com/file/briars/briars-20180413-2547-0896.jpg" 
-src="https://images.zachmccabe.com/file/briars/briars-20180413-2547-0896.jpg" alt="Remnants of a storm over oak forest." loading="lazy" />
+srcset="https://images.zachmccabe.com/file/briars/briars-20180413-2547-1792.jpg 1796w, 
+https://images.zachmccabe.com/file/briars/briars-20180413-2547-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20180413-2547-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20180413-2547-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20180413-2547-0448.jpg" 
+alt="Remnants of a storm over oak forest." 
+sizes="99vw" loading="lazy" />
 </figure>
