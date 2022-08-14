@@ -1,3 +1,7 @@
 User-agent: *
 Disallow: /assets/
+Disallow: *.gif
+Disallow: *.GIF
+Disallow: *.jpg
+Disallow: *.JPG
 Sitemap: https://www.zachmccabe.com/sitemap.xml
