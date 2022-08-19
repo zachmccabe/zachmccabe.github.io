@@ -42,9 +42,9 @@ Briars is 1 part diary, 1 part social publishing experiment.
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-8128-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-8128-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-8128-0224.jpg 224w" 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0224.jpg 224w" 
 src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg" 
 alt="Monarch caterpillar on milkweed plant" 
 sizes="48vw" loading="lazy" />
