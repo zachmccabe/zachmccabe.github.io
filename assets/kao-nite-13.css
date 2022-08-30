@@ -196,6 +196,10 @@ li {
   margin-bottom: 0.5em;
 }
 
+li > ol, li > ul {
+margin-top: 0.55em;
+}
+
 table {
   border-collapse: collapse;
   margin: 5em 0;
