@@ -83,9 +83,13 @@ footer {
   padding: 1em 0.5em;
 }
 
+.kaoNAV li {
+line-height: 1.8;
+}
+
 .kaoNAV ul {
   list-style-type: none;
-  margin: 0;
+  margin: 1.5em 0 3em 0;
   padding: 0;
 }
 
@@ -183,13 +187,21 @@ background: currentColor;
 }
 
 ol {
-  margin: 1.5em 0 1.5em 1.2em;
+  margin: 0 0 0 1em;
+  padding-left: 0;
+}
+
+ol li {
   padding-left: 0;
 }
 
 ul {
-  margin: 1.5em 0 1.5em 0.5em;
+  margin: 0 0 0 0.5em;
   padding-left: 0;
+}
+
+ul li {
+  padding-left: 0.46em;
 }
 
 li {
@@ -197,7 +209,7 @@ li {
 }
 
 li > ol, li > ul {
-margin-top: 0.55em;
+  margin-top: 0.5em;
 }
 
 table {
