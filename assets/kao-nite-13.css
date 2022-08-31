@@ -85,13 +85,13 @@ footer {
 
 .kaoNAV ul {
   list-style-type: none;
-  margin: 1.5em 0 3em 0;
+  margin: 0 0 3em 0;
   padding: 0;
 }
 
 .kaoNAV li {
-  line-height: 1.8;
   padding-left: 0.5em;
+  padding-bottom: 0.9em;
 }
 
 .kaoQUOTE {
