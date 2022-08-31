@@ -81,7 +81,7 @@ Sony RX100-series cameras, for now. The on-camera JPG engine on these cameras is
 
 When possible, JPG straight-out-of-camera is my favorite workflow. It's faster. It takes up less disk space. It's simple. But it all depends on the hardware I'm using and the intended use of the pictures.
 
-/* More detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars. */
+/* More detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars. /*
 
 [RPP64 app]: https://www.raw-photo-processor.com
 
