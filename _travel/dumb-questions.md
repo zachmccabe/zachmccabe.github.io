@@ -74,6 +74,8 @@ Meanwhile, in NE Asia people don't read these situations that way:
 
 Wherever you're from, you can think of some exceptions to patterns like these. Nevertheless, there are patterns. The questions we ask each other are built on top of our cultural expectations about how somebody "should" communicate.
 
-What works so well in one community won't have the same appeal in "another place." The social signals for confident and trustworthy might be different here. You might come off as childish, incompetent or hard to work with.
+What works so well in one community won't have the same appeal in "another place." The social signals for "confident" or "trustworthy" might be different here. You might come off as childish, incompetent or hard to work with.
 
-In this triage context, I've learned that I will confuse myself by asking, "what signals am I sending?" It's more productive to ask, "what signals is this community scanning for?" Framing the question this way gives you options to choose the route forward. It's still a lot, I know. It doesn't need to be perfect. Navigate by dead-reckoning. Adjust your course when needed. You will get there.
+In this triage context, I've learned that I will confuse myself by asking, "what signals am I sending?" It's more productive to ask, "what signals are being scanned for?" Framing the question this way gives you options to choose a route forward.
+
+It's still a lot, I know. It doesn't need to be perfect. Navigate by dead-reckoning. Adjust your course when needed. You will get there.
