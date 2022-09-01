@@ -12,10 +12,11 @@ Before changing page title "Hi, it’s Zach", change the if statement in kaolian
 {%- endcomment -%}
 
 
-<svg role="img" style="margin: 3em 0;" version="1.1"
+<svg id="orb-pulse" role="img" style="margin: 3em 0;" version="1.1"
 xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink"
 xml:space="preserve" viewBox="0 0 720 405" preserveAspectRatio="xMidYMid">
+<title id="orb-pulseTitle">Orb pulses on and off among scattered orbs</title>
 <defs>
 <linearGradient id="Gradient1">
 <stop class="stop1" offset="30%" />
