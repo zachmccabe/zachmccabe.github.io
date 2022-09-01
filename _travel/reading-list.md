@@ -102,7 +102,7 @@ The ideas here pair well with Choudhury's book, which is at the top of this list
 
 Kahane's strategies aren't specific to cross-cultural scenarios. I found they adapt well to that context, though. To that end, the book's conclusion includes a structured series of exercises.
 
-The intention of this book reminds me a little of de Bono's decision-making book "Six Thinking Hats," or Burn's cognitive behavioral therapy classic, "Feeling Good." Kahane, however, deals with systemic poverty and guerrilla wars. He's worked as a conflict mediator and scenario planner for governments and NGOs around the world.
+The intention of this book reminds me a little of de Bono's decision-making book, "Six Thinking Hats," or Burn's cognitive behavioral therapy classic, "Feeling Good." Kahane, however, deals with systemic poverty and guerrilla wars. He's worked as a conflict mediator and scenario planner for governments and NGOs around the world.
 
 If you're in a hurry, start midway through: Chapter 5 is probably a good spot. Then flip back through earlier chapters when you need to fill in.
 
