@@ -30,7 +30,7 @@ Orgzly on Android.
 
 Pomodoro technique for screen-based stuff.
 
-Quick 10 minutes of sitting meditation, and a good hour of walking (more on this later; I find it challenging to write about).
+Quick 10 minutes of sitting meditation, and a good hour of walking.
 
 
 
@@ -47,7 +47,7 @@ Rclone does local sync, too.
 
 Syncthing on Android + Mac.
 
-Mobile is no place to manage picture metadata, I've found; field notes from trying various Andriod and iOS apps coming as soon-ish.
+\*Mobile is no place to manage picture metadata, I've found; field notes from trying various Andriod and iOS apps coming soon-ish.\*
 
 [ExifTool]: https://www.zachmccabe.com/tools/exiftool-notes
 
@@ -56,7 +56,7 @@ Mobile is no place to manage picture metadata, I've found; field notes from tryi
 
 ## Web and digital publishing
 
-Adobe CC, sometimes.
+Adobe CC.
 
 AP Stylebook in print and, finally, as an ebook, too :)
 
@@ -81,7 +81,7 @@ Sony RX100-series cameras, for now. The on-camera JPG engine on these cameras is
 
 When possible, JPG straight-out-of-camera is my favorite workflow. It's faster. It takes up less disk space. It's simple. But it all depends on the hardware I'm using and the intended use of the pictures.
 
-\* More detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars. \*
+\*More detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars.\*
 
 [RPP64 app]: https://www.raw-photo-processor.com
 
