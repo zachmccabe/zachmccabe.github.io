@@ -32,9 +32,9 @@ sizes="99vw" loading="lazy" />
 
 
 
-Call it meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
-
 Briars is 1 part diary, 1 part social publishing experiment.
+
+Call it meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
 
 
