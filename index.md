@@ -60,7 +60,7 @@ xml:space="preserve" viewBox="0 0 720 405" preserveAspectRatio="xMidYMid">
 
 
 
-I'm interested in cross-cultural communication. You can use this website to explore some of my on-going projects.
+I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects.
 
 + Right now, I'm [Laughing Lost in Briars.]
 + Read [this FAQ] on why I'm giving away my [Beijing book] for free.
