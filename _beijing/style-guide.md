@@ -56,11 +56,17 @@ Pinyin romanization is always used. Do not include tone marks.
 
 Chinese characters should follow the pinyin the first time a word or phrase is used. Chinese characters should be included in the location index, too. Use elsewhere as needed.
 
-Chinese punctuation should be used for titles, dialogue and quotation. Again, this isn't for the reader as much as it is for native speakers who the reader might consult, like a concierge or a fixer. Also see: [chunkify] and [lang,] both below.  
-
-[chunkify]: https://www.zachmccabe.com/beijing/bts/style-guide.html#chunkify
+Chinese punctuation should be used for titles, dialogue and quotation. Again, this isn't for the reader as much as it is for native speakers who the reader might consult, like a concierge or a fixer. Also see: [lang,] and Chunkify, which is directly below.  
 
 [lang,]: https://www.zachmccabe.com/beijing/bts/style-guide.html#lang
+
+
+
+### Chunkify
+
+Make the book easy to scan. See #2 and #3 under [10 Assumptions.]
+
+Use headers, short paragraphs, blockquote and bold text to help chunkify information. This is important for human readers, and also so that screen readers and reading apps can parse your text.
 
 
 
@@ -121,11 +127,7 @@ Citations in the ebook, like the rest of this website, use a bastardized variant
 
 ## Styling code
 
-### Chunkify
-
-Make the book easy to scan. See #2 and #3 under [10 Assumptions.]
-
-Use headers, short paragraphs, blockquote and bold text to help chunkify information. This is important for human readers, and also so that screen readers and reading apps can parse your text.
+### Aside
 
 Be careful with `<aside>` because iBooks is idiosyncratic about displaying contents wrapped in this tag. For more, see Apple's [Apple Books asset guide.]
 
