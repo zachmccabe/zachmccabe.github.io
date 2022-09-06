@@ -47,7 +47,7 @@ Rclone does local sync, too.
 
 Syncthing on Android + Mac.
 
-\* Mobile is no place to manage picture metadata, I've found; field notes from trying various Andriod and iOS apps coming soon-ish. \*
+\* Mobile is no place to manage picture metadata, I've found; field notes from trying various Andriod and iOS apps coming soon-ish.
 
 [ExifTool]: https://www.zachmccabe.com/tools/exiftool-notes
 
@@ -55,7 +55,7 @@ Syncthing on Android + Mac.
 
 ## Web and ebook design
 
-Adobe CC, when the project calls for it.
+Adobe CC for collaborative projects.
 
 AP Stylebook in print and, finally, as an ebook, too :)
 
@@ -67,9 +67,9 @@ ImageOptim is better than anything else I've tried at optimizing JPG and PNG fil
 
 Mac mini + floor desk + pandemic fern, now well-shaggy.
 
-BTW this [colophon] details the process, and tools, I used to build The Photographers Field Guide to Beijing.
+\* More details on the process, and tools, I used to build The Photographers Field Guide to Beijing are included in this [colophon.]
 
-[colophon]: https://www.zachmccabe.com/beijing/bts/colophon
+[colophon.]: https://www.zachmccabe.com/beijing/bts/colophon
 
 
 
@@ -83,7 +83,7 @@ Sony RX100-series cameras, for now. The on-camera JPG engine on these cameras is
 
 When possible, JPG straight-out-of-camera is my favorite workflow. It's faster. It takes up less disk space. It's simple. But it all depends on the hardware I'm using and the intended use of the pictures.
 
-BTW more detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars.
+\* More detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars.
 
 [RPP64 app]: https://www.raw-photo-processor.com
 
