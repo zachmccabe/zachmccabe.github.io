@@ -9,7 +9,7 @@ lede: print
 nav: |
   + [Time and mind management](https://www.zachmccabe.com/tools/#time-and-mind-management) 
   + [Digital asset management](https://www.zachmccabe.com/tools/#digital-asset-management)
-  + [Web and digital publishing](https://www.zachmccabe.com/tools/#web-and-digital-publishing)
+  + [Web and ebook design](https://www.zachmccabe.com/tools/#web-and-ebook-design)
   + [Photo](https://www.zachmccabe.com/tools/#photo)
   + [Work and play outside](https://www.zachmccabe.com/tools/#work-and-play-outside)
   + [Longevity](https://www.zachmccabe.com/tools/#longevity)
@@ -26,11 +26,11 @@ nav: |
 
 Nix notifications, thx.
 
-Orgzly on Android.
+Orgzly and Markor on Android.
 
 Pomodoro technique for screen-based stuff.
 
-Quick 10 minutes of sitting meditation, and a good hour of walking.
+Quick 10 minutes of sitting meditation, and a good hour of walking. Every day :)
 
 
 
@@ -47,16 +47,15 @@ Rclone does local sync, too.
 
 Syncthing on Android + Mac.
 
-\*Mobile is no place to manage picture metadata, I've found; field notes from trying various Andriod and iOS apps coming soon-ish.\*
+\* Mobile is no place to manage picture metadata, I've found; field notes from trying various Andriod and iOS apps coming soon-ish. \*
 
 [ExifTool]: https://www.zachmccabe.com/tools/exiftool-notes
 
 
 
+## Web and ebook design
 
-## Web and digital publishing
-
-Adobe CC.
+Adobe CC, when the project calls for it.
 
 AP Stylebook in print and, finally, as an ebook, too :)
 
@@ -68,6 +67,9 @@ ImageOptim is better than anything else I've tried at optimizing JPG and PNG fil
 
 Mac mini + floor desk + pandemic fern, now well-shaggy.
 
+BTW this [colophon] details the process, and tools, I used to build The Photographers Field Guide to Beijing.
+
+[colophon]: https://www.zachmccabe.com/beijing/bts/colophon
 
 
 
@@ -81,7 +83,7 @@ Sony RX100-series cameras, for now. The on-camera JPG engine on these cameras is
 
 When possible, JPG straight-out-of-camera is my favorite workflow. It's faster. It takes up less disk space. It's simple. But it all depends on the hardware I'm using and the intended use of the pictures.
 
-\*More detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars.\*
+BTW more detail on one of my [photo workflows] is included in the project notes I wrote up for Laughing Lost in Briars.
 
 [RPP64 app]: https://www.raw-photo-processor.com
 
