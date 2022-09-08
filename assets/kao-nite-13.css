@@ -26,13 +26,13 @@ header {
 }
 
 main {
-  min-height: calc(100vh - 22em);
+  min-height: calc(100vh - 18em);
 }
 
 footer {
   font-size: 90%;
   margin: 0 auto;
-  padding: 5em 0 0;
+  padding: 0;
   text-align: center;
 }
 
