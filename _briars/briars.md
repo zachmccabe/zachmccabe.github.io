@@ -38,7 +38,7 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
@@ -121,7 +121,7 @@ To learn more about the ecosystem processes happening in front of me I use field
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20200713-2169-1792.jpg 1792w, 
@@ -164,7 +164,7 @@ See this article at [A List Apart] for more on atomic units.
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-obsidian-1792.jpg 1792w, 
@@ -223,7 +223,7 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20201114-2610-1792.jpg 1792w, 
@@ -254,7 +254,7 @@ One useful thing about working with phones and compact cameras is that you don't
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20191024-2997-1792.jpg 1796w, 
