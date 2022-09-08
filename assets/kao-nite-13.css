@@ -25,6 +25,10 @@ header {
   margin: 0 0 2em;
 }
 
+main {
+  min-height: calc(100vh - 22em);
+}
+
 footer {
   font-size: 90%;
   margin: 0 auto;
@@ -167,24 +171,24 @@ img[src$=".jpg"]{
 }
 
 .kao-1x1-full {
-width: 100%;
-max-width: 1728px;
-aspect-ratio: 1 / 1;
-background: currentColor;
+  width: 100%;
+  max-width: 1728px;
+  aspect-ratio: 1 / 1;
+  background: currentColor;
 }
 
 .kao-1x1-half {
-width: 48%;
-max-width: 1728px;
-aspect-ratio: 1 / 1;
-background: currentColor;
+  width: 48%;
+  max-width: 1728px;
+  aspect-ratio: 1 / 1;
+  background: currentColor;
 }
 
 .kao-1x1-third {
-width: 31%;
-max-width: 1728px;
-aspect-ratio: 1 / 1;
-background: currentColor;
+  width: 31%;
+  max-width: 1728px;
+  aspect-ratio: 1 / 1;
+  background: currentColor;
 }
 
 ol {
