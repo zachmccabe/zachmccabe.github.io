@@ -4,8 +4,7 @@ layout: kaoliang_nite_3
 title: Just a test
 date: 2020-07-10
 description: "Just a test."
-lede: print
-lede-img: |
+lede_img: |
   <figure class="kaoLEDE">
   <img class="kao-1x1-full"
   srcset="
