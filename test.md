@@ -8,13 +8,15 @@ lede: print
 lede-img: |
   <figure class="kaoLEDE">
   <img class="kao-1x1-full"
-  srcset="clippy-waz-herefile/briars/briars-20210515-0151-1792.jpg 1792w, 
-  clippy-waz-herefile/briars/briars-20210515-0151-0896.jpg 896w, 
-  clippy-waz-herefile/briars/briars-20210515-0151-0448.jpg 448w, 
-  clippy-waz-herefile/briars/briars-20210515-0151-0224.jpg 224w"
-  src="clippy-waz-herefile/briars/briars-20210515-0151-0448.jpg"
+  srcset="
+  https://images.zachmccabe.com/file/briars/briars-20210515-0151-1792.jpg 1792w, 
+  https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg 896w, 
+  https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg 448w, 
+  https://images.zachmccabe.com/file/briars/briars-20210515-0151-0224.jpg 224w"
+  src="https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg"
   alt="Milkweed and grasses in a field at dusk" sizes="99vw" loading="lazy" />
   </figure>
+
 
 ---
 
