@@ -2,7 +2,7 @@
 layout: kaoliang_nite_3
 title: "Hi, it’s Zach"
 date: 2022-04-19
-description: "I'm interested in cross-cultural communication. You can use this website to explore some of my on-going projects."
+description: "I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects."
 
 ---
 
@@ -11,8 +11,11 @@ description: "I'm interested in cross-cultural communication. You can use this w
 Before changing page title "Hi, it’s Zach", change the if statement in kaoliang_nite_3 template. 
 {%- endcomment -%}
 
+I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects.
 
-<svg id="orb-pulse" role="img" style="margin: 3em 0;" version="1.1"
+
+
+<svg id="orb-pulse" role="img" style="margin: 0 0 3em;" version="1.1"
 xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink"
 xml:space="preserve" viewBox="0 0 720 405" preserveAspectRatio="xMidYMid">
@@ -59,8 +62,6 @@ xml:space="preserve" viewBox="0 0 720 405" preserveAspectRatio="xMidYMid">
 </svg>
 
 
-
-I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects.
 
 + Right now, I'm [Laughing Lost in Briars.]
 + Read [this FAQ] on why I'm giving away my [Beijing book] for free.
