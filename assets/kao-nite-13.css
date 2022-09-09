@@ -81,11 +81,6 @@ footer {
   padding: 1em 0.5em;
 }
 
-.kaoGRID {
-display: inline-flex;
-justify-content: space-between;
-}
-
 .kaoNAV {
   background: linear-gradient(145deg, rgba(38,139,210,0.3) 0%,  rgba(255,255,255,0) 100%);
   margin: 3rem auto 5rem;
@@ -171,6 +166,11 @@ figcaption {
   padding: 0;
   text-align: left;
   width: 100%;
+}
+
+.kaoGRID figure {
+  display: inline-flex;
+  justify-content: space-between;
 }
 
 .kaoLEDE figure {
@@ -404,7 +404,7 @@ https://codepen.io/2kool2/pen/edgmmr
 /* This example begins from 320px | 20em  to  30px @ 1920px */
 @media (min-width: 20em) {
   :root {
-    /* font-size: calc(1rem + ((1vw - .2em) / 1.37142857)); */
+    font-size: calc(1rem + ((1vw - .2em) / 1.37142857));
   }
 }
 
