@@ -20,7 +20,7 @@ nav: |
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-third" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0896.jpg 896w,
@@ -96,7 +96,7 @@ From research, to draft and design, to marketing and shipping the final product,
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-4-a-0896.jpg 896w,
@@ -135,7 +135,7 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 
 
-<figure>
+<figure class="kaoGRID">
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w,
