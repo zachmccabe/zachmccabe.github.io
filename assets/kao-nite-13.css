@@ -395,3 +395,35 @@ ul + h2, ul + h3, ul + h4 {
   color: #ccc;
     }
 }
+
+/* 
+ * The following responsive typography queries 
+ * via Mike Foskett. Calculator here:
+ *   https://websemantics.uk/tools/responsive-font-calculator/
+ * And on CodePen here:
+ *   https://codepen.io/2kool2/pen/edgmmr
+ * 🙏
+*/
+
+/* This example begins from 320px | 20em  to  30px @ 1920px */
+@media (min-width: 20em) {
+  :root {
+    font-size: calc(1rem + ((1vw - .2em) / 1.37142857));
+  }
+}
+
+/* 1rem(16px) @ 48em(768px) increasing to 2rem(32px) @ 120em(1920px) */
+@media (min-width: 48em) {
+  :root {
+    font-size: calc(1rem + ((1vw - 0.48rem) * 1.3889));
+    /* Where: * 1.3889 = 100 * font_Size_Difference / viewport_Width_Difference */
+  }
+}
+
+/* Prevent font scaling beyond this breakpoint */
+@media (min-width: 120em) {
+  :root {
+    font-size: 2em;
+    /* Setting font-size to a fixed value */
+  }
+}
