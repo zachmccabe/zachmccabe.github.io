@@ -19,7 +19,7 @@ I'm interested in visual communication, and cross-cultural communication. You ca
 xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink"
 xml:space="preserve" viewBox="0 0 720 405" preserveAspectRatio="xMidYMid">
-<title id="orb-pulseTitle">Orb pulses on and off among scattered orbs</title>
+<title id="orb-pulseTitle">Scattered orbs, with a single orb pulsing on and off</title>
 <defs>
 <linearGradient id="Gradient1">
 <stop class="stop1" offset="30%" />
@@ -38,16 +38,16 @@ xml:space="preserve" viewBox="0 0 720 405" preserveAspectRatio="xMidYMid">
 .dot1 { fill: url(#Gradient1); }
 .dot2 { fill: url(#Gradient2); }
 .dot3 { fill: url(#Gradient3); }
-.stop1 { stop-color: currentColor; stop-opacity: 1; }
-.stop2 { stop-color: currentColor; stop-opacity: 0.7; }
-.stop3 { stop-color: #268bd2; stop-opacity: 1; }
-.stop4 { stop-color: #268bd2; stop-opacity: 0.3; }
-.stop5 { stop-color: #268bd2; stop-opacity: 1; }
-.stop6 { stop-color: #268bd2; stop-opacity: 0.3; } 
+.stop1 { stop-color: currentColor; stop-opacity: 0.85; }
+.stop2 { stop-color: currentColor; stop-opacity: 0.5; }
+.stop3 { stop-color: currentColor; stop-opacity: 0.66; }
+.stop4 { stop-color: currentColor; stop-opacity: 0.3; }
+.stop5 { stop-color: currentColor; stop-opacity: 1; }
+.stop6 { stop-color: currentColor; stop-opacity: 0.3; } 
 ]]></style>
 </defs>
 <rect id="rect1" opacity="0" width="720" height="405"/>
-<circle class="dot1" cx="50" cy="80" r="5" />
+<circle class="dot1" cx="50" cy="80" r="5" opacity="0.5" />
 <circle class="dot1" cx="100" cy="190" r="5" />
 <circle class="dot1" cx="170" cy="160" r="7" />
 <circle class="dot1" cx="130" cy="250" r="18" />
@@ -56,23 +56,24 @@ xml:space="preserve" viewBox="0 0 720 405" preserveAspectRatio="xMidYMid">
 <circle class="dot1" cx="210" cy="330" r="3" />
 <circle class="dot2" cx="320" cy="120" r="7" />
 <circle class="dot2" cx="690" cy="310" r="12" />
-<circle class="dot3" opacity="0.8" cx="100" cy="310" r="5">
-<animate attributeName="opacity" values="0.1;0.5;0.8;0.3;0.1" begin="0s" dur="8s" repeatCount="indefinite" />
+<circle class="dot3" cx="100" cy="310" r="5" opacity="0.8">
+<animate attributeName="opacity" values="0.1;0.8;0.9;1;0.7;0.18;0.1" begin="0s" dur="9s" repeatCount="indefinite" />
 </circle>
 </svg>
 
 
 
 + Right now, I'm [Laughing Lost in Briars.]
-+ Read [this FAQ] on why I'm giving away my [Beijing book] for free.
++ I'm giving away my Beijing [book] for free, and explain why in [this FAQ.]
 + Rather talk shop? Here are my [travel notes] and [tools.]
+
 
 
 [Laughing Lost in Briars.]: https://www.zachmccabe.com/briars
 
-[this FAQ]: https://www.zachmccabe.com/beijing/faq#why-is-this-book-free
+[book]: https://www.zachmccabe.com/beijing
 
-[Beijing book]: https://www.zachmccabe.com/beijing
+[this FAQ.]: https://www.zachmccabe.com/beijing/faq#why-is-this-book-free
 
 [travel notes]: https://www.zachmccabe.com/travel
 
