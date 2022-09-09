@@ -22,7 +22,7 @@
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <div class="{%- if page.nest == "20" -%}xnest20{%- else -%}xnest28{%- endif -%}">
-{%- if page.lede_img -%}{%- include page.lede_img -%}{%- endif -%}
+{%- if page.testlede -%}{%- include page.testlede -%}{%- endif -%}
 {%- if page.collection -%}<p style="margin-top:2em;"><nav class="breadcrumbs">{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
 <main>
 {%- if page.lede == "print" -%}<p>{%- include print_update.html -%}&nbsp;•&nbsp;{{ page.description }}</p>{%- endif -%}
