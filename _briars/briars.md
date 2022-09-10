@@ -18,7 +18,6 @@ nav: |
 ---
 
 
-
 <figure>
 <img class="kao-1x1-full" 
 srcset="https://images.zachmccabe.com/file/briars/briars-20210515-0151-1792.jpg 1792w, 
@@ -32,7 +31,7 @@ sizes="99vw" loading="lazy" />
 
 
 
-Briars is 1 part diary, 1 part social publishing experiment.
+Briars is 1 part nature journal, 1 part social publishing experiment.
 
 Call it meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
