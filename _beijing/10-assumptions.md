@@ -1,7 +1,7 @@
 ---
 permalink: /beijing/bts/10-assumptions
 robots: norobots
-layout: kaoliang_nite_3
+layout: kaoliang_midnite_3
 title: 10 Assumptions
 date: 2018-04-05
 description: "I made some assumptions when I wrote my book. Here are a few them."
