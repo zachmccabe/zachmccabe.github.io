@@ -238,6 +238,7 @@ ul li {
 
 li {
   margin-bottom: 0.5em;
+  max-width: 56ch;
 }
 
 li > ol, li > ul {
