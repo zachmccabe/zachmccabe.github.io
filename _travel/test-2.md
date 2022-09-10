@@ -58,7 +58,7 @@ With the 2x2 Eisenhower matrix, it's critical to give extra attention to things 
 https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
 https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
 https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="99%" loading="lazy" />
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="99vw" loading="lazy" />
 <figcaption><p>For Briars, like with any story, nonfiction is defined by how you interact with your subject and your audience.</p>
 <p>The audience for this project started with friends in China. We grew up in some of the world’s biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends’ curiosity, and my own.</p>
 </figcaption>
@@ -70,7 +70,7 @@ https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" sr
 https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
 https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
 https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="48%" loading="lazy" />
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="48vw" loading="lazy" />
 
 <img class="kao-1x1-half" srcset="
 https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
