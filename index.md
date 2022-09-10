@@ -1,7 +1,7 @@
 ---
 layout: kao_midnite_3
 title: "Hi, it’s Zach"
-date: 2022-04-19
+date: 2022-09-10
 description: "I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects."
 
 ---
@@ -15,7 +15,7 @@ I'm interested in visual communication, and cross-cultural communication. You ca
 
 Right now, I'm [Laughing Lost in Briars.]
 
-I'm giving away my Beijing [book] for free, and explain why in [this FAQ.]
+And my Beijing [book] is now free. Read why in [this FAQ.]
 
 Rather talk shop? Here are my [travel notes] and [tools.]
 
