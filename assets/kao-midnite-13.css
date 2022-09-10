@@ -219,6 +219,7 @@ img[src$=".jpg"]{
 ol {
   margin: 0 0 0 1em;
   padding-left: 0;
+  width: auto;
 }
 
 ol li {
@@ -228,6 +229,7 @@ ol li {
 ul {
   margin: 0 0 0 0.5em;
   padding-left: 0;
+  width: auto;
 }
 
 ul li {
