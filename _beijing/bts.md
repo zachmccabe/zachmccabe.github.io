@@ -1,7 +1,7 @@
 ---
 permalink: /beijing/bts/
 robots: norobots
-layout: kaoliang_nite_3
+layout: kaoliang_midnite_3
 title: BTS
 date: 2020-07-03
 description: Behind the scenes with the Photographers Field Guide to Beijing
