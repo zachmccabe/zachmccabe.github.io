@@ -1,7 +1,7 @@
 ---
 robots: norobots
 permalink: /travel/
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: Travel notes
 date: 2022-01-09
 description: "Stuff I'm writing for friends and for myself."
