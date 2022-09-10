@@ -1,6 +1,6 @@
 ---
 robots: norobots
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: Far away and asking dumb questions
 date: 2019-04-04
 update: 2022-05-15
