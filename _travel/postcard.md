@@ -1,6 +1,6 @@
 ---
 robots: norobots
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: Postcard
 date: 2020-07-10
 description: "Postcards to my younger self in 140 characters or less."
