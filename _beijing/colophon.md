@@ -1,7 +1,7 @@
 ---
 permalink: /beijing/bts/colophon
 robots: norobots
-layout: kaoliang_midnite_3
+layout: kao_midnite_3
 date: 2020-01-30
 title: Making the field guide
 description: "How and why I built this digital book the way I did."
