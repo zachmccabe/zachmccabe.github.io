@@ -53,6 +53,61 @@ I like to visualize this with the Eisenhower urgent-important matrix. Sometimes 
 With the 2x2 Eisenhower matrix, it's critical to give extra attention to things that are important but not urgent (element 2). Important things are easy to put off when there is something urgent to do. And there is always something urgent to do. It's the same for things that are important but not nearby (element 4). I also find that things in this antipodean element need more time than I expect, which multiplies the risk of under-prioritizing if I'm not paying attention.
 
 
+<figure class="kaoGRID">
+<img class="kao-1x1-full" srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="99%" loading="lazy" />
+<figcaption><p>For Briars, like with any story, nonfiction is defined by how you interact with your subject and your audience.</p>
+<p>The audience for this project started with friends in China. We grew up in some of the world’s biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends’ curiosity, and my own.</p>
+</figcaption>
+</figure>
+
+
+<figure class="kaoGRID">
+<img class="kao-1x1-half" srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="48%" loading="lazy" />
+
+<img class="kao-1x1-half" srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="48%" loading="lazy" />
+
+<figcaption>
+<p>
+Left: Samples of grass seed heads on a table waiting to be identified. Right: Perennial rye grass in a field at dusk.</p></figcaption></figure>
+
+
+
+<figure class="kaoGRID">
+<img class="kao-1x1-third"  srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="31%" loading="lazy" />
+
+<img class="kao-1x1-third"  srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="31%" loading="lazy" />
+
+<img class="kao-1x1-third"  srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 224w" src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg" alt="Baby copperhead on oak leaf litter" sizes="31%" loading="lazy" />
+<figcaption>
+Baby copperhead. This viper is small enough to fit in the palm of my hand.
+</figcaption>
+</figure>
+
+
 
 ## Mars Time
 
