@@ -1,7 +1,7 @@
 ---
 permalink: /briars/
 robots: norobots
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: Laughing Lost in Briars
 date: 2021-03-18
 update: 2022-08-02
