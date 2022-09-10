@@ -1,7 +1,7 @@
 ---
 redirect: https://www.zachmccabe.com/travel/postcard
 robots: norobots
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: Postcard
 date: 2022-01-15
 
