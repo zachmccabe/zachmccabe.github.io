@@ -1,5 +1,5 @@
 ---
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: License and copyright
 date: 2020-06-18
 description: Info on using content from this website
