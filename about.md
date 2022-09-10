@@ -1,6 +1,6 @@
 ---
 snippet: nosnippet
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: About 
 date: 2022-05-23
 description: "Author and producer of The Photographers Field Guide to Beijing"
