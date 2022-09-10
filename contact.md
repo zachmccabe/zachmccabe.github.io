@@ -1,6 +1,6 @@
 ---
 snippet: nosnippet
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: Contact
 date: 2022-09-04
 description: "My email is open. Say hi!"
