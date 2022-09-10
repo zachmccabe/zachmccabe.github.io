@@ -1,6 +1,6 @@
 ---
 robots: norobots
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: Reading list
 date: 2021-12-05
 description: "Some of my favorite reads on cross-cultural communication. Biased towards the practical."
