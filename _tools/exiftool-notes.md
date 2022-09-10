@@ -1,6 +1,6 @@
 ---
 robots: norobots
-layout: kaoliang_nite_3
+layout: kao_midnite_3
 title: ExifTool notes
 date: 2022-05-20
 description: "Snippets I use and notes on what I'm learning about image metadata."
