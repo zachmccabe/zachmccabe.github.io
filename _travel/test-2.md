@@ -94,27 +94,27 @@ I remember to text my girlfriend, after she leaves work work and before bed: UTC
 
 So far, I've been assuming there is a signal. There is not always a signal. Make a backup plan. Lucky you if your contact is the sort of person who is helpful troubleshooting these situations. Definitely involve that person in the planning process:
 
-- Let's pick an extra option for our call on \[date, time\]. \[Preferred VOIP app\] is glitchy in \[location\] because of censorship. Any ideas for a fallback plan?
+"Let's pick an extra option for our call on \[date, time\]. \[Preferred VOIP app\] is glitchy in \[location\] because of censorship. Any ideas for a fallback plan?"
 
 You might end up needing to coordinate a call with someone who isn't good at this part. Talking through your plan in advance is even more important with these folks. It's best to visualize a few likely scenarios by yourself, and then share your plan. I try to do this in a way that doesn't require much effort on their end but still gives them a clear picture of any likely challenges. Maybe something like:
 
-- In addition to our usual WhatsApp chat, you can reach me at \[travel @ email\]. The timezone in \[location\] is \[N hours behind\]. Can I call you on \[date\] at \[time\] your time?
-
-- In my experience, the signal between \[location A\] and \[location B\] isn't reliable. I will text you from \[local number\] at \[time\] to check in beforehand. Just in case the bandwidth for a call doesn't hold up, let's try when I get to \[location C\] on \[date\]. Will that work for you?
+"In addition to our usual WhatsApp chat, you can reach me at \[travel @ email\]. The timezone in \[location\] is \[N hours behind\]. Can I call you on \[date\] at \[time\] your time?"
+ 
+"In my experience, the signal between \[location A\] and \[location B\] isn't reliable. I will text you from \[local number\] at \[time\] to check in beforehand. Just in case the bandwidth for a call doesn't hold up, let's try when I get to \[location C\] on \[date\]. Will that work for you?"
 
 Really, it's not the logistics that wear me out. Social signaling can take a lot of effort. You are attempting to be in 2 places at the same time. It can be hard to know what to say. Lately, I've been trying to use cues, tiny scripts, to keep the conversation on track.
 
 The "vibe check" is one I've been using a lot. If something wild is happening, like a natural disaster or manmade fuckery, I will just address it right away:
 
-- Hi. Just checking in. Heard about the \[disaster\] in \[place\]. What's the vibe in your neighborhood?
+"Hi. Just checking in. Heard about the \[disaster\] in \[place\]. What's the vibe in your neighborhood?"
 
 This script helps me get a better idea of the other person's state of mind, and the environment around them. The idea is to intentionally, but gently, solicit all that background info you need before the start of a conversation.  Hopefully, I can do this without being annoying:
 
-- I know you're busy dealing with \[disaster\]. Would it be better to talk about \[work topic\] another day?
+"I know you're busy dealing with \[disaster\]. Would it be better to talk about \[work topic\] another day?"
 
 Be sensitive to the emotional payload. If my contact is in a stressful situation, they might start to vent at this point. Let it play out so that you don't accidentally trivialize what the person is experiencing. Sometimes, I need to discreetly set the phone down while they're mid-rant and take a few deep breaths. That's okay. Other times, people would rather focus on something else. That's okay, too:
 
-- You want me to talk for awhile?
+"You want me to talk for awhile?"
 
 Try to minimize your own stress. Monitor your own tone of voice. A classic tactic is to count to 3 before you start talking.  This isn't easy, I know. And the number of times I have failed to do this adds up to a lot more than 3.
 
@@ -124,11 +124,11 @@ You can guess your way through a story. What about a booking code or surname? Us
 
 The "why-first" script is another favorite. First, I'll explain the intention, my why. Then, I'll make my request or pass along some piece of information.
 
-- Just wanted to update you. I'm at \[airport 1\] and expect to arrive at \[airport 2\] by \[date\] + \[time\] + \[timezone\].
+"Just wanted to update you. I'm at \[airport 1\] and expect to arrive at \[airport 2\] by \[date\] + \[time\] + \[timezone\]."
 
-- Let's be sure I get you what you need. \[Rephrasing client's instructions\]. Is that right?
+"Let's be sure I get you what you need. \[Rephrasing client's instructions\]. Is that right?"
 
-- Sorry, I don't understand. My \[2nd language\] isn't as good as I'd like. Will you explain \[confusing phrase\] again?
+"Sorry, I don't understand. My \[2nd language\] isn't as good as I'd like. Will you explain \[confusing phrase\] again?"
 
 People are busy with their own lives. Confusion can creep into the conversation when people have different expectations -- like when day for me is literally night for you. Front-load the rationale for what you're about to say, and you can mitigate some of that.
 
