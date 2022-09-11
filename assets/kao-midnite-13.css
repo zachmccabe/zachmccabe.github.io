@@ -275,7 +275,7 @@ table {
 }
 
 th, tr, td {
-  font-size: var(--fs-083);
+  font-size: var(--fs-070);
   text-align: left;
   color: currentColor;
   font-weight: normal;
