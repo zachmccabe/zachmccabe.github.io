@@ -16,7 +16,7 @@ This book is written for photographers on the road. Use your favorite ebook app 
 <div style="padding-top:3rem;padding-bottom:3rem">
 
 <img style="width: 26.651%;max-width: 293px;"
-src="https://www.zachmccabe.com/assets/viz/book-1-0586-0938.jpg"alt="Book cover from The Photographers Field Guide to Beijing showing a silhouette of the city's old Drum Tower" loading="lazy" />
+src="https://www.zachmccabe.com/assets/viz/book-1-0586-0938.jpg" alt="Book cover from The Photographers Field Guide to Beijing showing a silhouette of the city's old Drum Tower" loading="lazy" />
 
 <img style="width: 20%;max-width: 220px;"
 src="https://www.zachmccabe.com/assets/viz/book-2-0440-0938.jpg" alt="Screenshot from The Photographers Field Guide to Beijing, and the section called Chinese New Year" loading="lazy" />
