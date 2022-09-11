@@ -15,7 +15,7 @@ I'm interested in visual communication, and cross-cultural communication. You ca
 
 Right now, I'm [Laughing Lost in Briars.]
 
-And my Beijing [book] is now free. Read why in [this FAQ.]
+My Beijing [book] is now free. Details in [this FAQ.]
 
 Rather talk shop? Here are my [travel notes] and [tools.]
 
