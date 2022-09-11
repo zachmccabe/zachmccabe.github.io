@@ -12,7 +12,6 @@ lede: print
 Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn.
 
 
-
 ## Am I a propagandist?
 
 Choose your partners well. Photographers work for NGOs because they share a common vision. Nobody thinks you here for the money.
