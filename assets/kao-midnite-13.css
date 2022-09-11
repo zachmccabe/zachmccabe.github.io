@@ -35,7 +35,6 @@ header, footer {
 
 header {
   max-width: 70ch;
-  padding-bottom: 1.6rem
 }
 
 main {
@@ -145,6 +144,7 @@ figure + h2, figure + h3, figure + h4 {
   margin-top: 5rem;
 }
 
+/*
 figure img {
   margin: 0;
   padding: 0;
@@ -164,6 +164,7 @@ figure p {
 figure + p {
   margin-top: 3rem;
 }
+*/
 
 figcaption {
   color: currentColor;
@@ -172,27 +173,8 @@ figcaption {
   padding: 0;
   text-align: left;
   width: 100%;
+  max-width: 40rem;
 }
-
-.kaoGRID figure {
-  display: inline-flex;
-  justify-content: space-between;
-}
-
-.kaoLEDE figure {
-  margin: 0 auto 3rem;
-}
-
-.kaoINLINE figure {
-  margin: 1rem auto;
-}
-
-/*
-img {
-  width: 100%;
-  height: auto;
-}
-*/
 
 img[src$=".jpg"]{
   background: currentColor;
@@ -350,10 +332,6 @@ h4 {
   font-size: var(--fs-100);
 }
 
-.lede {
-  font-size: var(--fs-100);
-}
-
 mark {
   background-color: rgba(255,255,255,0);
   border-bottom: 0.1rem dotted currentColor;
@@ -370,9 +348,11 @@ p {
 }
 */
 
+/*
 p + figure {
   margin-top: 3rem;
 }
+*/
 
 footer p {
   font-size: var(--fs-070);
