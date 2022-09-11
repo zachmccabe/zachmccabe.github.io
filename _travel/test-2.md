@@ -22,6 +22,28 @@ Use a mnemonic. Give your self a GPS reference point, a north star, a southern c
 
 I've got a friend who always keeps his Seiko wristwatch set to UTC -8. It doesn't matter if he's in his hometown (UTC +9). He doesn't adjust it to local time when he's in the city where he feels most at home (UTC +2). Once, in the tiny town (UTC -5) where he and I went to college, I asked him: Why? He keeps it set to the timezone where his parents live. It helps him remember to call his mom.
 
+<div markdown="1">
+
+*Is this markdown?*
+
+</div>
+
+<div markdown="1">
+*And is this markdown?*
+</div>
+
+<div style="color:green" markdown="1">
+*Last Q, is this still markdown?*
+
+1. Easy
+2. As
+3. One two three
+
+Did it work?
+</div>
+
+
+
 It's easy to give your attention to the people and places around you. That physical proximity makes them impossible to ignore. When important relationships do not have the luxury of proximity, it helps to have that reminder.
 
 I like to visualize this with the Eisenhower urgent-important matrix. Sometimes I like to add an extra row: urgent-important-nearby.
