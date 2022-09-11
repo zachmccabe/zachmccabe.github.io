@@ -38,6 +38,7 @@ header {
 }
 
 main {
+  font-size: var(--fs-083);
   text-align: left;
   margin: 0;
   padding: 0 0 0 1rem;
@@ -45,9 +46,8 @@ main {
 
 footer {
   font-size: var(--fs-070);
-color: #666;
+  color: #666;
 }
-
 
 
 
@@ -262,7 +262,7 @@ ol + figure, ul + figure {
 
 table {
   border-collapse: collapse;
-  margin: 5rem 0;
+  margin: 5rem 0.1rem 5rem 0;
   padding: 0;
   width: 100%;
   max-width: 21rem;
