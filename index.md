@@ -13,11 +13,15 @@ Before changing page title "Hi, it’s Zach", change the if statement in kaolian
 
 I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects.
 
+<div class="scan" markdown="1">
+
 Right now, I'm [Laughing Lost in Briars.]
 
 My Beijing [book] is now free. Details in [this FAQ.]
 
 Rather talk shop? Here are my [travel notes] and [tools.]
+
+</div>
 
 
 
