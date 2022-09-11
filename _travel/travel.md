@@ -10,9 +10,12 @@ lede: print
 ---
 
 
-+ I put 6 of my favorite books on cross-cultural communication into this [reading list.]
-+ No signal? Some tactics I like for communicating across [timezones.]
-+ [Far away and asking dumb questions.]
+I put 6 of my favorite books on cross-cultural communication into this [reading list.]
+
+No signal? Some tactics I like for communicating across [timezones.]
+
+[Far away and asking dumb questions.]
+
 
 
 [reading list.]: https://www.zachmccabe.com/travel/reading-list
