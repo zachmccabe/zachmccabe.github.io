@@ -1,12 +1,26 @@
+:root {
+font-size: 16px;
+
+--fs-248: 248%; 
+--fs-173: 173%;
+--fs-144: 144%;
+--fs-120: 120%;
+--fs-100: 100%;
+--fs-083: 83%;
+--fs-070: 70%;
+--fs-pre: 83%;
+
+}
+
 html, body {
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
 }
 
 body {
   background-color: #fff;
   color: #333;
   font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro","Fira Mono", "Droid Sans Mono", "Courier New", monospace;
-  font-size: 1rem;
   line-height: 1.6;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -25,15 +39,15 @@ header {
 
 main {
   text-align: left;
-  font-size: 80%;
   margin: 0;
   padding: 0 0 0 1rem;
-  min-height: calc(100vh - 26em);
 }
 
 footer {
-  font-size: 70%;
+  font-size: var(--fs-070);
+color: #666;
 }
+
 
 
 
@@ -59,6 +73,7 @@ footer {
 }
 
 .site-nav-top {
+  font-size: var(--fs-120);
   text-align: left;
   margin: 0;
   padding: 1rem 0 3em 1rem;
@@ -73,6 +88,7 @@ footer {
 }
 
 .breadcrumbs {
+  font-size: var(--fs-070);
   margin: 0;
   padding: 0;
   max-width: 21rem;
@@ -95,15 +111,6 @@ footer {
   padding-left: 0.5em;
   padding-bottom: 0.9em;
 }
-
-/*
-.kaoQUOTE {
-  border: 1px solid currentColor;
-  font-size: 85%;
-  margin: 5em 0 5em 0;
-  padding: 0 1em 0;
-}
-*/
 
 hr {
   background-color: currentColor;
@@ -166,7 +173,7 @@ figure + p {
 
 figcaption {
   color: currentColor;
-  font-size: 0.7rem;
+  font-size: var(--fs-070);
   margin: 0;
   padding: 0;
   text-align: left;
@@ -239,6 +246,7 @@ ul li {
 }
 
 li {
+  font-size: var(--fs-080);
   margin-bottom: 0.5em;
   max-width: 56ch;
 }
@@ -268,7 +276,7 @@ table {
 th, tr, td {
   text-align: left;
   color: currentColor;
-  font-size: 0.7rem;
+  font-size: var(--fs-070);
   font-weight: normal;
   margin: 0;
   padding: 1em;
@@ -296,14 +304,10 @@ a[href*="//"]:not([href*="zachmccabe.com"]):after {
   content: " ↗";
 }
 
-.breadcrumbs {
-  font-size: 0.7rem;
-}
-
 code {
   background: #ccc;
   color: #333;
-  font-size: calc(100% - 0.1em);
+  font-size: var(--fs-pre);
   padding: 0.1rem;
 }
 
@@ -324,12 +328,12 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: var(--fs-248);
   font-weight: 600;
 }
 
 h2 {
-  font-size: 145%;
+  font-size: var(--fs-173);
 }
 
 h2 + h3 {
@@ -337,7 +341,7 @@ h2 + h3 {
 }
 
 h3 {
-  font-size: 120%;
+  font-size: var(--fs-144);
 }
 
 h3 + h4 {
@@ -345,19 +349,18 @@ h3 + h4 {
 }
 
 h4 {
-  font-size: 108%;
+  font-size: var(--fs-120);
 }
 
 /*
 .lede {
-  font-size: 108%;
+  font-size: var(--fs-120);
 }
 */
 
 /*
 main > p:first-of-type {
-  font-size: 108%;
-  margin-bottom: 1.5em;
+  font-size: var(--fs-120);
 }
 */
 
@@ -365,18 +368,19 @@ mark {
   background-color: rgba(255,255,255,0);
   border-bottom: 0.1rem dotted currentColor;
   color: currentColor;
-  font-size: calc(100% - 0.1em);
+  font-size: var(--fs-pre);
   padding: 0.1rem;
   text-decoration: none;
 }
 
 p {
+  font-size: var(--fs-083);
   max-width: 60ch;
   text-align: left;
 }
 
 .scannable p {
- max-width: 28em;
+  max-width: 28em;
   max-width: 46ch;
   margin-top: calc(5vh);
   margin-top: 3em;
@@ -395,7 +399,7 @@ p + figure {
 }
 
 pre {
-  font-size: calc(100% - 0.2em);
+  font-size: var(--fs-pre);
   width: 100%;
 }
 
@@ -420,36 +424,4 @@ ul + h2, ul + h3, ul + h4 {
   background-color: #000;
   color: #ccc;
     }
-}
-
-/* 
- * The following responsive typography queries 
- * via Mike Foskett. Calculator here:
- *   https://websemantics.uk/tools/responsive-font-calculator/
- * And on CodePen here:
- *   https://codepen.io/2kool2/pen/edgmmr
- * 🙏
-*/
-
-/* This example begins from 320px | 20em  to  30px @ 1920px */
-@media (min-width: 20em) {
-  :root {
-    font-size: calc(1rem + ((1vw - .2em) / 1.37142857));
-  }
-}
-
-/* 1rem(16px) @ 48em(768px) increasing to 2rem(32px) @ 120em(1920px) */
-@media (min-width: 48em) {
-  :root {
-    font-size: calc(1rem + ((1vw - 0.48rem) * 1.3889));
-    /* Where: * 1.3889 = 100 * font_Size_Difference / viewport_Width_Difference */
-  }
-}
-
-/* Prevent font scaling beyond this breakpoint */
-@media (min-width: 120em) {
-  :root {
-    font-size: 2em;
-    /* Setting font-size to a fixed value */
-  }
 }
