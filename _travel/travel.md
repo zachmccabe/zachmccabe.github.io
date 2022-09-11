@@ -9,12 +9,15 @@ lede: print
 
 ---
 
+<div class="scan" markdown="1">
 
 I put 6 of my favorite books on cross-cultural communication into this [reading list.]
 
 No signal? Some tactics I like for communicating across [timezones.]
 
 [Far away and asking dumb questions.]
+
+</div>
 
 
 
