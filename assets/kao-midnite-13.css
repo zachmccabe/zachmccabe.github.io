@@ -13,7 +13,7 @@ font-size: 16px;
 }
 
 html, body {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
 }
 
@@ -108,7 +108,7 @@ footer {
 }
 
 .kaoNAV li {
-  font-size: var(--fs-083);
+  /* font-size: var(--fs-083); */
   padding-left: 0.5em;
   padding-bottom: 0.9em;
 }
@@ -256,13 +256,17 @@ li > ol, li > ul {
   margin-top: 0.5em;
 }
 
+li p {
+ font-size: var(--fs-070);
+}
+  
 ol + figure, ul + figure {
   margin-top: 5rem;
 }
 
 table {
   border-collapse: collapse;
-  margin: 5rem 0.1rem 5rem 0;
+  margin: 5rem auto 5rem 0;
   padding: 0;
   width: 100%;
   max-width: 21rem;
