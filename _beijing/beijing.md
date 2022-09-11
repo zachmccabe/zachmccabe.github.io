@@ -8,29 +8,24 @@ description: "Get answers to the questions only photographers ask. Learn how to 
 ---
 
 
-Get answers to the questions only photographers ask. Learn how to deal with smog, when to shoot fall colors, and where to spend blue hour. Go capture the remarkable story of China's capital.
+Get answers to the questions only photographers ask. Learn when to shoot fall colors, where to spend blue hour, and how to deal with smog. Go capture the remarkable story of China's capital.
 
 This book is written for photographers on the road. Use your favorite ebook app and read it anywhere.
 
-<p>
-<img style="height:min(469px,28vw)"  
-    srcset="https://www.zachmccabe.com/assets/viz/book-1-0586-0938.jpg 2x,
-            https://www.zachmccabe.com/assets/viz/book-1-0293-0469.jpg"
-       src="https://www.zachmccabe.com/assets/viz/book-1-0293-0469.jpg" 
-       alt="Book cover from The Photographers Field Guide to Beijing showing a silhouette of the city's old Drum Tower" loading="lazy" />
 
-<img style="height:min(469px,28vw)" 
-    srcset="https://www.zachmccabe.com/assets/viz/book-2-0440-0938.jpg 2x,
-            https://www.zachmccabe.com/assets/viz/book-2-0220-0469.jpg"
-       src="https://www.zachmccabe.com/assets/viz/book-2-0220-0469.jpg"
-       alt="Screenshot from The Photographers Field Guide to Beijing, and the section called Chinese New Year" loading="lazy" />
+<div style="padding-top:3rem;padding-bottom:3rem">
 
-<img style="height:min(469px,28vw)"  
-    srcset="https://www.zachmccabe.com/assets/viz/book-3-0440-0938.jpg 2x,
-            https://www.zachmccabe.com/assets/viz/book-3-0220-0469.jpg"
-       src="https://www.zachmccabe.com/assets/viz/book-3-0220-0469.jpg"
-       alt="Screenshot from The Photographers Field Guide to Beijing, and the section called What's So Great About Beijing?" loading="lazy" />
-</p>
+<img style="width: 26.651%;max-width: 293px;"
+src="https://www.zachmccabe.com/assets/viz/book-1-0586-0938.jpg"alt="Book cover from The Photographers Field Guide to Beijing showing a silhouette of the city's old Drum Tower" loading="lazy" />
+
+<img style="width: 20%;max-width: 220px;"
+src="https://www.zachmccabe.com/assets/viz/book-2-0440-0938.jpg" alt="Screenshot from The Photographers Field Guide to Beijing, and the section called Chinese New Year" loading="lazy" />
+
+<img style="width: 20%;max-width: 220px;"
+src="https://www.zachmccabe.com/assets/viz/book-3-0440-0938.jpg" alt="Screenshot from The Photographers Field Guide to Beijing, and the section called What's So Great About Beijing?" loading="lazy" />
+
+</div>
+
 
 It's free. [Download the EPUB.]
 
