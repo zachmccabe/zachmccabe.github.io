@@ -18,7 +18,7 @@ nav: |
 ---
 
 
-<figure>
+
 <img class="kao-1x1-full" 
 srcset="https://images.zachmccabe.com/file/briars/briars-20210515-0151-1792.jpg 1792w, 
 https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg 896w, 
@@ -27,7 +27,6 @@ https://images.zachmccabe.com/file/briars/briars-20210515-0151-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg" 
 alt="Milkweed and grasses in a field at dusk" 
 sizes="99vw" loading="lazy" />
-</figure>
 
 
 
@@ -37,7 +36,7 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 
 
-<figure class="kaoGRID">
+
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
@@ -57,7 +56,7 @@ https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
 alt="Milkweed plants in a field" 
 sizes="48vw" loading="lazy" />
-</figure>
+
 
 
 
@@ -74,7 +73,7 @@ Qi's crickets and cicadas were my favorite when I was a kid. His work was so dif
 
 
 
-<figure>
+
 <img class="kao-1x1-full" 
 srcset="https://images.zachmccabe.com/file/briars/briars-20180814-6182-1792.jpg 1792w, 
 https://images.zachmccabe.com/file/briars/briars-20180814-6182-0896.jpg 896w, 
@@ -83,7 +82,7 @@ https://images.zachmccabe.com/file/briars/briars-20180814-6182-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180814-6182-0448.jpg" 
 alt="Cicada climbing deeply fissured bark on a big Post Oak tree" 
 sizes="99vw" loading="lazy" />
-</figure>
+
 
 
 
@@ -120,7 +119,7 @@ To learn more about the ecosystem processes happening in front of me I use field
 
 
 
-<figure class="kaoGRID">
+<figure>
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20200713-2169-1792.jpg 1792w, 
@@ -163,7 +162,7 @@ See this article at [A List Apart] for more on atomic units.
 
 
 
-<figure class="kaoGRID">
+<figure>
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-obsidian-1792.jpg 1792w, 
@@ -253,7 +252,7 @@ One useful thing about working with phones and compact cameras is that you don't
 
 
 
-<figure class="kaoGRID">
+<figure>
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20191024-2997-1792.jpg 1796w, 
@@ -288,7 +287,7 @@ For quick closeups I use a small flashlight. It's the kind of thing you need rou
 I also keep a collapsible reflector in my car but I've only used it once. Animals really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
 
 
-<figure>
+
 <img class="kao-1x1-full" 
 srcset="https://images.zachmccabe.com/file/briars/briars-20180413-2547-1792.jpg 1796w, 
 https://images.zachmccabe.com/file/briars/briars-20180413-2547-0896.jpg 896w, 
@@ -297,4 +296,4 @@ https://images.zachmccabe.com/file/briars/briars-20180413-2547-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180413-2547-0448.jpg" 
 alt="Remnants of a storm over oak forest." 
 sizes="99vw" loading="lazy" />
-</figure>
+
