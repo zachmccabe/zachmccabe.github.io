@@ -20,7 +20,7 @@ nav: |
 
 
 
-<figure class="kaoGRID">
+
 <img class="kao-1x1-third" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0896.jpg 896w, 
@@ -47,7 +47,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0448.jpg" 
 alt="Summer lotus plants in lake" 
 sizes="31vw" loading="lazy" />
-</figure>
+
 
 
 {% include page_nav.html %}
@@ -68,7 +68,6 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 
 
 
-<figure>
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0896.jpg 896w, 
@@ -77,7 +76,6 @@ https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0448.jpg" 
 alt="Blue hour traffic" 
 sizes="99vw" loading="lazy" />
-</figure>
 
 
 
@@ -96,7 +94,6 @@ From research, to draft and design, to marketing and shipping the final product,
 
 
 
-<figure class="kaoGRID">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-4-a-0896.jpg 896w, 
@@ -114,7 +111,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-0-4-b-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-0-4-b-0448.jpg" 
 alt="Detail of bixi statue nose" 
 sizes="48vw" loading="lazy"/>
-</figure>
+
 
 
 
@@ -135,7 +132,7 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 
 
-<figure class="kaoGRID">
+
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
@@ -162,7 +159,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-1-4-b-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-1-4-b-0448.jpg" 
 alt="Architectural detail through tree branches" 
 sizes="99vw" loading="lazy" />
-</figure>
+
 
 
 
@@ -333,7 +330,7 @@ The [AP Stylebook](https://www.zachmccabe.com/beijing/bts/style-guide.html) migh
 For the V2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
 
 
-<figure>
+
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-2-1-a-0896.jpg 896w, 
@@ -342,7 +339,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-2-1-a-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-2-1-a-0448.jpg" 
 alt="Tower seen through willow branches" 
 sizes="99vw" loading="lazy" />
-</figure>
+
 
 
 ## Lessons learned
