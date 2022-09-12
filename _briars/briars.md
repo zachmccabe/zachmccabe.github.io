@@ -36,7 +36,7 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 
 
-
+<figure>
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
@@ -56,7 +56,7 @@ https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
 alt="Milkweed plants in a field" 
 sizes="48vw" loading="lazy" />
-
+</figure>
 
 
 
