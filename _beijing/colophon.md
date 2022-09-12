@@ -67,7 +67,7 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 ["Pienso en tu mira"]: https://youtu.be/p_4coiRG_BI
 
 
-
+<!--
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0896.jpg 896w, 
@@ -76,6 +76,28 @@ https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0448.jpg" 
 alt="Blue hour traffic" 
 sizes="99vw" loading="lazy" />
+-->
+
+
+
+<figure>
+<img style="background:#ccc;" class="kao-1x1-half" srcset="
+https://images.zachmccabe.com/file/field-guide/field-guide-detail-0896.png 896w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-detail-0448.png 448w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-detail-0224.png 224w" 
+src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-0448.png" alt="Type detail from the cover of the Photographers Field Guide to Beijing" sizes="48vw" loading="lazy" />
+
+<img style="background:#ccc;width:30%" srcset="
+https://images.zachmccabe.com/file/field-guide/field-guide-cover-1120x1792.png 1792w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-cover-560x896.png 896w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.png 448w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-cover-140x224.png 224w" 
+src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.png" alt="Photographers Field Guide to Beijing cover" sizes="30%" loading="lazy" />
+
+<figcaption>
+Detail from the book cover used for version 2: Type is Source Sans Pro. I put the design together using Canva. It is quite a capable web app, I think. The Drum Tower in the picture is a classic Beijing landmark in the heart of the old city. That photo was processed using Nik Silver Effex. From there, I added a color gradient using Nik Color Effex to create the image used on the book cover.
+</figcation>
+</figure>
 
 
 
