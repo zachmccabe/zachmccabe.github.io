@@ -99,7 +99,6 @@ So far, I've been assuming there is a signal. There is not always a signal. Make
 You might end up needing to coordinate a call with someone who isn't good at this part. Talking through your plan in advance is even more important with these folks. It's best to visualize a few likely scenarios by yourself, and then share your plan. I try to do this in a way that doesn't require much effort on their end but still gives them a clear picture of any likely challenges. Maybe something like:
 
 - In addition to our usual WhatsApp chat, you can reach me at \[travel @ email\]. The timezone in \[location\] is \[N hours behind\]. Can I call you on \[date\] at \[time\] your time?
-
 - In my experience, the signal between \[location A\] and \[location B\] isn't reliable. I will text you from \[local number\] at \[time\] to check in beforehand. Just in case the bandwidth for a call doesn't hold up, let's try when I get to \[location C\] on \[date\]. Will that work for you?
 
 Really, it's not the logistics that wear me out. Social signaling can take a lot of effort. You are attempting to be in 2 places at the same time. It can be hard to know what to say. Lately, I've been trying to use cues, tiny scripts, to keep the conversation on track.
@@ -125,9 +124,7 @@ You can guess your way through a story. What about a booking code or surname? Us
 The "why-first" script is another favorite. First, I'll explain the intention, my why. Then, I'll make my request or pass along some piece of information.
 
 - Just wanted to update you. I'm at \[airport 1\] and expect to arrive at \[airport 2\] by \[date\] + \[time\] + \[timezone\].
-
 - Let's be sure I get you what you need. \[Rephrasing client's instructions\]. Is that right?
-
 - Sorry, I don't understand. My \[2nd language\] isn't as good as I'd like. Will you explain \[confusing phrase\] again?
 
 People are busy with their own lives. Confusion can creep into the conversation when people have different expectations -- like when day for me is literally night for you. Front-load the rationale for what you're about to say, and you can mitigate some of that.
