@@ -20,7 +20,7 @@ nav: |
 
 
 
-
+<figure>
 <img class="kao-1x1-third" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0896.jpg 896w, 
@@ -47,7 +47,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0448.jpg" 
 alt="Summer lotus plants in lake" 
 sizes="31vw" loading="lazy" />
-
+</figure>
 
 
 {% include page_nav.html %}
@@ -96,7 +96,6 @@ https://images.zachmccabe.com/file/field-guide/field-guide-cover-140x224.png 224
 src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.png" alt="Photographers Field Guide to Beijing cover" sizes="30%" loading="lazy" />
 
 <figcaption>Detail from the book cover used for version 2: Type is Source Sans Pro. I put the design together using Canva. It is quite a capable web app, I think. The Drum Tower in the picture is a classic Beijing landmark in the heart of the old city. That photo was processed using Nik Silver Effex. From there, I added a color gradient using Nik Color Effex to create the image used on the book cover.</figcation>
-
 </figure>
 
 
@@ -115,7 +114,7 @@ src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.pn
 From research, to draft and design, to marketing and shipping the final product, I wanted to be hands-on for the whole process. Trading efficiency for a fully DIY approach would give me important insight for the next book… Wouldn't it?
 
 
-
+<figure>
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-4-a-0896.jpg 896w, 
@@ -133,7 +132,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-0-4-b-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-0-4-b-0448.jpg" 
 alt="Detail of bixi statue nose" 
 sizes="48vw" loading="lazy"/>
-
+</figure>
 
 
 
@@ -154,7 +153,7 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 
 
-
+<figure>
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
@@ -181,7 +180,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-1-4-b-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-1-4-b-0448.jpg" 
 alt="Architectural detail through tree branches" 
 sizes="99vw" loading="lazy" />
-
+</figure>
 
 
 
@@ -217,6 +216,8 @@ While V1 only included monochrome images (which were chosen to reinforce the vib
 </table>
 <figcaption><p>*According to the Amazon product pages.<br/>†According to my Github repo.</p></figcaption>
 </figure>
+
+
 
 As you can see in the table above, the EPUB weighs less than the Amazon version, which is interesting because Amazon starts with that same EPUB file. 
 
