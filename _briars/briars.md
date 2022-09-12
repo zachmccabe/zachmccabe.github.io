@@ -163,17 +163,9 @@ See this article at [A List Apart] for more on atomic units.
 
 
 <figure>
-<img class="kao-1x1-full" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-obsidian-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-obsidian-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-obsidian-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-obsidian-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-obsidian-0448.jpg" 
-alt="IPTC metadata tags graphed as a network" 
-sizes="99vw" loading="lazy" />
+<img style="max-width:min(656px,86vh);" src="https://images.zachmccabe.com/file/briars/briars-obsidian-656-opti.png" alt="IPTC metadata tags graphed as a network" loading="lazy" />
 <figcaption>
-IPTC metadata tags graphed as a network. Since this project is already organized using plaintext files, I briefly experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to capture and then print photo metadata and captions as markdown files.
+IPTC metadata tags graphed as a network. Since this project is already organized using plaintext files, I briefly experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to capture and then print photo metadata and captions as markdown files. Then, those text files were brought into Obsidian.
 </figcaption>
 </figure>
 
@@ -221,7 +213,7 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 
 
-<figure class="kaoGRID">
+<figure>
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20201114-2610-1792.jpg 1792w, 
