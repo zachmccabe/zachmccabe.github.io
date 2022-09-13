@@ -2,7 +2,7 @@
 permalink: /beijing/bts/colophon
 robots: norobots
 layout: kao_midnite_3
-date: 2020-01-30
+date: 2022-09-12
 title: Making the field guide
 description: "How and why I built this digital book the way I did."
 lede: print
@@ -20,34 +20,15 @@ nav: |
 
 
 
-<figure>
-<img class="kao-1x1-third" 
+<img class="kao-1x1-full" 
 srcset="
-https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0896.jpg 896w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0448.jpg 448w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0448.jpg" 
-alt="Two tourists on a bench wearing red hats" 
-sizes="31vw" loading="lazy" />
+https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0896.jpg 896w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0448.jpg 448w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0448.jpg" 
+alt="Blue hour traffic" 
+sizes="99vw" loading="lazy" />
 
-<img class="kao-1x1-third" 
-srcset="
-https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0896.jpg 896w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0448.jpg 448w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0448.jpg" 
-alt="Rainy autumn day at Shichahai" 
-sizes="31vw" loading="lazy" />
-
-<img class="kao-1x1-third" 
-srcset="
-https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0896.jpg 896w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0448.jpg 448w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0448.jpg" 
-alt="Summer lotus plants in lake" 
-sizes="31vw" loading="lazy" />
-</figure>
 
 
 {% include page_nav.html %}
@@ -68,20 +49,8 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 
 
 
-<!--
-<img class="kao-1x1-full" 
-srcset="
-https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0896.jpg 896w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0448.jpg 448w, 
-https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0448.jpg" 
-alt="Blue hour traffic" 
-sizes="99vw" loading="lazy" />
--->
 
-
-
-<figure>
+<figure style="margin-top:5rem;">
 <img style="background:#ccc;" class="kao-1x1-half" srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-detail-0896.png 896w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-detail-0448.png 448w, 
@@ -95,7 +64,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.png 448
 https://images.zachmccabe.com/file/field-guide/field-guide-cover-140x224.png 224w" 
 src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.png" alt="Photographers Field Guide to Beijing cover" sizes="30%" loading="lazy" />
 
-<figcaption>Detail from the book cover used for version 2: Type is Source Sans Pro. I put the design together using Canva. It is quite a capable web app, I think. The Drum Tower in the picture is a classic Beijing landmark in the heart of the old city. That photo was processed using Nik Silver Effex. From there, I added a color gradient using Nik Color Effex to create the image used on the book cover.</figcaption>
+<figcaption>Detail from the book cover used for version 2: Type is Source Sans Pro. I put the design together using Canva. It is quite a capable web app, I think. The Drum Tower in the picture is a historic landmark in the heart of the old city. That photo was processed using Nik Silver Effex. From there, I added a color gradient using Nik Color Effex to create the image used on the book cover.</figcaption>
 </figure>
 
 
@@ -114,7 +83,7 @@ src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.pn
 From research, to draft and design, to marketing and shipping the final product, I wanted to be hands-on for the whole process. Trading efficiency for a fully DIY approach would give me important insight for the next book… Wouldn't it?
 
 
-<figure>
+<figure style="margin-top:5rem;">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-4-a-0896.jpg 896w, 
@@ -153,7 +122,40 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 
 
+
 <figure>
+<img class="kao-1x1-third" 
+srcset="
+https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0896.jpg 896w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0448.jpg 448w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0448.jpg" 
+alt="Two tourists on a bench wearing red hats" 
+sizes="31vw" loading="lazy" />
+
+<img class="kao-1x1-third" 
+srcset="
+https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0896.jpg 896w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0448.jpg 448w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/field-guide/field-guide-2-3-a-0448.jpg" 
+alt="Rainy autumn day at Shichahai" 
+sizes="31vw" loading="lazy" />
+
+<img class="kao-1x1-third" 
+srcset="
+https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0896.jpg 896w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0448.jpg 448w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/field-guide/field-guide-1-3-a-0448.jpg" 
+alt="Summer lotus plants in lake" 
+sizes="31vw" loading="lazy" />
+</figure>
+
+
+
+<!--
+<figure style="margin-top:5rem;">
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
@@ -181,7 +183,7 @@ src="https://images.zachmccabe.com/file/field-guide/field-guide-1-4-b-0448.jpg"
 alt="Architectural detail through tree branches" 
 sizes="99vw" loading="lazy" />
 </figure>
-
+-->
 
 
 ### Version 2
@@ -269,10 +271,57 @@ According to the Amazon product page, the V1 field guide weighed 7978 KB. This i
 </table>
 
 
-
 ## Maps and illustrations
 
 If you can't get there, you probably can't photograph it.
+
+To help orient the Reader, simplified thumbnail maps and a couple of visual symbols are used throughout the book, including the city's ring roads and the Forbidden City.
+
+The Forbidden City is an important cultural landmark and a useful place marker, too. It is also on many visitors' must-see list. One of the complex's names is <mark><span lang="zh">紫禁城</span></mark>. I have been told that the first character from the word <mark><span lang="zh">(紫 zi3)</span></mark> is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
+
+
+<figure>
+<img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-6th-ring.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of Beijing's 6 ring roads" />
+
+<img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-city-center.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of the city center" />
+
+<img style="width:min(48%,30vh);" 
+srcset="
+https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg 448w, 
+https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg" 
+alt="Replastering red wall" 
+sizes="30vw" loading="lazy" />
+
+<img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-red-dot.svg" alt="Detail of red dot symbol used in the field guide" />
+
+<figcaption>
+Left to right: Thumbnail map showing the city's 6 ring roads; thumbnail map showing the 2nd Ring Road, the 6 lakes that make up Shichahai, and the Forbidden City; Photograph of workers re-plastering the wall surrounding Kong Miao Temple; Thumbnail maps include a red dot marking the location of the Forbidden City.
+</figcaption>
+</figure>
+
+
+A note for fellow color nerds: It is interesting that this character shows up again with another meaning. Often just translated as "purple," my understanding is that <span lang="zh">紫</span> is a slightly warm, plum-like color. In my mind's eye it is something like: <code>#400d2e</code>
+
+<div style="display:inline-block;background-color:#400d2e;height:3em;width:3em;"></div>
+
+Originally, I had wanted the hue of the red dot symbol to look like the red used to color the walls surrounding Kong Miao and the Forbidden City.
+
+<mark>Vermilion <span lang="zh">(朱色 zhu1se3)</span></mark> comes closest to describing the color, I think. It's a bit earth-y and orange-y. In my mind's eye something like: <code>#b53d12</code>
+
+<div style="display:inline-block;background-color:#b53d12;height:3em;width:3em;"></div>
+
+However, during beta testing on monochromatic e-ink screens, vermillion colors were not rendering with enough contrast against other visual elements.I needed something brighter. I consulted Ethan Schoonover's [Solarized] color palate and opted to use: <code>#ff5c5c</code>.
+
+<div style="display:inline-block;background-color:#ff5c5c;height:3em;width:3em;margin-bottom:5rem;"></div>
+
+[Solarized]: https://ethanschoonover.com/solarized/
+
+
+
+
+### Okay let's make some maps
 
 Offline maps weren't part of the plan, at first. If most readers will be reading the field guide on their phone, won't they just reach for their favorite maps app?
 
@@ -296,6 +345,7 @@ Other illustrations were just coded by hand in [BBEdit](https://www.barebones.co
 
 
 
+
 ### SVG GIF JPG wtf
 
 Reality is not spec. Face palm.
@@ -312,6 +362,7 @@ Again, ImageOptim was used to shrink down file size.
 Creating these illustrations was the most challenging part of the V1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly _more_ time to complete than actually writing and editing the copy. 
 
 Worth it? <strike>Absolutely. So far nobody has said a thing – which means the visuals are doing their job.</strike> You tell me: <hello@zachmccabe.com>.
+
 
 
 
@@ -348,7 +399,7 @@ Assuming that most Readers would be paging through the field guide on their phon
 
 The [AP Stylebook](https://www.zachmccabe.com/beijing/bts/style-guide.html) might be Religion, but that good book provides no advice on typefaces, [line length](http://maxdesign.com.au/articles/em/) or other UI issues.
 
-[Butterick](https://practicaltypography.com/line-length.html) and the [BBC](http://www.bbc.co.uk/academy/journalism/skills/digital-journalism/article/art20141202144618106) did have some ideas.
+[Butterick](https://practicaltypography.com/line-length.html) and the [BBC](http://www.bbc.co.uk/academy/journalism/skills/digital-journalism/article/art20141202144618106) did have some ideas. An English-language paragraph should be between 45 and 60 characters wide.
 
 For the V2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
 
@@ -381,7 +432,7 @@ Again, I'd like to emphasize the importance of having a compass – you need to 
 
 From the start I knew I wanted to do the whole thing myself. I wanted to understand how it works. It really was worth the extra effort, confusion and truly sickening number of late nights.
 
-Go make a book<br />You'll be happy you did<br />–Z
+Go make a book<br />You'll be happy you did<br />–Zach
 
 
 
