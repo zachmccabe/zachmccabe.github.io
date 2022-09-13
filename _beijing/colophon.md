@@ -19,7 +19,7 @@ nav: |
 ---
 
 
-
+<!--
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0896.jpg 896w, 
@@ -28,7 +28,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-2-6-0448.jpg" 
 alt="Blue hour traffic" 
 sizes="99vw" loading="lazy" />
-
+-->
 
 
 {% include page_nav.html %}
@@ -242,8 +242,9 @@ But device storage space is truly at a premium during international trips. An eb
 
 So, I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: "Due to its large file size, this book may take longer to download."
 
-- I assume I'm not the only one who tries to download just-one-more before it's time to get on the plane?
-- I also [assume](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
+I assume I'm not the only one who tries to download just-one-more before it's time to get on the plane?
+
+I also [assume](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
 
 According to the Amazon product page, the V1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
 
@@ -277,8 +278,6 @@ If you can't get there, you probably can't photograph it.
 
 To help orient the Reader, simplified thumbnail maps and a couple of visual symbols are used throughout the book, including the city's ring roads and the Forbidden City.
 
-The Forbidden City is an important cultural landmark and a useful place marker, too. It is also on many visitors' must-see list. One of the complex's names is <mark><span lang="zh">紫禁城</span></mark>. I have been told that the first character from the word <mark><span lang="zh">(紫 zi3)</span></mark> is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
-
 
 <figure>
 <img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-6th-ring.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of Beijing's 6 ring roads" />
@@ -296,23 +295,29 @@ sizes="30vw" loading="lazy" />
 
 <img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-red-dot.svg" alt="Detail of red dot symbol used in the field guide" />
 
+  
+<!-- lol hmm caption breaks depending on how images flow, tho? big screen in a row, or small screen in 2 rows. -->
+
 <figcaption>
 Left to right: Thumbnail map showing the city's 6 ring roads; thumbnail map showing the 2nd Ring Road, the 6 lakes that make up Shichahai, and the Forbidden City; Photograph of workers re-plastering the wall surrounding Kong Miao Temple; Thumbnail maps include a red dot marking the location of the Forbidden City.
 </figcaption>
 </figure>
 
+The Forbidden City is an important cultural landmark. It goes by a few names, including <span lang="zh">紫禁城</span>. I have been told that the first character from that word, <span lang="zh">紫</span>, is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
 
-A note for fellow color nerds: It is interesting that this character shows up again with another meaning. Often just translated as "purple," my understanding is that <span lang="zh">紫</span> is a slightly warm, plum-like color. In my mind's eye it is something like: <code>#400d2e</code>
+
+
+### Note for fellow color nerds
+
+This character has another meaning, too: <mark>Purple <span lang="zh">紫色</span></mark> is how I see the word translated, typically. My understanding is that it's a warm hue, a little less blue and more red. Something like: <code>#400d2e</code>
 
 <div style="display:inline-block;background-color:#400d2e;height:3em;width:3em;"></div>
 
-Originally, I had wanted the hue of the red dot symbol to look like the red used to color the walls surrounding Kong Miao and the Forbidden City.
-
-<mark>Vermilion <span lang="zh">(朱色 zhu1se3)</span></mark> comes closest to describing the color, I think. It's a bit earth-y and orange-y. In my mind's eye something like: <code>#b53d12</code>
+The red color of the walls surrounding Kong Miao and the Forbidden City is very distinctive. I had initially wanted to use that hue for the dot symbol in the book. <mark>Vermilion <span lang="zh">(朱色 zhu1se3)</span></mark> comes closest to describing it, I think. It's a bit earth-y and orange-y. In my mind's eye it looks like: <code>#b53d12</code>
 
 <div style="display:inline-block;background-color:#b53d12;height:3em;width:3em;"></div>
 
-However, during beta testing on monochromatic e-ink screens, vermillion colors were not rendering with enough contrast against other visual elements.I needed something brighter. I consulted Ethan Schoonover's [Solarized] color palate and opted to use: <code>#ff5c5c</code>.
+However, during beta testing on monochromatic e-ink screens, vermillion colors were not rendering with enough contrast against other visual elements. I needed something brighter. I consulted Ethan Schoonover's [Solarized] color palate and opted to use his: <code>#ff5c5c</code>.
 
 <div style="display:inline-block;background-color:#ff5c5c;height:3em;width:3em;margin-bottom:5rem;"></div>
 
