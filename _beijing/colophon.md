@@ -334,7 +334,7 @@ As research progressed I realized that I'd need to include custom maps for 3 rea
 2. Although there are very good English-language maps designed for tourists, there were still large info gaps.
 3. Maps are an efficient, quick way to organize and explain complex ideas – making them an ideal way to deliver info to [my reader](https://www.zachmccabe.com/beijing/bts/10-assumptions#the-ebook). 
 
-In the V1 field guide, I included 14 high-level, thumbnail maps alongside the 17 illustrations I'd already made. (Some of these were removed from the V2 field guide.)
+In the V1 field guide, I included 14 high-level, thumbnail maps alongside the 17 illustrations I’d already made. In the V2 field guide, some of these were removed. Readers wanted more photography and, to prevent the file size of the ebook from getting too large, I decided to cut some of the illustrations, as well as the onboard maps from the Location Notes section. The notes already included geolocation coordinates, and links to both Google Maps and AutoNavi.
 
 Both the maps and other illustrations were created in SVG.
 
