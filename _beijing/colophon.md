@@ -50,7 +50,7 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 
 
 
-<figure style="margin-top:5rem;">
+<figure class="kaoPUSH">
 <img style="background:#ccc;" class="kao-1x1-half" srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-detail-0896.png 896w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-detail-0448.png 448w, 
@@ -83,7 +83,7 @@ src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.pn
 From research, to draft and design, to marketing and shipping the final product, I wanted to be hands-on for the whole process. Trading efficiency for a fully DIY approach would give me important insight for the next book… Wouldn't it?
 
 
-<figure style="margin-top:5rem;">
+<figure class="kaoPUSH">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-4-a-0896.jpg 896w, 
@@ -123,7 +123,7 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 
 
-<figure>
+<figure class="kaoPUSH">
 <img class="kao-1x1-third" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-a-0896.jpg 896w, 
@@ -194,7 +194,7 @@ This update includes 3x more photos compared to the V1 field guide. The choice s
 
 While V1 only included monochrome images (which were chosen to reinforce the vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
 
-<figure>
+<figure class="kaoPUSH">
 <table class="kaoStripey">
   <thead>
     <tr>
@@ -272,54 +272,51 @@ According to the Amazon product page, the V1 field guide weighed 7978 KB. This i
 </table>
 
 
+
 ## Maps and illustrations
 
 If you can't get there, you probably can't photograph it.
 
-To help orient the Reader, simplified thumbnail maps and a couple of visual symbols are used throughout the book, including the city's ring roads and the Forbidden City.
+To help orient the Reader, simplified thumbnail maps and a couple of visual symbols are used throughout the book. The locations of places in the text are described in relation to landmarks like the city's ring roads, the Drum Tower and the Forbidden City.
 
 
-<figure>
-<img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-6th-ring.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of Beijing's 6 ring roads" />
-
-<img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-city-center.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of the city center" />
-
-<img style="width:min(48%,30vh);" 
+<figure class="kaoPUSH">
+<img style="width:min(48%,33vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-6th-ring.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of Beijing's 6 ring roads" />
+<img style="width:min(48%,33vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-city-center.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of the city center" />
+<br />
+<img style="width:min(48%,33vh);" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg 448w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0224.jpg 224w" 
 src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg" 
 alt="Replastering red wall" 
-sizes="30vw" loading="lazy" />
-
-<img style="width:min(48%,30vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-red-dot.svg" alt="Detail of red dot symbol used in the field guide" />
-
-  
-<!-- lol hmm caption breaks depending on how images flow, tho? big screen in a row, or small screen in 2 rows. -->
-
+sizes="33vw" loading="lazy" />
+<img style="width:min(48%,33vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-red-dot.svg" alt="Detail of red dot symbol used in the field guide" />
 <figcaption>
-Left to right: Thumbnail map showing the city's 6 ring roads; thumbnail map showing the 2nd Ring Road, the 6 lakes that make up Shichahai, and the Forbidden City; Photograph of workers re-plastering the wall surrounding Kong Miao Temple; Thumbnail maps include a red dot marking the location of the Forbidden City.
+<p>Left to right, top row: Thumbnail map showing the city's 6 ring roads; Thumbnail map showing the 2nd Ring Road, the 6 lakes that make up Shichahai, and the Forbidden City.</p>
+<p>Left to right, bottom row: Photograph of workers re-plastering the wall surrounding Kong Miao Temple; Thumbnail maps include a red dot marking the location of the Forbidden City.</p>
 </figcaption>
 </figure>
 
-The Forbidden City is an important cultural landmark. It goes by a few names, including <span lang="zh">紫禁城</span>. I have been told that the first character from that word, <span lang="zh">紫</span>, is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
+
+The Forbidden City goes by a few names, including <span lang="zh">紫禁城</span>. I have been told that the first character from that word, <span lang="zh">紫</span>, is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
 
 
 
 ### Note for fellow color nerds
 
-This character has another meaning, too: <mark>Purple <span lang="zh">紫色</span></mark> is how I see the word translated, typically. My understanding is that it's a warm hue, a little less blue and more red. Something like: <code>#400d2e</code>
+This character has an additional meaning, too: <mark>Purple <span lang="zh">紫色</span></mark> is how I see the word translated, typically. That feels a little generic to me. Maybe I am wrong, but I think the term is more specific than "purple"; describing a warm-ish color that is a little less blue, and more red. Something like: <code>#400d2e</code>
 
 <div style="display:inline-block;background-color:#400d2e;height:3em;width:3em;"></div>
 
-The red color of the walls surrounding Kong Miao and the Forbidden City is very distinctive. I had initially wanted to use that hue for the dot symbol in the book. <mark>Vermilion <span lang="zh">(朱色 zhu1se3)</span></mark> comes closest to describing it, I think. It's a bit earth-y and orange-y. In my mind's eye it looks like: <code>#b53d12</code>
+The red color of the walls surrounding Kong Miao and the Forbidden City is very distinctive. I had initially wanted to use that hue for the dot symbol in the book. <mark>Vermilion <span lang="zh">朱色</span></mark> comes closest to describing it, I think. It's a bit earth-y and orange-y. In my mind's eye it looks like: <code>#b53d12</code>
 
 <div style="display:inline-block;background-color:#b53d12;height:3em;width:3em;"></div>
 
-However, during beta testing on monochromatic e-ink screens, vermillion colors were not rendering with enough contrast against other visual elements. I needed something brighter. I consulted Ethan Schoonover's [Solarized] color palate and opted to use his: <code>#ff5c5c</code>.
+However, during beta testing on monochromatic e-ink screens, vermillion colors were not rendering with enough contrast against other visual elements. I needed something brighter. I consulted Ethan Schoonover's [Solarized] color palate and opted to use his red: <code>#ff5c5c</code>
 
-<div style="display:inline-block;background-color:#ff5c5c;height:3em;width:3em;margin-bottom:5rem;"></div>
+<div style="display:inline-block;background-color:#ff5c5c;height:3em;width:3em;"></div>
 
 [Solarized]: https://ethanschoonover.com/solarized/
 
@@ -364,7 +361,7 @@ At that point I also learned that, apparently, some of Amazon's e-ink hardware c
 
 Again, ImageOptim was used to shrink down file size.
 
-Creating these illustrations was the most challenging part of the V1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly _more_ time to complete than actually writing and editing the copy. 
+Creating these illustrations was the most challenging part of the V1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly more time to complete than actually writing and editing the copy. 
 
 Worth it? <strike>Absolutely. So far nobody has said a thing – which means the visuals are doing their job.</strike> You tell me: <hello@zachmccabe.com>.
 
@@ -409,7 +406,7 @@ The [AP Stylebook](https://www.zachmccabe.com/beijing/bts/style-guide.html) migh
 For the V2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
 
 
-
+<figure class="kaoPUSH">
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-2-1-a-0896.jpg 896w, 
@@ -418,7 +415,7 @@ https://images.zachmccabe.com/file/field-guide/field-guide-2-1-a-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-2-1-a-0448.jpg" 
 alt="Tower seen through willow branches" 
 sizes="99vw" loading="lazy" />
-
+</figure>
 
 
 ## Lessons learned
