@@ -36,7 +36,7 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 
 
-<figure>
+
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
@@ -56,7 +56,7 @@ https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
 alt="Milkweed plants in a field" 
 sizes="48vw" loading="lazy" />
-</figure>
+
 
 
 
@@ -73,7 +73,7 @@ Qi's crickets and cicadas were my favorite when I was a kid. His work was so dif
 
 
 
-
+<figure class="kaoPUSH">
 <img class="kao-1x1-full" 
 srcset="https://images.zachmccabe.com/file/briars/briars-20180814-6182-1792.jpg 1792w, 
 https://images.zachmccabe.com/file/briars/briars-20180814-6182-0896.jpg 896w, 
@@ -82,7 +82,7 @@ https://images.zachmccabe.com/file/briars/briars-20180814-6182-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180814-6182-0448.jpg" 
 alt="Cicada climbing deeply fissured bark on a big Post Oak tree" 
 sizes="99vw" loading="lazy" />
-
+</figure>
 
 
 
@@ -162,8 +162,8 @@ See this article at [A List Apart] for more on atomic units.
 
 
 
-<figure>
-<img style="max-width:min(656px,86vh);" src="https://images.zachmccabe.com/file/briars/briars-obsidian-656-opti.png" alt="IPTC metadata tags graphed as a network" loading="lazy" />
+<figure class="kaoPUSH">
+<img style="width:100%;max-width:min(656px,86vh);" src="https://images.zachmccabe.com/file/briars/briars-obsidian-656-opti.png" alt="IPTC metadata tags graphed as a network" loading="lazy" />
 <figcaption>
 IPTC metadata tags graphed as a network. Since this project is already organized using plaintext files, I briefly experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to capture and then print photo metadata and captions as markdown files. Then, those text files were brought into Obsidian.
 </figcaption>
@@ -213,7 +213,7 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 
 
-<figure>
+<figure class="kaoPUSH">
 <img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20201114-2610-1792.jpg 1792w, 
@@ -288,4 +288,3 @@ https://images.zachmccabe.com/file/briars/briars-20180413-2547-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180413-2547-0448.jpg" 
 alt="Remnants of a storm over oak forest." 
 sizes="99vw" loading="lazy" />
-
