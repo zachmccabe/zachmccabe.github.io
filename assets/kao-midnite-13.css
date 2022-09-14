@@ -188,6 +188,10 @@ figcaption, figcaption p {
   max-width: 66ch;
 }
 
+figcaption p {
+  font-size: var(--fs-070);
+}
+
 img[src$=".jpg"]{
   background: currentColor;
 }
