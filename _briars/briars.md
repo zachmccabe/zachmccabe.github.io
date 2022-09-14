@@ -46,7 +46,6 @@ https://images.zachmccabe.com/file/briars/briars-20181014-8128-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg" 
 alt="Monarch caterpillar on milkweed plant" 
 sizes="48vw" loading="lazy" />
-
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20180611-4711-1792.jpg 1792w, 
