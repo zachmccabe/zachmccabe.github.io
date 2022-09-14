@@ -248,6 +248,7 @@ I also [assume](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) that
 
 According to the Amazon product page, the V1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
 
+<figure class="kaoPUSH">
 <table class="kaoStripey">
   <thead>
     <tr>
@@ -270,7 +271,7 @@ According to the Amazon product page, the V1 field guide weighed 7978 KB. This i
     </tr>
   </tbody>
 </table>
-
+</figure>
 
 
 ## Maps and illustrations
@@ -278,6 +279,9 @@ According to the Amazon product page, the V1 field guide weighed 7978 KB. This i
 If you can't get there, you probably can't photograph it.
 
 To help orient the Reader, simplified thumbnail maps and a couple of visual symbols are used throughout the book. The locations of places in the text are described in relation to landmarks like the city's ring roads, the Drum Tower and the Forbidden City.
+
+The Forbidden City goes by a few names, including <span lang="zh">紫禁城</span>. I have been told that the first character from that word, <span lang="zh">紫</span>, is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
+
 
 
 <figure class="kaoPUSH">
@@ -300,17 +304,14 @@ sizes="33vw" loading="lazy" />
 </figure>
 
 
-The Forbidden City goes by a few names, including <span lang="zh">紫禁城</span>. I have been told that the first character from that word, <span lang="zh">紫</span>, is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
-
-
 
 ### Note for fellow color nerds
 
-This character has an additional meaning, too: <mark>Purple <span lang="zh">紫色</span></mark> is how I see the word translated, typically. That feels a little generic to me. Maybe I am wrong, but I think the term is more specific than "purple"; describing a warm-ish color that is a little less blue, and more red. Something like: <code>#400d2e</code>
+The more common meaning of the character <span lang="zh">紫</span> is <mark>purple <span lang="zh">紫色</span></mark>. Maybe I am wrong but I think the term is more specific than "purple", describing a warm-ish color with a little less blue, and more red. Something like: <code>#400d2e</code>
 
 <div style="display:inline-block;background-color:#400d2e;height:3em;width:3em;"></div>
 
-The red color of the walls surrounding Kong Miao and the Forbidden City is very distinctive. I had initially wanted to use that hue for the dot symbol in the book. <mark>Vermilion <span lang="zh">朱色</span></mark> comes closest to describing it, I think. It's a bit earth-y and orange-y. In my mind's eye it looks like: <code>#b53d12</code>
+The red color of the walls surrounding Kong Miao and the Forbidden City is very distinctive, even if it's not purple. I had initially wanted to use that red hue for the dot symbol in the book. <mark>Vermilion <span lang="zh">朱色</span></mark> comes closest to describing it, I think. It's a bit earth-y and orange-y. In my mind's eye it looks like: <code>#b53d12</code>
 
 <div style="display:inline-block;background-color:#b53d12;height:3em;width:3em;"></div>
 
@@ -479,7 +480,7 @@ Different apps make different choices about the app interface and how book conte
 
 A few Readers who were new to ebooks strongly preferred the iBooks app to the Kindle app. They found Kindle's UI unintuitive and troublesome.
 
-(To be fair, I think the Kindle app UI has improved *a lot* since we were testing early drafts.)
+(To be fair, I think the Kindle app UI has improved a lot since we were testing early drafts.)
 
 These Readers were frustrated because they couldn't find the table of contents -- much less the option to return to "last read", or bookmarks, or formatting options that let them choose the font size, background color and the rest.
 
