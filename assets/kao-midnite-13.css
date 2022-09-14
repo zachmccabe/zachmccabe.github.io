@@ -36,6 +36,11 @@ header, footer {
   width: auto;
 }
 
+footer p {
+  font-size: var(--fs-070);
+  color: #666;
+}
+
 header {
   max-width: 70ch;
 }
@@ -47,6 +52,12 @@ main {
   width: auto;
 }
 
+main p {
+  font-size: var(--fs-083);
+  text-align: left;
+  margin-bottom: 1.7em;
+  max-width: 56ch;
+}
 
 
 
@@ -186,10 +197,6 @@ figcaption, figcaption p {
   text-align: left;
   width: 100%;
   max-width: 66ch;
-}
-
-figcaption p {
-  font-size: var(--fs-070);
 }
 
 img[src$=".jpg"]{
@@ -376,11 +383,6 @@ p + figure {
 }
 */
 
-footer p {
-  font-size: var(--fs-070);
-  color: #666;
-}
-
 /*
 p + h2 {
   margin-top: 5rem;
@@ -390,13 +392,6 @@ p + h3, p + h4 {
   margin-top: 3rem;
 }
 */
-
-main p {
-  font-size: var(--fs-083);
-  text-align: left;
-  margin-bottom: 1.7em;
-  max-width: 56ch;
-}
 
 .scan p {
   margin-top: var(--mg-sml);
