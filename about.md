@@ -20,8 +20,6 @@ I grew up in the US, China and Japan.
 
 Most of the notes on this website are utilitarian. A few are weird! I am sharing these ideas hoping that a few will be interesting to you, too.
 
-On this website, when I'm writing through an idea that confuses me, I hold on to Karl Popper's make-a-bold-hypothesis-and-disprove-it thing. The other thing I hold on to is a Karl Weick saying that goes something like this: Argue like you're right. Listen like you're wrong.
-
 I want to keep my URLs consistent but give ideas space to wiggle around. Expect rewrites, edits, combinations, dissections and the occasional deleted page. I'm working with a particular sort of iteration in mind.
 
 ---
