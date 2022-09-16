@@ -36,4 +36,4 @@ For more info, check the [FAQ] or look [behind the scenes.]
 
 [FAQ]: https://www.zachmccabe.com/beijing/faq
 
-[behind the scenes.]: https://www.zachmccabe.com/beijing/bts
+[behind the scenes.]: https://www.zachmccabe.com/beijing/bts/colophon
