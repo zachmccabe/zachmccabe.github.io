@@ -2,7 +2,7 @@
 permalink: /beijing/bts/colophon
 robots: norobots
 layout: kao_midnite_3
-date: 2022-09-12
+date: 2022-09-18
 title: Making the field guide
 description: "How and why I built this digital book the way I did."
 lede: print
@@ -11,7 +11,7 @@ nav: |
   + [Timeline](https://www.zachmccabe.com/beijing/bts/colophon.html#timeline)
   + [The long way](https://www.zachmccabe.com/beijing/bts/colophon.html#the-long-way)
   + [Photos](https://www.zachmccabe.com/beijing/bts/colophon.html#photos)
-  + [Maps and illustrations](https://www.zachmccabe.com/beijing/bts/colophon.html#maps-and-illustrations)
+  + [Illustrations](https://www.zachmccabe.com/beijing/bts/colophon.html#illustrations)
   + [Copy](https://www.zachmccabe.com/beijing/bts/colophon.html#copy)
   + [Writing for mobile](https://www.zachmccabe.com/beijing/bts/colophon.html#writing-for-mobile)
   + [Lessons learned](https://www.zachmccabe.com/beijing/bts/colophon.html#lessons-learned)
@@ -83,6 +83,7 @@ src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.pn
 From research, to draft and design, to marketing and shipping the final product, I wanted to be hands-on for the whole process. Trading efficiency for a fully DIY approach would give me important insight for the next book… Wouldn't it?
 
 
+
 <figure class="kaoPUSH">
 <img class="kao-1x1-half" 
 srcset="
@@ -119,7 +120,6 @@ Each photo included in the Field Guide must:
 When I started the book, I asked myself a question: Does my reader even need to see the author's photos? After all, she's headed to Beijing to make her own.
 
 Test it! In the beta that went out to a hardy group of testers (readers?), the only photo included in the Field Guide was on the cover. Reader response was unanimous: "Where the hell are the photos, man?"
-
 
 
 
@@ -186,6 +186,7 @@ sizes="99vw" loading="lazy" />
 -->
 
 
+
 ### Version 2
 
 All photos are 1000px with a 1:1 ratio.
@@ -232,21 +233,9 @@ Amazon, iBooks and other platforms request authors upload "original, high resolu
 
 ### Notes from V1: picture perfect?
 
-Kindle is not a charitable platform for any kind of images – and delivering high-quality photography to readers is especially troublesome.<sup><a id="ref1" href="#note1" alt="footnote">1</a></sup>
+According to the Amazon product page, the V1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing." (If you're only going to read 1 book about Beijing, I suggest spending your time with Meyer's book, and not mine.)
 
-Compare Kindle to Apple's iBooks: Amazon charges authors by file size, for one thing. Meanwhile, the platform's code limits the responsive options we all take for granted with modern web browsers. And readers' devices run the gamut. (No more colorspace puns, I promise!)
 
-Research told me many photographers are very choosy about their displays – my images would need to meet the demands of top-shelf phones and tablets.<sup><a id="ref2" href="#note2" alt="footnote">2</a></sup>
-
-But device storage space is truly at a premium during international trips. An ebook like mine would be competing for space alongside movies for the flight, other ebooks and travel apps, and, most importantly for photographers, copies of their own images. It is easy to imagine a Reader backing up her photos to an iPad. She might also proof those images with an app like Lightroom, too.
-
-So, I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: "Due to its large file size, this book may take longer to download."
-
-I assume I'm not the only one who tries to download just-one-more before it's time to get on the plane?
-
-I also [assume](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
-
-According to the Amazon product page, the V1 field guide weighed 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, "Last Days of Old Beijing."
 
 <figure class="kaoPUSH">
 <table class="kaoStripey">
@@ -274,20 +263,47 @@ According to the Amazon product page, the V1 field guide weighed 7978 KB. This i
 </figure>
 
 
-## Maps and illustrations
+Kindle is not a charitable platform for any kind of images – and delivering high-quality photography to readers is especially troublesome.<sup><a id="ref1" href="#note1" alt="footnote">1</a></sup>
 
-If you can't get there, you probably can't photograph it.
+Compare Kindle to Apple's iBooks: Amazon charges authors by file size, for one thing. Meanwhile, the platform's code limits the responsive options we all take for granted with modern web browsers. And readers' devices run the gamut. (No more colorspace puns, I promise!)
 
-To help orient the Reader, simplified thumbnail maps and a couple of visual symbols are used throughout the book. The locations of places in the text are described in relation to landmarks like the city's ring roads, the Drum Tower and the Forbidden City.
+Research told me many photographers are very choosy about their displays – my images would need to meet the demands of top-shelf phones and tablets.<sup><a id="ref2" href="#note2" alt="footnote">2</a></sup>
 
-The Forbidden City goes by a few names, including <span lang="zh">紫禁城</span>. I have been told that the first character from that word, <span lang="zh">紫</span>, is a reference to Polaris, the North Star. I wanted to reference that vibe in the book.
+But device storage space is truly at a premium during international trips. An ebook like mine would be competing for space alongside movies for the flight, other ebooks and travel apps, and, most importantly for photographers, copies of their own images. It is easy to imagine a Reader backing up her photos to an iPad. She might also proof those images with an app like Lightroom, too.
+
+So, I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: "Due to its large file size, this book may take longer to download."
+
+I assume I'm not the only one who tries to download just-one-more before it's time to get on the plane?
+
+I also [assume](https://www.zachmccabe.com/beijing/bts/10-assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
 
 
 
 <figure class="kaoPUSH">
-<img style="width:min(48%,33vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-6th-ring.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of Beijing's 6 ring roads" />
-<img style="width:min(48%,33vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-city-center.svg" alt="Detail of a thumbnail map showing a simplified, abstract view of the city center" />
-<br />
+<img class="kao-1x1-third" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-6th-ring.svg" alt="Detail of a thumbnail map showing a simplified view of Beijing's 6 ring roads" />
+<img class="kao-1x1-third"  src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-city-center.svg" alt="Detail of a thumbnail map showing a simplifieed of the city center" />
+<img class="kao-1x1-third" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-red-dot.svg" alt="Detail of red dot symbol used in the field guide" />
+<figcaption>
+<p>Left to right: Schematic-like thumbnail map showing the city's 6 ring roads; Showing the 2nd Ring Road, the 6 lakes that make up Shichahai, and the Forbidden City; Detail of the red dot used on the thumbnail maps in the book. It shows the location of the Forbidden City.</p>
+</figcaption>
+</figure>
+
+
+
+## Illustrations
+
+To help orient the Reader, simplified, schematic-like thumbnail maps and a couple of visual symbols are used throughout the book.
+
+If you can't get there, you probably can't photograph it.
+
+The locations of places in the text are described in relation to landmarks like the city's ring roads, the Drum Tower and the Forbidden City. The later 2 are treasured cultural sites, and the Forbidden City is on most visitor's to-do list. In the context of wayfinding, you can't miss it: it is at the very center of Beijing, covers over 70 hectares and is surrounded by vivid, red walls that are nearly 8 meters tall.
+
+The Forbidden City goes by a few names, including <span lang="zh">紫禁城</span>. I have been told that the first character from that word, <span lang="zh">紫</span>, is a reference to Polaris, the North Star.
+
+
+
+
+<figure>
 <img style="width:min(48%,33vh);" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
@@ -296,26 +312,22 @@ https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg" 
 alt="Replastering red wall" 
 sizes="33vw" loading="lazy" />
-<img style="width:min(48%,33vh);" src="https://images.zachmccabe.com/file/field-guide/field-guide-detail-red-dot.svg" alt="Detail of red dot symbol used in the field guide" />
-<figcaption>
-<p>Left to right, top row: Thumbnail map showing the city's 6 ring roads; Thumbnail map showing the 2nd Ring Road, the 6 lakes that make up Shichahai, and the Forbidden City.</p>
-<p>Left to right, bottom row: Photograph of workers re-plastering the wall surrounding Kong Miao Temple; Thumbnail maps include a red dot marking the location of the Forbidden City.</p>
-</figcaption>
+<figcaption>Re-plastering the wall surrounding Kong Miao. Historically, the temple was associated with imperial affairs, and the architecture of the complex signals that prestigious role.</figcaption>
 </figure>
 
 
 
-### Note for fellow color nerds
+### Red walls
 
-The more common meaning of the character <span lang="zh">紫</span> is <mark>purple <span lang="zh">紫色</span></mark>. Maybe I am wrong but I think the term is more specific than "purple", describing a warm-ish color with a little less blue, and more red. Something like: <code>#400d2e</code>
+A more common meaning of the character <span lang="zh">紫</span> is <mark>purple <span lang="zh">紫色</span></mark>. Maybe I am wrong but I think as a color term this word describes a warm-ish color with a little less blue, and more red. Something like: <code>#400d2e</code>
 
 <div style="display:inline-block;background-color:#400d2e;height:3em;width:3em;"></div>
 
-The red color of the walls surrounding Kong Miao and the Forbidden City is very distinctive, even if it's not purple. I had initially wanted to use that red hue for the dot symbol in the book. <mark>Vermilion <span lang="zh">朱色</span></mark> comes closest to describing it, I think. It's a bit earth-y and orange-y. In my mind's eye it looks like: <code>#b53d12</code>
+The red color of the walls surrounding Kong Miao and the Forbidden City is very distinctive, even if it's not purple. I had initially wanted to use that red for the dot symbol in the book. <mark>Vermilion <span lang="zh">朱色</span></mark> comes closest to describing it, I think. It's a bit earth-y and orange-y. In my mind's eye it looks like: <code>#b53d12</code>
 
 <div style="display:inline-block;background-color:#b53d12;height:3em;width:3em;"></div>
 
-However, during beta testing on monochromatic e-ink screens, vermillion colors were not rendering with enough contrast against other visual elements. I needed something brighter. I consulted Ethan Schoonover's [Solarized] color palate and opted to use his red: <code>#ff5c5c</code>
+However, during beta testing on monochromatic e-ink screens, vermillion colors were not rendering with enough contrast against other visual elements. I needed something lighter. I consulted Ethan Schoonover's [Solarized] color palate and opted to use his red: <code>#ff5c5c</code>
 
 <div style="display:inline-block;background-color:#ff5c5c;height:3em;width:3em;"></div>
 
@@ -324,48 +336,26 @@ However, during beta testing on monochromatic e-ink screens, vermillion colors w
 
 
 
-### Okay let's make some maps
-
-Offline maps weren't part of the plan, at first. If most readers will be reading the field guide on their phone, won't they just reach for their favorite maps app?
-
-As research progressed I realized that I'd need to include custom maps for 3 reasons. Feedback from early readers convinced me that:
-
-1. Few travelers are willing to endure the extra hassles caused by the GFW to get to that favorite maps app.
-2. Although there are very good English-language maps designed for tourists, there were still large info gaps.
-3. Maps are an efficient, quick way to organize and explain complex ideas – making them an ideal way to deliver info to [my reader](https://www.zachmccabe.com/beijing/bts/10-assumptions#the-ebook). 
-
-In the V1 field guide, I included 14 high-level, thumbnail maps alongside the 17 illustrations I’d already made. In the V2 field guide, some of these were removed. Readers wanted more photography and, to prevent the file size of the ebook from getting too large, I decided to cut some of the illustrations, as well as the onboard maps from the Location Notes section. The notes already included geolocation coordinates, and links to both Google Maps and AutoNavi.
-
-Both the maps and other illustrations were created in SVG.
-
-Joni Trythall's [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/) is brilliant, and I only wish I'd found it sooner.
-
-Maps were illustrated using [Maperative](http://maperitive.net/) on top of open-source [OSM data](http://www.openstreetmap.org/about). Some hand-polishing of the raw XML and the output SVG files was needed. Maperative is a brilliant tool although it takes some extra work to get it up and running on MacOS. 
-
-Anyway, none of the other options I found provided cost-effective licensing for ebooks.
-
-Other illustrations were just coded by hand in [BBEdit](https://www.barebones.com/products/bbedit/).
-
+<figure class="kaoPUSH">
+<img class="kao-1x1-half" src="https://images.zachmccabe.com/file/field-guide/field-guide-spring-festival.svg" alt="Infographic showing how Spring Festival starts on the first new moon of the new year, and the timing of other holiday events are also based on the lunar phase: the Lantern Festival is 15 days later, on the first full moon of the new year." />
+<figcaption>
+The field guide includes simple illustrations, like this infographic about Spring Festival showing how the timing of holiday events is based on lunar phases.
+</figcaption>
+</figure>
 
 
 
 ### SVG GIF JPG wtf
 
-Reality is not spec. Face palm.
+All illustrations were created in SVG, which is a lossless, vector image format. Joni Trythall's [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/) is brilliant, and I only wish I'd found it sooner.
 
-- V2: Assuming enough time has past that it's safe to go with PNG.
-- V1: All non-photo assets were translated to GIF for max backwards compatibility.
+Thumbnail maps were illustrated using [Maperative](http://maperitive.net/) on top of open-source [OSM data](http://www.openstreetmap.org/about). Some hand-polishing of the raw XML and the output SVG files was needed. Maperative is a brilliant tool although it takes some extra work to get it up and running on MacOS. 
 
-Originally, all the maps and illustrations in the V1 field guide were to be published in SVG. According to both the EPUB spec and Amazon's spec for their own formats, SVG should've worked. Reality is not spec. Early tests (2016) revealed that, in fact, Kindle's SVG support was too limited. 
+Originally, all the illustrations in the V1 field guide were to be published in SVG format, too. According to both the EPUB spec and Amazon's spec for their own formats, SVG should've worked. Reality is not spec. Early tests (2016) revealed that, in fact, Kindle's SVG support was too limited. 
 
 At that point I also learned that, apparently, some of Amazon's e-ink hardware couldn't render PNG. In the V1 field guide, it looked like my only options were JPG for photos, and GIF<sup><a id="ref3" href="#note3" alt="footnote">3</a></sup> for everything else.
 
-Again, ImageOptim was used to shrink down file size.
-
-Creating these illustrations was the most challenging part of the V1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly more time to complete than actually writing and editing the copy. 
-
-Worth it? <strike>Absolutely. So far nobody has said a thing – which means the visuals are doing their job.</strike> You tell me: <hello@zachmccabe.com>.
-
+For the V2 field guide, it seemed that file format support had improved slighty for Kindle e-ink tablets. I used PNGs for the illustrations.
 
 
 
@@ -398,13 +388,14 @@ Presentation [width](https://baymard.com/blog/line-length-readability) is import
 - On narrow phone screens, short lines of text feel breathless.
 - On wider screens, long lines of text are fatiguing.
 
-Assuming that most Readers would be paging through the field guide on their phones and tablets, I wrote for _that_. And that took some practice. I reread the [usual sources](https://ux.stackexchange.com/questions/108801/what-is-the-best-number-of-paragraph-width-for-readability). I spent a lot of time working on the flow of information across sections, paragraphs and sentences. I refined my tone, syntax and word choice for the environment I assume my Reader will inhabit<sup><a id="ref4" href="#note4" alt="footnote">4</a></sup> while reading the field guide.
+Assuming that most Readers would be paging through the field guide on their phones and tablets, I wrote for that. And that took some practice. I reread the [usual sources](https://ux.stackexchange.com/questions/108801/what-is-the-best-number-of-paragraph-width-for-readability). I spent a lot of time working on the flow of information across sections, paragraphs and sentences. I refined my tone, syntax and word choice for the environment I assume my Reader will inhabit<sup><a id="ref4" href="#note4" alt="footnote">4</a></sup> while reading the field guide.
 
 The [AP Stylebook](https://www.zachmccabe.com/beijing/bts/style-guide.html) might be Religion, but that good book provides no advice on typefaces, [line length](http://maxdesign.com.au/articles/em/) or other UI issues.
 
 [Butterick](https://practicaltypography.com/line-length.html) and the [BBC](http://www.bbc.co.uk/academy/journalism/skills/digital-journalism/article/art20141202144618106) did have some ideas. An English-language paragraph should be between 45 and 60 characters wide.
 
 For the V2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
+
 
 
 <figure class="kaoPUSH">
@@ -419,9 +410,8 @@ sizes="99vw" loading="lazy" />
 </figure>
 
 
-## Lessons learned
 
-If you're making a product you will have to experiment, test and revise. Recruit your team early on.
+## Lessons learned
 
 The Photographers Field Guide to Beijing is the first book I've written. It's not the first book I've helped produce, though. It's also not my first big, hairy project. 
 
@@ -433,9 +423,7 @@ Again, I'd like to emphasize the importance of having a compass – you need to 
 2. Find a good editor. If you're including maps, illustrations and photos, pull in a photo editor or a designer, too. These eagle-eyed folks will catch mistakes and help you through the 11th-hour gales.
 3. I was told to divide my time equally between making and marketing. And I should've listened.
 
-From the start I knew I wanted to do the whole thing myself. I wanted to understand how it works. It really was worth the extra effort, confusion and truly sickening number of late nights.
-
-Go make a book<br />You'll be happy you did<br />–Zach
+From the start I knew I wanted to do the whole thing myself. I wanted to understand how it works. It was worth the extra effort.
 
 
 
@@ -488,4 +476,4 @@ The experience of getting lost in the Kindle app was no different than getting l
 
 Later on, I cut out all the one-way, internal links. Readers seemed happy to rely on the table of contents to navigate. Some apps present the table of contents at the beginning of the book, most apps display it as a dropdown menu.
 
-And, with footnotes, I made sure to use 2-way links -- just like on this webpage. <a href="#ref4" alt="back">↩</a>
+And, with footnotes, I made sure to use 2-way links. <a href="#ref4" alt="back">↩</a>
