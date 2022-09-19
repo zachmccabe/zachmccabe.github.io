@@ -4,7 +4,8 @@ title: Field Guide FAQ
 date: 2022-01-15
 description: "Have a question about The Photographers Field Guide to Beijing? I'll do my best to answer you here. Read on."
 lede: print
-nav: |
+nav: |  
+  + Table of Contents
   + [What's the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#whats-the-latest-version-of-the-field-guide)
   + [Who is this book for?](https://www.zachmccabe.com/beijing/faq.html#who-is-this-book-for)
   + [Why is this book free?](https://www.zachmccabe.com/beijing/faq.html#why-is-this-book-free)
