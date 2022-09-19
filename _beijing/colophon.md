@@ -305,14 +305,14 @@ The Forbidden City goes by a few names, including <span lang="zh">紫禁城</spa
 
 
 <figure>
-<img style="width:min(48%,33vh);" 
+<img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg 448w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0224.jpg 224w" 
 src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg" 
 alt="Replastering red wall" 
-sizes="33vw" loading="lazy" />
+sizes="48vw" loading="lazy" />
 <figcaption>Re-plastering the wall surrounding Kong Miao. Historically, the temple was associated with imperial affairs, and the architecture of the complex signals that prestigious role.</figcaption>
 </figure>
 
