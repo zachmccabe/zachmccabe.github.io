@@ -6,10 +6,11 @@ date: 2021-09-06
 update: 2022-05-13
 description: "Notes on keeping in touch with friends and clients from far away. Better long-distance communication starts with your state of mind."
 lede: print
-nav: | 
- + [North Star](https://www.zachmccabe.com/travel/timezones#north-star)
- + [Mars Time](https://www.zachmccabe.com/travel/timezones#mars-time)
- + [Signals and scripts](https://www.zachmccabe.com/travel/timezones#signals-and-scripts)
+nav: |  
+  + Table of Contents
+  + [North Star](https://www.zachmccabe.com/travel/timezones#north-star)
+  + [Mars Time](https://www.zachmccabe.com/travel/timezones#mars-time)
+  + [Signals and scripts](https://www.zachmccabe.com/travel/timezones#signals-and-scripts)
 
 ---
 
