@@ -1,6 +1,7 @@
 ---
 robots: norobots
 permalink: /tools/
+isindex: yes
 layout: kao_midnite_3
 title: Tools
 date: 2022-08-31
