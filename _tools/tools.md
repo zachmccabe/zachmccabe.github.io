@@ -26,13 +26,13 @@ nav: |
 
 ## Time and mind management
 
-Nix notifications, thx.
+Nix notifications, thx :)
 
 Orgzly and Markor on Android.
 
 Pomodoro technique for screen-based stuff.
 
-Quick 10 minutes of sitting meditation, and a good hour of walking. Every day :)
+Quick 10 minutes of sitting meditation and a good hour of walking.
 
 
 
