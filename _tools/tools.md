@@ -6,7 +6,8 @@ title: Tools
 date: 2022-08-31
 description: "Running list of some of the things I'm using right now for work and life. Noting a few techniques I use, and a few problems I'm looking to solve, too."
 lede: print
-nav: |
+nav: |  
+  + Table of Contents
   + [Time and mind management](https://www.zachmccabe.com/tools/#time-and-mind-management) 
   + [Digital asset management](https://www.zachmccabe.com/tools/#digital-asset-management)
   + [Web and ebook design](https://www.zachmccabe.com/tools/#web-and-ebook-design)
