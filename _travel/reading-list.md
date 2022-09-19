@@ -5,7 +5,8 @@ title: Reading list
 date: 2021-12-05
 description: "Some of my favorite reads on cross-cultural communication. Biased towards the practical."
 lede: print
-nav: |
+nav: |  
+  + Table of Contents
   + [Deep Diversity by Choudhury](https://www.zachmccabe.com/travel/reading-list.html#deep-diversity-by-choudhury)
   + [The Culture Map by Meyers](https://www.zachmccabe.com/travel/reading-list.html#the-culture-map-by-meyer)
   + [Trust by Khanna](https://www.zachmccabe.com/travel/reading-list.html#trust-by-khanna)
