@@ -6,7 +6,8 @@ date: 2020-09-14
 title: Style guide
 description: Style guide for The Photographers Field Guide to Beijing
 lede: print
-nav: |
+nav: |  
+  + Table of Contents
   + [Mostly AP style?](https://www.zachmccabe.com/beijing/bts/style-guide.html#mostly-ap-style)
   + [Styling content](https://www.zachmccabe.com/beijing/bts/style-guide.html#styling-content)
   + [Styling code](https://www.zachmccabe.com/beijing/bts/style-guide.html#styling-code)
