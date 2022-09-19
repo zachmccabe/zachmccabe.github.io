@@ -6,10 +6,11 @@ date: 2019-04-04
 update: 2022-05-15
 description: "Notes on how I'm using questions to have better cross-cultural conversations."
 lede: print
-nav: | 
- + [Another place](https://www.zachmccabe.com/travel/dumb-questions#another-place)
- + [Some heuristics don't travel well](https://www.zachmccabe.com/travel/dumb-questions#some-heuristics-dont-travel-well)
- + [Culturally adequate questions](https://www.zachmccabe.com/travel/dumb-questions#culturally-adequate-questions)
+nav: |  
+  + Table of Contents
+  + [Another place](https://www.zachmccabe.com/travel/dumb-questions#another-place)
+  + [Some heuristics don't travel well](https://www.zachmccabe.com/travel/dumb-questions#some-heuristics-dont-travel-well)
+  + [Culturally adequate questions](https://www.zachmccabe.com/travel/dumb-questions#culturally-adequate-questions)
  
 ---
 
