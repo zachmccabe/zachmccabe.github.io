@@ -26,7 +26,7 @@ It's easy to give your attention to the people and places around you. That physi
 
 I like to visualize this with the Eisenhower urgent-important matrix. Sometimes I like to add an extra row: urgent-important-nearby.
 
-<table class="kaoBoxy">
+<table class="kaoPUSH kaoBoxy">
   <tr>
     <td></td>
     <th scope="row">Urgent<br/>+</th>
