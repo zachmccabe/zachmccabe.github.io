@@ -10,6 +10,8 @@ lede: print
 ---
 
 
+Crumb: {%- include crumb_collection_only.html -%}
+
 Site url: {{ site.url }}
 
 Site baseurl, with absolute_url filter: {{ site.baseurl | absolute_url }}
