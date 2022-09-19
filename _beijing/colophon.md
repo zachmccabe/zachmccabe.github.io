@@ -6,7 +6,8 @@ date: 2022-09-18
 title: Making the field guide
 description: "How and why I built this digital book the way I did."
 lede: print
-nav: |
+nav: |  
+  + Table of Contents
   + [Map and compass](https://www.zachmccabe.com/beijing/bts/colophon.html#map-and-compass)
   + [Timeline](https://www.zachmccabe.com/beijing/bts/colophon.html#timeline)
   + [The long way](https://www.zachmccabe.com/beijing/bts/colophon.html#the-long-way)
