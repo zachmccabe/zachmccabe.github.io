@@ -12,11 +12,15 @@ lede: print
 
 Site url: {{ site.url }}
 
-Site baseurl: {{ site.baseurl }}
+Site baseurl, with absolute_url filter: {{ site.baseurl | absolute_url }}
 
-Page baseurl {{ page.baseurl }}
+Page baseurl, with absolute_url filter: {{ page.baseurl | absolute_url }}
 
 Page url: {{ page.url }}
+
+Site collection: {{ site.collection }}
+
+Page collection: {{ page.collection }}
 
 ---
 
