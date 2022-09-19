@@ -48,7 +48,7 @@ header {
 main {
   text-align: left;
   margin: 0;
-  padding: 0 0 1.6rem 1rem;
+  padding: 0 0 1.7rem 1rem;
   width: auto;
 }
 
@@ -61,6 +61,10 @@ main p {
   font-size: var(--fs-083);
   text-align: left;
   max-width: 46ch;
+}
+
+main p + p {
+  margin-top: 1.2em;
 }
 
 main table {
@@ -94,7 +98,7 @@ main table {
   font-size: var(--fs-100);
   text-align: left;
   margin: 0;
-  padding: 1rem 0 3em 1rem;
+  padding: 1rem 0 3.58rem 1rem;
   width: auto;
 }
 
@@ -408,6 +412,11 @@ p + h3, p + h4 {
 }
 */
 
+.scan {
+ padding-top: 0.83rem; 
+}
+
+/*
 .scan p:first-child {
   padding-top: 3em;
 }
@@ -415,6 +424,7 @@ p + h3, p + h4 {
 .scan p + p {
   margin-top: 1.7em;
 }
+*/
 
 pre {
   font-size: var(--fs-pre);
@@ -455,6 +465,6 @@ ul + h2, ul + h3, ul + h4 {
     color: rgba(38, 138, 210, 0.87);
   }
   .kaoNAV {
-    background: rgba(255,255,255,0.047);
+    background: rgba(255,255,255,0.08);
   }
 }
