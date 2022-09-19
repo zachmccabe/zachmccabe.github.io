@@ -3,9 +3,10 @@ robots: norobots
 layout: kao_midnite_3
 title: ExifTool notes
 date: 2022-05-20
-description: "Snippets I use and notes on what I'm learning about image metadata."
+description: "Snippets I use and notes on what I'm learning about this fantastic tool and image metadata."
 lede: print
-nav: |
+nav: |  
+  + Table of Contents
   + [Useful basics](https://www.zachmccabe.com/tools/exiftool-notes#useful-basics)
   + [Writing directly into video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-directly-into-video-files)
   + [Working with captions, labels and location tags](https://www.zachmccabe.com/tools/exiftool-notes#working-with-captions-labels-and-location-tags)
