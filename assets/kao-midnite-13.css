@@ -52,11 +52,20 @@ main {
   width: auto;
 }
 
+main ol, main ul {
+  margin-top: calc(1em / 0.83);
+  margin-bottom: calc(1em / 0.83);
+}
+
 main p {
   font-size: var(--fs-083);
   text-align: left;
-/*  margin-bottom: 1.7em; */
-  max-width: 56ch;
+  max-width: 46ch;
+}
+
+main table {
+  margin-top: calc(0.5em + (1em / 0.83));
+  margin-bottom: calc(0.5em + (1em / 0.83));
 }
 
 
@@ -102,9 +111,14 @@ main p {
 
 .kaoNAV {
   background: linear-gradient(145deg, rgba(38,139,210,0.3) 0%,  rgba(255,255,255,0) 100%);
-  margin: 1.6rem 0 5rem;
-  padding: 1em 0.5em;
-  max-width: 27rem;
+  margin: var(--mg-sml) 0 var(--mg-lrg);
+  padding: 1.7em 1.3em 0.5em;
+  width: 100%;
+  max-width: 21rem;
+}
+
+.kaoNAV a {
+color: currentColor;
 }
 
 .kaoNAV ul {
@@ -115,9 +129,9 @@ main p {
 
 .kaoNAV li {
   font-size: var(--fs-083);
-  padding-left: 0.5em;
-  padding-bottom: 0.9em;
-/*  padding-bottom: 1.2em; */
+  margin: 0;
+  padding: 0 0 1.7em;
+  max-width: 36ch;
 }
 
 .kaoPUSH {
@@ -394,8 +408,12 @@ p + h3, p + h4 {
 }
 */
 
-.scan p {
-  margin-top: var(--mg-sml);
+.scan p:first-child {
+  padding-top: 3em;
+}
+
+.scan p + p {
+  margin-top: 1.7em;
 }
 
 pre {
@@ -428,8 +446,15 @@ ul + h2, ul + h3, ul + h4 {
 }
 */
 
-@media (prefers-color-scheme: dark) {body {
-  background-color: #000;
-  color: #ccc;
-    }
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: rgba(255, 255, 255, 0.67);
+  }
+  a {
+    color: rgba(38, 138, 210, 0.87);
+  }
+  .kaoNAV {
+    background: rgba(255,255,255,0.047);
+  }
 }
