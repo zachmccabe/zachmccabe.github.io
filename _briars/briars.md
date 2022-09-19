@@ -7,7 +7,8 @@ date: 2021-03-18
 update: 2022-08-02
 description: "Project notes from Laughing Lost in Briars."
 lede: print
-nav: |
+nav: |  
+  + Table of Contents
   + [Project inspiration](https://www.zachmccabe.com/briars/#project-inspiration)
   + [Keeping it real](https://www.zachmccabe.com/briars/#keeping-it-real)
   + [Researching the story](https://www.zachmccabe.com/briars/#researching-the-story)
