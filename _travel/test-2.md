@@ -6,6 +6,8 @@ date: 2021-09-06
 update: 2022-05-13
 description: "This is only a test. Test page 2."
 lede: print
+nav: | 
+ + just a test
 
 ---
 
