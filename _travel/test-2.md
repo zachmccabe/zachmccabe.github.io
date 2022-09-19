@@ -10,7 +10,7 @@ lede: print
 ---
 
 
-Crumb: {%- include crumb_collection_only.html -%}
+Crumb: {% include breadcrumbs_collection_only.html %}
 
 Site url: {{ site.url }}
 
