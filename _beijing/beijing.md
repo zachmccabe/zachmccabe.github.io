@@ -1,5 +1,6 @@
 ---
 permalink: /beijing/
+hub: yes
 layout: kao_midnite_3
 title: Photographers Field Guide to Beijing
 date: 2022-09-12
