@@ -1,6 +1,7 @@
 ---
 robots: norobots
 permalink: /travel/
+hub: okay
 layout: kao_midnite_3
 title: Travel notes
 date: 2022-01-09
