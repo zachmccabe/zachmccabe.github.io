@@ -1,6 +1,7 @@
 ---
-permalink: /briars/
 robots: norobots
+permalink: /briars/
+hub: okay
 layout: kao_midnite_3
 title: Laughing Lost in Briars
 date: 2021-03-18
