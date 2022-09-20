@@ -328,7 +328,7 @@ a[href*="//"]:not([href*="zachmccabe.com"]):after {
 }
 
 code {
-  background: #ccc;
+  background: #b3b3b3;
   color: #202020;
   font-size: var(--fs-pre);
   padding: 0.1rem;
@@ -427,12 +427,13 @@ p + h3, p + h4 {
 */
 
 p + pre {
-padding-top: 1.2em;
+  padding-top: 1.2em;
 }
 
 pre {
   font-size: var(--fs-pre);
   width: 100%;
+  max-width: 46ch;
 }
 
 pre code {
@@ -462,12 +463,20 @@ ul + h2, ul + h3, ul + h4 {
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #000;
-    color: rgba(255, 255, 255, 0.67);
+    color: #b3b3b3;
+  }
+  .kaoNAV {
+    background: #05111a;
+    color: #b3b3b3;
+  }
+  .kaoNAV a {
+    color: #bcbcbc;
   }
   a {
     color: rgba(38, 138, 210, 0.87);
   }
-  .kaoNAV {
-    background: rgba(255,255,255,0.08);
+  code {
+    background: #202020;
+    color: #b3b3b3;
   }
 }
