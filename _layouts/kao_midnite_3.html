@@ -24,7 +24,7 @@
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <main>
-{%- if page.lede == "print" -%}<p>{%- include print_update.html -%}&nbsp;&nbsp;{%- include emoji_collection_switch.html -%}&nbsp;&nbsp;{{ page.description }}</p>{%- endif -%}
+{%- if page.lede == "print" -%}<p>{%- if page.hub == nil -%}{%- include breadcrumbs_collection_only.html -%}&nbsp;&nbsp{%- endif -%}{%- include print_update.html -%}&nbsp;&nbsp;{%- include emoji_collection_switch.html -%}&nbsp;&nbsp;{{ page.description }}</p>{%- endif -%}
 {{ content }}
 {%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
 {%- if page.collection -%}<p class="breadbox"><nav class="breadcrumbs">{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
