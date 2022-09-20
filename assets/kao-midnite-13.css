@@ -426,6 +426,10 @@ p + h3, p + h4 {
 }
 */
 
+p + pre {
+padding-top: 1.2em;
+}
+
 pre {
   font-size: var(--fs-pre);
   width: 100%;
