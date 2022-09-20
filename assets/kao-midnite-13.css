@@ -426,7 +426,7 @@ p + h3, p + h4 {
 }
 */
 
-p + pre {
+p + pre, pre + p {
   padding-top: 1.2em;
 }
 
