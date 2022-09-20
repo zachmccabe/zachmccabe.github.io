@@ -79,4 +79,4 @@ What works so well in one community won't have the same appeal in "another place
 
 In this triage context, I've learned that I will confuse myself by asking, "what signals am I sending?" It's more productive to ask, "what signals are being scanned for?" Framing the question this way gives you options to choose a route forward.
 
-It's still a lot, I know. It doesn't need to be perfect. Navigate by dead-reckoning. Adjust your course when needed. You will get there.
+It won't be perfect; it doesn't need to be perfect. Navigate by dead-reckoning. Adjust course as needed. You will get there.
