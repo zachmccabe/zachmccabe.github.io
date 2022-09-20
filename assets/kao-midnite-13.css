@@ -329,7 +329,7 @@ a[href*="//"]:not([href*="zachmccabe.com"]):after {
 
 code {
   background: #ccc;
-  color: #333;
+  color: #202020;
   font-size: var(--fs-pre);
   padding: 0.1rem;
 }
