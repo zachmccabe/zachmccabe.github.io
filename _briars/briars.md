@@ -93,7 +93,7 @@ These pictures are made as a diary. The story is nonfiction.
 
 For Briars, like with any story, nonfiction is defined by how you interact with your subject and your audience.
 
-The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the expectations surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends' curiosity, and my own.
+The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the stories surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends' curiosity, and my own.
 
 Briars initially went out to those friends via direct message on WeChat, later expanding to Instagram. (Although I no longer use those 2 platforms, I am always tinkering with new ways to share the project.)
 
@@ -106,11 +106,12 @@ I do my best to remember all this when I frame the scene, choose one picture ove
 
 ## Researching the story
 
-To learn more about the ecosystem processes happening in front of me I like to use field guides, [iNaturalist,] and free publications from the Department of Agriculture's [Natural Resources Conservation Service.] Learning this stuff is important for land stewardship, obviously, and helps me to be a better observer in general. Studying a bit of natural history helps me to make better pictures, too -- it provides context for storytelling. I'm not an expert but what I learn improves my chances of being in the right place at the right time, too. For example:
+To learn more about the ecosystem processes happening in front of me I like to use field guides, [iNaturalist,] and free publications from the Department of Agriculture's [Natural Resources Conservation Service.] Learning this stuff is important for land stewardship, obviously, and helps me to be a better observer in general. Studying a bit of natural history helps me to make better pictures, too -- it provides context for storytelling. What I learn improves my chances of being in the right place at the right time. For example:
 
 - Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
 - Move softly and deliberately. This is critical when working around things that might bite, kick, or shove back.
-- To the best of my judgement, I prioritize welfare of the places, plants and animals I'm photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic.
+
+To the best of my judgement, I prioritize welfare of the places, plants and animals I'm photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic.
 
 [iNaturalist,]: https://www.inaturalist.org/
 
