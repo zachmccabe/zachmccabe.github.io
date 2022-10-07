@@ -1,5 +1,5 @@
 ---
-permalink: https://www.zachmccabe.com/beijing/colophon
+permalink: /beijing/colophon
 redirect: https://www.zachmccabe.com/beijing/bts/colophon
 robots: norobots
 layout: kao_midnite_3
