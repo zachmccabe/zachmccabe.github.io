@@ -65,8 +65,14 @@ https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.png 448
 https://images.zachmccabe.com/file/field-guide/field-guide-cover-140x224.png 224w" 
 src="https://images.zachmccabe.com/file/field-guide/field-guide-cover-280x448.png" alt="Photographers Field Guide to Beijing cover" sizes="30%" loading="lazy" />
 
-<figcaption>Detail from the book cover used for version 2: Type is Source Sans Pro. I put the design together using Canva. It is quite a capable web app, I think. The Drum Tower in the picture is a historic landmark in the heart of the old city. That photo was processed using Nik Silver Effex. From there, I added a color gradient using Nik Color Effex to create the image used on the book cover.</figcaption>
+<figcaption>Detail from the book cover used for version 2.</figcaption>
 </figure>
+
+
+
+### On the cover
+
+Woo hoo, there's a new cover for version 2! Type is Montserrat by Julieta Ulanovsky and Source Sans Pro by Paul D Hunt. I put the design together using Canva. It is quite a capable web app, I think. The Drum Tower in the picture is a historic landmark in the heart of the old city. That photo was processed using Nik Silver Effex. From there, I added a color gradient using Nik Color Effex to create the image used on the book cover.
 
 
 
@@ -443,7 +449,7 @@ There are several challenges with photos and visual content – and Amazon itsel
 
 <h4 id="note2">Note 2</h4>
 
-[DPI.lv](http://dpi.lv/) helped me get a better idea of my reader's resolution needs. Then it was time to experiment. Like the rest of the content, photos were tested on half a dozen different devices. Then I solicited feedback (and screenshots) from beta testers. <a href="#ref2" alt="back">↩</a>
+[DPI.lv](https://dpi.lv/) helped me get a better idea of my reader's resolution needs. Then it was time to experiment. Like the rest of the content, photos were tested on half a dozen different devices. Then I solicited feedback (and screenshots) from beta testers. <a href="#ref2" alt="back">↩</a>
 
 
 <h4 id="note3">Note 3</h4>
