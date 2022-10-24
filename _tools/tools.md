@@ -63,7 +63,7 @@ Calibre for troubleshooting reflowable ebooks.
 
 Github Pages for this website.
 
-ImageOptim is better than anything else I've tried at optimizing JPG and PNG file size; I like to use it with an macOS Automator workflow. (Probably would be smart to let a CDN handle this automagically but that's overkill for my current use case.)
+ImageOptim is better than anything else I've tried at optimizing JPG and PNG file size; I like to use it with an macOS Automator workflow. (Probably would be smart to let a CDN handle this auto-magically but that's overkill for my current use case.)
 
 Mac mini + floor desk + pandemic fern, now well-shaggy.
 
