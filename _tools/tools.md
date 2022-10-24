@@ -57,8 +57,6 @@ Syncthing on Android + Mac.
 
 ## Web and ebook design
 
-Adobe CC for collaborative projects.
-
 AP Stylebook in print and, finally, as an ebook, too :)
 
 Calibre for troubleshooting reflowable ebooks.
