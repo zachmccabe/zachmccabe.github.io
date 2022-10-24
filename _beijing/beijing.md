@@ -9,7 +9,7 @@ description: "Get answers to the questions only photographers ask. Go capture th
 ---
 
 
-Get answers to the questions only photographers ask. Learn when to shoot fall colors, where to spend blue hour, and how to deal with smog. Go capture the remarkable story of China's capital.
+Get answers to the questions only photographers ask. Learn when to find fall colors, where to spend blue hour, and how to deal with smog. Go capture the remarkable story of China's capital.
 
 <figure>
 <img class="kao-1x1-half" 
