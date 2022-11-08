@@ -9,7 +9,7 @@ description: "Minor artifacts as I try to process interesting chats with friends
 
 ---
 
-🍵 Minor artifacts as I try to process interesting chats with friends, clients, strangers.
+🍵 Minor artifacts as I process interesting chats with friends, clients, strangers.
 
 <div class="scan" markdown="1">
 
