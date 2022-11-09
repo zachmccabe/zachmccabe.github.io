@@ -10,11 +10,10 @@ lede: print
 nav: |  
   + Table of Contents
   + [Time and mind management](https://www.zachmccabe.com/tools/#time-and-mind-management) 
+  + [Writing](https://www.zachmccabe.com/tools/#writing)
+  + [Photography](https://www.zachmccabe.com/tools/#photography)
   + [Digital asset management](https://www.zachmccabe.com/tools/#digital-asset-management)
-  + [Web and ebook design](https://www.zachmccabe.com/tools/#web-and-ebook-design)
-  + [Photo](https://www.zachmccabe.com/tools/#photo)
-  + [Work and play outside](https://www.zachmccabe.com/tools/#work-and-play-outside)
-  + [Longevity](https://www.zachmccabe.com/tools/#longevity)
+  + [Play outside or die](https://www.zachmccabe.com/tools/#play-outside-or-die)
 
 ---
 
@@ -22,19 +21,6 @@ nav: |
 
 {% include page_nav.html %}
 
-
-
-
-Time and mind management
-Writing
-Photography
-Digital asset management
-Web and ebook publishing
-Outside or die
-NB
-
-
----
 
 
 ## Time and mind management
@@ -107,6 +93,7 @@ Syncthing on Android + Mac. Been using it for several years, and it's awesome.
 
 - To do: Not sure I've got optimal Rclone set up. It's so slow. Keeping an eye out for alternatives…
 - To do: Need to write up my notes after trying out new workflows for reading and writing IPTC and XMP metadata on Andriod, iOS, MacOS.
+
   Tl;dr: even in 2022, mobile is still no place to manage picture archives or image metadata, I've found 🎲
 
 [learning ExifTool.]: https://www.zachmccabe.com/tools/exiftool-notes
@@ -129,7 +116,7 @@ You can read all the gory details on building The Photographers Field Guide to B
 
 ## Play outside or die
 
-Always looking for a better hat.
+Always looking for a better hat 🤠
 
 Dish soap and cold water to wash off the poison ivy. Generic Zanfel if things get real itchy.
 
