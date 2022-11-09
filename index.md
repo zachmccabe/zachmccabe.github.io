@@ -11,7 +11,7 @@ description: "I'm interested in visual communication, and cross-cultural communi
 Before changing page title "Hi, it’s Zach", change the if statement in kaoliang_nite_3 template. 
 {%- endcomment -%}
 
-<p style="line-height:1.4;font-size:1rem;margin:0 0 2.1rem;">
+<p style="line-height:1.4;font-size:1rem;margin-bottom:2.1rem;">
 I'm interested in cross-cultural communication. You can use this website to explore some of my on-going projects.
 </p>
   
