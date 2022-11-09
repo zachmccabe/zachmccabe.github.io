@@ -3,18 +3,13 @@ robots: norobots
 layout: kao_midnite_3
 title: Postcard
 date: 2020-07-10
-description: "Postcards to my younger self in 140 characters or less."
+description: "Notes to my younger self in 140 characters or less."
 lede: print
 
 ---
 
 
 Figuring I could be a useful human by putting my cameras to work, I jumped into photography by hiring myself out to NGO clients. I had a lot to learn.
-
-
-## Am I a propagandist?
-
-Choose your partners well. Photographers work for NGOs because they share a common vision. Nobody thinks you here for the money.
 
 
 
@@ -38,7 +33,7 @@ Socks. Cash in small bills. Snacks to share. Batteries. Put fresh batteries in y
 
 ## WYSIATI & culture shock
 
-"What you see is all there is," says Kahneman. You can retrain bias with time. You don't have time, so move slow.
+"What you see is all there is," says Daniel Kahneman. You can retrain bias with time. You don't have time, so move slow.
 
 
 
@@ -56,7 +51,7 @@ Give your subject respect. Give your clients and their audience honest work. You
 
 ## Really, it is \*your\* job to smile
 
-Build rapport first. If you rock up and take pictures, who will give you their story -- or anything else?
+Build rapport first. If you rock up and take pictures, who will give you their story – or anything else?
 
 
 
@@ -80,13 +75,13 @@ Field managers can juggle tasks like a superhero but they can't read minds. Over
 
 ## Bad day?
 
-Remember your role in the int'l media supply chain. When lesser evils fill your decision matrix, score the pictures and carry on.
+Remember your role in the int'l media supply chain. When lesser evils fill your decision matrix, score the pictures.
 
 
 
 ## Post-processing?
 
-This work has emotional costs. Create, and always keep, post-job rituals. Unpack and process your experience. Find sleep.
+Create, and always keep, post-job rituals. Unpack and process your experience. Feel what you feel. Find sleep.
 
 
 
@@ -98,4 +93,4 @@ Yep. Zoom in: Never underestimate a person's agency, or the local community, or 
 
 ## Practice
 
-Remember that you're not the first photographer to face these challenges. These are things we all have to learn by doing, I think.
+Remember that you're not the first photographer to face these challenges. You don't need to have the answers. These are things we all have to learn by doing, I think.
