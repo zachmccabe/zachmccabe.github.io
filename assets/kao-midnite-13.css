@@ -94,6 +94,17 @@ main table {
   padding: 0 1rem 0 0;
 }
 
+.flx-push-footer {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.flx-push-footer main {
+  flex-grow: 10;
+}
+
 .site-nav-top {
   font-size: var(--fs-100);
   text-align: left;
