@@ -20,16 +20,34 @@ nav: |
 ---
 
 
-
-<img class="kao-1x1-full" 
+<figure>
+<img class="kao-1x1-third" 
 srcset="https://images.zachmccabe.com/file/briars/briars-20210515-0151-1792.jpg 1792w, 
 https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg 896w, 
 https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg 448w, 
 https://images.zachmccabe.com/file/briars/briars-20210515-0151-0224.jpg 224w" 
 src="https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg" 
 alt="Milkweed and grasses in a field at dusk" 
-sizes="99vw" loading="lazy" />
-
+sizes="33vw" loading="lazy" />
+<img class="kao-1x1-third" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg" 
+alt="Monarch caterpillar on milkweed plant" 
+sizes="33vw" loading="lazy" />
+<img class="kao-1x1-third" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
+alt="Milkweed plants in a field" 
+sizes="33vw" loading="lazy" />
+</figure>
 
 
 Briars is 1 part nature journal, 1 part social publishing experiment.
@@ -38,30 +56,8 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 
 
-
-<img class="kao-1x1-half" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg" 
-alt="Monarch caterpillar on milkweed plant" 
-sizes="48vw" loading="lazy" />
-<img class="kao-1x1-half" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
-alt="Milkweed plants in a field" 
-sizes="48vw" loading="lazy" />
-
-
-
-
 {% include page_nav.html %}
+
 
 
 ## Project inspiration
@@ -121,7 +117,7 @@ To the best of my judgement, I prioritize welfare of the places, plants and anim
 
 
 
-<figure>
+<figure class="kaoPUSH">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20200713-2169-1792.jpg 1792w, 
@@ -246,7 +242,7 @@ One useful thing about working with phones and compact cameras is that you don't
 
 
 
-<figure>
+<figure class="kaoPUSH">
 <img class="kao-1x1-half" 
 srcset="
 https://images.zachmccabe.com/file/briars/briars-20191024-2997-1792.jpg 1796w, 
@@ -281,7 +277,7 @@ For quick closeups I use a small flashlight. It's the kind of thing you need rou
 I also keep a collapsible reflector in my car but I've only used it once. Animals really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
 
 
-
+<figure class="kaoPUSH">
 <img class="kao-1x1-full" 
 srcset="https://images.zachmccabe.com/file/briars/briars-20180413-2547-1792.jpg 1796w, 
 https://images.zachmccabe.com/file/briars/briars-20180413-2547-0896.jpg 896w, 
@@ -290,3 +286,4 @@ https://images.zachmccabe.com/file/briars/briars-20180413-2547-0224.jpg 224w"
 src="https://images.zachmccabe.com/file/briars/briars-20180413-2547-0448.jpg" 
 alt="Remnants of a storm over oak forest." 
 sizes="99vw" loading="lazy" />
+</figure>
