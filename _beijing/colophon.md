@@ -310,15 +310,15 @@ The Forbidden City goes by a few names, including <span lang="zh">紫禁城</spa
 
 
 
-<figure>
-<img class="kao-1x1-half" 
+<figure class="kaoPUSH">
+<img class="kao-1x1-full" 
 srcset="
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0896.jpg 896w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg 448w, 
 https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0224.jpg 224w" 
 src="https://images.zachmccabe.com/file/field-guide/field-guide-0-2-b-0448.jpg" 
 alt="Replastering red wall" 
-sizes="48vw" loading="lazy" />
+sizes="99vw" loading="lazy" />
 <figcaption>Re-plastering the wall surrounding Kong Miao. Historically, the temple was associated with imperial affairs, and the architecture of the complex signals that prestigious role.</figcaption>
 </figure>
 
@@ -444,19 +444,21 @@ There are several challenges with photos and visual content – and Amazon itsel
 
 - Resolution and colorspace: Mobile devices can be among the most demanding ways to view an image. That said, a 500 ppi mobile display and an e-ink reader with limited processing power want very different things from a photograph. Both Kindle gurus and the platform's own documentation advise authors to consider their readers' needs. Good advice!  
 
-- Grayscale, btw: Kindle documention doesn't mention which grayscale conversion standard they utilize (or if it's proprietary, which some authors have asserted). I can only say that it's worth testing your color illustrations on Amazon's own e-ink hardware. <a href="#ref1" alt="back">↩</a>
+- Grayscale, btw: Kindle documention doesn't mention which grayscale conversion standard they utilize (or if it's proprietary, which some authors have asserted). I can only say that it's worth testing your color illustrations on Amazon's own e-ink hardware.
+
+<a href="#ref1" alt="back">Back ↩</a>
 
 
 <h4 id="note2">Note 2</h4>
 
-[DPI.lv](https://dpi.lv/) helped me get a better idea of my reader's resolution needs. Then it was time to experiment. Like the rest of the content, photos were tested on half a dozen different devices. Then I solicited feedback (and screenshots) from beta testers. <a href="#ref2" alt="back">↩</a>
+[DPI.lv](https://dpi.lv/) helped me get a better idea of my reader's resolution needs. Then it was time to experiment. Like the rest of the content, photos were tested on half a dozen different devices. Then I solicited feedback (and screenshots) from beta testers. <a href="#ref2" alt="back">Back  ↩</a>
 
 
 <h4 id="note3">Note 3</h4>
 
 ImageMagick's great `convert` command let me quickly transform SVGs to GIFs. However, it did have some trouble with the bilingual copy on my maps.
 
-I needed all the visuals to look consistent, and styled the text with a generic `font-family="sans-serif"`. But ImageMagick stumbled with Chinese fonts. The program outputted Chinese text in serifed type, even though it outputted English text in the sans-serif I expected. As I couldn't find a remedy, the SVG maps were converted to GIF using Inkscape instead. <a href="#ref3" alt="back">↩</a>
+I needed all the visuals to look consistent, and styled the text with a generic `font-family="sans-serif"`. But ImageMagick stumbled with Chinese fonts. The program outputted Chinese text in serifed type, even though it outputted English text in the sans-serif I expected. As I couldn't find a remedy, the SVG maps were converted to GIF using Inkscape instead. <a href="#ref3" alt="back">Back ↩</a>
 
 
 <h4 id="note4">Note 4</h4>
@@ -483,4 +485,4 @@ The experience of getting lost in the Kindle app was no different than getting l
 
 Later on, I cut out all the one-way, internal links. Readers seemed happy to rely on the table of contents to navigate. Some apps present the table of contents at the beginning of the book, most apps display it as a dropdown menu.
 
-And, with footnotes, I made sure to use 2-way links. <a href="#ref4" alt="back">↩</a>
+And, with footnotes, I made sure to use 2-way links. <a href="#ref4" alt="back">Back ↩</a>
