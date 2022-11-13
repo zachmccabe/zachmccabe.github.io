@@ -1,7 +1,7 @@
 ---
 layout: kao_midnite_3
-title: "Hi, it’s Zach"
-date: 2022-09-10
+title: "Zach McCabe"
+date: 2022-11-13
 description: "I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects."
 
 ---
@@ -11,9 +11,9 @@ description: "I'm interested in visual communication, and cross-cultural communi
 Before changing page title "Hi, it’s Zach", change the if statement in kaoliang_nite_3 template. 
 {%- endcomment -%}
 
-<p style="line-height:1.4;font-size:1rem;margin-bottom:2.1rem;">
-I'm interested in cross-cultural communication. You can use this website to explore some of my on-going projects.
-</p>
+<p class="lede">{% include key_details_full.html %}</p>
+
+<div class="space"></div>
   
 Right now, I'm [Laughing Lost in Briars.]
 
