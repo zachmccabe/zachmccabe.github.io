@@ -13,9 +13,8 @@ nav: |
 
 
 
-<pre>
+
 { % include key_details_full.html % }
-</pre>
 
 
 
