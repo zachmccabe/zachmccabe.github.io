@@ -395,6 +395,12 @@ h4 {
   font-size: var(--fs-100);
 }
 
+.lede {
+  font-size: var(--fs-100);
+  margin: 0;
+  padding: 0;
+}
+
 mark {
   background-color: rgba(255,255,255,0);
   border-bottom: 0.1rem dotted currentColor;
@@ -427,8 +433,12 @@ p + h3, p + h4 {
 }
 */
 
-.scan {
- padding-top: 0.83rem; 
+.scan p {
+ margin-bottom: 2.1em;
+}
+
+.space {
+ padding-bottom: 4.3rem; 
 }
 
 /*
