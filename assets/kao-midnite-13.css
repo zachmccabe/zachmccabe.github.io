@@ -1,3 +1,7 @@
+/*  mostly Minor Third, via 
+ *  https://type-scale.com/
+ */
+
 :root {
 font-size: 16px;
 
@@ -24,7 +28,7 @@ body {
   background-color: #fff;
   color: #333;
   font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro","Fira Mono", "Droid Sans Mono", "Courier New", monospace;
-  line-height: 1.6;
+  line-height: 1.75;
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
