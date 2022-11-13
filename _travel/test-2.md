@@ -12,6 +12,11 @@ nav: |
 ---
 
 
+
+<a href="tel:+11234567891">+1 123 456 7891</a>
+
+---
+
 Crumb: {% include breadcrumbs_collection_only.html %}
 
 Site url: {{ site.url }}
