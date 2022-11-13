@@ -13,7 +13,11 @@ nav: |
 
 
 
-<a href="tel:+11234567891">+1 123 456 7891</a>
+<pre>
+{ % include key_details_full.html % }
+</pre>
+
+
 
 ---
 
