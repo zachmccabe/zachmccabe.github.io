@@ -10,6 +10,8 @@ description: "My email is open. Say hi!"
 
 <p class="lede">{% include key_details_full.html %}</p>
 
+<div class="space"></div>
+
 My email is open. I welcome new collaborations and notes from old friends far away. Say hi :)
 
 You can expect a reply to business emails within a few days.
