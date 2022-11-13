@@ -9,6 +9,4 @@ testlede: |
 ---
 
 
-<a href="tel:+11234567891">+1 123 456 7891</a>
-
 This is a test. Only a test :)
