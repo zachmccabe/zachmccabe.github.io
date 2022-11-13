@@ -8,7 +8,7 @@ description: "My email is open. Say hi!"
 ---
 
 
-{% include key_details.html %}
+<p class="lede">{% include key_details_full.html %}</p>
 
 My email is open. I welcome new collaborations and notes from old friends far away. Say hi :)
 
