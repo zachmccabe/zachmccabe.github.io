@@ -8,6 +8,10 @@ description: "Author and producer of The Photographers Field Guide to Beijing"
 ---
 
 
+<p class="lede">{% include key_details_full.html %}</p>
+
+<div class="space"></div>
+
 These days I'm working as a ranch hand, in the good company of ancient oak trees.
 
 I'm also the author and producer of [The Photographers Field Guide to Beijing.] In the aughts, I got my start by working as a photographer for NGO clients in East Asia.
