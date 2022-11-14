@@ -15,9 +15,13 @@ nav: |
 
 Just a test.
 
-{% include key_details_full.html %}
+<div style="background:beige" markdown="1">
 
+Is this a paragraph inside a markdown-ified div?
 
+<p>Is this a paragraph, inside p tags, inside a markdown-ified div?</p>
+
+</div>
 
 ---
 
