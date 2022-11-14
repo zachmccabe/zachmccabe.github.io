@@ -12,9 +12,9 @@ Before changing page title "Hi, it’s Zach", change the if statement in kaolian
 {%- endcomment -%}
 
 <p class="lede">{% include key_details_full.html %}</p>
-
 <div class="space"></div>
-  
+<div class="scan" markdown="1">  
+
 I'm producing Laughing Lost in Briars, a story I like to describe as 1 part nature journal, 1 part digital experiment. The project has been running for 9 years now. Learn more about [Laughing Lost in Briars.]
 
 My Beijing [book] for photographers is now free. Woo hoo! Details in [this FAQ.]
@@ -29,7 +29,7 @@ No signal? Some tactics I like for communicating across [timezones.]
 
 Because I am far away and asking [dumb questions.]
 
-
+</div>
 
 [Laughing Lost in Briars.]: https://www.zachmccabe.com/briars
 
