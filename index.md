@@ -1,7 +1,7 @@
 ---
 layout: kao_midnite_3
-title: "Zach McCabe"
-date: 2022-11-13
+title: "Hi, it’s Zach"
+date: 2022-11-14
 description: "I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects."
 
 ---
@@ -15,11 +15,19 @@ Before changing page title "Hi, it’s Zach", change the if statement in kaolian
 
 <div class="space"></div>
   
-Right now, I'm [Laughing Lost in Briars.]
+I'm producing Laughing Lost in Briars, a story I like to describe as 1 part nature journal, 1 part digital experiment. The project has been running for 9 years now. Learn more about [Laughing Lost in Briars.]
 
 My Beijing [book] for photographers is now free. Woo hoo! Details in [this FAQ.]
 
-Rather talk shop? Try [travel notes] or [tools.]
+---
+
+<p id="talk-shop">Rather talk shop? Here is my running list of <a href="https://www.zachmccabe.com/tools">tools.</a></p>
+
+I put 6 of my favorite books on cross-cultural communication into this [reading list.]
+
+No signal? Some tactics I like for communicating across [timezones.]
+
+Because I am far away and asking [dumb questions.]
 
 
 
@@ -29,6 +37,8 @@ Rather talk shop? Try [travel notes] or [tools.]
 
 [this FAQ.]: https://www.zachmccabe.com/beijing/faq#why-is-this-book-free
 
-[travel notes]: https://www.zachmccabe.com/travel
+[timezones.]: https://www.zachmccabe.com/timezones
 
-[tools.]: https://www.zachmccabe.com/tools
+[reading list.]: https://www.zachmccabe.com/reading-list
+
+[dumb questions.]: https://www.zachmccabe.com/notes/dumb-questions
