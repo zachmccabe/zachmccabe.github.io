@@ -3,6 +3,8 @@ collections:
     output: true
   briars:
     output: true
+  notes:
+    output: true
   tools:
     output: true
   travel:
