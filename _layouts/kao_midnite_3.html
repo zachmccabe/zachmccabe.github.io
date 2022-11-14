@@ -7,7 +7,7 @@
 {%- if page.snippet == "nosnippet" -%}{%- include meta_robots_nosnippet.html -%}{%- else -%}{%- endif -%}
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 <meta name="viewport" content="width=device-width">
-<title>{{ page.title }}{% if page.title != "Zach McCabe" %}&nbsp;|&nbsp;Zach&nbsp;McCabe{% endif %}</title>
+<title>{{ page.title }}{% if page.title != "Hi, it’s Zach" %}&nbsp;|&nbsp;Zach&nbsp;McCabe{% endif %}</title>
 <meta name="description" content="{{ page.description }}" />
 <link rel="stylesheet" href="https://www.zachmccabe.com/assets/kao-midnite-13.css">
 <link rel="canonical" href="https://www.zachmccabe.com{{ page.url }}" />
@@ -25,7 +25,7 @@
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <main>
-{%- if page.lede == "print" -%}<p>{%- if page.hub == nil -%}{%- include breadcrumbs_collection_only.html -%}&nbsp;&nbsp{%- endif -%}{%- include print_update.html -%}&nbsp;&nbsp;{%- include emoji_collection_switch.html -%}&nbsp;&nbsp;{{ page.description }}</p>{%- endif -%}
+{%- if page.lede == "print" -%}<p>{%- if page.hub == nil and page.collection == 'beijing' -%}{%- include breadcrumbs_collection_only.html -%}&nbsp;&nbsp{%- endif -%}{%- include print_update.html -%}&nbsp;&nbsp;{%- include emoji_collection_switch.html -%}&nbsp;&nbsp;{{ page.description }}</p>{%- endif -%}
 {{ content }}
 {%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
 {%- if page.collection -%}<p class="breadbox"><nav class="breadcrumbs">{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
