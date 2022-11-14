@@ -1,9 +1,9 @@
 ---
-redirect: https://www.zachmccabe.com/travel/postcard
+redirect: https://www.zachmccabe.com/notes/postcard
 robots: norobots
 layout: kao_midnite_3
 title: Postcard
-date: 2022-01-15
+date: 2022-11-14
 
 ---
 
