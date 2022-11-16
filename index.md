@@ -37,8 +37,8 @@ Because I am far away and asking [dumb questions.]
 
 [this FAQ.]: https://www.zachmccabe.com/beijing/faq#why-is-this-book-free
 
-[timezones.]: https://www.zachmccabe.com/timezones
+[timezones.]: https://www.zachmccabe.com/notes/timezones
 
-[reading list.]: https://www.zachmccabe.com/reading-list
+[reading list.]: https://www.zachmccabe.com/notes/reading-list
 
 [dumb questions.]: https://www.zachmccabe.com/notes/dumb-questions
