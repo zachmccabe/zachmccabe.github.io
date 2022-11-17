@@ -8,9 +8,6 @@ description: "Author and producer of The Photographers Field Guide to Beijing"
 ---
 
 
-<p class="lede">{% include key_details_full.html %}</p>
-
-<div class="space"></div>
 
 These days I'm working as a ranch hand, in the good company of ancient oak trees.
 
