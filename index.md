@@ -11,8 +11,7 @@ description: "I'm interested in visual communication, and cross-cultural communi
 Before changing page title "Hi, it’s Zach", change the if statement in kaoliang_nite_3 template. 
 {%- endcomment -%}
 
-<p class="lede">{% include key_details_full.html %}</p>
-<div class="space"></div>
+
 <div class="scan" markdown="1">  
 
 I'm producing Laughing Lost in Briars, a story that's 1 part nature journal, 1 part digital experiment. The project has been running for 9 years now. Learn more about [Laughing Lost in Briars.]
