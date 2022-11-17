@@ -25,6 +25,8 @@
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
 </header>
 <main>
+{%- if page.title == "Hi, it’s Zach" or "About" or "Contact" -%}<p class="lede">{% include key_details_full.html %}</p>{%- endif -%}
+{%- if page.space == nil -%}<div class="space"></div>{%- endif -%}
 {%- if page.lede == "print" -%}<p>{%- if page.hub == nil and page.collection == 'beijing' -%}{%- include breadcrumbs_collection_only.html -%}&nbsp;&nbsp{%- endif -%}{%- include print_update.html -%}&nbsp;&nbsp;{%- include emoji_collection_switch.html -%}&nbsp;&nbsp;{{ page.description }}</p>{%- endif -%}
 {{ content }}
 {%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
