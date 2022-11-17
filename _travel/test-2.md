@@ -15,6 +15,8 @@ nav: |
 
 Just a test.
 
+Page title: {{ page.title }}
+
 <div style="background:beige" markdown="1">
 
 Is this a paragraph inside a markdown-ified div?
