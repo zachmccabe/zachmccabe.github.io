@@ -131,13 +131,13 @@ main table {
 .kaoNAV {
   background: linear-gradient(145deg, rgba(38,139,210,0.3) 0%,  rgba(255,255,255,0) 100%);
   margin: var(--mg-sml) 0 var(--mg-lrg);
-  padding: 1.7em 1.3em 0.5em;
+  padding: 1em 0.833em 0;
   width: 100%;
   max-width: 21rem;
 }
 
 .kaoNAV a {
-color: currentColor;
+  color: currentColor;
 }
 
 .kaoNAV ul {
@@ -147,7 +147,7 @@ color: currentColor;
 }
 
 .kaoNAV li {
-  font-size: var(--fs-083);
+  font-size: var(--fs-070);
   margin: 0;
   padding: 0 0 1.7em;
   max-width: 36ch;
@@ -491,7 +491,7 @@ ul + h2, ul + h3, ul + h4 {
     color: #b3b3b3;
   }
   .kaoNAV {
-    background: #05111a;
+    /* background: #05111a; */
     color: #b3b3b3;
   }
   .kaoNAV a {
