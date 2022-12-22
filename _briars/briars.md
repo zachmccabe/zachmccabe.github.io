@@ -20,37 +20,8 @@ nav: |
 ---
 
 
-<figure>
-<img class="kao-1x1-third" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20210515-0151-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20210515-0151-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg" 
-alt="Milkweed and grasses in a field at dusk" 
-sizes="33vw" loading="lazy" />
-<img class="kao-1x1-third" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20181014-8128-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg" 
-alt="Monarch caterpillar on milkweed plant" 
-sizes="33vw" loading="lazy" />
-<img class="kao-1x1-third" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
-alt="Milkweed plants in a field" 
-sizes="33vw" loading="lazy" />
-</figure>
 
-
-Briars is 1 part nature journal, 1 part social publishing experiment.
+Briars is 1 part nature journal, 1 part digital experiment.
 
 Call it meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
@@ -62,24 +33,13 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 ## Project inspiration
 
-Briars is inspired by the ranch where I work as a hired hand, and by some of my favorite nature journals, too. Mostly, though, it was a visit with an old friend that got this project started, and keeps it moving. During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
+A visit with an old friend that got this project started, and keeps it moving. During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
 Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 10 years ago.
 
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
 
-
-<figure class="kaoPUSH">
-<img class="kao-1x1-full" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20180814-6182-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20180814-6182-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20180814-6182-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20180814-6182-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20180814-6182-0448.jpg" 
-alt="Cicada climbing deeply fissured bark on a big Post Oak tree" 
-sizes="99vw" loading="lazy" />
-</figure>
 
 
 
@@ -117,32 +77,6 @@ To the best of my judgement, I prioritize welfare of the places, plants and anim
 
 
 
-<figure class="kaoPUSH">
-<img class="kao-1x1-half" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20200713-2169-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20200713-2169-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20200713-2169-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20200713-2169-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20200713-2169-0448.jpg" 
-alt="Samples of grass seed heads on a table waiting to be identified" 
-sizes="48vw" loading="lazy" />
-
-<img class="kao-1x1-half" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20190502-0077-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20190502-0077-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20190502-0077-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20190502-0077-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-0448.jpg" 
-alt="Perennial rye grass in a field at dusk" 
-sizes="48vw" loading="lazy" />
-
-<figcaption>
-Left: Samples of grass seed heads on a table waiting to be identified. Right: Perennial rye grass in a field at dusk.
-</figcaption>
-</figure>
-
 
 
 ## Structuring the story
@@ -159,13 +93,6 @@ Even if you've never heard the term before, you've seen the concept in action on
 See this article at [A List Apart] for more on atomic units.
 
 
-
-<figure class="kaoPUSH">
-<img style="width:100%;max-width:min(656px,86vh);" src="https://images.zachmccabe.com/file/briars/briars-obsidian-656-opti.png" alt="IPTC metadata tags graphed as a network" loading="lazy" />
-<figcaption>
-IPTC metadata tags graphed as a network. Since this project is already organized using plaintext files, I briefly experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to capture and then print photo metadata and captions as markdown files. Then, those text files were brought into Obsidian.
-</figcaption>
-</figure>
 
 
 
@@ -211,20 +138,6 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 
 
-<figure class="kaoPUSH">
-<img class="kao-1x1-full" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20201114-2610-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20201114-2610-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20201114-2610-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20201114-2610-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20201114-2610-0448.jpg" 
-alt="Baby copperhead on oak leaf litter" 
-sizes="99vw" loading="lazy" />
-<figcaption>
-Baby copperhead. This viper is small enough to fit in the palm of my hand.
-</figcaption>
-</figure>
 
 
 
@@ -242,32 +155,6 @@ One useful thing about working with phones and compact cameras is that you don't
 
 
 
-<figure class="kaoPUSH">
-<img class="kao-1x1-half" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20191024-2997-1792.jpg 1796w, 
-https://images.zachmccabe.com/file/briars/briars-20191024-2997-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20191024-2997-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20191024-2997-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20191024-2997-0448.jpg" 
-alt="Oak leaf on rain-soaked car windshield" 
-sizes="48vw" loading="lazy" />
-
-<img class="kao-1x1-half" 
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20200713-2159-1792.jpg 1792w, 
-https://images.zachmccabe.com/file/briars/briars-20200713-2159-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20200713-2159-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20200713-2159-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20200713-2159-0448.jpg" 
-alt="Cameras I use for this project" 
-sizes="48vw" loading="lazy" />
-
-<figcaption>
-Left: Waiting out a storm in my car. Right: Cameras used for this project.
-</figcaption>
-</figure>
-
 
 
 ### Light
@@ -276,14 +163,3 @@ For quick closeups I use a small flashlight. It's the kind of thing you need rou
 
 I also keep a collapsible reflector in my car but I've only used it once. Animals really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
 
-
-<figure class="kaoPUSH">
-<img class="kao-1x1-full" 
-srcset="https://images.zachmccabe.com/file/briars/briars-20180413-2547-1792.jpg 1796w, 
-https://images.zachmccabe.com/file/briars/briars-20180413-2547-0896.jpg 896w, 
-https://images.zachmccabe.com/file/briars/briars-20180413-2547-0448.jpg 448w, 
-https://images.zachmccabe.com/file/briars/briars-20180413-2547-0224.jpg 224w" 
-src="https://images.zachmccabe.com/file/briars/briars-20180413-2547-0448.jpg" 
-alt="Remnants of a storm over oak forest." 
-sizes="99vw" loading="lazy" />
-</figure>
