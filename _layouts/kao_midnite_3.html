@@ -19,30 +19,24 @@
 <div class="flx">
 <div class="flx-left"></div>
 <div class="flx-right">
-<div class="flx-push-footer">
 -->
 
-<div class="site-nav-top">
-{%- include site_nav.html -%}
-</div>
-<header>
-<h1 id="{{ page.title }}">{{ page.title }}</h1>
-</header>
-<main>
-{%- if page.title == "Hi, it’s Zach" or page.title == "About" or page.title == "Contact" -%}<div class="wrap-70"><p class="lede">{%- include key_details_full.html -%}</p></div>{%- else -%}{%- endif -%}
-{%- if page.space == nil -%}<div class="space"></div>{%- endif -%}
-<div class="wrap-70">
-{%- if page.lede == "print" -%}<p>{%- if page.hub == nil and page.collection == 'beijing' -%}{%- include breadcrumbs_collection_only.html -%}&nbsp;&nbsp{%- endif -%}{%- include print_update.html -%}&nbsp;&nbsp;{%- include emoji_collection_switch.html -%}&nbsp;&nbsp;{{ page.description }}</p>{%- endif -%}
-{{ content }}
-{%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
-{%- if page.collection -%}<p class="breadbox"><nav class="breadcrumbs">{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
-</div>
-</main>
-<footer>
-<p>Text and images &copy; Zach McCabe<br />All rights reserved</p>
-</footer>
-</div>
-</div>
+<div class="flx-push-footer">
+  <div class="site-nav-top">{%- include site_nav.html -%}</div>
+  <header>
+    <h1 id="{{ page.title }}">{{ page.title }}</h1>
+  </header>
+  <main>
+    {%- if page.title == "Hi, it’s Zach" or page.title == "About" or page.title == "Contact" -%}<div class="wrap-70"><p class="lede">{%- include key_details_full.html -%}</p></div>{%- else -%}{%- endif -%}
+    {%- if page.space == nil -%}<div class="space"></div>{%- endif -%}
+    <div class="wrap-70">
+      {%- if page.lede == "print" -%}<p>{%- if page.hub == nil and page.collection == 'beijing' -%}{%- include breadcrumbs_collection_only.html -%}&nbsp;&nbsp{%- endif -%}{%- include print_update.html -%}&nbsp;&nbsp;{%- include emoji_collection_switch.html -%}&nbsp;&nbsp;{{ page.description }}</p>{%- endif -%}
+      {{ content }}
+      {%- if page.lede and page.update -%}{% include print_history.html %}{%- endif -%}
+      {%- if page.collection -%}<p class="breadbox"><nav class="breadcrumbs">{%- include emoji_collection_switch.html -%}&nbsp;{%- include breadcrumbs.html -%}</nav></p>{%- endif -%}
+    </div>
+  </main>
+  <footer><p>Text and images &copy; Zach McCabe<br />All rights reserved</p></footer>
 </div>
 </body>
 </html>
