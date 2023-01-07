@@ -34,11 +34,17 @@ body {
 }
 
 header, .site-nav-top, main, footer { 
-  /* padding-left: 0; */
   margin: 0 auto;
+  text-align: left; 
+}
+
+header, .site-nav-top, footer {
   width: 70ch;
   max-width: 98%;
-  text-align: left; 
+}
+
+main {
+ width: 100%;
 }
 
 .site-nav-top {
