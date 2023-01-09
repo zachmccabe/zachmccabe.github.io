@@ -33,7 +33,7 @@ body {
   overflow-wrap: break-word;
 }
 
-header, .site-nav-top, main, footer { 
+header, .site-nav-top, main, .wrap-70, footer { 
   margin: 0 auto;
   text-align: left; 
 }
@@ -51,11 +51,13 @@ main {
   padding: 1rem 0 2.48rem 0;
 }
 
+/*
 .wrap-70 {
   width: 70ch;
   max-width: 100%;
   margin: 0 auto;
 }
+*/
 
 /*
 header, footer {
