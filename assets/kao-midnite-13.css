@@ -38,13 +38,13 @@ header, .site-nav-top, main, footer {
   text-align: left; 
 }
 
-header, .site-nav-top, footer {
+header, .site-nav-top, .wrap-70, footer {
   width: 70ch;
   max-width: 98%;
 }
 
 main {
- width: 100%;
+ max-width: 100%;
 }
 
 .site-nav-top {
