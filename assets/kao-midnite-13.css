@@ -46,11 +46,11 @@ body {
   box-sizing: border-box;
 }
 
-/*
+
 main {
   max-width: 100%;
 }
-*/
+
 
 .site-nav-top {
   /*
@@ -115,6 +115,8 @@ main p + p {
 main table {
   margin-top: calc(0.5em + (1em / 0.83));
   margin-bottom: calc(0.5em + (1em / 0.83));
+  width: 21rem;
+  max-width: calc(100% - 0.1rem);
 }
 
 
@@ -343,8 +345,6 @@ table {
   border-collapse: collapse;
   margin: 0 auto 0 0;
   padding: 0;
-  width: 21rem;
-  max-width: calc(100% - 0.1rem);
 }
 
 /* table style */ .kaoBoxy {
