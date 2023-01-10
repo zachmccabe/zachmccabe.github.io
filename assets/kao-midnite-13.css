@@ -33,22 +33,31 @@ body {
   overflow-wrap: break-word;
 }
 
-header, .site-nav-top, main, .wrap-70, footer { 
+.site-nav-top, header, main, .wrap-70, footer { 
   margin: 0 auto;
   text-align: left; 
 }
 
-header, .site-nav-top, .wrap-70, footer {
+.site-nav-top, header, .wrap-70, footer {
   width: 70ch;
   max-width: 100%;
+  padding-left: 1rem;
+  padding-right: 0.4rem;
+  box-sizing: border-box;
 }
 
+/*
 main {
- max-width: 100%;
+  max-width: 100%;
 }
+*/
 
 .site-nav-top {
+  /*
   padding: 1rem 0 2.48rem 0;
+  */
+  padding-top: 1rem;
+  padding-bottom: 2.48rem;
 }
 
 /*
@@ -334,8 +343,8 @@ table {
   border-collapse: collapse;
   margin: 0 auto 0 0;
   padding: 0;
-  width: 100%;
-  max-width: 21rem;
+  width: 21rem;
+  max-width: calc(100% - 0.1rem);
 }
 
 /* table style */ .kaoBoxy {
