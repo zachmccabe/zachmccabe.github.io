@@ -5,7 +5,7 @@ hub: okay
 layout: kao_midnite_3
 title: Laughing Lost in Briars
 date: 2021-03-18
-update: 2022-08-02
+update: 2023-01-11
 description: "Project notes from Laughing Lost in Briars."
 lede: print
 nav: |  
@@ -37,9 +37,13 @@ A visit with an old friend that got this project started, and keeps it moving. D
 
 Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 10 years ago.
 
+Another key inspiration is Hidden Prairie, a project by ecologist [Chris Helzer,] which he photographed entirely within a single square meter of Nebraska prairie over the course of a year.
+
+Finally, old Japanese gyotaku -- fish prints -- which fishermen made by brushing ink on the side of a fish and then quickly, carefully pressing rice paper down on top to make a visual record of their catch. I want to work with that kind of speed and economy.
+
 [Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
 
-
+[Chris Helzer,]: https://prairieecologist.com
 
 
 
