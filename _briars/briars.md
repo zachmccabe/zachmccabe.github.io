@@ -53,9 +53,9 @@ These pictures are made as a diary. The story is nonfiction.
 
 For Briars, like with any story, nonfiction is defined by how you interact with your subject and your audience.
 
-The audience for this project started with friends in China. We grew up in some of the world's biggest cities, in a culture where the stories surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends' curiosity, and my own.
+The audience for this project started with friends in China. We (mostly) grew up in some of the world's biggest cities, in a culture where the stories surrounding agriculture and nature are different than in the Anglosphere. Those differences fueled my friends' curiosity, and my own.
 
-Briars initially went out to those friends via direct message on WeChat, later expanding to Instagram. (Although I no longer use those 2 platforms, I am always tinkering with new ways to share the project.)
+Briars initially went out to those friends via direct message on WeChat, later expanding to Instagram. Although I no longer use those 2 platforms, I am always tinkering with new ways to share the project.
 
 Viewed on a phone, these tiny images need to have low information density. I want a concise message and a composition that works at 600px 1:1.
 
@@ -71,14 +71,13 @@ To learn more about the ecosystem processes happening in front of me I like to u
 - Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
 - Move softly and deliberately. This is critical when working around things that might bite, kick, or shove back.
 
-To the best of my judgement, I prioritize welfare of the places, plants and animals I'm photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic.
+To the best of my judgement, I prioritize the welfare of the places, plants and animals I'm photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic.
 
 [iNaturalist,]: https://www.inaturalist.org/
 
 [Natural Resources Conservation Service.]: https://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications/
 
-[This PDF]: https://conservationphotographers.org/from-wild-to-captive-a-call-for-ethics-in-modern-nature-photography/
-
+[This PDF]: https://files.visurapro.com/pro/files/users/29/f3bba9e16328a868bf62b9f419a67de7.pdf
 
 
 
