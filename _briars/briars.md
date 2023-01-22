@@ -33,10 +33,11 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 ## Project inspiration
 
-A visit with an old friend that got this project started, and keeps it moving. During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from Qi Bai Shi's ink and brush paintings.
+A visit with an old friend that got this project started, and keeps it moving. During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
 
 Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 10 years ago.
 
+[Qi Bai Shi's]: https://www.google.com/search?q=齊白石蟲子畫作
 
 
 
