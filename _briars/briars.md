@@ -5,7 +5,7 @@ hub: okay
 layout: kao_midnite_3
 title: Laughing Lost in Briars
 date: 2021-03-18
-update: 2023-01-11
+update: 2023-01-21
 description: "Project notes from Laughing Lost in Briars."
 lede: print
 nav: |  
@@ -33,17 +33,10 @@ Call it meditation, gratitude, delight. I do this to remind myself of the remark
 
 ## Project inspiration
 
-A visit with an old friend that got this project started, and keeps it moving. During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from [Qi Bai Shi's] ink and brush paintings.
+A visit with an old friend that got this project started, and keeps it moving. During a visit to the US, my childhood Chinese teacher (she's a business consultant these days) gave me a notebook filled with details from Qi Bai Shi's ink and brush paintings.
 
 Qi's crickets and cicadas were my favorite when I was a kid. His work was so different to anything I'd ever seen. It made me smile. It still does. When my teacher handed me that notebook, she gave me an idea and Briars got its start -- that was 10 years ago.
 
-Another key inspiration is Hidden Prairie, a project by ecologist [Chris Helzer,] which he photographed entirely within a single square meter of Nebraska prairie over the course of a year.
-
-Finally, old Japanese gyotaku -- fish prints -- which fishermen made by brushing ink on the side of a fish and then quickly, carefully pressing rice paper down on top to make a visual record of their catch. I want to work with that kind of speed and economy.
-
-[Qi Bai Shi's]: https://www.tretyakovgallerymagazine.com/articles/3-2017-56/true-charm-nature-some-notes-qi-baishi-and-his-art
-
-[Chris Helzer,]: https://prairieecologist.com
 
 
 
@@ -66,18 +59,25 @@ I do my best to remember all this when I frame the scene, choose one picture ove
 
 ## Researching the story
 
-To learn more about the ecosystem processes happening in front of me I like to use field guides, [iNaturalist,] and free publications from the Department of Agriculture's [Natural Resources Conservation Service.] Learning this stuff is important for land stewardship, obviously, and helps me to be a better observer in general. Studying a bit of natural history helps me to make better pictures, too -- it provides context for storytelling. What I learn improves my chances of being in the right place at the right time. For example:
+I like to use field guides, [iNaturalist,] and free publications from the Department of Agriculture’s [Natural Resources Conservation Service.]
 
-- Stay low and don't silhouette when photographing bees, climbing snakes, wasps and other creatures that are preyed on by birds.
-- Move softly and deliberately. This is critical when working around things that might bite, kick, or shove back.
+It's amazing what you'll find when you keep looking. In that spirit, another inspiration for my project is Hidden Prairie, a project by ecologist [Chris Helzer,] which he photographed entirely within a single square meter of Nebraska prairie over the course of a year.
 
-To the best of my judgement, I prioritize the welfare of the places, plants and animals I'm photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic.
+To the best of my judgement, I prioritize the welfare of the places, plants and animals I’m photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic. [Melissa Groo] has written extensively on interacting with wildlife, and photo captioning and editing. Finally, I like this video series by [Morten Hilmer] on fieldcraft as he attempts to find and then photograph a badger den without stressing the animals.
+
+I feel lucky to have the opportunity to spend time out on the land. Access is not trivial, and this is something I don't take for granted.
 
 [iNaturalist,]: https://www.inaturalist.org/
 
 [Natural Resources Conservation Service.]: https://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/technical/publications/
 
+[Chris Helzer,]: https://prairieecologist.com
+
 [This PDF]: https://files.visurapro.com/pro/files/users/29/f3bba9e16328a868bf62b9f419a67de7.pdf
+
+[Melissa Groo]: https://www.melissagroo.com/ethics.php
+
+[Morten Hilmer]: https://youtu.be/YaH8oFQLLR8
 
 
 
