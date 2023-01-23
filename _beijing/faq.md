@@ -1,7 +1,7 @@
 ---
 layout: kao_midnite_3
 title: Field Guide FAQ
-date: 2022-01-15
+date: 2023-01-22
 description: "Have a question about The Photographers Field Guide to Beijing? I'll do my best to answer you here. Read on."
 lede: print
 nav: |  
@@ -48,11 +48,11 @@ Photographers who are new to China, or at least new to the Beijing area, will ge
 
 It feels like a lot has changed in our world since I started this project in 2015.
 
-I still stand by the original goal of this project, which is is to help you connect with Beijingers and their city. And I think now we can push that a little further, huh?
+I still stand by the original goal of this project, which is is to help you connect with Beijingers and their city. Let's push that a little further.
 
 Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
-This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends quite a bit of chuan'r and erguotou for the equivalent of 25 USD.)
+This field guide previously sold for 25 USD. Spend the difference getting to know the locals. (And you can buy your new friends quite a bit of chuan'r and erguotou for the equivalent of 25 USD.)
 
 I'm thinking about a line by Polish journalist, Ryszard Kapuscinski, that indomitable traveler of Cold War-era borderlands. In his book, The Other, he says: "The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him."
 
@@ -86,7 +86,9 @@ Yes. You can read it [here.](https://www.amazon.com/Photographers-Field-Guide-Be
 
 ## Who won't like this book?
 
-This book isn't for everyone. There are no reviews of tourist attractions. There are no lessons about f-stops or composition, either.
+The field guide doesn't cover tourist attractions or general photo technique. If that's what you need, you'll be better served by numerous other websites, books and video tutorials that cover those topics.
+
+The field guide does include a section on how to build up your Beijing-specific visual vocabulary. At the back of the book, there is an appendix with recommended resources for improving your photo technique.
 
 <a href="#" title="Top of page" >Top of page</a>
 
