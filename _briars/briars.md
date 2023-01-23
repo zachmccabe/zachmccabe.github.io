@@ -76,10 +76,6 @@ I feel lucky to have the opportunity to spend time out on the land. Access is no
 
 [This PDF]: https://files.visurapro.com/pro/files/users/29/f3bba9e16328a868bf62b9f419a67de7.pdf
 
-[Melissa Groo]: https://www.melissagroo.com/ethics.php
-
-[Morten Hilmer]: https://youtu.be/YaH8oFQLLR8
-
 
 
 
