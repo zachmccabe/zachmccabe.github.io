@@ -64,7 +64,7 @@ I like to use field guides, [iNaturalist,] and free publications from the Depart
 
 It's amazing what you'll find when you keep looking. In that spirit, another inspiration for my project is Hidden Prairie, a project by ecologist [Chris Helzer,] which he photographed entirely within a single square meter of Nebraska prairie over the course of a year.
 
-To the best of my judgement, I prioritize the welfare of the places, plants and animals I’m photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic. [Melissa Groo] has written extensively on interacting with wildlife, and photo captioning and editing. Finally, I like this video series by [Morten Hilmer] on fieldcraft as he attempts to find and then photograph a badger den without stressing the animals.
+To the best of my judgement, I prioritize the welfare of the places, plants and animals I’m photographing. [This PDF] from the International League of Conservation Photographers is a good way into the topic.
 
 I feel lucky to have the opportunity to spend time out on the land. Access is not trivial, and this is something I don't take for granted.
 
