@@ -8,7 +8,4 @@ description: "My email is open. Say hi!"
 ---
 
 
-
-My email is open. I welcome new clients, bold collaborations and notes from old friends far away. Say hi :)
-
-You can expect a reply to business emails within a few days.
+My email is open. Say hi. You can expect a reply to business emails within a few days.
