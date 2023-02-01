@@ -2,9 +2,10 @@
 layout: kao_midnite_3
 title: "Hi, it’s Zach"
 date: 2023-01-03
-description: "I'm interested in visual communication, and cross-cultural communication. You can use this website to explore some of my on-going projects."
+description: "You can use this website to explore some of my on-going projects."
 
 ---
+
 
 
 {%- comment -%}
@@ -14,7 +15,7 @@ Before changing page title "Hi, it’s Zach", change the if statement in kaolian
 
 <div class="scan" markdown="1">  
 
-Right now, I’m producing [Laughing Lost in Briars.] The project is 1 part nature journal, 1 part digital experiment, and has been running for 9 years.
+Right now, I’m producing [Laughing Lost in Briars.] The project is 1 part nature journal, 1 part digital experiment, and has been running for 10 years.
 
 My Beijing [book] for photographers is now free. Woo hoo! Details in [this FAQ.]
 
