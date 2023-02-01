@@ -25,7 +25,7 @@ On this website, I share what I'm learning from those projects, and related topi
 
 Most of theses notes are utilitarian. A few are weird! I am sharing these ideas hoping that a few will be interesting to you, too.
 
-Expect combinations, dissections and the occasional deleted page. I’m working with a particular sort of iteration in mind -- are there any interesting connections in this idea heap? Let's find out.
+Expect combinations, dissections and the occasional deleted page. I’m working with a particular sort of iteration in mind — are there any interesting connections in this idea heap? Let's find out.
 
 [The Photographers Field Guide to Beijing]: https://www.zachmccabe.com/beijing
 
@@ -43,3 +43,4 @@ The [Github repo] for this website's code is open. Here are the ingredients I'm 
 
 
 [Github repo]: https://github.com/zachmccabe/zachmccabe.github.io
+
