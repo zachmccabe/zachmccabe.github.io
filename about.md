@@ -9,7 +9,7 @@ description: "On this website, I share what I’m learning about The Photographe
 
 
 
-These days I'm working as a ranch hand, in the good company of ancient oak trees.
+These days I'm working as a ranch hand, in the good company of old oak trees.
 
 In the aughts, I got my start by working as a photographer for local NGO clients in East Asia.
 
