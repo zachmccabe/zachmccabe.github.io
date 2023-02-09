@@ -9,9 +9,9 @@ description: "On this website, I share what I’m learning about The Photographe
 
 
 
-These days I'm working as a ranch hand, in the good company of old oak trees.
+These days I'm working as a ranch hand, in the good company of old oak trees. Best office in the world.
 
-In the aughts, I got my start by working as a photographer for local NGO clients in East Asia.
+Outside that role, I've worked as a writer and a photographer for NGO clients in the US and East Asia.
 
 I grew up in the US, China and Japan.
 
@@ -21,11 +21,11 @@ I grew up in the US, China and Japan.
 
 I'm the author and producer of [The Photographers Field Guide to Beijing] and [Laughing Lost in Briars.]
 
-On this website, I share what I'm learning from those projects, and related topics like data and land stewardship, cross-cultural communication.
+On this website, I share what I'm learning from those projects, and related topics like cross-cultural communication.
 
-Most of theses notes are utilitarian. A few are weird! I am sharing these ideas hoping that a few will be interesting to you, too.
+Most of theses notes are utilitarian. A few are weird! I am sharing them hoping that a few of these ideas will be interesting to you, too.
 
-Expect combinations, dissections and the occasional deleted page. I’m working with a particular sort of iteration in mind — are there any interesting connections in this idea heap? Let's find out.
+Expect combinations, dissections and the occasional deleted page. I'm working with a particular sort of iteration in mind — are there any interesting connections in this idea heap? Let's find out.
 
 [The Photographers Field Guide to Beijing]: https://www.zachmccabe.com/beijing
 
