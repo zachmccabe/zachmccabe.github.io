@@ -3,6 +3,7 @@ robots: norobots
 layout: kao_midnite_3
 title: Reading list
 date: 2021-12-05
+update: 2023-02-10
 description: "Some of my favorite reads on cross-cultural communication. Biased towards the practical."
 lede: print
 nav: |  
@@ -24,15 +25,15 @@ nav: |
 
 - Deep Diversity, Shakil Choudhury, 2021. Ebook and print.
 
-Choudhury is a corporate trainer and anti-racist activist based in Toronto. His thesis is that you can't think your way out of "us/them" problems, because they're not cognitive problems. 
+Choudhury's thesis is that you can't think your way out of "us/them" problems, because they're not cognitive problems.
 
 The first time I read this book it was with a sense of relief -- something I've said elsewhere is that you need to develop new heuristics to successfully work or live in a new culture. I say this because I've experienced it acutely. But how do you do that? The process is not always intuitive.
 
-Choudhury gives you all the tools you need to start improving your cross-cultural communication, and then some. Start here.
+Choudhury, who is a corporate trainer and anti-racist activist based in Toronto, gives you all the tools you need to start improving your cross-cultural communication. Start here.
 
 Talking about bias and racism is hard; I appreciate Choudhury's willingness to always use his own embarrassing mistakes as an example. The example scenarios are well-drawn, examined minute by minute, to help you understand the concept.
 
-This book is focused on Canada and the US. So, if your social reference points are elsewhere in the world, some of the stories might resonate more than others. That's my only caveat.
+This book is focused on Canada and the US. So, if your social reference points are elsewhere in the world, some of the stories might resonate more than others.
 
 If you want to do more reading later, the footnotes are practically a syllabus. Use them. Most important to me, though, is that this book is written for you to use. It's all about action.
 
@@ -58,13 +59,19 @@ Whether you're traveling is irrelevant, really. This is a great book. I think I'
 
 - Trust: building the foundation for entrepreneurship in developing countries, Tarun Khanna, 2018. Ebook and Print.
 
-If you want to understand how your cultural assumptions will impact your mission's chance for success in an emerging market, start by reading Khanna.
+Read Khanna if you want to understand how your cultural assumptions will impact your mission's chance for success in a system that's wildly different to what you're used to.
 
-Through a series of vignettes, he shows you how money, time, infrastructure don't work the way you expect. Customers will not follow the patterns you expect, and neither will suppliers or staff.
+You don't have to be an entrepreneur to have a mission. You don't need to be upper-level management in a large company to take something from this book. I don't have a corporate career. And I figure that if someone in the C-Suite -- with a team and company resources backing them -- needs a book like this to approach deep, cultural challenges, the rest of us need it even more. That's the way I'm reading this book.
+
+Anyway, nothing in this book takes place in an office. The territory of this book is football stadiums, micro-loans, heart surgery. Through a series of vignettes, Khanna shows you how money, time, infrastructure don't work the way you expect. Customers will not follow the patterns you expect, and neither will suppliers or staff.
+
+The examples will help you reflect on your own potential blind spots, and I think this is a practical way to start mapping your personal unknown unknowns.
+
+In the introduction Khanna says, "A change of mindset is needed to move away from the idea that entrepreneurs should be laser-focused on the problems they want to solve... to a mindset that emphasizes that they don't have that luxury in the developing world... they must *create the conditions to create.*"  This idea reminds me of Jan Chipchase's concept of Minimum Viable Infrastruture, which he describes in a booklet called Today's Office. Let's revisit Chipchase at the end of this list.
 
 Test your assumptions within the cultural paradigm of the community where you're doing business, Khanna says. Your product, your playbook, your perspective will all need to be focused on the local community. Only then can you build local trust. And only then will your organization have what it needs to succeed.
 
-(I'm not sure how well terms like "developing economy" or "emerging market" are holding up. I just re-read Khanna's book, though, and it feels as relevant as ever.)
+(Personally, I'm not sure how well some of the book's terms are holding up, e.g.:  "emerging markets," or the "developing" countries from the subtitle. I just re-read Khanna's book, though, and it feels as relevant as ever.)
 
 In this same vein, another resource I like is a free, 2-part podcast by Freakonomics Radio on American culture:
 
@@ -86,7 +93,9 @@ Working outside your own culture can feel overwhelming. What behaviors do you ne
 
 I particularly like section 3 where he discusses finding a cultural mentor, and ways your own foreignness can impact other's perceptions of your mistakes.
 
-While the book is framed for corporate workers, I think the ideas and strategies here can be applied elsewhere, too. If you are a volunteer, self-employed, or a student; if you are in a foreign culture and need to collaborate with people to get stuff done, this book can help. It certainly helped me.
+While the book is framed for corporate workers, I think the ideas and strategies here can be applied elsewhere, too. If you are a volunteer, self-employed, or a student; if you are in a foreign culture\* and need to collaborate with people to get stuff done, this book can help. It certainly helped me.
+
+\* Foreign means far away but there are lots of ways to measure distance.
 
 
 
@@ -97,13 +106,13 @@ While the book is framed for corporate workers, I think the ideas and strategies
 
 Kahane wants to teach you how to better manage your perspective. He wants to prepare you for situations that you can't walk away from, to step into and out of different perspectives, to adapt and to collaborate.
 
-"...we separate and shield ourselves by asserting that we are right and the others are wrong. We fear that if we collaborate with those others, we will become contaminated or compromised -- that we will betray what we stand for and who we are." Instead, he goes on, be intentional and reframe your approach: "I can phone home to say that I will be late 'because I am in traffic' or 'because I am traffic'. The latter explanation explicitly opens up my options to work with others to change the situation." From Kahane, chapter 7.
+In chapter 7, he says, "...we separate and shield ourselves by asserting that we are right and the others are wrong. We fear that if we collaborate with those others, we will become contaminated or compromised -- that we will betray what we stand for and who we are." Instead, he goes on, be intentional and reframe your approach: "I can phone home to say that I will be late 'because I am in traffic' or 'because I am traffic'. The latter explanation explicitly opens up my options to work with others to change the situation."
 
 The ideas here pair well with Choudhury's book, which is at the top of this list. 
 
 Kahane's strategies aren't specific to cross-cultural scenarios. I found they adapt well to that context, though. To that end, the book's conclusion includes a structured series of exercises.
 
-The intention of this book reminds me a little of de Bono's decision-making book, "Six Thinking Hats," or Burn's cognitive behavioral therapy classic, "Feeling Good." Kahane, however, deals with systemic poverty and guerrilla wars. He's worked as a conflict mediator and scenario planner for governments and NGOs around the world.
+The intention of this book reminds me a little of de Bono's decision-making book, Six Thinking Hats, or Burn's cognitive behavioral therapy classic, Feeling Good. Kahane, however, deals with systemic poverty and guerrilla wars. He's worked as a conflict mediator and scenario planner for governments and NGOs around the world.
 
 If you're in a hurry, start midway through: Chapter 5 is probably a good spot. Then flip back through earlier chapters when you need to fill in.
 
