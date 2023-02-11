@@ -86,22 +86,6 @@ I do my best to remember all this when I frame the scene, choose one picture ove
 
 
 
-<figure class="kaoPUSH">
-<img class="kao-1x1-full"
-srcset="
-https://images.zachmccabe.com/file/briars/briars-20171109-9966-0896.jpg 896w,
-https://images.zachmccabe.com/file/briars/briars-20171109-9966-0448.jpg 448w,
-https://images.zachmccabe.com/file/briars/briars-20171109-9966-0224.jpg 224w"
-src="https://images.zachmccabe.com/file/briars/briars-20171109-9966-0448.jpg"
-alt="Holding an old monarch butterfly wing in between fingers"
-sizes="99vw" loading="lazy" />
-<figcaption>
-Found a tattered monarch butterfly wing in a field.
-</figcaption>
-</figure>
-
-
-
 ## Researching the story
 
 I like to use field guides, [iNaturalist,] and free publications from the Department of Agriculture’s [Natural Resources Conservation Service.]
@@ -264,3 +248,14 @@ For quick closeups I use a small flashlight. It's the kind of thing you need rou
 
 I also keep a collapsible reflector in my car but I've only used it once. Animals really seem to hate that thing. Camera flash isn't much better. Many critters are more willing to accommodate continuous light, I've found.
 
+
+<figure class="kaoPUSH">
+<img class="kao-1x1-full"
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20171109-9926-0896.jpg 896w,
+https://images.zachmccabe.com/file/briars/briars-20171109-9926-0448.jpg 448w,
+https://images.zachmccabe.com/file/briars/briars-20171109-9926-0224.jpg 224w"
+src="https://images.zachmccabe.com/file/briars/briars-20171109-9926-0448.jpg"
+alt="Holding up an old monarch butterfly wing"
+sizes="99vw" loading="lazy" />
+</figure>
