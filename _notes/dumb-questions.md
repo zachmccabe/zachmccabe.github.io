@@ -29,7 +29,7 @@ It's okay to triage. Cross-cultural communication is hard.
 
 I've been trying to use dumb questions to improve my conversations. First, I want to question my own assumptions. I want to channel the unstoppable, obnoxious energy of a 3-year-old who always has time for 1 last, ego-shredding, "Why?" Ask yourself often enough and it begins to feel like a Zen koan. Yes but why!
 
-Second, I want to ask questions even when it feels like the answer is obvious to others. Something I've learned from therapists and journalists is that questions can be used to learn more about the person you're talking with and their assumptions. And, if I'm having a really good day, asking these "obvious" questions provides me with deeply-layered answers to questions I haven't even realized I'd need to ask.
+Second, I want to ask questions even when it feels like the answer is obvious to others -- something I've learned from professional question-askers like therapists, journalists and scientists.. And, if I'm having a really good day, asking these "obvious" questions provides me with deeply-layered answers.
 
 
 
