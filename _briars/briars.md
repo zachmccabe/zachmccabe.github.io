@@ -23,6 +23,35 @@ nav: |
 
 Briars is 1 part nature journal, 1 part digital experiment.
 
+
+<figure>
+<img class="kao-1x1-third" 
+srcset="
+ https://images.zachmccabe.com/file/briars/briars-20210515-0151-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20210515-0151-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20210515-0151-0448.jpg" 
+alt="Milkweed and grasses in a field at dusk" 
+sizes="33vw" loading="lazy" />
+<img class="kao-1x1-third" 
+srcset=" 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20181014-8128-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20181014-8128-0448.jpg" 
+alt="Monarch caterpillar on milkweed plant" 
+sizes="33vw" loading="lazy" />
+<img class="kao-1x1-third" 
+srcset=" 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20180611-4711-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20180611-4711-0448.jpg" 
+alt="Milkweed plants in a field" 
+sizes="33vw" loading="lazy" />
+</figure>
+
+
 Call it meditation, gratitude, delight. I do this to remind myself of the remarkable world right in front of me. Figured I’d bring a few friends along for the ride.
 
 
@@ -57,6 +86,21 @@ I do my best to remember all this when I frame the scene, choose one picture ove
 
 
 
+<figure class="kaoPUSH">
+<img class="kao-1x1-full"
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20171109-9966-0896.jpg 896w,
+https://images.zachmccabe.com/file/briars/briars-20171109-9966-0448.jpg 448w,
+https://images.zachmccabe.com/file/briars/briars-20171109-9966-0224.jpg 224w"
+src="https://images.zachmccabe.com/file/briars/briars-20171109-9966-0448.jpg"
+alt="Holding an old monarch butterfly wing in between fingers"
+sizes="99vw" loading="lazy" />
+<figcaption>
+Found a tattered monarch butterfly wing in a field.
+</figcaption>
+</figure>
+
+
 
 ## Researching the story
 
@@ -78,6 +122,31 @@ I feel lucky to have the opportunity to spend time out on the land. Access is no
 
 
 
+<figure class="kaoPUSH">
+<img class="kao-1x1-half" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20200713-2169-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2169-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2169-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20200713-2169-0448.jpg" 
+alt="Samples of grass seed heads on a table waiting to be identified" 
+sizes="48vw" loading="lazy" />
+
+<img class="kao-1x1-half" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20190502-0077-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20190502-0077-0448.jpg" 
+alt="Perennial rye grass in a field at dusk" 
+sizes="48vw" loading="lazy" />
+
+<figcaption>
+Left: Samples of grass seed heads on a table waiting to be identified. Right: Perennial rye grass in a field at dusk.
+</figcaption>
+</figure>
+
+
 
 ## Structuring the story
 
@@ -94,6 +163,7 @@ See this article at [A List Apart] for more on atomic units.
 
 
 
+<!-- some JPG here -->
 
 
 To structure this project, I decided to borrow as much as a could from the information architects and their atomized patterns.
@@ -124,6 +194,16 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 
 
+<figure class="kaoPUSH">
+<img style="width:1250px; max-width:100%;" src="https://www.zachmccabe.com/assets/viz/graph-1250x538-opti.png" alt="Trying to graph picture IPTC metadata as part of my Briars project" />
+<figcaption>
+Graphing picture IPTC metadata as part of my Briars project using ExifTool and Obsidian. Since this project is already organized using plaintext files, I briefly experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to capture and then print photo metadata and captions as markdown files. Then, those text files were brought into Obsidian. 
+</figcaption>
+</figure>
+
+
+
+
 ## Publishing workflow
 
 1. Briars is created with an emphasis on quick turnaround. Pictures are shot as JPG files whenever possible, then cropped 1:1 in Photo Mechanic on my Mac. Any notes or captions are stored in plaintext files alongside the images.
@@ -138,6 +218,31 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 
 
 
+<figure class="kaoPUSH">
+<img class="kao-1x1-half" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-1792.jpg 1796w, 
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20191024-2997-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20191024-2997-0448.jpg" 
+alt="Oak leaf on rain-soaked car windshield" 
+sizes="48vw" loading="lazy" />
+
+<img class="kao-1x1-half" 
+srcset="
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-1792.jpg 1792w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-0896.jpg 896w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-0448.jpg 448w, 
+https://images.zachmccabe.com/file/briars/briars-20200713-2159-0224.jpg 224w" 
+src="https://images.zachmccabe.com/file/briars/briars-20200713-2159-0448.jpg" 
+alt="Cameras I use for this project" 
+sizes="48vw" loading="lazy" />
+
+<figcaption>
+Left: Waiting out a storm in my car. Right: Cameras used for this project.
+</figcaption>
+</figure>
 
 
 
@@ -152,10 +257,6 @@ The first 3-years-worth of images were made with cell phones and a cheap action 
 To add some protection from sweat, dust and rain, I use either a 4x7-inch Loksak bag or a tiny, #1010 Pelican case.
 
 One useful thing about working with phones and compact cameras is that you don't need to look through a viewfinder. You get to keep your peripheral vision. I've come to prefer working this way, actually. And I especially appreciate it when the weather is changing fast, or when I'm working around animals. The trade off is that under bright, midday sun I can't really see the interface on the screen.
-
-
-
-
 
 ### Light
 
