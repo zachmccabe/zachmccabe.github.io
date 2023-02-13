@@ -343,15 +343,6 @@ However, during beta testing on monochromatic e-ink screens, vermillion colors w
 
 
 
-<figure class="kaoPUSH">
-<img class="kao-1x1-half" src="https://images.zachmccabe.com/file/field-guide/field-guide-spring-festival.svg" alt="Infographic showing how Spring Festival starts on the first new moon of the new year, and the timing of other holiday events are also based on the lunar phase: the Lantern Festival is 15 days later, on the first full moon of the new year." />
-<figcaption>
-The field guide includes simple illustrations, like this infographic about Spring Festival showing how the timing of holiday events is based on lunar phases.
-</figcaption>
-</figure>
-
-
-
 ### SVG GIF JPG wtf
 
 All illustrations were created in SVG, which is a lossless, vector image format. Joni Trythall's [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/) is brilliant, and I only wish I'd found it sooner.
@@ -363,6 +354,15 @@ Originally, all the illustrations in the V1 field guide were to be published in 
 At that point I also learned that, apparently, some of Amazon's e-ink hardware couldn't render PNG. In the V1 field guide, it looked like my only options were JPG for photos, and GIF<sup><a id="ref3" href="#note3" alt="footnote">3</a></sup> for everything else.
 
 For the V2 field guide, it seemed that file format support had improved slighty for Kindle e-ink tablets. I used PNGs for the illustrations.
+
+
+
+<figure class="kaoPUSH">
+<img class="kao-1x1-half" src="https://images.zachmccabe.com/file/field-guide/field-guide-spring-festival.svg" alt="Infographic showing how Spring Festival starts on the first new moon of the new year, and the timing of other holiday events are also based on the lunar phase: the Lantern Festival is 15 days later, on the first full moon of the new year." />
+<figcaption>
+The field guide includes simple illustrations, like this infographic about Spring Festival showing how the timing of holiday events is based on lunar phases.
+</figcaption>
+</figure>
 
 
 
