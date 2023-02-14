@@ -59,9 +59,9 @@ With the 2x2 Eisenhower matrix, it's critical to give extra attention to things 
 
 Feeling out of sync. How do you fix that?
 
-I start using my friend's wristwatch as memory device to help me prioritize. It's not about being on time. It's about getting into the right headspace.
+I start using my friend's wristwatch-as-memory-device technique to help me prioritize. It's not about being on time. It's about getting into the right headspace.
 
-Why not just add a clock widget to your phone screen? You could! I like having the physical reminder on my arm. (Sometimes, I just use a hair tie or take the rubber band off the broccoli and put that around my wrist.) And, okay, I guess have been doing this for a while. I'm not bragging. I'm laughing at myself -- God! -- Here's a story: When I moved away after 3rd grade my best friend sent me a dispatch from his summer adventures via cassette tape. I flipped the tape over, narrated my reply and sent it back. Summer wasn't the same but it felt good to hear a familiar voice, you know?
+Why not just add a clock widget to your phone screen? You could! I like having the physical reminder on my arm. Sometimes, I just use a hair tie or take the rubber band off the broccoli and put that around my wrist. And, okay, I guess have been doing this for a while. I'm not bragging. I'm laughing at myself -- God -- Here's a story: When I moved away after 3rd grade my best friend sent me a dispatch from his summer adventures via cassette tape. I flipped the tape over, narrated my reply and sent it back. Summer wasn't the same but it felt good to hear a familiar voice, you know?
 
 When I need to keep up with a series of group calls with contacts spread across 10 timezones, the first thing I reach for is my old Casio.
 
@@ -69,11 +69,11 @@ When a friend is going through a rough time, I set my watch to UTC +11 and check
 
 When I am going through a rough time, I set my watch to UTC +8 and check in with a friend once a week.
 
-I'm talking with an American client in the US who has no idea that, officially, Beijing time is used for all of China -- despite that country spanning 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees longitude, and is split into 4 timezones.) Those timezone calculator websites only help so much when you're trying to schedule an international call with a contact somewhere in the western-half of China.
+I'm talking with an American client in the US who has no idea that, officially, Beijing time is used for all of China -- despite that country spanning 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees longitude, and is split into 4 timezones.) This surprised me too the first time I experienced it. You can set your alarm for 07:00 China Standard Time but the neighborhood runs on unofficial, local time. People get up with the sunrise, which is still hours away. Timezone calculator websites only help so much when you're trying to schedule an international call with a contact somewhere in the western-half of China.
 
 It's a good idea to confirm the timezone, and more, when you're planning a call.
 
-I'm chatting with a friend who has lived on the west coast of the US for several years. She's stressed out and studying for her PhD. She doesn't realize that the US has multiple timezones, much less that it is hours later for me than it is for her. Groggy and preoccupied with thoughts of work in the morning, I'm less focused on the conversation than I would like. She is embarrassed that, even after years of living in the country, she didn't know this simple fact about the place.
+I'm chatting with a friend who has lived on the west coast of the US for several years. She's stressed out and studying for her PhD. She doesn't realize that the US has multiple timezones, much less that it is hours later for me than it is for her. Groggy and preoccupied with thoughts of work in the morning, I'm less focused on the conversation than I would like. I feel bad and apologize. She is embarrassed that, even after years of living in the country, she didn't know this simple fact about the place.
 
 People assume their frame of reference is also your frame of reference.
 
@@ -97,7 +97,7 @@ So far, I've been assuming there is a signal. There is not always a signal. Make
 
 - Let's pick an extra option for our call on \[date, time\]. \[Preferred VOIP app\] is glitchy in \[location\] because of censorship. Any ideas for a fallback plan?
 
-You might end up needing to coordinate a call with someone who isn't good at this part. Talking through your plan in advance is even more important with these folks. It's best to visualize a few likely scenarios by yourself, and then share your plan. I try to do this in a way that doesn't require much effort on their end but still gives them a clear picture of any likely challenges. Maybe something like:
+You might end up needing to coordinate a call with someone who isn't good at this part. Maybe they haven't had much practice yet. Maybe they're too busy to contribute to the planning process. Whatever. With these folks, talking through your plan in advance is even more important. It's best to visualize a few likely scenarios by yourself, and then share your plan. I try to do this in a way that doesn't require much effort from my contact but still gives them a clear picture of any likely challenges. Maybe something like:
 
 - In addition to our usual WhatsApp chat, you can reach me at \[travel @ email\]. The timezone in \[location\] is \[N hours behind\]. Can I call you on \[date\] at \[time\] your time?
 - In my experience, the signal between \[location A\] and \[location B\] isn't reliable. I will text you from \[local number\] at \[time\] to check in beforehand. Just in case the bandwidth for a call doesn't hold up, let's try when I get to \[location C\] on \[date\]. Will that work for you?
@@ -110,7 +110,7 @@ The "vibe check" is one I've been using a lot. If something wild is happening, l
 
 This script helps me get a better idea of the other person's state of mind, and the environment around them. The idea is to intentionally, but gently, solicit all that background info you need before the start of a conversation.  Hopefully, I can do this without being annoying:
 
-- I know you're busy dealing with \[disaster\]. Would it be better to talk about \[work topic\] another day?
+- I know you're busy dealing with \[trouble\]. Would it be better to talk about \[work topic\] another day?
 
 Be sensitive to the emotional payload. If my contact is in a stressful situation, they might start to vent at this point. Let it play out so that you don't accidentally trivialize what the person is experiencing. Sometimes, I need to discreetly set the phone down while they're mid-rant and take a few deep breaths. That's okay. Other times, people would rather focus on something else. That's okay, too:
 
