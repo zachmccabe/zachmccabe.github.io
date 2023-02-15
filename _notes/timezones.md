@@ -69,7 +69,7 @@ When a friend is going through a rough time, I set my watch to UTC +11 and check
 
 When I am going through a rough time, I set my watch to UTC +8 and check in with a friend once a week.
 
-I'm talking with an American client in the US who has no idea that, officially, Beijing time is used for all of China -- despite that country spanning 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees longitude, and is split into 4 timezones.) This surprised me too the first time I experienced it. You can set your alarm for 07:00 China Standard Time but the neighborhood runs on unofficial, local time. People get up with the sunrise, which is still hours away. Timezone calculator websites only help so much when you're trying to schedule an international call with a contact somewhere in the western-half of China.
+I'm talking with an American who is surprised that China uses 1 official timezone. Those timezone calculator websites only help so much when you're trying to schedule an international call with a contact somewhere in the western-half of the country. People use unofficial, local time. You can set your alarm for 07:00 Beijing Time but the neighborhood isn't going to wake up for hours. This surprised me, too, the first time I experienced it. China spans 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees longitude, and is split into 4 timezones.)
 
 It's a good idea to confirm the timezone, and more, when you're planning a call.
 
