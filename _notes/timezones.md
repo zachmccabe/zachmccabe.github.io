@@ -3,12 +3,13 @@ robots: norobots
 layout: kao_midnite_3
 title: Timezones
 date: 2021-09-06
-update: 2022-05-13
-description: "Notes on keeping in touch with friends and clients from far away. Better long-distance communication starts with your state of mind."
+update: 2023-02-17
+description: "Notes on keeping in touch with friends and clients from far away."
 lede: print
 nav: |  
   + Table of Contents
   + [North Star](https://www.zachmccabe.com/travel/timezones#north-star)
+  + [Sync Fix](https://www.zachmccabe.com/travel/timezones#sync-fix)
   + [Mars Time](https://www.zachmccabe.com/travel/timezones#mars-time)
   + [Signals and scripts](https://www.zachmccabe.com/travel/timezones#signals-and-scripts)
 
@@ -17,59 +18,39 @@ nav: |
 
 {% include page_nav.html %}
 
+
 ## North Star
 
 Use a mnemonic. Give your self a GPS reference point, a north star, a southern cross.
 
-I've got a friend who always keeps his Seiko wristwatch set to UTC -8. It doesn't matter if he's in his hometown (UTC +9). He doesn't adjust it to local time when he's in the city where he feels most at home (UTC +2). Once, in the tiny town (UTC -5) where he and I went to college, I asked him: Why? He keeps it set to the timezone where his parents live. It helps him remember to call his mom.
+I've got a friend who always keeps his Seiko wristwatch set to UTC -8. It doesn't matter if he's in his hometown (UTC +9). He doesn't adjust it to local time when he's in the city where he feels most at home (UTC +2). Once, in the tiny town (UTC -5) where he and I went to college, I asked him about it. He said he keeps it set to the timezone where his parents live. It helps him remember to call his mom.
 
-It's easy to give your attention to the people and places around you. That physical proximity makes them impossible to ignore. When important relationships do not have the luxury of proximity, it helps to have that reminder.
+It's easier to give your attention to the people and places around you. That physical proximity makes them harder to ignore. When important relationships do not have the luxury of proximity, it helps to have a reminder.
 
-I like to visualize this with the Eisenhower urgent-important matrix. Sometimes I like to add an extra row: urgent-important-nearby.
+I start using my friend's wristwatch-as-memory-device technique to help me prioritize. I buy a cheap watch from a street market. Is it supposed to look like a Rolex? It's so cheap it stops working almost immediately after I buy it. I wear it on a few work trips. Having the thing on my wrist is a good way to remember the stuff that matters.
 
-<table class="kaoPUSH kaoBoxy">
-  <tr>
-    <td></td>
-    <th scope="row">Urgent<br/>+</th>
-    <th scope="row">Urgent<br/>-</th>
-    <th scope="row">Nearby<br/>+</th>
-    <th scope="row">Nearby<br/>-</th>
-  </tr>
-  <tr>
-    <th scope="col">Important<br/>+</th>
-    <td>1</td>
-    <td style="border:1px solid gold; font-weight:bold;">2</td>
-    <td>3</td>
-    <td style="border:1px solid gold; font-weight:bold;">4</td>
-  </tr>
-  <tr>
-    <th scope="col">Important<br/>-</th>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
-    <td>8</td>
-  </tr>
-</table>
+I remember to call my client and give her a project update: UTC +8.
 
-With the 2x2 Eisenhower matrix, it's critical to give extra attention to things that are important but not urgent (element 2). Important things are easy to put off when there is something urgent to do. And there is always something urgent to do. It's the same for things that are important but not nearby (element 4). I also find that things in this antipodean element need more time than I expect, which multiplies the risk of under-prioritizing if I'm not paying attention.
+I remember to text my girlfriend, after she leaves work work and before bed: UTC -4.
+
+I get a cheap Casio, which does not break.
+
+When I need to keep up with a series of group calls with contacts spread across 10 timezones, the first thing I reach for is that watch. Why not just add a clock widget to your phone's home screen? You could! I like having the physical reminder on my arm. Sometimes, I just use a hair tie or take the rubber band off the broccoli and put that around my wrist. Maybe it is time to modernize and get a smartwatch.
+
+When I moved away after 3rd grade my best friend sent me a dispatch from his summer adventures via cassette tape in the mail. It made me so happy. I think I listened to it 3 or 4 times. Then, I flipped the tape over, narrated my reply and sent it back. Summer wasn't the same but it was good to hear a familiar voice, you know? Thanks friend and friend's mom. For me, this was a great lesson -- just work with what you've got and find a way to be there.
 
 
 
-## Mars Time
+
+## Sync Fix
 
 Feeling out of sync. How do you fix that?
 
-I start using my friend's wristwatch-as-memory-device technique to help me prioritize. It's not about being on time. It's about getting into the right headspace.
+I'm excited to catch up with a friend for the first time in the new year but I miss the call because I've transposed the agreed-on time from his timezone to my own. Silly mistake. It can happen when I'm busy or sleepy or don't write things down -- in this situation it was all 3. Apologies, friend.
 
-Why not just add a clock widget to your phone screen? You could! I like having the physical reminder on my arm. Sometimes, I just use a hair tie or take the rubber band off the broccoli and put that around my wrist. And, okay, I guess have been doing this for a while. I'm not bragging. I'm laughing at myself -- God -- Here's a story: When I moved away after 3rd grade my best friend sent me a dispatch from his summer adventures via cassette tape. I flipped the tape over, narrated my reply and sent it back. Summer wasn't the same but it felt good to hear a familiar voice, you know?
+Record both time and timezone in your calendar for reference later on.
 
-When I need to keep up with a series of group calls with contacts spread across 10 timezones, the first thing I reach for is my old Casio.
-
-When a friend is going through a rough time, I set my watch to UTC +11 and check in once a week.
-
-When I am going through a rough time, I set my watch to UTC +8 and check in with a friend once a week.
-
-I'm talking with an American who is surprised that China uses 1 official timezone. Those timezone calculator websites only help so much when you're trying to schedule an international call with a contact somewhere in the western-half of the country. People use unofficial, local time. You can set your alarm for 07:00 Beijing Time but the neighborhood isn't going to wake up for hours. This surprised me, too, the first time I experienced it. China spans 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees longitude, and is split into 4 timezones.)
+I'm talking with an American client who is surprised to learn that China uses 1 official timezone. Those timezone calculator websites only help so much when you're trying to schedule an international call with a contact somewhere in the western-half of the country. People use unofficial, local time. You can set your alarm for 07:00 Beijing Time but the neighborhood isn't going to wake up for hours. This surprised me, too, the first time I experienced it. China spans 62 degrees longitude. (That's more than the contiguous US, which spans 57 degrees longitude, and is split into 4 timezones.)
 
 It's a good idea to confirm the timezone, and more, when you're planning a call.
 
@@ -77,23 +58,25 @@ I'm chatting with a friend who has lived on the west coast of the US for several
 
 People assume their frame of reference is also your frame of reference.
 
-I'm listening to an [interview] with NASA operations engineer Nagin Cox: Because her team needs to work during the Martian night, when their solar-powered rover sleeps, they adopt Mars time.
 
-An Earth day is 39 minutes shorter than a Mars sol, so the team wear customized, mechanical watches. After the first week, their Mars schedule has pulled them back 4.5 hours from the local time at NASA's Jet Propulsion Lab in southern California. Want to measure that in jet lag terms? It would feel like flying west from Los Angeles (UTC -8), over the international dateline and then a bit past New Zealand (UTC +12). The team covers their windows at the office and in their homes. Their Mars missions are 90-sol-long. By that point they have drifted 2 and half days off the local time. Daily mission schedules are talked about using words like "yestersol," "tosol" and "nextersol." All of this is so cool it bends my mind.
+
+
+## Mars Time
+
+Because her team needs to work during the Martian night, when their solar-powered rover sleeps, NASA operations engineer Nagin Cox and her team adopt Mars time. I perk up and listen to the [interview] for timezone tactics I can borrow.
+
+An Earth day is 39 minutes shorter than a Mars sol, so the team wear customized, mechanical watches. After the first week, their Mars schedule has pulled them back 4.5 hours from the local time at NASA's Jet Propulsion Lab in southern California. Want to measure that in jet lag terms? It would feel like flying west from Los Angeles (UTC -8), over the international dateline and then a bit past New Zealand (UTC +12). The team covers their windows at the office and in their homes. Their Mars missions are 90-sol-long. By that point they have drifted 2 and half days off the local time. Daily mission schedules are talked about using words like "yestersol," "tosol" and "nextersol."
 
 Do what you have to do to get yourself on Mars Time.
 
-I buy a cheap watch from a street market. Is it supposed to look like a Rolex? It's so cheap it stops working almost immediately after I buy it. I wear it on a few work trips. Having the thing on my wrist is a good way to remember the stuff that matters.
+[interview]: https://www.npr.org/2021/02/05/964218185/nagin-cox-what-does-time-on-mars-teach-us-about-time-on-earth
 
-I remember to call my client and give her a project update: UTC +8.
-
-I remember to text my girlfriend, after she leaves work work and before bed: UTC -4.
 
 
 
 ## Signals and Scripts
 
-So far, I've been assuming there is a signal. There is not always a signal. Make a backup plan. Lucky you if your contact is the sort of person who is helpful troubleshooting these situations. Definitely involve that person in the planning process:
+I've been assuming there is a signal. There is not always a signal, of course. Make a backup plan. Lucky you if your contact is the sort of person who is helpful troubleshooting these situations. Definitely involve that person in the planning process:
 
 - Let's pick an extra option for our call on \[date, time\]. \[Preferred VOIP app\] is glitchy in \[location\] because of censorship. Any ideas for a fallback plan?
 
@@ -116,11 +99,11 @@ Be sensitive to the emotional payload. If my contact is in a stressful situation
 
 - You want me to talk for awhile?
 
-Try to minimize your own stress. Monitor your own tone of voice. A classic tactic is to count to 3 before you start talking.  This isn't easy, I know. And the number of times I have failed to do this adds up to a lot more than 3.
+Try to minimize your own stress. Monitor your own tone of voice. A classic tactic is to count to 3 before you start talking. This isn't easy. And the number of times I have failed to do this adds up to a lot more than 3.
 
 Speaking of minimizing stress, NATO phonetics are very useful during voice conversations. Choppy audio and loud background noises never seem to happen during the boring bits of a conversation.
 
-You can guess your way through a story. What about a booking code or surname? Use NATO phonetics to get the details right. A friend taught me a great trick to build fluency: Practice using street signs. (Main Street is "Mike Alpha Igloo November.") And, if you're driving, use license plates when you're waiting at a red light. Spell out as many as you can before the light turns green.
+You can guess your way through a story. What about a booking code or a name? When you can't switch to text, use NATO phonetics to get the details right. A friend taught me a great trick to build fluency: Practice using street signs. (Main Street is "Mike Alpha Igloo November.") And, if you're driving, use license plates when you're waiting at a red light. Spell out as many as you can before the light turns green.
 
 The "why-first" script is another favorite. First, I'll explain the intention, my why. Then, I'll make my request or pass along some piece of information.
 
@@ -128,8 +111,4 @@ The "why-first" script is another favorite. First, I'll explain the intention, m
 - Let's be sure I get you what you need. \[Rephrasing client's instructions\]. Is that right?
 - Sorry, I don't understand. My \[2nd language\] isn't as good as I'd like. Will you explain \[confusing phrase\] again?
 
-People are busy with their own lives. Confusion can creep into the conversation when people have different expectations -- like when day for me is literally night for you. Front-load the rationale for what you're about to say, and you can mitigate some of that.
-
-
-
-[interview]: https://www.npr.org/2021/02/05/964218185/nagin-cox-what-does-time-on-mars-teach-us-about-time-on-earth
+People are busy with their own lives. Confusion can creep into the conversation when people have different expectations -- like when day for me is literally night for you. Front-load the rationale for what you're about to say, and you can mitigate some of that. That is my working assumption.
