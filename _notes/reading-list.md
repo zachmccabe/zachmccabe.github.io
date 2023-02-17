@@ -8,12 +8,12 @@ description: "Some of my favorite reads on cross-cultural communication. Biased 
 lede: print
 nav: |  
   + Table of Contents
-  + [Deep Diversity by Choudhury](https://www.zachmccabe.com/travel/reading-list.html#deep-diversity-by-choudhury)
-  + [The Culture Map by Meyers](https://www.zachmccabe.com/travel/reading-list.html#the-culture-map-by-meyer)
-  + [Trust by Khanna](https://www.zachmccabe.com/travel/reading-list.html#trust-by-khanna)
-  + [Global Dexterity by Molinsky](https://www.zachmccabe.com/travel/reading-list.html#global-dexterity-by-molinksy)
-  + [Collaborating with the Enemy by Kahane](https://www.zachmccabe.com/travel/reading-list.html#collaborating-with-the-enemy-by-kahane)
-  + [The Field Study Handbook by Chipchase](https://www.zachmccabe.com/travel/reading-list.html#the-field-study-handbook-by-chipchase)
+  + [Deep Diversity by Choudhury](https://www.zachmccabe.com/notes/reading-list.html#deep-diversity-by-choudhury)
+  + [The Culture Map by Meyers](https://www.zachmccabe.com/notes/reading-list.html#the-culture-map-by-meyer)
+  + [Trust by Khanna](https://www.zachmccabe.com/notes/reading-list.html#trust-by-khanna)
+  + [Global Dexterity by Molinsky](https://www.zachmccabe.com/notes/reading-list.html#global-dexterity-by-molinksy)
+  + [Collaborating with the Enemy by Kahane](https://www.zachmccabe.com/notes/reading-list.html#collaborating-with-the-enemy-by-kahane)
+  + [The Field Study Handbook by Chipchase](https://www.zachmccabe.com/notes/reading-list.html#the-field-study-handbook-by-chipchase)
 
 ---
 
