@@ -8,9 +8,9 @@ description: "Notes on how I'm using questions to have better cross-cultural con
 lede: print
 nav: |  
   + Table of Contents
-  + [Another place](https://www.zachmccabe.com/travel/dumb-questions#another-place)
-  + [Some heuristics don't travel well](https://www.zachmccabe.com/travel/dumb-questions#some-heuristics-dont-travel-well)
-  + [Culturally adequate questions](https://www.zachmccabe.com/travel/dumb-questions#culturally-adequate-questions)
+  + [Another place](https://www.zachmccabe.com/notes/dumb-questions#another-place)
+  + [Some heuristics don't travel well](https://www.zachmccabe.com/notes/dumb-questions#some-heuristics-dont-travel-well)
+  + [Culturally adequate questions](https://www.zachmccabe.com/notes/dumb-questions#culturally-adequate-questions)
  
 ---
 
