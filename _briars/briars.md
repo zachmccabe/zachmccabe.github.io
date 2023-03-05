@@ -150,7 +150,7 @@ See this article at [A List Apart] for more on atomic units.
 <!-- some JPG here -->
 
 
-To structure this project, I decided to borrow as much as a could from the information architects and their atomized patterns.
+To structure this project, I decided to borrow as much as I could from the information architects and their atomized patterns.
 
 For Briars, the atom is a diary entry -- a single picture, its metadata, occasionally some notes. It’s not too different from the classic image-plus-caption structure familiar to photojournalists. What is new (to me) is how these little pieces flow and scale.
 
