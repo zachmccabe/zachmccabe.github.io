@@ -125,12 +125,10 @@ I listened to the audiobook first. I got more out of it the second time, when I 
 
 - The Field Study Handbook, Jan Chipchase, 2018. Print.
 
-Chipchase is a researcher whose work takes him to communities all over the world. He is a masterful observer. You should read this book hoping to get into that headspace. That's why I read it, anyway. I'm not a design researcher.
+If you're ready to level up, this book is worth your time. Chipchase is a researcher whose work takes him to communities all over the world.  This is less of a how-to book and more of a why-to book, he says. I like this framing. Read this book hoping to get into that headspace. That's why I read it, anyway.
 
-Try Chapter 11: Rapid Calibration Techniques. You can learn a lot about culture by taking in the "the obvious and unquestioned activities" of everyday life, Chipchase says.
-
-This is less of a how-to book and more of a why-to book, he says. I like this framing. If you're ready to level up, this book is worth your time.
+Chipchase is a masterful observer of culture. Try Chapter 11: Rapid Calibration Techniques. You can learn a lot about culture by taking in the "the obvious and unquestioned activities" of everyday life, he says.
 
 When I read Chapter 13: Data Collection, I was struck by the terse, 7-item list titled "Data Collection Field Principles" on page 326. (It's good advice. When I worked as a photographer for NGO clients, I learned to apply a similar list of rules to myself and my images.) Back in the introduction, in a section titled "The cost of a lack of context," Chipchase explains why it's worth protecting your process: "Intent is the most important aspect of data collection, and the first to suffer once the organization looks to scale collection. Compromise on intent, and the data set will become tainted, contaminating everything it touches."
 
-Chipchase is a generous writer. The book is beautifully put together, too: well-organized, and filled with charts, photos and illustrations. It is also expensive, compared to the other books on this list, and I had to save up for it. It was worth it. There is so much to learn here.
+Chipchase is a generous writer. The book is beautifully put together, too: well-organized, and filled with charts, photos and illustrations. It is also expensive, compared to the other books on this list, and I had to save up for it. It was worth it. There is so much to learn here. The book is print only but I'm hoping the author will release an ebook edition.
