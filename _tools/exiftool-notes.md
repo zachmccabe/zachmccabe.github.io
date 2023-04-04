@@ -2,7 +2,8 @@
 robots: norobots
 layout: kao_midnite_3
 title: ExifTool notes
-date: 2023-03-04
+date: 2022-05-26
+update: 2023-04-04
 description: "Code snippets and notes-to-self as I explore image metadata with this legendary tool."
 lede: print
 nav: |  
@@ -11,7 +12,7 @@ nav: |
   + [Writing directly into video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-directly-into-video-files)
   + [Working with captions, labels and location tags](https://www.zachmccabe.com/tools/exiftool-notes#working-with-captions-labels-and-location-tags)
   + [Writing and copying GPS in video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-and-copying-gps-in-video-files)
-  + [Dealing with missing altitude metadata in MP4 video files](https://www.zachmccabe.com/tools/exiftool-notes#dealing-with-missing-altitude-metadata-in-MP4-video-files)
+  + [Dealing with altitude metadata in video files](https://www.zachmccabe.com/tools/exiftool-notes#dealing-with-altitude-metadata-in-video-files)
 
 ---
 
@@ -289,7 +290,7 @@ For MacOS, remember to add the single quotes because <code>$</code> sigil is use
 
 
 
-## Dealing with missing altitude metadata in MP4 video files
+## Dealing with altitude metadata in video files
 
 You can inject an arbitrary altitude into GPS metadata. (Some of the apps I use have trouble with video files that don't include full coords as an x,y,z string. This is useful, for example, for videos shot on Android mobile phones, where altitude isn't captured in MP4 files.)
 
