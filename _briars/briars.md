@@ -181,9 +181,13 @@ Of course, this story form is everywhere, thanks to the remarkable success of so
 <figure class="kaoPUSH">
 <img style="width:1250px; max-width:100%;" src="https://www.zachmccabe.com/assets/viz/graph-1250x538-opti.png" alt="Trying to graph picture IPTC metadata as part of my Briars project" />
 <figcaption>
-Graphing picture IPTC metadata as part of my Briars project using ExifTool and Obsidian. Since this project is already organized using plaintext files, I briefly experimented with using note taking app Obsidian in my workflow. First, I used ExifTool to capture and then print photo metadata and captions as markdown files. Then, those text files were brought into Obsidian. 
+Graphing picture keywords as part of my Briars project using Obsidian graph view and ExifTool. This graph shows pictures as white dots, clustering around keywords (green dots) that I had previously assigned to each image.
 </figcaption>
 </figure>
+
+
+
+I briefly experimented with using Obsidian, a plaintext note taking app, in my workflow: First, I used ExifTool to capture and then print photo metadata to specially-formatted markdown files. Then, those text files were brought into Obsidian. The app has a graph view tool that can display links between notes and user-defined metadata tags. Being able to link tags, plaintext notes and image files together is something I'd love to incorporate into the backend of the project. I'm still experimenting with Obsidian but right now it is not one of my core tools.
 
 
 
