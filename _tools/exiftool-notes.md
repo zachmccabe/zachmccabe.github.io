@@ -11,7 +11,7 @@ nav: |
   + [Writing directly into video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-directly-into-video-files)
   + [Working with captions, labels and location tags](https://www.zachmccabe.com/tools/exiftool-notes#working-with-captions-labels-and-location-tags)
   + [Writing and copying GPS in video files](https://www.zachmccabe.com/tools/exiftool-notes#writing-and-copying-gps-in-video-files)
-  + [Inject altitude into GPS coords string in an MP4](https://www.zachmccabe.com/tools/exiftool-notes#inject-altitude-into-gps-coords-string-in-an-mp4)
+  + [Dealing with missing altitude metadata in MP4 video files](https://www.zachmccabe.com/tools/exiftool-notes#dealing-with-missing-altitude-metadata-in-MP4-video-files)
 
 ---
 
@@ -84,7 +84,7 @@ Restores your borked metadata for foo.jpg in the current directory:
 Note: This works because ExifTool automatically takes a metadata snapshot the first time you write to foo.jpg using ExifTool. If you first write a caption using, e.g. Photo Mechanic, and then write over that tag with ExifTool, the snapshot will only go as far back as when ExifTool first wrote the file.
 
 
-### You can disable the default metadata snapshot behavior
+### Disable metadata snapshot
 
 Prevents capture of metadata snapshot when writing to foo.jpg:
 
@@ -147,7 +147,7 @@ Copies text from foo.txt to XMP description tag in all JPGs in current directory
 
 
 
-### Display XMP labels for images
+### Display labels for images
 
 Print file name and label value for any files in current directory that have XMP label tag:
 
@@ -159,7 +159,7 @@ This will display both the file name and the color of the label tag. For MacOS, 
 
 
 
-### Searching for files by label tag value
+### Searching for files by label
 
 Finds any JPG files in current directory that have Red XMP label, then, for files that match, writes the label and XMP description tags to foo.csv:
 
@@ -190,6 +190,8 @@ For JPGs, location tags might also be in EXIF or IPTC groups. Photo Mechanic and
 
 ## Writing and copying GPS in video files
 
+### Copy coords from MP4 files to a CSV file
+
 Copies GPS coordinates from all MP4 files in current directory to foo.csv:
 
 <pre>
@@ -198,15 +200,23 @@ Copies GPS coordinates from all MP4 files in current directory to foo.csv:
 
 Note: You can output to CSV or TXT, e.g.: bar.txt instead of the above example. This snippet will also work for other types of image files that have embedded GPS coordinates, like JPGs, MOVs or XMP sidecar files.
 
----
+
+
+### Different metadata blocks for different use cases
 
 If you are going to write geolocation info directly into video files, it can help to write to UserData with MP4s and to Keys for MOV files. Like with all metadata, it really depends on your workflow and what is supported by the apps you use to manage your picture library. (Personally, I either write to XMP directly within the file or write to an XMP sidecar file.)
+
+### Write coords to UserData for MP4
 
 For an MP4 file, try writing GPS coords into UserData:
 
 <pre>
 <code>exiftool -userdata:gpscoordinates="45.0536,1.17,187" foo.mp4</code>
 </pre>
+
+
+
+### Write coords to Keys for MOV
 
 For an MOV file, try writing GPS coords into Keys:
 
@@ -215,6 +225,10 @@ For an MOV file, try writing GPS coords into Keys:
 </pre>
 
 UserData and Keys are subgroups of the Quicktime group. Writing to these tags will work with some video files (specifically MP4 and MOV). These tags won't work at all for JPGs or other stills files that don't support the Quicktime metadata block.
+
+
+
+### Using ExifTool's handy GPSCoordinates composite tag
 
 The GPSCoordinates tag is a composite tag related to the Quicktime group and, again, won't work on JPGs or other types of files. It's very handy for MP4 and MOV files because it allows you to enter your GPS as an x,y,z string all in the same flag.
 
@@ -228,7 +242,9 @@ Coordinates in the southern or western hemispheres use a minus symbol, e.g, 9.55
 
 Negative values for elevation work, too, if your location is below sea level.
 
----
+
+
+### Copy coords between metadata blocks
 
 Copies GPS to XMP group directly in foo.mp4:
 
@@ -236,7 +252,9 @@ Copies GPS to XMP group directly in foo.mp4:
 <code>exiftool "-xmp:gpslongitude<gpslongitude" "-xmp:gpslatitude<gpslatitude" "-xmp:gpsaltitude<gpsaltitude" foo.mp4</code>
 </pre>
 
----
+
+
+### Copy coords from file to a sidecar file
 
 Copies GPS from foo.mp4 to an XMP sidecar:
 
@@ -246,7 +264,8 @@ Copies GPS from foo.mp4 to an XMP sidecar:
 
 If you have other tags in your file, make sure you copy those over, too. There is an example below.
 
----
+
+### Create, copy tags into sidecar file
 
 Creates an XMP sidecar file for foo.mp4, copying any existing XMP tags, and then writes arbitrary GPS coords to that sidecar file (see notes below):
 
@@ -270,12 +289,15 @@ For MacOS, remember to add the single quotes because <code>$</code> sigil is use
 
 
 
-
-## Inject altitude into GPS coords string in an MP4
+## Dealing with missing altitude metadata in MP4 video files
 
 You can inject an arbitrary altitude into GPS metadata. (Some of the apps I use have trouble with video files that don't include full coords as an x,y,z string. This is useful, for example, for videos shot on Android mobile phones, where altitude isn't captured in MP4 files.)
 
-I hesitate to add arbitrary altitude into the coords string but, in some situations, it is more helpful than not.
+I hesitate to add arbitrary altitude into the coords string but, in some situations, it is more helpful than not; Nearly all of the gallery apps and image browsers I use will only read location coords from a file if it is a full x,y,z string that is stored in specific metadata blocks. In particular, this has been a problem with MP4 files. There are many potential ways of dealing with this issue, depending on use case.
+
+
+
+### You can inject alititude value into a coord string
 
 Injects altitude of 0 meters above sea level into UserData:GPSCoordinates string in foo.mp4, while maintaining the file's existing x,y coordinates:
 
@@ -285,7 +307,9 @@ Injects altitude of 0 meters above sea level into UserData:GPSCoordinates string
 
 You can write this snippet, and then write one of the snippets above to copy full x,y,z coords to an XMP sidecar file.
 
----
+
+
+### More ideas for injecting altitude into file metadata
 
 Injects altitude of 9999 meters above sea level into UserData:GPSCoordinates string for all MP4 files in current directory. Then, copies GPS x,y,z coords to XMP sidecar files for all MP4s in current directory. (I'm using a <code>|</code> pipe to string 2 commands together, one after another. There is probably a more efficient way to do this, though.):
 
