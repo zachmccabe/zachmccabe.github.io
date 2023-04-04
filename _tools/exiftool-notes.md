@@ -2,8 +2,8 @@
 robots: norobots
 layout: kao_midnite_3
 title: ExifTool notes
-date: 2022-05-20
-description: "Snippets I use and notes on what I'm learning about this fantastic tool and image metadata."
+date: 2023-03-04
+description: "Code snippets and notes-to-self as I explore image metadata with this legendary tool."
 lede: print
 nav: |  
   + Table of Contents
@@ -21,20 +21,19 @@ nav: |
 
 
 
+ExifTool is an app for working with metadata stored in photos, videos and other types of files. It is an incredibly useful command line tool, written in Perl.
 
-ExifTool is command line app for working with metadata stored in photos, videos and other types of files. It is legendary and incredibly useful.
+While I manage most of my captioning and other metadata tasks using an app called Photo Mechanic, ExifTool still comes in handy for lots of stuff.
 
-While I manage most of my captioning and other metadata using an app called Photo Mechanic, ExifTool still comes in handy for all sorts of tasks.
+ExifTool itself is cross-platform. Perl syntax varies by platform. I'm using MacOS. Please tweak accordingly if you decide to copy any of these snippets. (Better yet, go right to the source and use the excellent [forum] and [faq] to learn. That's what I do. The documentation page on [XMP sidecar files] is very helpful, too.)
 
-I use a directory of dummy image files for experiments, and am learning from the excellent [forum] and [faq.] This documentation page on [XMP sidecar files] is helpful, too.
-
-The app is cross-platform but some syntax varies by platform. I'm using MacOS. Tweak accordingly. All the snippets included here work for me but that doesn't mean doing things my way is a good way to do things. You've been warned :)
+Before running commands on my image archive, I use a directory of dummy image files for experiments. Everything included here works for me but that doesn't mean doing things my way is a good way to do things. You've been warned :)
 
 Okay, let's go!
 
 [forum]: https://exiftool.org/forum/index.php
 
-[faq.]: https://exiftool.org/faq.html
+[faq]: https://exiftool.org/faq.html
 
 [XMP sidecar files]: https://exiftool.org/metafiles.html
 
@@ -42,8 +41,9 @@ Okay, let's go!
 
 
 ## Useful basics
+### Try this first
 
-Displays the metadata in a file:
+Prints all findable metadata for a file called foo.jpg, sorted by group:
 
 <pre>
 <code>exiftool -a -u -g1 foo.jpg</code>
@@ -51,7 +51,9 @@ Displays the metadata in a file:
 
 I use this all the time to see how different cameras and apps write metadata to image files. It's great for verifying what's in the file and for troubleshooting problems. It might be all you need.
 
----
+
+
+### Update your software
 
 Checks which version you're running, and shows other helpful details:
 
@@ -59,17 +61,19 @@ Checks which version you're running, and shows other helpful details:
 <code>exiftool -ver -v2</code>
 </pre>
 
+To update the app, see the official [install instructions.]
+
 Note: Security researchers [found] a serious vulnerability in older versions of ExifTool. (It's over my head but I believe the greatest risk is to servers?) This was patched in v 12.24. For more on safely coding with ExifTool, and Perl more generally, read this [security note] from the developer. ExifTool is well-maintained, and has been for a long time. Bugs are fixed and new improvements are added at a steady pace. You'll want to stay up-to-date with the latest version.
 
-To update the app, see the official [install instructions.]
+[install instructions.]: https://exiftool.org/install.html
 
 [found]: https://twitter.com/wcbowling/status/1393311625709441024?cxt=HHwWgMCq_dPihNYmAAAA
 
 [security note]: https://exiftool.org/index.html#security
 
-[install instructions.]: https://exiftool.org/install.html
 
----
+
+### Metadata snapshots by default
 
 Restores your borked metadata for foo.jpg in the current directory:
 
@@ -78,6 +82,9 @@ Restores your borked metadata for foo.jpg in the current directory:
 </pre>
 
 Note: This works because ExifTool automatically takes a metadata snapshot the first time you write to foo.jpg using ExifTool. If you first write a caption using, e.g. Photo Mechanic, and then write over that tag with ExifTool, the snapshot will only go as far back as when ExifTool first wrote the file.
+
+
+### You can disable the default metadata snapshot behavior
 
 Prevents capture of metadata snapshot when writing to foo.jpg:
 
@@ -98,12 +105,13 @@ Prevents capture of metadata snapshot when writing to foo.jpg:
 
 
 
-
 ## Working with captions, labels and location tags
 
 Personally, I use Photo Mechanic or another GUI app to do most of my tagging and organization. There are still situations where I want to use ExifTool to read or write these tags, though. Here are some examples.
 
----
+
+
+### Some ideas for copying from metadata tags into text file
 
 Copies file name and XMP description tag from foo.mp4 to a TXT file with the same name. (If foo.txt already exists, the <code>!</code> operator overwrites the file):
 
@@ -121,7 +129,9 @@ If you are using ExifTool in the current directory, include a <code>.</code> per
 
 Note: The default formatting of ExifTool's CSV output works fine for me but I think you can use a flag for binary output or set up a template, if that's what you need.
 
----
+
+
+### Copying from a text file to metadata tag in an image file
 
 Copies text from foo.txt to XMP description tag in bar.jpg:
 
@@ -135,9 +145,11 @@ Copies text from foo.txt to XMP description tag in all JPGs in current directory
 <code>exiftool "-xmp-dc:description<=foo.txt" -ext jpg .</code>
 </pre>
 
----
 
-Displays any files in current directory that have XMP label tag:
+
+### Display XMP labels for images
+
+Print file name and label value for any files in current directory that have XMP label tag:
 
 <pre>
 <code>exiftool -if '$xmp-xmp:Label' -xmp-xmp:label .</code>
@@ -145,7 +157,9 @@ Displays any files in current directory that have XMP label tag:
 
 This will display both the file name and the color of the label tag. For MacOS, remember to add the single quotes because <code>$</code> sigil is used.
 
----
+
+
+### Searching for files by label tag value
 
 Finds any JPG files in current directory that have Red XMP label, then, for files that match, writes the label and XMP description tags to foo.csv:
 
@@ -155,7 +169,9 @@ Finds any JPG files in current directory that have Red XMP label, then, for file
 
 Note: The <code>i</code> in <code>/Red/i</code> makes if statement case insensitive. However, Photo Mechanic is picky and only recognizes XMP label if it is capitalized. Use Red, Yellow, Green, Blue, Purple, Cyan, Brown, Trash, None if you're writing to file. I'm not sure about how these values are mapped by other apps like Adobe Bridge, Capture One.
 
----
+
+
+### Searching for files by city
 
 Finds XMP sidecar files in current directory that have XMP city tag, then prepends those tags to the XMP description tag. (I.e. "City...Description". I'm using an ellipses here but format it however you like.):
 
@@ -168,7 +184,6 @@ For MacOS, remember to add the single quotes because <code>$</code> sigil is use
 There are multiple ways to store the same location info in XMP. (Within the XMP group alone, location tags can be written to xmp-photoshop, xmp-iptccore, xmp-iptcext.)
 
 For JPGs, location tags might also be in EXIF or IPTC groups. Photo Mechanic and some other apps can read and write these tags, and will try to sync all of them. Redundancy is important in metadata because most apps only read a few specific tags. Fiendishly arcane. If you want to use ExifTool to write location tags, you'll want to be specific.
-
 
 
 
