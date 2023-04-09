@@ -503,9 +503,11 @@ p + h3, p + h4 {
 }
 */
 
+/*
 p + pre, pre + p {
   padding-top: 1.2em;
 }
+*/
 
 pre {
   background: linear-gradient(145deg, rgba(38,139,210,0.3) 0%,  rgba(255,255,255,0) 100%);
