@@ -22,19 +22,15 @@ nav: |
 
 
 
-ExifTool is an app for working with metadata stored in photos, videos and other types of files. It is an incredibly useful command line tool, written in Perl.
+ExifTool is an app for working with metadata stored in photos, videos and other types of files. It is a useful command line tool, written in Perl. 
 
-While I manage most of my captioning and other metadata tasks using an app called Photo Mechanic, ExifTool still comes in handy for lots of stuff.
+Code is creative, like photography, and it's really about imagining what you want to make. To figure out how to put the pieces together, I use the excellent [forum] and [faq.] The documentation page on [XMP sidecar files] is very helpful, too.
 
-ExifTool itself is cross-platform. As you might already know, code syntax varies by platform. I'm using MacOS. Please tweak accordingly if you decide to copy any of these snippets. (Better yet, go right to the source and use the excellent [forum] and [faq] to learn. That's what I do. The documentation page on [XMP sidecar files] is very helpful, too.)
-
-Before running commands on my image archive, I use a directory of dummy image files for experiments. Everything included here works for me but that doesn't mean doing things my way is a good way to do things. You've been warned :)
-
-Okay, let's go!
+Before running commands on my image archive, I use a directory of dummy image files for experiments. Everything included here works for me but that doesn't mean doing things my way is a good way to do things. Your best option is to use the FAQ, listed above :)
 
 [forum]: https://exiftool.org/forum/index.php
 
-[faq]: https://exiftool.org/faq.html
+[faq.]: https://exiftool.org/faq.html
 
 [XMP sidecar files]: https://exiftool.org/metafiles.html
 
@@ -50,7 +46,7 @@ Prints all findable metadata for a file called foo.jpg, sorted by group:
 <code>exiftool -a -u -g1 foo.jpg</code>
 </pre>
 
-I use this all the time to see how different cameras and apps write metadata to image files. It's great for verifying what's in the file and for troubleshooting problems. It might be all you need.
+I use this all the time to see how different cameras and apps write metadata to image files. It's great for verifying what's in the file and for troubleshooting problems.
 
 
 
@@ -64,7 +60,7 @@ Checks which version you're running, and shows other helpful details:
 
 To update the app, see the official [install instructions.]
 
-Note: Security researchers [found] a serious vulnerability in older versions of ExifTool. (It's over my head but I believe the greatest risk is to servers?) This was patched in v 12.24. For more on safely coding with ExifTool, and Perl more generally, read this [security note] from the developer. ExifTool is well-maintained, and has been for a long time. Bugs are fixed and new improvements are added at a steady pace. You'll want to stay up-to-date with the latest version.
+Note: Security researchers [found] a serious vulnerability in older versions of ExifTool. (It's over my head but I believe the greatest risk is to servers?) This was patched in v 12.24. For more on safely coding with ExifTool, and Perl more generally, read this [security note] from the developer. ExifTool is well-maintained. Bugs are fixed and new improvements are added at a steady pace. You'll want to stay up-to-date with the latest version.
 
 [install instructions.]: https://exiftool.org/install.html
 
