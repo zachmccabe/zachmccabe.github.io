@@ -26,7 +26,7 @@ ExifTool is an app for working with metadata stored in photos, videos and other 
 
 While I manage most of my captioning and other metadata tasks using an app called Photo Mechanic, ExifTool still comes in handy for lots of stuff.
 
-ExifTool itself is cross-platform. Perl syntax varies by platform. I'm using MacOS. Please tweak accordingly if you decide to copy any of these snippets. (Better yet, go right to the source and use the excellent [forum] and [faq] to learn. That's what I do. The documentation page on [XMP sidecar files] is very helpful, too.)
+ExifTool itself is cross-platform. As you might already know, code syntax varies by platform. I'm using MacOS. Please tweak accordingly if you decide to copy any of these snippets. (Better yet, go right to the source and use the excellent [forum] and [faq] to learn. That's what I do. The documentation page on [XMP sidecar files] is very helpful, too.)
 
 Before running commands on my image archive, I use a directory of dummy image files for experiments. Everything included here works for me but that doesn't mean doing things my way is a good way to do things. You've been warned :)
 
@@ -233,15 +233,15 @@ UserData and Keys are subgroups of the Quicktime group. Writing to these tags wi
 
 The GPSCoordinates tag is a composite tag related to the Quicktime group and, again, won't work on JPGs or other types of files. It's very handy for MP4 and MOV files because it allows you to enter your GPS as an x,y,z string all in the same flag.
 
-X,Y,Z = latitude, longitude, altitude.
+- X,Y,Z = latitude, longitude, altitude
+- Z = altitude in meters above sea level
 
-Z = altitude in meters above sea level.
+Coordinates in the southern or western hemispheres use a minus symbol.
 
-Coordinates in the southern or western hemispheres use a minus symbol, e.g, 9.5566 South, 78.2358 West:
+- 9.5566 South, 78.2358 West
+- -9.5566, -78.2358
 
--9.5566, -78.2358
-
-Negative values for elevation work, too, if your location is below sea level.
+Negative values for elevation work, too, if your location is below sea level. FWIW ExifTool allows you to customize the presentation of how coords are printed to screen. Check the docs.
 
 
 
@@ -255,7 +255,7 @@ Copies GPS to XMP group directly in foo.mp4:
 
 
 
-### Copy coords from file to a sidecar file
+### Copy coords from image file to a sidecar file
 
 Copies GPS from foo.mp4 to an XMP sidecar:
 
