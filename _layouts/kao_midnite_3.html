@@ -11,6 +11,8 @@
 <meta name="msapplication-TileColor" content="#2b5797">
 <meta name="theme-color" content="#073642">
 {%- if page.redirect -%}{%- include meta_301.html -%}{%- else -%}{%- endif -%}
+<meta name="CCBot" content="nofollow">
+<meta name="robots" content="noai, noimageai">
 {%- if page.robots == "norobots" -%}{%- include meta_robots.html -%}{%- else -%}{%- endif -%}
 {%- if page.snippet == "nosnippet" -%}{%- include meta_robots_nosnippet.html -%}{%- else -%}{%- endif -%}
 <meta name="referrer" content="strict-origin-when-cross-origin" />
