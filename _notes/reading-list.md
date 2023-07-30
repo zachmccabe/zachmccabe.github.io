@@ -22,23 +22,18 @@ nav: |
 {%- include page_nav.html -%}
 
 
+
 ## Black box
 
 > "There may be times when miscommunications arise, and nobody will know the reason behind them. Almost nobody will tell you that you are standing too close (or far) from him or her -- they will just feel uncomfortable. Few people will comment on your eye contact or lack of it -- they will, however, react to it without knowing why."
 >
 > Yamada, Kelm and Victor, **The Seven Keys to Communicating in Japan,** (Washington DC: Georgetown UP, 2017), chapter 6 "Japanese Nonverbal Communication" Kindle ebook.
 
-You can hack your old heuristics, and you don't need a reading list to do it. You need input, practice and time to learn.  If you feel stuck, or just like to read, than any of the books here might be useful.
+You can hack your old heuristics, and you don't need a reading list to do it. You need input, practice and time to learn.  If you feel stuck, or just like to read, then any of the books here might be useful.
 
-Context defines behavior.<sup>1</sup> Culture is context.<sup>2</sup> Culture is not a black box.
+Everything on this list is biased towards action. The book quoted above is one of my favorites on the topic of cross-cultural communication. However, I'm not including any books here that are place-specific, like the "Seven Keys." Everything here is general, working outward from first-principles, because this approach seems to work well for many of the people I talk to about these issues.
 
-
-
-<aside markdown="1">
-Note 1: Paraphrasing Stanley Milgram.
-  
-Note 2: Paraphrasing Ruth Benedict.
-</aside>
+I'm going to borrow from Stanely Milgram and Ruth Benedict, and say it this way: Context defines behavior. Culture is context. Culture is not a black box.
 
 
 
@@ -155,7 +150,6 @@ I listened to the audiobook first. I got more out of it the second time, when I 
 
 
 
-
 ## The Field Study Handbook by Chipchase
 
 - The Field Study Handbook, Jan Chipchase, 2018. Print.
@@ -181,13 +175,14 @@ The book is print-only but I'm hoping the author will release an ebook edition. 
 
 
 
-
 ## Why I keep this list 
 
 I learn more when I write things out.
 
 This an artifact from many years of conversations with colleagues, friends and strangers on the topic of building rapport in a radically new cultural environment.
 
-Everything on this list is biased towards action. The criteria is simple: These are the books I keep coming back to, buying as gifts and recommending to others. Off the top of my head this has included: medical volunteers and NGO workers, machinists, mountaineers, designers and film producers, export-minded small-business owners, executives, expat brats, PhD students. These folks are out in the world doing interesting things. Often, they have a real tight feedback loop with the surrounding culture. They inspire me, and I want to hear their point of view. We talk about the realization that culture can make or break your mission. I'm not an expert on cultural adaptation or cross-cultural communication but these topics interest me because of my own experience.
+The criteria is simple: These are the books I keep coming back to, buying as gifts and recommending to others. Off the top of my head this has included: medical volunteers and NGO workers, machinists, mountaineers, designers and film producers, export-minded small-business owners, executives, expat brats, PhD students. These folks are out in the world doing interesting things. Often, they have a real tight feedback loop with the surrounding culture. They inspire me, and I want to hear their point of view. We talk about the realization that culture can make or break your mission. I'm not an expert on cultural adaptation or cross-cultural communication but these topics interest me because of my own experience. This list is an extension of our conversations.
 
-This list is an extension of those conversations. The books here aren't all strictly intended for this use case but I'm happy to read widely and borrow ideas.
+I recognize that the books here aren't all strictly intended for this use case. I'm happy to read widely and borrow ideas.
+
+Let me know.
