@@ -31,8 +31,6 @@ nav: |
 
 You can hack your old heuristics, and you don't need a reading list to do it. You need input, practice and time to learn.  If you feel stuck, or just like to read, then any of the books here might be useful.
 
-Everything on this list is biased towards action. The book quoted above is one of my favorites on the topic of cross-cultural communication. However, I'm not including any books here that are place-specific, like the "Seven Keys." Everything here is general, working outward from first-principles, because this approach seems to work well for many of the people I talk to about these issues.
-
 I'm going to borrow from Stanely Milgram and Ruth Benedict, and say it this way: Context defines behavior. Culture is context. Culture is not a black box.
 
 
@@ -107,7 +105,7 @@ Read Khanna if you want to understand how your cultural assumptions will impact 
 
 You don't have to be an entrepreneur to have a mission. You don't need to be upper-level management in a large company to take something from this book. I don't have a corporate career. And I figure that if someone in the C-Suite -- with a team and company resources backing them -- needs a book like this to approach deep, cultural challenges, the rest of us need it even more. 
 
-Anyway, nothing in this book takes place in an office. The territory of this book is building football stadiums, organizing micro-loans, prepping for heart surgery. Through a series of vignettes, Khanna shows you how money, time and infrastructure don't work the way you expect. Customers will not follow the patterns you expect, and neither will suppliers or staff.
+Anyway, nothing in this book takes place in an office. The territory of this book is a construction site, a neighborhood convenience store, a surgery clinic. Through a series of vignettes, Khanna shows you how money, time and infrastructure don't work the way you expect. Customers will not follow the patterns you expect, and neither will suppliers or staff.
 
 The examples will help you reflect on your own potential blind spots, and I think this is a practical way to start mapping your personal unknown unknowns.
 
