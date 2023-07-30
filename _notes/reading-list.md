@@ -29,8 +29,6 @@ nav: |
 >
 > Yamada, Kelm and Victor, **The Seven Keys to Communicating in Japan,** (Washington DC: Georgetown UP, 2017), chapter 6 "Japanese Nonverbal Communication" Kindle ebook.
 
-You can hack your old heuristics, and you don't need a reading list to do it. You need input, practice and time to learn.  If you feel stuck, or just like to read, then any of the books here might be useful.
-
 I'm going to borrow from Stanely Milgram and Ruth Benedict, and say it this way: Context defines behavior. Culture is context. Culture is not a black box.
 
 
