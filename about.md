@@ -11,7 +11,7 @@ description: "On this website, I share what I’m learning about The Photographe
 
 These days I'm working as a ranch hand, in the good company of old oak trees. Best office in the world.
 
-Outside that role, I've worked as a writer and a photographer for NGO clients in the US and East Asia.
+Outside that role, I've worked as an editor, a writer and a photographer for clients in the US and East Asia.
 
 I grew up in the US, China and Japan.
 
